@@ -1,11 +1,11 @@
 {
   "total": 245,
   "with_issues": 0,
-  "with_warnings": 25,
+  "with_warnings": 11,
   "issues": {},
   "warnings": {
-    "Type circulaire mais 'circulaire' absent du titre": 16,
-    "Résumé générique non enrichi": 9
+    "Résumé générique non enrichi": 9,
+    "Type circulaire mais 'circulaire' absent du titre": 2
   },
   "type_stats": {
     "fil_info": {
@@ -14,7 +14,7 @@
       "warnings": 0
     },
     "guide_pratique": {
-      "count": 14,
+      "count": 26,
       "issues": 0,
       "warnings": 3
     },
@@ -22,11 +22,6 @@
       "count": 9,
       "issues": 0,
       "warnings": 0
-    },
-    "circulaire_csn": {
-      "count": 37,
-      "issues": 0,
-      "warnings": 21
     },
     "avenant_ccn": {
       "count": 22,
@@ -38,8 +33,18 @@
       "issues": 0,
       "warnings": 1
     },
+    "circulaire_csn": {
+      "count": 22,
+      "issues": 0,
+      "warnings": 7
+    },
     "decret_ordonnance": {
-      "count": 5,
+      "count": 6,
+      "issues": 0,
+      "warnings": 0
+    },
+    "conformite": {
+      "count": 2,
       "issues": 0,
       "warnings": 0
     },
@@ -52,45 +57,10 @@
   "documents_with_issues": [],
   "documents_with_warnings": [
     {
-      "file": "csn2023_dos_av_2023.metadata.json",
-      "title": "DOS AV 2023",
-      "warnings": [
-        "Type circulaire mais 'circulaire' absent du titre"
-      ]
-    },
-    {
       "file": "assurances_contrat_cyber_renouvellement_au_01_07_2025.metadata.json",
       "title": "CONTRAT CYBER RENOUVELLEMENT AU 01.07.2025",
       "warnings": [
         "Résumé générique non enrichi"
-      ]
-    },
-    {
-      "file": "csn2025_20250123_partage_de_la_valeur_au_sein_des_offices_de_11_a_49_salaries.metadata.json",
-      "title": "Partage de la valeur au sein des offices de 11 à 4",
-      "warnings": [
-        "Type circulaire mais 'circulaire' absent du titre"
-      ]
-    },
-    {
-      "file": "csn2022_calculs_financiers_brochure_explicative_de_l_outil.metadata.json",
-      "title": "Calculs financiers brochure explicative de l outil",
-      "warnings": [
-        "Type circulaire mais 'circulaire' absent du titre"
-      ]
-    },
-    {
-      "file": "csn2023_dos_be_2023.metadata.json",
-      "title": "DOS BE 2023",
-      "warnings": [
-        "Type circulaire mais 'circulaire' absent du titre"
-      ]
-    },
-    {
-      "file": "csn2023_cyber_attaque_fiche_reflexes_csn_03_02_2023.metadata.json",
-      "title": "Cyber attaque Fiche réflexes CSN 03 02 2023",
-      "warnings": [
-        "Type circulaire mais 'circulaire' absent du titre"
       ]
     },
     {
@@ -105,13 +75,6 @@
       "title": "CIRCULAIRE 02 22 (AV BE)",
       "warnings": [
         "Résumé générique non enrichi"
-      ]
-    },
-    {
-      "file": "csn2025_brochure_csn_cm_2025.metadata.json",
-      "title": "BROCHURE CSN CM 2025",
-      "warnings": [
-        "Type circulaire mais 'circulaire' absent du titre"
       ]
     },
     {
@@ -131,13 +94,6 @@
     {
       "file": "csn2024_20240131_csn_anc_modalites_pratiques_declarations_remunerations_notaires_associes.metadata.json",
       "title": "CSN ANC modalités pratiques déclarations rémunérat",
-      "warnings": [
-        "Type circulaire mais 'circulaire' absent du titre"
-      ]
-    },
-    {
-      "file": "csn2019_analyse_nationale_des_risques_lcb_ft_en_france_septembre_2019.metadata.json",
-      "title": "Analyse nationale des risques LCB FT en France sep",
       "warnings": [
         "Type circulaire mais 'circulaire' absent du titre"
       ]
@@ -164,27 +120,6 @@
       ]
     },
     {
-      "file": "csn2025_brochure_2025_oeuvres_sociales_du_notariat_comite_mixte.metadata.json",
-      "title": "brochure 2025 oeuvres sociales du notariat comite ",
-      "warnings": [
-        "Type circulaire mais 'circulaire' absent du titre"
-      ]
-    },
-    {
-      "file": "csn2023_dos_acs_tm_2023.metadata.json",
-      "title": "DOS ACS (TM) 2023",
-      "warnings": [
-        "Type circulaire mais 'circulaire' absent du titre"
-      ]
-    },
-    {
-      "file": "csn2023_ordonnance_plr_8_02_23.metadata.json",
-      "title": "Ordonnance PLR 8.02.23",
-      "warnings": [
-        "Type circulaire mais 'circulaire' absent du titre"
-      ]
-    },
-    {
       "file": "qr_notaires_dataset.metadata.json",
       "title": "QR notaires dataset",
       "warnings": [
@@ -192,38 +127,10 @@
       ]
     },
     {
-      "file": "csn2019_acte_electro_ssp.metadata.json",
-      "title": "ACTE ELECTRO SSP",
-      "warnings": [
-        "Type circulaire mais 'circulaire' absent du titre"
-      ]
-    },
-    {
       "file": "csn2025_circulaire_02_25.metadata.json",
       "title": "CIRCULAIRE 02 25",
       "warnings": [
         "Résumé générique non enrichi"
-      ]
-    },
-    {
-      "file": "csn2021_processus_ciclade_septembre_2021.metadata.json",
-      "title": "Processus CICLADE Septembre 2021",
-      "warnings": [
-        "Type circulaire mais 'circulaire' absent du titre"
-      ]
-    },
-    {
-      "file": "csn2025_manuel_d_utilisation_salarie.metadata.json",
-      "title": "Manuel d utilisation Salarié",
-      "warnings": [
-        "Type circulaire mais 'circulaire' absent du titre"
-      ]
-    },
-    {
-      "file": "csn2022_appel_a_vigilance_de_la_direction_generale_du_tresor.metadata.json",
-      "title": "Appel à vigilance de la Direction générale du Trés",
-      "warnings": [
-        "Type circulaire mais 'circulaire' absent du titre"
       ]
     }
   ]
