@@ -126,9 +126,10 @@ bible_notariale/
 │   ├── avenant_ccn.md
 │   └── ...
 ├── _metadata/                          # Métadonnées KM
-│   ├── index_complet.json             # Index global
+│   ├── index_complet.json             # Index global (615 termes définis)
 │   ├── documents/*.metadata.json      # Métadonnées par document
-│   └── vocabulaire_notarial.json      # Lexique avec synonymes
+│   ├── vocabulaire_notarial.json      # Lexique avec synonymes
+│   └── evaluation_dataset.json        # Dataset test chatbot (135 questions)
 ├── _INSTRUCTIONS/                      # Documentation technique
 │   └── PLAN_ACTION_INDEX.md
 └── sources_documentaires/              # Documents PDF/DOCX/XLSX
@@ -162,6 +163,37 @@ Le fichier `vocabulaire_notarial.json` contient un lexique de termes professionn
 2. **Enrichissement** : Utiliser les synonymes pour améliorer les embeddings (+30% pertinence)
 3. **Matching** : Exploiter les questions typiques pour le matching sémantique
 4. **Graph** : Construire les relations entre documents
+
+### Dataset d'évaluation pour chatbot
+
+Le fichier `evaluation_dataset.json` contient **135 questions** (15 par catégorie) pour tester votre chatbot RAG :
+
+| Catégorie | Questions | Exemples de thèmes |
+|-----------|-----------|-------------------|
+| fil_info | 15 | Actualités, cybersécurité, partenariats |
+| avenant_ccn | 15 | Salaires, formation, licenciement |
+| circulaire_csn | 15 | Instructions CSN, fiscalité BNC |
+| guide_pratique | 15 | SMO, CRIDON, RPN, négociation |
+| accord_branche | 15 | Intéressement, égalité, harcèlement |
+| decret_ordonnance | 15 | Inspections, réglementation |
+| assurance | 15 | Cyber-risques, garanties |
+| conformite | 15 | LCB-FT, analyse de risques |
+| immobilier | 15 | Marché normand, prix |
+
+**Structure d'une question** :
+```json
+{
+  "question": "Comment fonctionne la structure multi-offices (SMO) ?",
+  "type": "organisation",
+  "difficulte": "difficile",
+  "documents_references": ["csn2025_fiche_doctrine_smo_vd"]
+}
+```
+
+**Utilisation** :
+- Tester la précision du retrieval (documents retrouvés vs. attendus)
+- Évaluer la qualité des réponses générées
+- Mesurer les performances par niveau de difficulté (facile/moyen/difficile)
 
 ---
 
