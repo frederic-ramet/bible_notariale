@@ -31,21 +31,66 @@
     "type": "fil_info",
     "numero": "2856"
   },
-  "vocabulaire_specifique": [],
+  "vocabulaire_specifique": [
+    {
+      "terme": "licenciement",
+      "synonymes": [
+        "rupture contrat",
+        "procédure disciplinaire"
+      ],
+      "definition": "",
+      "contexte_utilisation": "Mentionné 5 fois dans le document"
+    },
+    {
+      "terme": "avenant",
+      "synonymes": [
+        "modification",
+        "amendement"
+      ],
+      "definition": "",
+      "contexte_utilisation": "Mentionné 4 fois dans le document"
+    },
+    {
+      "terme": "convention collective",
+      "synonymes": [
+        "CCN",
+        "IDCC 2205"
+      ],
+      "definition": "",
+      "contexte_utilisation": "Mentionné 1 fois dans le document"
+    }
+  ],
   "questions_typiques": [
-    "Quelles sont les actualités juridiques importantes de ce numéro ?",
+    "Quelles sont les tendances du marché immobilier ?",
+    "Quelle est la procédure de licenciement applicable ?",
+    "Comment financer ces formations ?",
     "Y a-t-il des alertes ou points de vigilance pour les notaires ?",
-    "Quelles sont les échéances mentionnées ?"
+    "Quelles sont les échéances mentionnées ?",
+    "Quels sont les délais à respecter ?",
+    "Quelles formations sont concernées par ce document ?",
+    "Quelles sont les actualités juridiques importantes de ce numéro ?"
   ],
   "relations_documentaires": {
     "remplace": [],
     "modifie": [],
-    "reference": [],
+    "reference": [
+      "Article 12.2"
+    ],
     "complete": []
   },
-  "resume": "Document de type Fil-Info",
+  "resume": "Semaine du 01 avril 2024 au 07 avril 2024 N° 2856 Emotion et ﬁscalité ne font pas bon ménage Certains confrères calvadosiens se sont émus du courrier du Directeur départemental des ﬁnances publiques leur rappelant les obligations en matière de délai légal pour déposer les déclarations de succession. Les confrères manchois et ornais ne seront sûrement pas en reste. Il est à parier que leur propre DDFIP ne devrait pas les oublier.",
   "mots_cles": [
-    "veille professionnelle",
-    "actualité juridique"
+    "actualité juridique",
+    "formation professionnelle",
+    "procédure disciplinaire",
+    "transactions immobilières",
+    "veille professionnelle"
+  ],
+  "dates_mentionnees": [
+    "1993-01-15",
+    "2024-01-31",
+    "2024-03-05",
+    "2024-03-21",
+    "2024-04-01"
   ]
 }

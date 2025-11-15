@@ -13,11 +13,11 @@
     "statut": "en_vigueur"
   },
   "classification": {
-    "type_document": "circulaire_csn",
-    "label": "Circulaire CSN",
+    "type_document": "guide_pratique",
+    "label": "Guide pratique",
     "domaines_juridiques": [
-      "réglementation notariale",
-      "instructions professionnelles"
+      "partage de la valeur",
+      "intéressement"
     ],
     "public_cible": [
       "notaires",
@@ -28,21 +28,85 @@
     "categorie_dossier": "CSN2025"
   },
   "reference": null,
-  "vocabulaire_specifique": [],
+  "vocabulaire_specifique": [
+    {
+      "terme": "intéressement",
+      "synonymes": [
+        "participation aux bénéfices"
+      ],
+      "definition": "",
+      "contexte_utilisation": "Mentionné 9 fois dans le document"
+    },
+    {
+      "terme": "avenant",
+      "synonymes": [
+        "modification",
+        "amendement"
+      ],
+      "definition": "",
+      "contexte_utilisation": "Mentionné 2 fois dans le document"
+    },
+    {
+      "terme": "convention collective",
+      "synonymes": [
+        "CCN",
+        "IDCC 2205"
+      ],
+      "definition": "",
+      "contexte_utilisation": "Mentionné 1 fois dans le document"
+    },
+    {
+      "terme": "conseil supérieur du notariat",
+      "synonymes": [
+        "CSN"
+      ],
+      "definition": "",
+      "contexte_utilisation": "Mentionné 1 fois dans le document"
+    },
+    {
+      "terme": "rémunération",
+      "synonymes": [
+        "salaire",
+        "traitement",
+        "émoluments"
+      ],
+      "definition": "",
+      "contexte_utilisation": "Mentionné 1 fois dans le document"
+    }
+  ],
   "questions_typiques": [
-    "Quelles sont les nouvelles obligations introduites par cette circulaire ?",
     "À quelle date cette circulaire entre-t-elle en vigueur ?",
-    "Quels offices sont concernés par ces instructions ?"
+    "Quel est l'impact sur la rémunération des salariés ?",
+    "Quels offices sont concernés par ces instructions ?",
+    "Comment financer ces formations ?",
+    "Quelles sont les nouvelles grilles de salaires ?",
+    "Quelles formations sont concernées par ce document ?",
+    "Quelles sont les nouvelles obligations introduites par cette circulaire ?"
   ],
   "relations_documentaires": {
     "remplace": [],
     "modifie": [],
-    "reference": [],
+    "reference": [
+      "Article 3",
+      "Loi 2023-1107",
+      "Article 1",
+      "Article 4",
+      "Article 2"
+    ],
     "complete": []
   },
-  "resume": "Document de type Circulaire CSN",
+  "resume": "Lucien CARON , ledit syndicat affilié à la C.F.E. - C.G.C ., La Fédération « commerce, services et force de vente » C.F.T.C. , dont le siège est à PARIS 19ème, 34 quai de la Loire, représentée par Mme Laura MESSAÏ , La Fédération générale des clercs et employés de notaire, dont le siège est à PARIS 8ème, 31 rue du Rocher, représentée par M.",
   "mots_cles": [
+    "formation professionnelle",
+    "instructions professionnelles",
     "réglementation notariale",
-    "instructions professionnelles"
+    "rémunération"
+  ],
+  "dates_mentionnees": [
+    "2003-07-22",
+    "2019-07-11",
+    "2020-01-23",
+    "2023-11-29",
+    "2024-12-31"
   ]
 }

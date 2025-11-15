@@ -31,21 +31,63 @@
     "type": "fil_info",
     "numero": "260"
   },
-  "vocabulaire_specifique": [],
+  "vocabulaire_specifique": [
+    {
+      "terme": "LCB-FT",
+      "synonymes": [
+        "lutte contre le blanchiment",
+        "anti-blanchiment"
+      ],
+      "definition": "",
+      "contexte_utilisation": "Mentionné 8 fois dans le document"
+    },
+    {
+      "terme": "minute",
+      "synonymes": [
+        "original de l'acte",
+        "archive notariale"
+      ],
+      "definition": "",
+      "contexte_utilisation": "Mentionné 1 fois dans le document"
+    },
+    {
+      "terme": "conseil supérieur du notariat",
+      "synonymes": [
+        "CSN"
+      ],
+      "definition": "",
+      "contexte_utilisation": "Mentionné 1 fois dans le document"
+    }
+  ],
   "questions_typiques": [
-    "Quelles sont les actualités juridiques importantes de ce numéro ?",
+    "Quelles sont les obligations de sécurité informatique ?",
+    "Quelles sont les tendances du marché immobilier ?",
+    "Comment financer ces formations ?",
+    "Comment se protéger contre les cyberattaques ?",
     "Y a-t-il des alertes ou points de vigilance pour les notaires ?",
-    "Quelles sont les échéances mentionnées ?"
+    "Quelles sont les échéances mentionnées ?",
+    "Quelles formations sont concernées par ce document ?",
+    "Quelles sont les actualités juridiques importantes de ce numéro ?"
   ],
   "relations_documentaires": {
     "remplace": [],
     "modifie": [],
-    "reference": [],
+    "reference": [
+      "Article 342"
+    ],
     "complete": []
   },
-  "resume": "Document de type Fil-Info",
+  "resume": "Semaine du 26 septembre 2022 au 02 octobre 2022 N° 260 La vigilance à toutes les étapes La semaine a commencé pour beauco up d’entre nous par une dose d’adrénaline. La piqûre a été administrée lors des demi-journées de formation relatives à la lutte contre le blanchiment de capitaux et le ﬁnancement du terrorisme, connu sous l’acronyme LCB-FT. Ce champ lexical médical peut paraître approprié tant l’obligation et la matière sont anxiogènes.",
   "mots_cles": [
-    "veille professionnelle",
-    "actualité juridique"
+    "actualité juridique",
+    "cybersécurité",
+    "formation professionnelle",
+    "transactions immobilières",
+    "veille professionnelle"
+  ],
+  "dates_mentionnees": [
+    "2021-02-08",
+    "2022-09-26",
+    "2022-10-02"
   ]
 }

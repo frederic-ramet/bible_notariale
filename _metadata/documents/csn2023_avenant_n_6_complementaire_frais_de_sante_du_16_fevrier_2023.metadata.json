@@ -31,22 +31,61 @@
     "type": "avenant",
     "numero": "6"
   },
-  "vocabulaire_specifique": [],
+  "vocabulaire_specifique": [
+    {
+      "terme": "avenant",
+      "synonymes": [
+        "modification",
+        "amendement"
+      ],
+      "definition": "",
+      "contexte_utilisation": "Mentionné 7 fois dans le document"
+    },
+    {
+      "terme": "conseil supérieur du notariat",
+      "synonymes": [
+        "CSN"
+      ],
+      "definition": "",
+      "contexte_utilisation": "Mentionné 1 fois dans le document"
+    },
+    {
+      "terme": "prévoyance",
+      "synonymes": [
+        "protection sociale",
+        "assurance"
+      ],
+      "definition": "",
+      "contexte_utilisation": "Mentionné 1 fois dans le document"
+    }
+  ],
   "questions_typiques": [
+    "À partir de quand cet avenant s'applique-t-il ?",
     "Quels articles de la convention collective sont modifiés ?",
     "Quel impact sur les conditions de travail des salariés ?",
-    "À partir de quand cet avenant s'applique-t-il ?"
+    "Quels sont les montants de franchise ?",
+    "Quelles garanties sont couvertes ?"
   ],
   "relations_documentaires": {
     "remplace": [],
     "modifie": [],
-    "reference": [],
+    "reference": [
+      "Article 1",
+      "Article 9.1",
+      "Article 2"
+    ],
     "complete": []
   },
-  "resume": "Document de type Avenant CCN",
+  "resume": "Lucien CARON, ledit syndicat affilié à la C.F.E. - C.G.C ., La Fédération « commerce, services et force de vente » C.F.T.C. , dont le siège est à PARIS 19ème, 34 quai de la Loire, représentée par Mme Sandra WISNIEWSKI, La Fédération générale des clercs et employés de notaire , dont le siège est à PARIS 8ème, 31 rue du Rocher, représentée par M.",
   "mots_cles": [
-    "droit social",
+    "assurance professionnelle",
     "complémentaire santé",
-    "convention collective"
+    "convention collective",
+    "droit social"
+  ],
+  "dates_mentionnees": [
+    "2015-09-09",
+    "2019-11-21",
+    "2023-02-16"
   ]
 }

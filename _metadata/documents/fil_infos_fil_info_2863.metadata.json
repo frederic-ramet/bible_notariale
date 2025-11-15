@@ -33,9 +33,13 @@
   },
   "vocabulaire_specifique": [],
   "questions_typiques": [
-    "Quelles sont les actualités juridiques importantes de ce numéro ?",
+    "Quelles sont les tendances du marché immobilier ?",
+    "Comment financer ces formations ?",
     "Y a-t-il des alertes ou points de vigilance pour les notaires ?",
-    "Quelles sont les échéances mentionnées ?"
+    "Quelles sont les échéances mentionnées ?",
+    "Quelles formations sont concernées par ce document ?",
+    "Quelles sont les actualités juridiques importantes de ce numéro ?",
+    "Comment analyser ces données pour mon secteur ?"
   ],
   "relations_documentaires": {
     "remplace": [],
@@ -43,9 +47,16 @@
     "reference": [],
     "complete": []
   },
-  "resume": "Document de type Fil-Info",
+  "resume": "Cette démarche, qui consiste à inscrire une relation de partenariat dans la pérennité, demande que le processus de gestion des réclamations soit transparent et que toutes les demandes d’amélioration parviennent à la direction. La question des réclamations ne concerne pas que les ofﬁces notariaux, mais toutes les entreprises, qui sont de plus en plus mobilisées pour traiter les critiques de la clientèle, anticiper ses insatisfactions, et tenter , dans l’univers impitoyable des colères connectées, d’en réduire le nombre. Google et ses avis ne pardonnent rien.",
   "mots_cles": [
-    "veille professionnelle",
-    "actualité juridique"
+    "actualité juridique",
+    "formation professionnelle",
+    "transactions immobilières",
+    "veille professionnelle"
+  ],
+  "dates_mentionnees": [
+    "2024-05-27",
+    "2024-06-02",
+    "2024-06-13"
   ]
 }

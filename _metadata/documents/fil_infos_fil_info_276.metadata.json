@@ -31,11 +31,52 @@
     "type": "fil_info",
     "numero": "276"
   },
-  "vocabulaire_specifique": [],
+  "vocabulaire_specifique": [
+    {
+      "terme": "conseil supérieur du notariat",
+      "synonymes": [
+        "CSN"
+      ],
+      "definition": "",
+      "contexte_utilisation": "Mentionné 8 fois dans le document"
+    },
+    {
+      "terme": "avenant",
+      "synonymes": [
+        "modification",
+        "amendement"
+      ],
+      "definition": "",
+      "contexte_utilisation": "Mentionné 4 fois dans le document"
+    },
+    {
+      "terme": "harcèlement",
+      "synonymes": [
+        "harcèlement moral",
+        "harcèlement sexuel"
+      ],
+      "definition": "",
+      "contexte_utilisation": "Mentionné 4 fois dans le document"
+    },
+    {
+      "terme": "convention collective",
+      "synonymes": [
+        "CCN",
+        "IDCC 2205"
+      ],
+      "definition": "",
+      "contexte_utilisation": "Mentionné 1 fois dans le document"
+    }
+  ],
   "questions_typiques": [
-    "Quelles sont les actualités juridiques importantes de ce numéro ?",
+    "Quelles sont les obligations de sécurité informatique ?",
+    "Comment financer ces formations ?",
+    "Comment se protéger contre les cyberattaques ?",
     "Y a-t-il des alertes ou points de vigilance pour les notaires ?",
-    "Quelles sont les échéances mentionnées ?"
+    "Quelles sont les échéances mentionnées ?",
+    "Comment signaler un cas de harcèlement ?",
+    "Quelles formations sont concernées par ce document ?",
+    "Quelles sont les actualités juridiques importantes de ce numéro ?"
   ],
   "relations_documentaires": {
     "remplace": [],
@@ -43,9 +84,19 @@
     "reference": [],
     "complete": []
   },
-  "resume": "Document de type Fil-Info",
+  "resume": "Semaine du 30 janvier 2023 au 05 février 2023 N° 276 Nouvelle présidence, nouvelle gouvernance. Assemblée Générale du CSN - 24 & 25 janvier 2023. Que de fois avons-nous entendu, voire prononcé : « Que fait le CSN.",
   "mots_cles": [
-    "veille professionnelle",
-    "actualité juridique"
+    "actualité juridique",
+    "cybersécurité",
+    "formation professionnelle",
+    "prévention harcèlement",
+    "veille professionnelle"
+  ],
+  "dates_mentionnees": [
+    "2001-06-08",
+    "2020-11-19",
+    "2021-12-16",
+    "2022-12-15",
+    "2023-01-25"
   ]
 }

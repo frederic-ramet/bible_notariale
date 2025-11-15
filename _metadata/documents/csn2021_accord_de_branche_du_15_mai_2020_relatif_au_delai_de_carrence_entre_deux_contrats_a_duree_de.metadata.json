@@ -28,21 +28,53 @@
     "categorie_dossier": "CSN2021"
   },
   "reference": null,
-  "vocabulaire_specifique": [],
+  "vocabulaire_specifique": [
+    {
+      "terme": "convention collective",
+      "synonymes": [
+        "CCN",
+        "IDCC 2205"
+      ],
+      "definition": "",
+      "contexte_utilisation": "Mentionné 1 fois dans le document"
+    },
+    {
+      "terme": "conseil supérieur du notariat",
+      "synonymes": [
+        "CSN"
+      ],
+      "definition": "",
+      "contexte_utilisation": "Mentionné 1 fois dans le document"
+    }
+  ],
   "questions_typiques": [
+    "Comment financer ces formations ?",
     "Quelles sont les nouvelles dispositions négociées ?",
-    "Qui sont les parties signataires de cet accord ?",
-    "Quelle est la durée de validité de cet accord ?"
+    "Quelle est la durée de validité de cet accord ?",
+    "Quelles formations sont concernées par ce document ?",
+    "Qui sont les parties signataires de cet accord ?"
   ],
   "relations_documentaires": {
     "remplace": [],
     "modifie": [],
-    "reference": [],
+    "reference": [
+      "Article 3",
+      "Article 24",
+      "Article 1",
+      "Article 4",
+      "Article 2"
+    ],
     "complete": []
   },
-  "resume": "Document de type Accord de branche",
+  "resume": "Pierre EHRHARDT, ledit syndicat affilié à la C.F.E. Jean-Jacques BAUDUIN, ladite fédération affiliée à la c.g.t. Ils considèrent que l’aménagement des règles relatives à la succession des contrats à durée déterminée peut favoriser la continuité des périodes d’emploi dans la branche et ainsi, une intégration en contrat à durée in- déterminée des salariés concernés.",
   "mots_cles": [
     "droit social",
+    "formation professionnelle",
     "négociation collective"
+  ],
+  "dates_mentionnees": [
+    "2001-06-08",
+    "2015-02-19",
+    "2020-05-15"
   ]
 }

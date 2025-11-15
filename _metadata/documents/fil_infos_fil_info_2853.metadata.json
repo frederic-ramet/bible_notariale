@@ -31,11 +31,23 @@
     "type": "fil_info",
     "numero": "2853"
   },
-  "vocabulaire_specifique": [],
+  "vocabulaire_specifique": [
+    {
+      "terme": "RGPD",
+      "synonymes": [
+        "protection des données",
+        "données personnelles"
+      ],
+      "definition": "",
+      "contexte_utilisation": "Mentionné 1 fois dans le document"
+    }
+  ],
   "questions_typiques": [
-    "Quelles sont les actualités juridiques importantes de ce numéro ?",
+    "Comment financer ces formations ?",
     "Y a-t-il des alertes ou points de vigilance pour les notaires ?",
-    "Quelles sont les échéances mentionnées ?"
+    "Quelles sont les échéances mentionnées ?",
+    "Quelles formations sont concernées par ce document ?",
+    "Quelles sont les actualités juridiques importantes de ce numéro ?"
   ],
   "relations_documentaires": {
     "remplace": [],
@@ -43,9 +55,16 @@
     "reference": [],
     "complete": []
   },
-  "resume": "Document de type Fil-Info",
+  "resume": "Du 25 au 31 mars, plus de 400 créateurs de contenus produiront des épisodes spéciaux, mettant en lumière une association ou une fondation. Ils inviteront leur audience à soutenir la cause qui leur tient à cœur par divers moyens : dons ﬁnanciers, dons de temps, ou tout simplement en partageant le message. Notre Chambre a choisi de médiatiser l’histoire touchante d'Alain et Dominique, modeste couple caennais qui a fait le choix généreux de donner un bien à l’association « Habitat et humanisme ».",
   "mots_cles": [
-    "veille professionnelle",
-    "actualité juridique"
+    "actualité juridique",
+    "formation professionnelle",
+    "veille professionnelle"
+  ],
+  "dates_mentionnees": [
+    "2024-01-09",
+    "2024-03-01",
+    "2024-03-17",
+    "2024-05-16"
   ]
 }

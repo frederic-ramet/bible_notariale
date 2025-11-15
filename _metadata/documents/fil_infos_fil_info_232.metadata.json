@@ -31,21 +31,57 @@
     "type": "fil_info",
     "numero": "232"
   },
-  "vocabulaire_specifique": [],
+  "vocabulaire_specifique": [
+    {
+      "terme": "conseil supérieur du notariat",
+      "synonymes": [
+        "CSN"
+      ],
+      "definition": "",
+      "contexte_utilisation": "Mentionné 2 fois dans le document"
+    },
+    {
+      "terme": "prévoyance",
+      "synonymes": [
+        "protection sociale",
+        "assurance"
+      ],
+      "definition": "",
+      "contexte_utilisation": "Mentionné 1 fois dans le document"
+    }
+  ],
   "questions_typiques": [
-    "Quelles sont les actualités juridiques importantes de ce numéro ?",
+    "Quelles sont les obligations de sécurité informatique ?",
+    "Quelles sont les tendances du marché immobilier ?",
+    "Comment financer ces formations ?",
+    "Comment se protéger contre les cyberattaques ?",
+    "Quels sont les montants de franchise ?",
     "Y a-t-il des alertes ou points de vigilance pour les notaires ?",
-    "Quelles sont les échéances mentionnées ?"
+    "Quelles sont les échéances mentionnées ?",
+    "Quelles sont les actualités juridiques importantes de ce numéro ?"
   ],
   "relations_documentaires": {
     "remplace": [],
     "modifie": [],
-    "reference": [],
+    "reference": [
+      "Article 4.2"
+    ],
     "complete": []
   },
-  "resume": "Document de type Fil-Info",
+  "resume": "Semaine du 28 février 2022 au 06 mars 2022 N° 232 BASE DES AVANT-CONTRATS : UNE PÉPITE ET UNE OBLIGATION LÉGALE Le décret d’application n° 2013-803 relatif aux bases de données notariales du 3 septembre 2013 impose l’obligation d’alimenter la base des avant-contrats. A ce jour, cette collecte est toujours insufﬁsante et ce malgré cette obligation. Depuis toujours, nous avons le monopole de la tenue du ﬁchier immobilier.",
   "mots_cles": [
-    "veille professionnelle",
-    "actualité juridique"
+    "actualité juridique",
+    "assurance professionnelle",
+    "cybersécurité",
+    "formation professionnelle",
+    "transactions immobilières",
+    "veille professionnelle"
+  ],
+  "dates_mentionnees": [
+    "2013-09-03",
+    "2022-02-28",
+    "2022-03-06",
+    "2022-03-23",
+    "2022-05-09"
   ]
 }

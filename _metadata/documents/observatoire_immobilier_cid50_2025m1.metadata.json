@@ -30,9 +30,10 @@
   "reference": null,
   "vocabulaire_specifique": [],
   "questions_typiques": [
-    "Quelles sont les tendances du marché immobilier ?",
+    "Comment interpréter ces données pour mon secteur ?",
     "Quels indicateurs sont suivis ?",
-    "Comment interpréter ces données pour mon secteur ?"
+    "Quelles sont les tendances du marché immobilier ?",
+    "Comment analyser ces données pour mon secteur ?"
   ],
   "relations_documentaires": {
     "remplace": [],
@@ -40,7 +41,7 @@
     "reference": [],
     "complete": []
   },
-  "resume": "Document de type Immobilier",
+  "resume": "Mar ché immobilier des appart ements anciens Appart ements anciens Studios 2 pièces 3 pièces 4 pièces 5 pièces et plus Ensemble T ype de z one géogr aphique : D = Département, S = S ecteur , C = Commune, Q = Quartier P art et nb. v entes Prix/m² médian Prix médian Surf. médiane MANCHE (D-50) 11,5% 35,4% 31,1% 17 ,2% 4 , 7% 793 2 970 € 2 440 € 2 170 € 1 860 € 1 880 € 2 220 € +0,1% 80 300 € 107 700 € 135 000 € 152 500 € 200 000 € 120 000 € 26 m² 45 m² 63 m² 78 m² 104 m² 55 m² P art et nb.",
   "mots_cles": [
     "observatoire",
     "transactions immobilières"

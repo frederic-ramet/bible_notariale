@@ -31,11 +31,43 @@
     "type": "fil_info",
     "numero": "2835"
   },
-  "vocabulaire_specifique": [],
+  "vocabulaire_specifique": [
+    {
+      "terme": "prévoyance",
+      "synonymes": [
+        "protection sociale",
+        "assurance"
+      ],
+      "definition": "",
+      "contexte_utilisation": "Mentionné 2 fois dans le document"
+    },
+    {
+      "terme": "conseil supérieur du notariat",
+      "synonymes": [
+        "CSN"
+      ],
+      "definition": "",
+      "contexte_utilisation": "Mentionné 1 fois dans le document"
+    },
+    {
+      "terme": "tarification",
+      "synonymes": [
+        "émoluments",
+        "honoraires"
+      ],
+      "definition": "",
+      "contexte_utilisation": "Mentionné 1 fois dans le document"
+    }
+  ],
   "questions_typiques": [
-    "Quelles sont les actualités juridiques importantes de ce numéro ?",
+    "Quelles sont les obligations de sécurité informatique ?",
+    "Comment financer ces formations ?",
+    "Comment se protéger contre les cyberattaques ?",
+    "Quels sont les montants de franchise ?",
     "Y a-t-il des alertes ou points de vigilance pour les notaires ?",
-    "Quelles sont les échéances mentionnées ?"
+    "Quelles sont les échéances mentionnées ?",
+    "Quelles formations sont concernées par ce document ?",
+    "Quelles sont les actualités juridiques importantes de ce numéro ?"
   ],
   "relations_documentaires": {
     "remplace": [],
@@ -43,9 +75,16 @@
     "reference": [],
     "complete": []
   },
-  "resume": "Document de type Fil-Info",
+  "resume": "Semaine du 23 octobre 2023 au 29 octobre 2023 N° 2835 On se lasse de tout, sauf d'apprendre... J-4 avant l’ouverture des portes de la Notariat Académie, première édition de notre université du notariat régionale. Ce qui rend notre Notariat Académie si spéciale.",
   "mots_cles": [
-    "veille professionnelle",
-    "actualité juridique"
+    "actualité juridique",
+    "assurance professionnelle",
+    "formation professionnelle",
+    "veille professionnelle"
+  ],
+  "dates_mentionnees": [
+    "2023-10-19",
+    "2023-10-23",
+    "2023-10-29"
   ]
 }

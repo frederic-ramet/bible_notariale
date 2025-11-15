@@ -28,22 +28,63 @@
     "categorie_dossier": "CSN2023"
   },
   "reference": null,
-  "vocabulaire_specifique": [],
+  "vocabulaire_specifique": [
+    {
+      "terme": "harcèlement",
+      "synonymes": [
+        "harcèlement moral",
+        "harcèlement sexuel"
+      ],
+      "definition": "",
+      "contexte_utilisation": "Mentionné 24 fois dans le document"
+    },
+    {
+      "terme": "conseil supérieur du notariat",
+      "synonymes": [
+        "CSN"
+      ],
+      "definition": "",
+      "contexte_utilisation": "Mentionné 1 fois dans le document"
+    },
+    {
+      "terme": "égalité professionnelle",
+      "synonymes": [
+        "égalité femmes-hommes"
+      ],
+      "definition": "",
+      "contexte_utilisation": "Mentionné 1 fois dans le document"
+    }
+  ],
   "questions_typiques": [
+    "Comment financer ces formations ?",
+    "Comment signaler un cas de harcèlement ?",
     "Quelles sont les nouvelles dispositions négociées ?",
+    "Quelle est la durée de validité de cet accord ?",
+    "Quelles formations sont concernées par ce document ?",
     "Qui sont les parties signataires de cet accord ?",
-    "Quelle est la durée de validité de cet accord ?"
+    "Quelles sont les mesures de prévention du harcèlement ?"
   ],
   "relations_documentaires": {
     "remplace": [],
     "modifie": [],
-    "reference": [],
+    "reference": [
+      "Article 3",
+      "Article 5",
+      "Article 1",
+      "Article 4",
+      "Article 2"
+    ],
     "complete": []
   },
-  "resume": "Document de type Accord de branche",
+  "resume": "Lucien CARON, ledit syndicat affilié à la C.F.E. - C.G.C ., La Fédération « commerce, services et force de vente » C.F.T.C. Jean -Jacques BAUDUIN , ladite fédération affiliée à la c.g.t.",
   "mots_cles": [
     "droit social",
+    "formation professionnelle",
     "harcèlement au travail",
-    "négociation collective"
+    "négociation collective",
+    "prévention harcèlement"
+  ],
+  "dates_mentionnees": [
+    "2022-12-15"
   ]
 }

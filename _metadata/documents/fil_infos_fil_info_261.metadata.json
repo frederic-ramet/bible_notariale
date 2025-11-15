@@ -31,21 +31,58 @@
     "type": "fil_info",
     "numero": "261"
   },
-  "vocabulaire_specifique": [],
+  "vocabulaire_specifique": [
+    {
+      "terme": "circulaire",
+      "synonymes": [
+        "instruction",
+        "note d'information"
+      ],
+      "definition": "",
+      "contexte_utilisation": "Mentionné 1 fois dans le document"
+    },
+    {
+      "terme": "rémunération",
+      "synonymes": [
+        "salaire",
+        "traitement",
+        "émoluments"
+      ],
+      "definition": "",
+      "contexte_utilisation": "Mentionné 1 fois dans le document"
+    }
+  ],
   "questions_typiques": [
-    "Quelles sont les actualités juridiques importantes de ce numéro ?",
+    "Quelles sont les obligations de sécurité informatique ?",
+    "Quelles sont les tendances du marché immobilier ?",
+    "Comment financer ces formations ?",
+    "Comment se protéger contre les cyberattaques ?",
+    "Quels sont les montants de franchise ?",
     "Y a-t-il des alertes ou points de vigilance pour les notaires ?",
-    "Quelles sont les échéances mentionnées ?"
+    "Quelles sont les échéances mentionnées ?",
+    "Quelles sont les actualités juridiques importantes de ce numéro ?"
   ],
   "relations_documentaires": {
     "remplace": [],
     "modifie": [],
-    "reference": [],
+    "reference": [
+      "Loi 2021-175"
+    ],
     "complete": []
   },
-  "resume": "Document de type Fil-Info",
+  "resume": "Semaine du 03 octobre 2022 au 09 octobre 2022 N° 261 Ne cédons pas au chant des Sirènes Le géomètre exerce une fonction clef dans le secteur de l’immobilier. Il est celui qui permet notamment d’établir les mesures et les limites d’un terrain. Il est important de distinguer les deux types de géomètres : le géomètre topographe et le géomètre expert.",
   "mots_cles": [
-    "veille professionnelle",
-    "actualité juridique"
+    "actualité juridique",
+    "cybersécurité",
+    "formation professionnelle",
+    "transactions immobilières",
+    "veille professionnelle"
+  ],
+  "dates_mentionnees": [
+    "1946-05-07",
+    "2021-11-30",
+    "2021-12-23",
+    "2022-01-12",
+    "2022-07-31"
   ]
 }

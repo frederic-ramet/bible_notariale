@@ -33,9 +33,13 @@
   },
   "vocabulaire_specifique": [],
   "questions_typiques": [
-    "Quelles sont les actualités juridiques importantes de ce numéro ?",
+    "Comment financer ces formations ?",
+    "Quels sont les montants de franchise ?",
     "Y a-t-il des alertes ou points de vigilance pour les notaires ?",
-    "Quelles sont les échéances mentionnées ?"
+    "Quelles sont les échéances mentionnées ?",
+    "Quelles formations sont concernées par ce document ?",
+    "Quelles sont les actualités juridiques importantes de ce numéro ?",
+    "Quelles garanties sont couvertes ?"
   ],
   "relations_documentaires": {
     "remplace": [],
@@ -43,9 +47,16 @@
     "reference": [],
     "complete": []
   },
-  "resume": "Document de type Fil-Info",
+  "resume": "Semaine du 20 mai 2024 au 26 mai 2024 N° 2862 Exemplarité et unité pour le notariat de notre compagnie. Mes Chers confrères, Je mesure l’immense honneur que vous me faites en me conﬁant la présidence de notre chambre interd épartementale, reprenant ainsi le ﬂambeau de Catherine DECAEN à qui je rends un hommage appuyé pour l’action accomplie au service de notre profession. Le mandat que j’entame sera placé sous le signe de l’unité et de l’exemplarité.",
   "mots_cles": [
-    "veille professionnelle",
-    "actualité juridique"
+    "actualité juridique",
+    "formation professionnelle",
+    "veille professionnelle"
+  ],
+  "dates_mentionnees": [
+    "2024-05-20",
+    "2024-05-26",
+    "2024-06-01",
+    "2024-09-27"
   ]
 }

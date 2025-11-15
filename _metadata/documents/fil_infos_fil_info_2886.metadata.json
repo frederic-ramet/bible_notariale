@@ -31,11 +31,25 @@
     "type": "fil_info",
     "numero": "2886"
   },
-  "vocabulaire_specifique": [],
+  "vocabulaire_specifique": [
+    {
+      "terme": "LCB-FT",
+      "synonymes": [
+        "lutte contre le blanchiment",
+        "anti-blanchiment"
+      ],
+      "definition": "",
+      "contexte_utilisation": "Mentionné 1 fois dans le document"
+    }
+  ],
   "questions_typiques": [
-    "Quelles sont les actualités juridiques importantes de ce numéro ?",
+    "Quelles sont les tendances du marché immobilier ?",
+    "Comment financer ces formations ?",
     "Y a-t-il des alertes ou points de vigilance pour les notaires ?",
-    "Quelles sont les échéances mentionnées ?"
+    "Quelles sont les échéances mentionnées ?",
+    "Quelles formations sont concernées par ce document ?",
+    "Quelles sont les actualités juridiques importantes de ce numéro ?",
+    "Comment analyser ces données pour mon secteur ?"
   ],
   "relations_documentaires": {
     "remplace": [],
@@ -43,9 +57,18 @@
     "reference": [],
     "complete": []
   },
-  "resume": "Document de type Fil-Info",
+  "resume": "Semaine du 16 décembre 2024 au 22 décembre 2024 N° 2886 Une année 2025 riche en déﬁs et en opportunités Dans un environnement en constante mutation, le rôle du notariat demeure central et notre expertise plus essentielle que jamais. L’année qui s’annonce sera riche en déﬁs et, j’ose le croire, en opportunités pour notre profession. Les obligations de rénovation énergétique se durcissent, tout comme les critères de location des logements.",
   "mots_cles": [
-    "veille professionnelle",
-    "actualité juridique"
+    "actualité juridique",
+    "formation professionnelle",
+    "transactions immobilières",
+    "veille professionnelle"
+  ],
+  "dates_mentionnees": [
+    "2024-12-15",
+    "2024-12-16",
+    "2024-12-22",
+    "2025-01-28",
+    "2025-01-31"
   ]
 }

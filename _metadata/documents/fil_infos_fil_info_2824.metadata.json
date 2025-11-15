@@ -31,11 +31,33 @@
     "type": "fil_info",
     "numero": "2824"
   },
-  "vocabulaire_specifique": [],
+  "vocabulaire_specifique": [
+    {
+      "terme": "conseil supérieur du notariat",
+      "synonymes": [
+        "CSN"
+      ],
+      "definition": "",
+      "contexte_utilisation": "Mentionné 1 fois dans le document"
+    },
+    {
+      "terme": "tarification",
+      "synonymes": [
+        "émoluments",
+        "honoraires"
+      ],
+      "definition": "",
+      "contexte_utilisation": "Mentionné 1 fois dans le document"
+    }
+  ],
   "questions_typiques": [
-    "Quelles sont les actualités juridiques importantes de ce numéro ?",
+    "Quelle est la procédure de licenciement applicable ?",
+    "Comment financer ces formations ?",
     "Y a-t-il des alertes ou points de vigilance pour les notaires ?",
-    "Quelles sont les échéances mentionnées ?"
+    "Quelles sont les échéances mentionnées ?",
+    "Quels sont les délais à respecter ?",
+    "Quelles formations sont concernées par ce document ?",
+    "Quelles sont les actualités juridiques importantes de ce numéro ?"
   ],
   "relations_documentaires": {
     "remplace": [],
@@ -43,9 +65,17 @@
     "reference": [],
     "complete": []
   },
-  "resume": "Document de type Fil-Info",
+  "resume": "Semaine du 26 juin 2023 au 02 juillet 2023 N° 2824 Fermeture de CDC-NET REAL À partir d'ajourd'hui, CDC-Net est uniquement accessible sur le site internet de la Banque des territoires et non plus via CDC-NET REAL. Les fonctionnalités restent les mêmes et ce changement n’a aucun impact sur les opérations saisies dans les logiciels de comptabilité. L’autre nouveauté est la demande d’authentiﬁcation forte via l’appli HID Approve, pour accéder à la banque en ligne.",
   "mots_cles": [
-    "veille professionnelle",
-    "actualité juridique"
+    "actualité juridique",
+    "formation professionnelle",
+    "veille professionnelle"
+  ],
+  "dates_mentionnees": [
+    "2023-06-26",
+    "2023-07-02",
+    "2023-07-13",
+    "2023-10-31",
+    "2023-11-22"
   ]
 }

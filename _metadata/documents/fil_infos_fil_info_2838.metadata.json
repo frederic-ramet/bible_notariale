@@ -31,11 +31,34 @@
     "type": "fil_info",
     "numero": "2838"
   },
-  "vocabulaire_specifique": [],
+  "vocabulaire_specifique": [
+    {
+      "terme": "conseil supérieur du notariat",
+      "synonymes": [
+        "CSN"
+      ],
+      "definition": "",
+      "contexte_utilisation": "Mentionné 1 fois dans le document"
+    },
+    {
+      "terme": "cybersécurité",
+      "synonymes": [
+        "sécurité informatique",
+        "cyber-risques"
+      ],
+      "definition": "",
+      "contexte_utilisation": "Mentionné 1 fois dans le document"
+    }
+  ],
   "questions_typiques": [
-    "Quelles sont les actualités juridiques importantes de ce numéro ?",
+    "Quelles sont les obligations de sécurité informatique ?",
+    "Comment financer ces formations ?",
+    "Comment se protéger contre les cyberattaques ?",
+    "Quels sont les montants de franchise ?",
     "Y a-t-il des alertes ou points de vigilance pour les notaires ?",
-    "Quelles sont les échéances mentionnées ?"
+    "Quelles sont les échéances mentionnées ?",
+    "Quelles formations sont concernées par ce document ?",
+    "Quelles sont les actualités juridiques importantes de ce numéro ?"
   ],
   "relations_documentaires": {
     "remplace": [],
@@ -43,9 +66,18 @@
     "reference": [],
     "complete": []
   },
-  "resume": "Document de type Fil-Info",
+  "resume": "Semaine du 20 novembre 2023 au 26 novembre 2023 N° 2838 Optimisons notre pratique professionnelle grâce à l'Intelligence Artiﬁcielle Notre assemblée générale d’automne m’a permis de présenter à l’ensemble des notaires de la compagnie, les principaux projets de notre Chambre pour les mois à venir. Dans le prolongement, je souhaite partag er quelques informations pratiques avec l’ensemble des collaborateurs des 186 ofﬁces de notre Cour. - Gagner du temps sur le pointage de vos relevés SPF – SDE- SPFE et optimiser vos soldes de comptes grâce à la solution Nearﬁx.",
   "mots_cles": [
-    "veille professionnelle",
-    "actualité juridique"
+    "actualité juridique",
+    "cybersécurité",
+    "formation professionnelle",
+    "veille professionnelle"
+  ],
+  "dates_mentionnees": [
+    "2023-11-20",
+    "2023-11-26",
+    "2023-12-11",
+    "2023-12-31",
+    "2024-01-09"
   ]
 }

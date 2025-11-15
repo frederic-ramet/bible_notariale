@@ -31,11 +31,45 @@
     "type": "fil_info",
     "numero": "2843"
   },
-  "vocabulaire_specifique": [],
+  "vocabulaire_specifique": [
+    {
+      "terme": "circulaire",
+      "synonymes": [
+        "instruction",
+        "note d'information"
+      ],
+      "definition": "",
+      "contexte_utilisation": "Mentionné 2 fois dans le document"
+    },
+    {
+      "terme": "cybersécurité",
+      "synonymes": [
+        "sécurité informatique",
+        "cyber-risques"
+      ],
+      "definition": "",
+      "contexte_utilisation": "Mentionné 2 fois dans le document"
+    },
+    {
+      "terme": "rémunération",
+      "synonymes": [
+        "salaire",
+        "traitement",
+        "émoluments"
+      ],
+      "definition": "",
+      "contexte_utilisation": "Mentionné 1 fois dans le document"
+    }
+  ],
   "questions_typiques": [
-    "Quelles sont les actualités juridiques importantes de ce numéro ?",
+    "Quelles sont les obligations de sécurité informatique ?",
+    "Quelles sont les tendances du marché immobilier ?",
+    "Comment financer ces formations ?",
+    "Comment se protéger contre les cyberattaques ?",
     "Y a-t-il des alertes ou points de vigilance pour les notaires ?",
-    "Quelles sont les échéances mentionnées ?"
+    "Quelles sont les échéances mentionnées ?",
+    "Quelles formations sont concernées par ce document ?",
+    "Quelles sont les actualités juridiques importantes de ce numéro ?"
   ],
   "relations_documentaires": {
     "remplace": [],
@@ -43,9 +77,19 @@
     "reference": [],
     "complete": []
   },
-  "resume": "Document de type Fil-Info",
+  "resume": "Semaine du 01 janvier 2024 au 07 janvier 2024 N° 2843 Prospère, certes, mais avant tout heureuse et sereine. C’est ce que je vous souhaite pour cette nouvelle année. Mesurons la chance que nous avons de vivre et de travailler en paix, aﬁn d'aborder ce nouveau millésime avec enthousiasme et optimisme, pour en relever tous les déﬁs.",
   "mots_cles": [
-    "veille professionnelle",
-    "actualité juridique"
+    "actualité juridique",
+    "cybersécurité",
+    "formation professionnelle",
+    "transactions immobilières",
+    "veille professionnelle"
+  ],
+  "dates_mentionnees": [
+    "2023-10-31",
+    "2023-11-15",
+    "2023-12-26",
+    "2024-01-01",
+    "2024-01-07"
   ]
 }

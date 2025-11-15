@@ -31,11 +31,34 @@
     "type": "fil_info",
     "numero": "2826"
   },
-  "vocabulaire_specifique": [],
+  "vocabulaire_specifique": [
+    {
+      "terme": "conseil supérieur du notariat",
+      "synonymes": [
+        "CSN"
+      ],
+      "definition": "",
+      "contexte_utilisation": "Mentionné 6 fois dans le document"
+    },
+    {
+      "terme": "minute",
+      "synonymes": [
+        "original de l'acte",
+        "archive notariale"
+      ],
+      "definition": "",
+      "contexte_utilisation": "Mentionné 1 fois dans le document"
+    }
+  ],
   "questions_typiques": [
-    "Quelles sont les actualités juridiques importantes de ce numéro ?",
+    "Quelles sont les obligations de sécurité informatique ?",
+    "Quelles sont les tendances du marché immobilier ?",
+    "Comment financer ces formations ?",
+    "Comment se protéger contre les cyberattaques ?",
+    "Quelles sont les modalités de prise de congés ?",
     "Y a-t-il des alertes ou points de vigilance pour les notaires ?",
-    "Quelles sont les échéances mentionnées ?"
+    "Quelles sont les échéances mentionnées ?",
+    "Quelles sont les actualités juridiques importantes de ce numéro ?"
   ],
   "relations_documentaires": {
     "remplace": [],
@@ -43,9 +66,20 @@
     "reference": [],
     "complete": []
   },
-  "resume": "Document de type Fil-Info",
+  "resume": "Semaine du 17 juillet 2023 au 23 juillet 2023 N° 2826 NOTARIAT ACADÉMIE CAEN - 31 oct. 2023 Chers confrères, Chers collaborateurs, Nous avons le plaisir de vous informer de votre admission à la Notariat Académie, qui aura lieu le mardi 31 octobre prochain. Au cours de cette journée, vous découvrirez les enchantements du droit de la famille, les arcanes du droit immobilier et de l'urbanisme, les secrets et mystères de la comptabilité et des formalités, et biens d'autres arts légendaires.",
   "mots_cles": [
-    "veille professionnelle",
-    "actualité juridique"
+    "actualité juridique",
+    "congés payés",
+    "cybersécurité",
+    "formation professionnelle",
+    "transactions immobilières",
+    "veille professionnelle"
+  ],
+  "dates_mentionnees": [
+    "2023-07-17",
+    "2023-07-23",
+    "2023-07-31",
+    "2023-08-28",
+    "2023-09-12"
   ]
 }

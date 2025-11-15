@@ -33,19 +33,34 @@
   },
   "vocabulaire_specifique": [],
   "questions_typiques": [
-    "Quelles sont les actualités juridiques importantes de ce numéro ?",
+    "Quelles sont les tendances du marché immobilier ?",
+    "Comment financer ces formations ?",
     "Y a-t-il des alertes ou points de vigilance pour les notaires ?",
-    "Quelles sont les échéances mentionnées ?"
+    "Quelles sont les échéances mentionnées ?",
+    "Quelles formations sont concernées par ce document ?",
+    "Quelles sont les actualités juridiques importantes de ce numéro ?",
+    "Comment analyser ces données pour mon secteur ?"
   ],
   "relations_documentaires": {
     "remplace": [],
     "modifie": [],
-    "reference": [],
+    "reference": [
+      "Décret 2024-392"
+    ],
     "complete": []
   },
-  "resume": "Document de type Fil-Info",
+  "resume": "Sans outils performants et sans l’appui d’un solide bureau d’études, impossible d’être performant. Impossible aussi de suivre convenablement les clients. C’est ainsi que j’ai succédé à Pierre Gaudin après 30 ans comme directeur régional pour les notaires des cours d’appel de Caen et de Rouen.",
   "mots_cles": [
-    "veille professionnelle",
-    "actualité juridique"
+    "actualité juridique",
+    "formation professionnelle",
+    "transactions immobilières",
+    "veille professionnelle"
+  ],
+  "dates_mentionnees": [
+    "2024-04-27",
+    "2024-04-29",
+    "2024-05-05",
+    "2024-05-17",
+    "2024-06-25"
   ]
 }

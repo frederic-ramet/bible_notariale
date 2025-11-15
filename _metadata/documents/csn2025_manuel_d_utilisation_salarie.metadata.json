@@ -13,11 +13,11 @@
     "statut": "en_vigueur"
   },
   "classification": {
-    "type_document": "circulaire_csn",
-    "label": "Circulaire CSN",
+    "type_document": "guide_pratique",
+    "label": "Guide pratique",
     "domaines_juridiques": [
-      "réglementation notariale",
-      "instructions professionnelles"
+      "documentation métier",
+      "outils"
     ],
     "public_cible": [
       "notaires",
@@ -28,11 +28,23 @@
     "categorie_dossier": "CSN2025"
   },
   "reference": null,
-  "vocabulaire_specifique": [],
+  "vocabulaire_specifique": [
+    {
+      "terme": "minute",
+      "synonymes": [
+        "original de l'acte",
+        "archive notariale"
+      ],
+      "definition": "",
+      "contexte_utilisation": "Mentionné 1 fois dans le document"
+    }
+  ],
   "questions_typiques": [
-    "Quelles sont les nouvelles obligations introduites par cette circulaire ?",
     "À quelle date cette circulaire entre-t-elle en vigueur ?",
-    "Quels offices sont concernés par ces instructions ?"
+    "Quels offices sont concernés par ces instructions ?",
+    "Comment financer ces formations ?",
+    "Quelles formations sont concernées par ce document ?",
+    "Quelles sont les nouvelles obligations introduites par cette circulaire ?"
   ],
   "relations_documentaires": {
     "remplace": [],
@@ -40,9 +52,13 @@
     "reference": [],
     "complete": []
   },
-  "resume": "Document de type Circulaire CSN",
+  "resume": "Allez sur le site https://agcm.comitemixte.fr 2. Cliquez sur le lien « Vous n’avez pas de compte. Entrez les informations demandées pour la création de votre compte.",
   "mots_cles": [
-    "réglementation notariale",
-    "instructions professionnelles"
+    "formation professionnelle",
+    "instructions professionnelles",
+    "réglementation notariale"
+  ],
+  "dates_mentionnees": [
+    "2024-01-22"
   ]
 }

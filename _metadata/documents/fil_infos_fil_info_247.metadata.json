@@ -31,11 +31,43 @@
     "type": "fil_info",
     "numero": "247"
   },
-  "vocabulaire_specifique": [],
+  "vocabulaire_specifique": [
+    {
+      "terme": "LCB-FT",
+      "synonymes": [
+        "lutte contre le blanchiment",
+        "anti-blanchiment"
+      ],
+      "definition": "",
+      "contexte_utilisation": "Mentionné 4 fois dans le document"
+    },
+    {
+      "terme": "minute",
+      "synonymes": [
+        "original de l'acte",
+        "archive notariale"
+      ],
+      "definition": "",
+      "contexte_utilisation": "Mentionné 2 fois dans le document"
+    },
+    {
+      "terme": "conseil supérieur du notariat",
+      "synonymes": [
+        "CSN"
+      ],
+      "definition": "",
+      "contexte_utilisation": "Mentionné 2 fois dans le document"
+    }
+  ],
   "questions_typiques": [
-    "Quelles sont les actualités juridiques importantes de ce numéro ?",
+    "Quelles sont les obligations de sécurité informatique ?",
+    "Quelles sont les tendances du marché immobilier ?",
+    "Comment financer ces formations ?",
+    "Comment se protéger contre les cyberattaques ?",
     "Y a-t-il des alertes ou points de vigilance pour les notaires ?",
-    "Quelles sont les échéances mentionnées ?"
+    "Quelles sont les échéances mentionnées ?",
+    "Quelles formations sont concernées par ce document ?",
+    "Quelles sont les actualités juridiques importantes de ce numéro ?"
   ],
   "relations_documentaires": {
     "remplace": [],
@@ -43,9 +75,18 @@
     "reference": [],
     "complete": []
   },
-  "resume": "Document de type Fil-Info",
+  "resume": "Semaine du 20 juin 2022 au 26 juin 2022 N° 247 L'ACCÈS DES NOTAIRES AU FICHIER IMMOBILIER (ANF) Depuis le 21 juin, tous les ofﬁces de la cour qui demandent un état hypothécaire, reçoivent une réponse quelques minutes après. Vous pouvez vériﬁer en vous connectant avec votre clé Real au portail ADSN Publicité Foncière sur le site http://support- demat.real.notaires.fr/anﬁ-portail/. Cliquez sur « rechercher » Automatiquement, vos demandes d’EHF reçoivent une réponse sur ce portail.",
   "mots_cles": [
-    "veille professionnelle",
-    "actualité juridique"
+    "actualité juridique",
+    "formation professionnelle",
+    "transactions immobilières",
+    "veille professionnelle"
+  ],
+  "dates_mentionnees": [
+    "2014-03-17",
+    "2022-06-20",
+    "2022-06-26",
+    "2022-07-22",
+    "2022-10-17"
   ]
 }

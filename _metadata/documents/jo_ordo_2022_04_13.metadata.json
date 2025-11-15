@@ -28,21 +28,102 @@
     "categorie_dossier": "racine"
   },
   "reference": null,
-  "vocabulaire_specifique": [],
+  "vocabulaire_specifique": [
+    {
+      "terme": "tarification",
+      "synonymes": [
+        "émoluments",
+        "honoraires"
+      ],
+      "definition": "",
+      "contexte_utilisation": "Mentionné 4 fois dans le document"
+    },
+    {
+      "terme": "conseil supérieur du notariat",
+      "synonymes": [
+        "CSN"
+      ],
+      "definition": "",
+      "contexte_utilisation": "Mentionné 2 fois dans le document"
+    },
+    {
+      "terme": "rémunération",
+      "synonymes": [
+        "salaire",
+        "traitement",
+        "émoluments"
+      ],
+      "definition": "",
+      "contexte_utilisation": "Mentionné 2 fois dans le document"
+    },
+    {
+      "terme": "minute",
+      "synonymes": [
+        "original de l'acte",
+        "archive notariale"
+      ],
+      "definition": "",
+      "contexte_utilisation": "Mentionné 1 fois dans le document"
+    },
+    {
+      "terme": "circulaire",
+      "synonymes": [
+        "instruction",
+        "note d'information"
+      ],
+      "definition": "",
+      "contexte_utilisation": "Mentionné 1 fois dans le document"
+    },
+    {
+      "terme": "licenciement",
+      "synonymes": [
+        "rupture contrat",
+        "procédure disciplinaire"
+      ],
+      "definition": "",
+      "contexte_utilisation": "Mentionné 1 fois dans le document"
+    }
+  ],
   "questions_typiques": [
-    "Quelles modifications réglementaires sont introduites ?",
+    "Quel est l'impact sur la rémunération des salariés ?",
+    "Quelle est la procédure de licenciement applicable ?",
+    "Quels articles du code sont concernés ?",
+    "Quels sont les montants mentionnés dans ce document ?",
+    "Quelles sont les nouvelles grilles de salaires ?",
     "Quelle est la date d'entrée en vigueur ?",
-    "Quels articles du code sont concernés ?"
+    "Quelles sont les modalités de prise de congés ?",
+    "Quelles modifications réglementaires sont introduites ?"
   ],
   "relations_documentaires": {
     "remplace": [],
     "modifie": [],
-    "reference": [],
+    "reference": [
+      "Article 2",
+      "Article 45",
+      "Article 38",
+      "Article 41",
+      "Article 3"
+    ],
     "complete": []
   },
-  "resume": "Document de type Décret / Ordonnance",
+  "resume": "123-20 ; Vu le code monétaire et financier ; Vu le code de l’organisation judiciaire ; Vu le code des procédures civiles d’exécution, notamment son article L. 111-3 ; Vu le code des relations entre le public et l’administration, notamment son article L. Article 2 Un code de déontologie propre à chaque profession est préparé par son instance nationale et édicté par décret en Conseil d’Etat.",
   "mots_cles": [
+    "congés payés",
     "législation",
+    "procédure disciplinaire",
+    "rémunération",
     "textes réglementaires"
-  ]
+  ],
+  "dates_mentionnees": [
+    "1810-04-20",
+    "1817-09-10",
+    "1945-11-02",
+    "1991-07-10",
+    "2016-06-02"
+  ],
+  "donnees_chiffrees": {
+    "montants_euros": [
+      "45000"
+    ]
+  }
 }

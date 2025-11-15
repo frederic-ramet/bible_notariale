@@ -31,11 +31,24 @@
     "type": "fil_info",
     "numero": "2841"
   },
-  "vocabulaire_specifique": [],
+  "vocabulaire_specifique": [
+    {
+      "terme": "OPCO",
+      "synonymes": [
+        "opérateur de compétences"
+      ],
+      "definition": "",
+      "contexte_utilisation": "Mentionné 1 fois dans le document"
+    }
+  ],
   "questions_typiques": [
-    "Quelles sont les actualités juridiques importantes de ce numéro ?",
+    "Quelles sont les obligations de sécurité informatique ?",
+    "Comment financer ces formations ?",
+    "Comment se protéger contre les cyberattaques ?",
     "Y a-t-il des alertes ou points de vigilance pour les notaires ?",
-    "Quelles sont les échéances mentionnées ?"
+    "Quelles sont les échéances mentionnées ?",
+    "Quelles formations sont concernées par ce document ?",
+    "Quelles sont les actualités juridiques importantes de ce numéro ?"
   ],
   "relations_documentaires": {
     "remplace": [],
@@ -43,9 +56,18 @@
     "reference": [],
     "complete": []
   },
-  "resume": "Document de type Fil-Info",
+  "resume": "Semaine du 1 1 décembre 2023 au 17 décembre 2023 N° 2841 Notaires2Ndie - PSG : 4 à 1. Bien que qualiﬁés pour les huitièmes de ﬁnale de la Ligue des Champions, le PSG a buté sur un tout autre adversaire vendredi dernier : notre Chambre. Pas lors d’un match balle au pied bien sûr, mais au cours d’une remise de prix : Les TROPHÉES DE LA COMMUNICA TION, qui ont été décernés dans les prestigieux salons Hoche, ce vendredi 8 décembre 2023 à Paris.",
   "mots_cles": [
-    "veille professionnelle",
-    "actualité juridique"
+    "actualité juridique",
+    "cybersécurité",
+    "formation professionnelle",
+    "veille professionnelle"
+  ],
+  "dates_mentionnees": [
+    "2023-12-01",
+    "2023-12-02",
+    "2023-12-06",
+    "2023-12-08",
+    "2023-12-12"
   ]
 }

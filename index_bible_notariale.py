@@ -891,23 +891,48 @@ def generate_readme(documents):
 
     return "\n".join(readme)
 
+def load_existing_metadata():
+    """Charge les métadonnées existantes au lieu de les régénérer."""
+    documents = []
+
+    for meta_file in DOCS_METADATA_DIR.glob("*.metadata.json"):
+        with open(meta_file, 'r', encoding='utf-8') as f:
+            metadata = json.load(f)
+        documents.append(metadata)
+
+    return documents
+
+
 def main():
     print("Indexation de la Bible Notariale...")
     print(f"Dossier source : {SOURCES_DIR}")
     print(f"Dossier métadonnées : {METADATA_DIR}")
     print()
 
-    # 1. Scanner les documents
-    print("1. Scan des documents...")
-    documents = scan_documents()
-    print(f"   {len(documents)} documents trouvés")
-    print()
+    # Vérifier si des métadonnées existent déjà
+    existing_meta = list(DOCS_METADATA_DIR.glob("*.metadata.json"))
 
-    # 2. Sauvegarder les métadonnées individuelles
-    print("2. Génération des métadonnées KM individuelles...")
-    save_individual_metadata(documents)
-    print(f"   {len(documents)} fichiers .metadata.json créés")
-    print()
+    if existing_meta:
+        print("1. Chargement des métadonnées existantes...")
+        documents = load_existing_metadata()
+        print(f"   {len(documents)} documents chargés")
+        print()
+
+        # Pas de régénération des métadonnées individuelles
+        print("2. Conservation des métadonnées enrichies existantes")
+        print()
+    else:
+        # 1. Scanner les documents
+        print("1. Scan des documents...")
+        documents = scan_documents()
+        print(f"   {len(documents)} documents trouvés")
+        print()
+
+        # 2. Sauvegarder les métadonnées individuelles
+        print("2. Génération des métadonnées KM individuelles...")
+        save_individual_metadata(documents)
+        print(f"   {len(documents)} fichiers .metadata.json créés")
+        print()
 
     # 3. Sauvegarder l'index global
     print("3. Génération de l'index global...")

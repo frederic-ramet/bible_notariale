@@ -28,21 +28,73 @@
     "categorie_dossier": "Convention Collective"
   },
   "reference": null,
-  "vocabulaire_specifique": [],
+  "vocabulaire_specifique": [
+    {
+      "terme": "avenant",
+      "synonymes": [
+        "modification",
+        "amendement"
+      ],
+      "definition": "",
+      "contexte_utilisation": "Mentionné 7 fois dans le document"
+    },
+    {
+      "terme": "convention collective",
+      "synonymes": [
+        "CCN",
+        "IDCC 2205"
+      ],
+      "definition": "",
+      "contexte_utilisation": "Mentionné 6 fois dans le document"
+    },
+    {
+      "terme": "rémunération",
+      "synonymes": [
+        "salaire",
+        "traitement",
+        "émoluments"
+      ],
+      "definition": "",
+      "contexte_utilisation": "Mentionné 2 fois dans le document"
+    },
+    {
+      "terme": "conseil supérieur du notariat",
+      "synonymes": [
+        "CSN"
+      ],
+      "definition": "",
+      "contexte_utilisation": "Mentionné 1 fois dans le document"
+    }
+  ],
   "questions_typiques": [
+    "Quel est l'impact sur la rémunération des salariés ?",
+    "À partir de quand cet avenant s'applique-t-il ?",
     "Quels articles de la convention collective sont modifiés ?",
+    "Comment financer ces formations ?",
+    "Quelles sont les nouvelles grilles de salaires ?",
     "Quel impact sur les conditions de travail des salariés ?",
-    "À partir de quand cet avenant s'applique-t-il ?"
+    "Quelles formations sont concernées par ce document ?"
   ],
   "relations_documentaires": {
     "remplace": [],
     "modifie": [],
-    "reference": [],
+    "reference": [
+      "Article 1",
+      "Article 15.1",
+      "Article 15"
+    ],
     "complete": []
   },
-  "resume": "Document de type Avenant CCN",
+  "resume": "Stéphane SPANNEUT, ledit syndicat affilié à la C.F.E. - C.G.C., La Fédération « commerce, services et force de vente » C.F.T.C. , dont le siège est à PARIS 19ème, 34 quai de la Loire, représentée par Mme Géraldine TEBALDINI , L’Union nationale des syndicats autonomes U.N.S.A ., dont le siège est à BAGNOLET (93), 21 rue Jules Ferry, représentée par M.",
   "mots_cles": [
+    "convention collective",
     "droit social",
-    "convention collective"
+    "formation professionnelle",
+    "rémunération"
+  ],
+  "dates_mentionnees": [
+    "2001-06-08",
+    "2021-12-16",
+    "2023-12-14"
   ]
 }

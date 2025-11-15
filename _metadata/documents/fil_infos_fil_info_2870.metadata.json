@@ -31,11 +31,40 @@
     "type": "fil_info",
     "numero": "2870"
   },
-  "vocabulaire_specifique": [],
+  "vocabulaire_specifique": [
+    {
+      "terme": "circulaire",
+      "synonymes": [
+        "instruction",
+        "note d'information"
+      ],
+      "definition": "",
+      "contexte_utilisation": "Mentionné 2 fois dans le document"
+    },
+    {
+      "terme": "conseil supérieur du notariat",
+      "synonymes": [
+        "CSN"
+      ],
+      "definition": "",
+      "contexte_utilisation": "Mentionné 1 fois dans le document"
+    },
+    {
+      "terme": "formation professionnelle",
+      "synonymes": [
+        "formation continue",
+        "développement compétences"
+      ],
+      "definition": "",
+      "contexte_utilisation": "Mentionné 1 fois dans le document"
+    }
+  ],
   "questions_typiques": [
-    "Quelles sont les actualités juridiques importantes de ce numéro ?",
+    "Comment financer ces formations ?",
     "Y a-t-il des alertes ou points de vigilance pour les notaires ?",
-    "Quelles sont les échéances mentionnées ?"
+    "Quelles sont les échéances mentionnées ?",
+    "Quelles formations sont concernées par ce document ?",
+    "Quelles sont les actualités juridiques importantes de ce numéro ?"
   ],
   "relations_documentaires": {
     "remplace": [],
@@ -43,9 +72,17 @@
     "reference": [],
     "complete": []
   },
-  "resume": "Document de type Fil-Info",
+  "resume": "Semaine du 15 juillet 2024 au 21 juillet 2024 N° 2870 Aidons à transmettre l'espoir dans la lutte contre le cancer Nous sommes souvent démunis pour accompagner le choix de nos clients désireux d’ef fectuer un don ou un legs pour participer à la lutte contre le cancer. Chacun de nous est soucieux de respecter la volonté de ses clients, en les guidant vers une structure strictement contrôlée, qui garantit une gestion transparente des fonds. Une multitude de structures répondent à ces critères à l’échelle nationale, mais nous constatons bien souvent que nos clients recherchent une proximité territoriale.",
   "mots_cles": [
-    "veille professionnelle",
-    "actualité juridique"
+    "actualité juridique",
+    "formation professionnelle",
+    "veille professionnelle"
+  ],
+  "dates_mentionnees": [
+    "2024-04-02",
+    "2024-07-05",
+    "2024-07-15",
+    "2024-07-21",
+    "2024-10-17"
   ]
 }

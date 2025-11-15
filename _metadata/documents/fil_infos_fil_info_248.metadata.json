@@ -31,11 +31,35 @@
     "type": "fil_info",
     "numero": "248"
   },
-  "vocabulaire_specifique": [],
+  "vocabulaire_specifique": [
+    {
+      "terme": "minute",
+      "synonymes": [
+        "original de l'acte",
+        "archive notariale"
+      ],
+      "definition": "",
+      "contexte_utilisation": "Mentionné 1 fois dans le document"
+    },
+    {
+      "terme": "LCB-FT",
+      "synonymes": [
+        "lutte contre le blanchiment",
+        "anti-blanchiment"
+      ],
+      "definition": "",
+      "contexte_utilisation": "Mentionné 1 fois dans le document"
+    }
+  ],
   "questions_typiques": [
-    "Quelles sont les actualités juridiques importantes de ce numéro ?",
+    "Quelles sont les obligations de sécurité informatique ?",
+    "Quelles sont les tendances du marché immobilier ?",
+    "Comment financer ces formations ?",
+    "Comment se protéger contre les cyberattaques ?",
+    "Quels sont les montants de franchise ?",
     "Y a-t-il des alertes ou points de vigilance pour les notaires ?",
-    "Quelles sont les échéances mentionnées ?"
+    "Quelles sont les échéances mentionnées ?",
+    "Quelles sont les actualités juridiques importantes de ce numéro ?"
   ],
   "relations_documentaires": {
     "remplace": [],
@@ -43,9 +67,18 @@
     "reference": [],
     "complete": []
   },
-  "resume": "Document de type Fil-Info",
+  "resume": "Semaine du 27 juin 2022 au 03 juillet 2022 N° 248 OSEZ L'IMMO-INTERACTIF®. Vendre un bien immobilier via son notaire, par appel d'of fres sur internet Notre ofﬁce vient de recueillir une offre à 1.770.000 €, pour un bien « mis à prix » 1.200.000 €. Les offres de quatre candidats se sont succédées dans les toutes dernières minutes, créant une émulation qui a permis le succès de cette vente dont je vous invite à découvrir le déroulé ici.",
   "mots_cles": [
-    "veille professionnelle",
-    "actualité juridique"
+    "actualité juridique",
+    "formation professionnelle",
+    "transactions immobilières",
+    "veille professionnelle"
+  ],
+  "dates_mentionnees": [
+    "2022-06-15",
+    "2022-06-27",
+    "2022-07-03",
+    "2022-07-28",
+    "2022-09-01"
   ]
 }

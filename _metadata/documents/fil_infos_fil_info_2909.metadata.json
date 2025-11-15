@@ -6,7 +6,7 @@
     "titre": "fil info 2909",
     "titre_court": "fil info 2909",
     "date_publication": "2025-01-01",
-    "date_effet": "2025-01-01",
+    "date_effet": "2025-06-13",
     "version": "1.0",
     "langue": "fr",
     "auteur": "Profession notariale",
@@ -31,21 +31,50 @@
     "type": "fil_info",
     "numero": "2909"
   },
-  "vocabulaire_specifique": [],
+  "vocabulaire_specifique": [
+    {
+      "terme": "OPCO",
+      "synonymes": [
+        "opérateur de compétences"
+      ],
+      "definition": "",
+      "contexte_utilisation": "Mentionné 4 fois dans le document"
+    },
+    {
+      "terme": "conseil supérieur du notariat",
+      "synonymes": [
+        "CSN"
+      ],
+      "definition": "",
+      "contexte_utilisation": "Mentionné 2 fois dans le document"
+    }
+  ],
   "questions_typiques": [
-    "Quelles sont les actualités juridiques importantes de ce numéro ?",
+    "Comment financer ces formations ?",
     "Y a-t-il des alertes ou points de vigilance pour les notaires ?",
-    "Quelles sont les échéances mentionnées ?"
+    "Quelles sont les échéances mentionnées ?",
+    "Quelles formations sont concernées par ce document ?",
+    "Quelles sont les actualités juridiques importantes de ce numéro ?"
   ],
   "relations_documentaires": {
     "remplace": [],
     "modifie": [],
-    "reference": [],
+    "reference": [
+      "Décret 2025-538"
+    ],
     "complete": []
   },
-  "resume": "Document de type Fil-Info",
+  "resume": "À compter du 1er octobre 2025, l’identiﬁcation à distance de nos clients, dans le cadre des procurations authentiques par comparution à distance, devra être réalisée via le système ofﬁciel établi par le Conseil supérieur du notariat. Ce dispositif, opéré par l’ADSN et développé en partenariat avec DOCAPOSTE (ﬁliale numérique de La Poste), répond aux exigences de sécurité déﬁnies par l’ANSSI. Il garantit un processus d’identiﬁcation, de consentement et de signature sous le contrôle exclusif du notaire, renforçant ainsi l’authenticité de nos actes.",
   "mots_cles": [
-    "veille professionnelle",
-    "actualité juridique"
+    "actualité juridique",
+    "formation professionnelle",
+    "veille professionnelle"
+  ],
+  "dates_mentionnees": [
+    "2025-06-13",
+    "2025-06-16",
+    "2025-06-22",
+    "2025-07-13",
+    "2025-07-15"
   ]
 }

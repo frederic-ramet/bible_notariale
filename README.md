@@ -26,7 +26,7 @@ Ce dépôt centralise la documentation professionnelle du notariat français :
 Cliquez sur une catégorie pour accéder à la liste complète des documents :
 
 ### [Circulaire CSN](docs/categories/circulaire_csn.md)
-**37 documents**
+**22 documents**
 
 Les circulaires du Conseil Supérieur du Notariat (CSN) sont des communications officielles
 adressées à l'ensemble des notaires de France.
@@ -50,13 +50,13 @@ Les Fil-Infos sont des bulletins d'actualité publiés régulièrement pour info
 notaires des évolutions juridiques, fiscales et réglementaires.
 
 ### [Guide pratique](docs/categories/guide_pratique.md)
-**14 documents**
+**26 documents**
 
 Les guides pratiques et manuels d'utilisation fournissent des instructions détaillées
 sur les procédures, outils et bonnes pratiques de la profession notariale.
 
 ### [Décret / Ordonnance](docs/categories/decret_ordonnance.md)
-**5 documents**
+**6 documents**
 
 Les décrets et ordonnances sont des textes réglementaires officiels publiés au Journal
 Officiel.
@@ -73,6 +73,12 @@ les garanties cyber-risques et les protections spécifiques aux offices notariau
 La documentation immobilière comprend les guides de négociation, les données de
 l'observatoire immobilier notarial et les analyses de marché.
 
+### [Conformité](docs/categories/conformite.md)
+**2 documents**
+
+Les documents de conformité traitent des obligations réglementaires en matière de lutte
+contre le blanchiment (LCB-FT), de protection des données (RGPD), de cybersécurité et de vigilance.
+
 ---
 
 ## Vue d'ensemble
@@ -81,14 +87,15 @@ l'observatoire immobilier notarial et les analyses de marché.
 
 | Catégorie | Nombre | Période |
 |-----------|--------|---------|
-| [Circulaire CSN](docs/categories/circulaire_csn.md) | 37 | 2019-2025 |
+| [Circulaire CSN](docs/categories/circulaire_csn.md) | 22 | 2020-2025 |
 | [Avenant CCN](docs/categories/avenant_ccn.md) | 22 | 2019-2025 |
 | [Accord de branche](docs/categories/accord_branche.md) | 9 | 2019-2025 |
 | [Fil-Info](docs/categories/fil_info.md) | 153 | 2025-2025 |
-| [Guide pratique](docs/categories/guide_pratique.md) | 14 | 2020-2025 |
-| [Décret / Ordonnance](docs/categories/decret_ordonnance.md) | 5 | 2022-2025 |
+| [Guide pratique](docs/categories/guide_pratique.md) | 26 | 2019-2025 |
+| [Décret / Ordonnance](docs/categories/decret_ordonnance.md) | 6 | 2022-2025 |
 | [Assurance](docs/categories/assurance.md) | 2 | 2025-2025 |
 | [Immobilier](docs/categories/immobilier.md) | 3 | 2025-2025 |
+| [Conformité](docs/categories/conformite.md) | 2 | 2019-2022 |
 
 ### Par année
 
@@ -183,4 +190,4 @@ Ce script :
 
 ---
 
-*Généré automatiquement le 15/11/2025 à 08:02 par `index_bible_notariale.py`*
+*Généré automatiquement le 15/11/2025 à 08:12 par `index_bible_notariale.py`*

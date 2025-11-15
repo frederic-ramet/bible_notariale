@@ -28,7 +28,44 @@
     "categorie_dossier": "rpn"
   },
   "reference": null,
-  "vocabulaire_specifique": [],
+  "vocabulaire_specifique": [
+    {
+      "terme": "conseil supérieur du notariat",
+      "synonymes": [
+        "CSN"
+      ],
+      "definition": "",
+      "contexte_utilisation": "Mentionné 5 fois dans le document"
+    },
+    {
+      "terme": "minute",
+      "synonymes": [
+        "original de l'acte",
+        "archive notariale"
+      ],
+      "definition": "",
+      "contexte_utilisation": "Mentionné 2 fois dans le document"
+    },
+    {
+      "terme": "rémunération",
+      "synonymes": [
+        "salaire",
+        "traitement",
+        "émoluments"
+      ],
+      "definition": "",
+      "contexte_utilisation": "Mentionné 2 fois dans le document"
+    },
+    {
+      "terme": "tarification",
+      "synonymes": [
+        "émoluments",
+        "honoraires"
+      ],
+      "definition": "",
+      "contexte_utilisation": "Mentionné 2 fois dans le document"
+    }
+  ],
   "questions_typiques": [
     "Quelles sont les recommandations principales de ce guide ?",
     "Comment appliquer ces bonnes pratiques au quotidien ?",
@@ -37,12 +74,23 @@
   "relations_documentaires": {
     "remplace": [],
     "modifie": [],
-    "reference": [],
+    "reference": [
+      "Article 5",
+      "Article 2",
+      "Article 30"
+    ],
     "complete": []
   },
-  "resume": "Document de type Guide pratique",
+  "resume": "LE CODE DE DEONTOLOGIE DES NOTAIRES ET LE REGLEMENT PROFESSIONNEL DU NOTARIAT (RPN) Présentation et commentaire 12 février 2024 2 1ère partie : Présentation générale I. La réforme de la déontologie notariale est le corollaire de la réforme de la discipline notariale dont les principes ont été posés dans loi du 22 décembre 2021 susvisée. Cette réforme, a été souhaitée par le notariat et écrite « à quatre mains » avec la DACS.",
   "mots_cles": [
-    "documentation métier",
-    "bonnes pratiques"
+    "bonnes pratiques",
+    "documentation métier"
+  ],
+  "dates_mentionnees": [
+    "2018-05-22",
+    "2021-12-22",
+    "2022-04-06",
+    "2022-04-13",
+    "2022-07-06"
   ]
 }

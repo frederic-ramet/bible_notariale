@@ -31,11 +31,44 @@
     "type": "fil_info",
     "numero": "2818"
   },
-  "vocabulaire_specifique": [],
+  "vocabulaire_specifique": [
+    {
+      "terme": "minute",
+      "synonymes": [
+        "original de l'acte",
+        "archive notariale"
+      ],
+      "definition": "",
+      "contexte_utilisation": "Mentionné 1 fois dans le document"
+    },
+    {
+      "terme": "prévoyance",
+      "synonymes": [
+        "protection sociale",
+        "assurance"
+      ],
+      "definition": "",
+      "contexte_utilisation": "Mentionné 1 fois dans le document"
+    },
+    {
+      "terme": "RGPD",
+      "synonymes": [
+        "protection des données",
+        "données personnelles"
+      ],
+      "definition": "",
+      "contexte_utilisation": "Mentionné 1 fois dans le document"
+    }
+  ],
   "questions_typiques": [
-    "Quelles sont les actualités juridiques importantes de ce numéro ?",
+    "Quelles sont les obligations de sécurité informatique ?",
+    "Comment financer ces formations ?",
+    "Comment se protéger contre les cyberattaques ?",
+    "Quels sont les montants de franchise ?",
     "Y a-t-il des alertes ou points de vigilance pour les notaires ?",
-    "Quelles sont les échéances mentionnées ?"
+    "Quelles sont les échéances mentionnées ?",
+    "Quelles formations sont concernées par ce document ?",
+    "Quelles sont les actualités juridiques importantes de ce numéro ?"
   ],
   "relations_documentaires": {
     "remplace": [],
@@ -43,9 +76,19 @@
     "reference": [],
     "complete": []
   },
-  "resume": "Document de type Fil-Info",
+  "resume": "Des actions ont été entreprises pour vous aider à renforcer la vigilance nécessaire à la sécurisation de vos opérations. Elles vous seront présentées lors de notre prochaine Assemblée Générale, le 25 mai prochain. Dès aujourd’hui, la Banque des Territoires déploie la solution d’authentiﬁcation forte : HID Approve pour tous les ofﬁces.",
   "mots_cles": [
-    "veille professionnelle",
-    "actualité juridique"
+    "actualité juridique",
+    "assurance professionnelle",
+    "cybersécurité",
+    "formation professionnelle",
+    "protection des données",
+    "veille professionnelle"
+  ],
+  "dates_mentionnees": [
+    "2023-05-08",
+    "2023-05-09",
+    "2023-05-14",
+    "2023-09-26"
   ]
 }

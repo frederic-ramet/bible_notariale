@@ -38,7 +38,7 @@ l'intéressement ou la prévention du harcèlement.
 
 ### Thématiques principales
 
-droit social, formation professionnelle, harcèlement au travail, négociation collective, participation aux bénéfices, égalité professionnelle
+congés payés, droit social, formation professionnelle, harcèlement au travail, négociation collective, participation aux bénéfices, procédure disciplinaire, prévention harcèlement, rémunération, égalité professionnelle
 
 ---
 
@@ -80,4 +80,4 @@ droit social, formation professionnelle, harcèlement au travail, négociation c
 
 ---
 
-*Page générée automatiquement le 15/11/2025 à 08:02*
+*Page générée automatiquement le 15/11/2025 à 08:12*

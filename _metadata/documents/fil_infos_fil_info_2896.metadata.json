@@ -6,7 +6,7 @@
     "titre": "fil info 2896",
     "titre_court": "fil info 2896",
     "date_publication": "2025-01-01",
-    "date_effet": "2025-01-01",
+    "date_effet": "2025-03-10",
     "version": "1.0",
     "langue": "fr",
     "auteur": "Profession notariale",
@@ -31,11 +31,31 @@
     "type": "fil_info",
     "numero": "2896"
   },
-  "vocabulaire_specifique": [],
+  "vocabulaire_specifique": [
+    {
+      "terme": "OPCO",
+      "synonymes": [
+        "opérateur de compétences"
+      ],
+      "definition": "",
+      "contexte_utilisation": "Mentionné 1 fois dans le document"
+    },
+    {
+      "terme": "formation professionnelle",
+      "synonymes": [
+        "formation continue",
+        "développement compétences"
+      ],
+      "definition": "",
+      "contexte_utilisation": "Mentionné 1 fois dans le document"
+    }
+  ],
   "questions_typiques": [
-    "Quelles sont les actualités juridiques importantes de ce numéro ?",
+    "Comment financer ces formations ?",
     "Y a-t-il des alertes ou points de vigilance pour les notaires ?",
-    "Quelles sont les échéances mentionnées ?"
+    "Quelles sont les échéances mentionnées ?",
+    "Quelles formations sont concernées par ce document ?",
+    "Quelles sont les actualités juridiques importantes de ce numéro ?"
   ],
   "relations_documentaires": {
     "remplace": [],
@@ -43,9 +63,17 @@
     "reference": [],
     "complete": []
   },
-  "resume": "Document de type Fil-Info",
+  "resume": "Semaine du 10 mars 2025 au 16 mars 2025 N° 2896 QUALIOPI : une nouvelle étape franchie. Je vous annonçais lors de notre dernière assemblée générale, le projet de création par la chambre d’une Association pour la Formation des Notaires de la Cour d’Appel de Caen. Créée en novembre 2024, cette nouvelle structure est entièrement dédiée à l’élaboration du catalogue de formation proposé aux notaires et collaborateurs de la Cour ainsi qu’à la gestion des aspects administratifs et ﬁnanciers.",
   "mots_cles": [
-    "veille professionnelle",
-    "actualité juridique"
+    "actualité juridique",
+    "formation professionnelle",
+    "veille professionnelle"
+  ],
+  "dates_mentionnees": [
+    "2025-03-10",
+    "2025-03-16",
+    "2025-03-28",
+    "2025-03-31",
+    "2025-05-15"
   ]
 }

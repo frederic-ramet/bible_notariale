@@ -31,11 +31,35 @@
     "type": "fil_info",
     "numero": "2879"
   },
-  "vocabulaire_specifique": [],
+  "vocabulaire_specifique": [
+    {
+      "terme": "conseil supérieur du notariat",
+      "synonymes": [
+        "CSN"
+      ],
+      "definition": "",
+      "contexte_utilisation": "Mentionné 1 fois dans le document"
+    },
+    {
+      "terme": "rémunération",
+      "synonymes": [
+        "salaire",
+        "traitement",
+        "émoluments"
+      ],
+      "definition": "",
+      "contexte_utilisation": "Mentionné 1 fois dans le document"
+    }
+  ],
   "questions_typiques": [
-    "Quelles sont les actualités juridiques importantes de ce numéro ?",
+    "Quel est l'impact sur la rémunération des salariés ?",
+    "Quelles sont les tendances du marché immobilier ?",
+    "Comment financer ces formations ?",
+    "Quelles sont les nouvelles grilles de salaires ?",
+    "Quels sont les montants de franchise ?",
     "Y a-t-il des alertes ou points de vigilance pour les notaires ?",
-    "Quelles sont les échéances mentionnées ?"
+    "Quelles sont les échéances mentionnées ?",
+    "Quelles sont les actualités juridiques importantes de ce numéro ?"
   ],
   "relations_documentaires": {
     "remplace": [],
@@ -43,9 +67,17 @@
     "reference": [],
     "complete": []
   },
-  "resume": "Document de type Fil-Info",
+  "resume": "Semaine du 21 octobre 2024 au 27 octobre 2024 N° 2879 LES OUTILS DE RÉGULATION ENTRE LES MAINS DE LA SAFER La transmission de l’exploitation agricole est un exercice délicat qui nécessite un accompagnement sur-mesure des agriculteurs sortants et entrants. Elle passe le plus souvent par des montages sociétaires, aux mécanismes complexes, et requiert de plus en plus d’anticipation. La réglementation est lourde.",
   "mots_cles": [
-    "veille professionnelle",
-    "actualité juridique"
+    "actualité juridique",
+    "formation professionnelle",
+    "rémunération",
+    "transactions immobilières",
+    "veille professionnelle"
+  ],
+  "dates_mentionnees": [
+    "2024-10-21",
+    "2024-10-27",
+    "2024-12-06"
   ]
 }

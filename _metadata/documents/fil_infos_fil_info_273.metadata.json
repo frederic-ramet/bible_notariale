@@ -33,9 +33,13 @@
   },
   "vocabulaire_specifique": [],
   "questions_typiques": [
-    "Quelles sont les actualités juridiques importantes de ce numéro ?",
+    "Quelles sont les tendances du marché immobilier ?",
+    "Comment financer ces formations ?",
     "Y a-t-il des alertes ou points de vigilance pour les notaires ?",
-    "Quelles sont les échéances mentionnées ?"
+    "Quelles sont les échéances mentionnées ?",
+    "Quelles formations sont concernées par ce document ?",
+    "Quelles sont les actualités juridiques importantes de ce numéro ?",
+    "Comment analyser ces données pour mon secteur ?"
   ],
   "relations_documentaires": {
     "remplace": [],
@@ -43,9 +47,18 @@
     "reference": [],
     "complete": []
   },
-  "resume": "Document de type Fil-Info",
+  "resume": "Semaine du 09 janvier 2023 au 15 janvier 2023 N° 273 PASSER EN MODE ENTREPRISE L'année 2023 s’annonce comme un millésime particulier , avec des déﬁs annoncés à relever au cours du 1er trimestre. L’actualité, qu’elle soit internationale (guerre en Ukraine avec son impact sur le prix de l’énergie) ou locale (taux d’usure, passoires énergétiques, ZAN ou ZEN…), pèse sur le marché immobilier actuel, alors même que le nombre des successions, lui, semble évoluer à la hausse. La loi croissance a fortement modiﬁé le paysage notarial en augmentant drastiquement le nombre de notaires et d’ofﬁces.",
   "mots_cles": [
-    "veille professionnelle",
-    "actualité juridique"
+    "actualité juridique",
+    "formation professionnelle",
+    "transactions immobilières",
+    "veille professionnelle"
+  ],
+  "dates_mentionnees": [
+    "1936-08-13",
+    "1999-04-03",
+    "2022-06-04",
+    "2022-12-15",
+    "2022-12-31"
   ]
 }

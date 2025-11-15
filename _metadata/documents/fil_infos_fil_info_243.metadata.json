@@ -31,11 +31,52 @@
     "type": "fil_info",
     "numero": "243"
   },
-  "vocabulaire_specifique": [],
+  "vocabulaire_specifique": [
+    {
+      "terme": "LCB-FT",
+      "synonymes": [
+        "lutte contre le blanchiment",
+        "anti-blanchiment"
+      ],
+      "definition": "",
+      "contexte_utilisation": "Mentionné 5 fois dans le document"
+    },
+    {
+      "terme": "minute",
+      "synonymes": [
+        "original de l'acte",
+        "archive notariale"
+      ],
+      "definition": "",
+      "contexte_utilisation": "Mentionné 1 fois dans le document"
+    },
+    {
+      "terme": "conseil supérieur du notariat",
+      "synonymes": [
+        "CSN"
+      ],
+      "definition": "",
+      "contexte_utilisation": "Mentionné 1 fois dans le document"
+    },
+    {
+      "terme": "prévoyance",
+      "synonymes": [
+        "protection sociale",
+        "assurance"
+      ],
+      "definition": "",
+      "contexte_utilisation": "Mentionné 1 fois dans le document"
+    }
+  ],
   "questions_typiques": [
-    "Quelles sont les actualités juridiques importantes de ce numéro ?",
+    "Quelles sont les tendances du marché immobilier ?",
+    "Comment financer ces formations ?",
+    "Quels sont les montants de franchise ?",
     "Y a-t-il des alertes ou points de vigilance pour les notaires ?",
-    "Quelles sont les échéances mentionnées ?"
+    "Quelles sont les échéances mentionnées ?",
+    "Quelles formations sont concernées par ce document ?",
+    "Quelles sont les actualités juridiques importantes de ce numéro ?",
+    "Comment analyser ces données pour mon secteur ?"
   ],
   "relations_documentaires": {
     "remplace": [],
@@ -43,9 +84,19 @@
     "reference": [],
     "complete": []
   },
-  "resume": "Document de type Fil-Info",
+  "resume": "Semaine du 16 mai 2022 au 22 mai 2022 N° 243 VANITÉ DES VANITÉS... La maxime de l’Ecclésiaste, même si je mesure comme Salomon les égarements et les travers d’une vie d’Homme, ne saurait empêcher ce sentiment de ﬁerté qui anime mes derniers jours au siège que vous m’avez conﬁé. - Fier de servir une profession, qui loin de l’entre-soi décrit par les éternelles Cassandre, s’ouvre pleinement à la société contemporaine.",
   "mots_cles": [
-    "veille professionnelle",
-    "actualité juridique"
+    "actualité juridique",
+    "assurance professionnelle",
+    "formation professionnelle",
+    "transactions immobilières",
+    "veille professionnelle"
+  ],
+  "dates_mentionnees": [
+    "2022-05-16",
+    "2022-05-22",
+    "2022-05-30",
+    "2022-06-20",
+    "2022-09-26"
   ]
 }

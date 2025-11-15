@@ -31,21 +31,54 @@
     "type": "fil_info",
     "numero": "2903"
   },
-  "vocabulaire_specifique": [],
+  "vocabulaire_specifique": [
+    {
+      "terme": "conseil supérieur du notariat",
+      "synonymes": [
+        "CSN"
+      ],
+      "definition": "",
+      "contexte_utilisation": "Mentionné 1 fois dans le document"
+    },
+    {
+      "terme": "cybersécurité",
+      "synonymes": [
+        "sécurité informatique",
+        "cyber-risques"
+      ],
+      "definition": "",
+      "contexte_utilisation": "Mentionné 1 fois dans le document"
+    }
+  ],
   "questions_typiques": [
-    "Quelles sont les actualités juridiques importantes de ce numéro ?",
+    "Quelles sont les obligations de sécurité informatique ?",
+    "Comment financer ces formations ?",
+    "Comment se protéger contre les cyberattaques ?",
     "Y a-t-il des alertes ou points de vigilance pour les notaires ?",
-    "Quelles sont les échéances mentionnées ?"
+    "Quelles sont les échéances mentionnées ?",
+    "Quelles formations sont concernées par ce document ?",
+    "Quelles sont les actualités juridiques importantes de ce numéro ?"
   ],
   "relations_documentaires": {
     "remplace": [],
     "modifie": [],
-    "reference": [],
+    "reference": [
+      "Article 27"
+    ],
     "complete": []
   },
-  "resume": "Document de type Fil-Info",
+  "resume": "Semaine du 05 mai 2025 au 1 1 mai 2025 N° 2903 Un partenariat au service de notre ambition. Depuis plusieurs années, notre compagnie s’afﬁrme comme un véritable moteur d’innovation au sein du notariat français. Si toutes ces actions ont pu voir le jour, c’est grâce à l’appui indéfectible de la Banque des Territoires, formalisé dans le cadre du partenariat « Notaires et T erritoires ».",
   "mots_cles": [
-    "veille professionnelle",
-    "actualité juridique"
+    "actualité juridique",
+    "cybersécurité",
+    "formation professionnelle",
+    "veille professionnelle"
+  ],
+  "dates_mentionnees": [
+    "1945-12-19",
+    "2025-02-28",
+    "2025-04-30",
+    "2025-05-01",
+    "2025-05-05"
   ]
 }

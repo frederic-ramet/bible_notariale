@@ -31,11 +31,22 @@
     "type": "fil_info",
     "numero": "2865"
   },
-  "vocabulaire_specifique": [],
+  "vocabulaire_specifique": [
+    {
+      "terme": "conseil supérieur du notariat",
+      "synonymes": [
+        "CSN"
+      ],
+      "definition": "",
+      "contexte_utilisation": "Mentionné 1 fois dans le document"
+    }
+  ],
   "questions_typiques": [
-    "Quelles sont les actualités juridiques importantes de ce numéro ?",
+    "Comment financer ces formations ?",
     "Y a-t-il des alertes ou points de vigilance pour les notaires ?",
-    "Quelles sont les échéances mentionnées ?"
+    "Quelles sont les échéances mentionnées ?",
+    "Quelles formations sont concernées par ce document ?",
+    "Quelles sont les actualités juridiques importantes de ce numéro ?"
   ],
   "relations_documentaires": {
     "remplace": [],
@@ -43,9 +54,17 @@
     "reference": [],
     "complete": []
   },
-  "resume": "Document de type Fil-Info",
+  "resume": "Semaine du 10 juin 2024 au 16 juin 2024 N° 2865 Ne cessons jamais d'apprendre et de nous former. En ce début de mandat, je remercie François PERRON, pour son engagement et le temps qu’il a consacré non seulement à la communication, mais aussi à la promotion du notariat normand auprès des étudiants et universitaires. Bien évidemment, mes remerciements s’adressent également à ses associés qui lui ont permis de mener cette double mission.",
   "mots_cles": [
-    "veille professionnelle",
-    "actualité juridique"
+    "actualité juridique",
+    "formation professionnelle",
+    "veille professionnelle"
+  ],
+  "dates_mentionnees": [
+    "2024-06-10",
+    "2024-06-16",
+    "2024-06-25",
+    "2024-09-29",
+    "2024-11-19"
   ]
 }

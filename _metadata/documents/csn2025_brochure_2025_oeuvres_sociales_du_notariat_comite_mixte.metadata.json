@@ -13,11 +13,11 @@
     "statut": "en_vigueur"
   },
   "classification": {
-    "type_document": "circulaire_csn",
-    "label": "Circulaire CSN",
+    "type_document": "guide_pratique",
+    "label": "Guide pratique",
     "domaines_juridiques": [
-      "réglementation notariale",
-      "instructions professionnelles"
+      "œuvres sociales",
+      "comité mixte"
     ],
     "public_cible": [
       "notaires",
@@ -28,11 +28,34 @@
     "categorie_dossier": "CSN2025"
   },
   "reference": null,
-  "vocabulaire_specifique": [],
+  "vocabulaire_specifique": [
+    {
+      "terme": "conseil supérieur du notariat",
+      "synonymes": [
+        "CSN"
+      ],
+      "definition": "",
+      "contexte_utilisation": "Mentionné 3 fois dans le document"
+    },
+    {
+      "terme": "rémunération",
+      "synonymes": [
+        "salaire",
+        "traitement",
+        "émoluments"
+      ],
+      "definition": "",
+      "contexte_utilisation": "Mentionné 1 fois dans le document"
+    }
+  ],
   "questions_typiques": [
-    "Quelles sont les nouvelles obligations introduites par cette circulaire ?",
     "À quelle date cette circulaire entre-t-elle en vigueur ?",
-    "Quels offices sont concernés par ces instructions ?"
+    "Quel est l'impact sur la rémunération des salariés ?",
+    "Quels offices sont concernés par ces instructions ?",
+    "Quelles sont les nouvelles grilles de salaires ?",
+    "Quelles sont les modalités de prise de congés ?",
+    "Comment sont calculés les droits à congés ?",
+    "Quelles sont les nouvelles obligations introduites par cette circulaire ?"
   ],
   "relations_documentaires": {
     "remplace": [],
@@ -40,9 +63,18 @@
     "reference": [],
     "complete": []
   },
-  "resume": "Document de type Circulaire CSN",
+  "resume": "Conditions 3 ans d’ancienneté ininterrompue dans le notariat soit du 1erjanvier 2022 au 31 décembre 2024. Pour les attestations d’hébergement des ascendants, seuls les revenus du demandeur sont pris en compte. Pour les autres attestations d’hébergement, les revenus de l’hébergeant sont demandés.",
   "mots_cles": [
+    "congés payés",
+    "instructions professionnelles",
     "réglementation notariale",
-    "instructions professionnelles"
+    "rémunération"
+  ],
+  "dates_mentionnees": [
+    "2024-12-31",
+    "2025-01-02",
+    "2025-05-31",
+    "2025-09-02",
+    "2025-10-31"
   ]
 }

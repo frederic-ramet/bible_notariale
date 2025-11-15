@@ -6,7 +6,7 @@
     "titre": "2022 02 Circulaire CSN les frais de recherche et de copie d acte et de leurs annexes",
     "titre_court": "2022 02 Circulaire CSN les frais de recherche et d",
     "date_publication": "2022-01-01",
-    "date_effet": "2022-01-01",
+    "date_effet": "2022-05-12",
     "version": "1.0",
     "langue": "fr",
     "auteur": "CSN",
@@ -28,11 +28,50 @@
     "categorie_dossier": "CSN2022"
   },
   "reference": null,
-  "vocabulaire_specifique": [],
+  "vocabulaire_specifique": [
+    {
+      "terme": "conseil supérieur du notariat",
+      "synonymes": [
+        "CSN"
+      ],
+      "definition": "",
+      "contexte_utilisation": "Mentionné 1 fois dans le document"
+    },
+    {
+      "terme": "circulaire",
+      "synonymes": [
+        "instruction",
+        "note d'information"
+      ],
+      "definition": "",
+      "contexte_utilisation": "Mentionné 1 fois dans le document"
+    },
+    {
+      "terme": "rémunération",
+      "synonymes": [
+        "salaire",
+        "traitement",
+        "émoluments"
+      ],
+      "definition": "",
+      "contexte_utilisation": "Mentionné 1 fois dans le document"
+    },
+    {
+      "terme": "tarification",
+      "synonymes": [
+        "émoluments",
+        "honoraires"
+      ],
+      "definition": "",
+      "contexte_utilisation": "Mentionné 1 fois dans le document"
+    }
+  ],
   "questions_typiques": [
-    "Quelles sont les nouvelles obligations introduites par cette circulaire ?",
     "À quelle date cette circulaire entre-t-elle en vigueur ?",
-    "Quels offices sont concernés par ces instructions ?"
+    "Quels offices sont concernés par ces instructions ?",
+    "Comment financer ces formations ?",
+    "Quelles formations sont concernées par ce document ?",
+    "Quelles sont les nouvelles obligations introduites par cette circulaire ?"
   ],
   "relations_documentaires": {
     "remplace": [],
@@ -40,9 +79,13 @@
     "reference": [],
     "complete": []
   },
-  "resume": "Document de type Circulaire CSN",
+  "resume": "Les notaires sont appelés par conséquent à respecter les consignes suivantes : - La copie d’un acte ne peut être facturée que par l’émolument de formalité tel que prévu par l’article A. 444 -173 du code de commerce , soit 0,38 € par page. - Ces émoluments s’ appliquent également à l’ensemble des annexes d’un acte, quelle que soit leur nature et comprennent les frais de recherche.",
   "mots_cles": [
-    "réglementation notariale",
-    "instructions professionnelles"
+    "formation professionnelle",
+    "instructions professionnelles",
+    "réglementation notariale"
+  ],
+  "dates_mentionnees": [
+    "2022-05-12"
   ]
 }

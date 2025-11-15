@@ -31,11 +31,25 @@
     "type": "fil_info",
     "numero": "2875"
   },
-  "vocabulaire_specifique": [],
+  "vocabulaire_specifique": [
+    {
+      "terme": "tarification",
+      "synonymes": [
+        "émoluments",
+        "honoraires"
+      ],
+      "definition": "",
+      "contexte_utilisation": "Mentionné 1 fois dans le document"
+    }
+  ],
   "questions_typiques": [
-    "Quelles sont les actualités juridiques importantes de ce numéro ?",
+    "Quelles sont les tendances du marché immobilier ?",
+    "Comment financer ces formations ?",
     "Y a-t-il des alertes ou points de vigilance pour les notaires ?",
-    "Quelles sont les échéances mentionnées ?"
+    "Quelles sont les échéances mentionnées ?",
+    "Quelles formations sont concernées par ce document ?",
+    "Quelles sont les actualités juridiques importantes de ce numéro ?",
+    "Comment analyser ces données pour mon secteur ?"
   ],
   "relations_documentaires": {
     "remplace": [],
@@ -43,9 +57,15 @@
     "reference": [],
     "complete": []
   },
-  "resume": "Document de type Fil-Info",
+  "resume": "Semaine du 23 septembre 2024 au 29 septembre 2024 N° 2875 COMMENT DEVIENT-ON MAGISTRAT À TITRE TEMPORAIRE. Lorsque j’ai été nommée juge de proximité en juillet 2012, j’étais loin de me douter que je serais encore au service de la justice une dizaine d’années plus tard. En juillet 2017, le statut de juge de proximité a été remplacé par celui de magistrat à titre temporaire ou MTT, le mandat passant de 7 à 5 ans mais renouvelable une fois.",
   "mots_cles": [
-    "veille professionnelle",
-    "actualité juridique"
+    "actualité juridique",
+    "formation professionnelle",
+    "transactions immobilières",
+    "veille professionnelle"
+  ],
+  "dates_mentionnees": [
+    "2024-09-23",
+    "2024-09-29"
   ]
 }

@@ -31,11 +31,31 @@
     "type": "fil_info",
     "numero": "2890"
   },
-  "vocabulaire_specifique": [],
+  "vocabulaire_specifique": [
+    {
+      "terme": "minute",
+      "synonymes": [
+        "original de l'acte",
+        "archive notariale"
+      ],
+      "definition": "",
+      "contexte_utilisation": "Mentionné 1 fois dans le document"
+    },
+    {
+      "terme": "conseil supérieur du notariat",
+      "synonymes": [
+        "CSN"
+      ],
+      "definition": "",
+      "contexte_utilisation": "Mentionné 1 fois dans le document"
+    }
+  ],
   "questions_typiques": [
-    "Quelles sont les actualités juridiques importantes de ce numéro ?",
+    "Comment financer ces formations ?",
     "Y a-t-il des alertes ou points de vigilance pour les notaires ?",
-    "Quelles sont les échéances mentionnées ?"
+    "Quelles sont les échéances mentionnées ?",
+    "Quelles formations sont concernées par ce document ?",
+    "Quelles sont les actualités juridiques importantes de ce numéro ?"
   ],
   "relations_documentaires": {
     "remplace": [],
@@ -43,9 +63,17 @@
     "reference": [],
     "complete": []
   },
-  "resume": "Document de type Fil-Info",
+  "resume": "Semaine du 27 janvier 2025 au 02 février 2025 N° 2890 Tour d’horizon des principales difﬁcultés rencontrées en matière de plus-values immobilières Le calcul des plus-values immobilières suscite régulièrement des interrogations. Pourtant, une maîtrise précise de ces règles peut faire la dif férence entre un conseil éclairé et une erreur pouvant impacter fortement les intérêts de vos clients. Aﬁn de renforcer votre expertise et d’éclairer les zones d’ombre persistantes sur le sujet, je vous donne rendez-vous à Caen le mardi 18 mars prochain pour une journée de formation organisée par la Chambre.",
   "mots_cles": [
-    "veille professionnelle",
-    "actualité juridique"
+    "actualité juridique",
+    "formation professionnelle",
+    "veille professionnelle"
+  ],
+  "dates_mentionnees": [
+    "2024-11-04",
+    "2025-01-27",
+    "2025-02-02",
+    "2025-03-30",
+    "2025-06-30"
   ]
 }

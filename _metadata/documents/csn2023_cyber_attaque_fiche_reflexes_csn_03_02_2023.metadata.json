@@ -13,11 +13,11 @@
     "statut": "en_vigueur"
   },
   "classification": {
-    "type_document": "circulaire_csn",
-    "label": "Circulaire CSN",
+    "type_document": "guide_pratique",
+    "label": "Guide pratique",
     "domaines_juridiques": [
-      "réglementation notariale",
-      "instructions professionnelles"
+      "cybersécurité",
+      "procédures d'urgence"
     ],
     "public_cible": [
       "notaires",
@@ -28,11 +28,23 @@
     "categorie_dossier": "CSN2023"
   },
   "reference": null,
-  "vocabulaire_specifique": [],
+  "vocabulaire_specifique": [
+    {
+      "terme": "RGPD",
+      "synonymes": [
+        "protection des données",
+        "données personnelles"
+      ],
+      "definition": "",
+      "contexte_utilisation": "Mentionné 1 fois dans le document"
+    }
+  ],
   "questions_typiques": [
-    "Quelles sont les nouvelles obligations introduites par cette circulaire ?",
     "À quelle date cette circulaire entre-t-elle en vigueur ?",
-    "Quels offices sont concernés par ces instructions ?"
+    "Quelles sont les obligations de sécurité informatique ?",
+    "Quels offices sont concernés par ces instructions ?",
+    "Comment se protéger contre les cyberattaques ?",
+    "Quelles sont les nouvelles obligations introduites par cette circulaire ?"
   ],
   "relations_documentaires": {
     "remplace": [],
@@ -40,10 +52,10 @@
     "reference": [],
     "complete": []
   },
-  "resume": "Document de type Circulaire CSN",
+  "resume": "Fiche réflexesC y b er- a tt a q ue s L es 1 5 p o i n t s r é f l ex es en c a s d e c y b er - a t t a q u es Voici une conduite à tenir en 15 points, qui suppose une parfaite coordination entre les notaires et les collaborateurs de l’office. Ces éléments complètent le Plan de Continuité d’Activité que vous avez peut-être déjà établi. Da n s l e pr emi e r q u a r t d ’h eu r e 1.Isolez l’ordinateur en débranchant les connectiques électriques et réseaux, filaire ou Wifi, de l'ordinateur identifié pour l’extraire du système informatique et éviter toute propagation.",
   "mots_cles": [
-    "réglementation notariale",
+    "cybersécurité",
     "instructions professionnelles",
-    "cybersécurité"
+    "réglementation notariale"
   ]
 }

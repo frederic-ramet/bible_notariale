@@ -31,21 +31,70 @@
     "type": "fil_info",
     "numero": "2833"
   },
-  "vocabulaire_specifique": [],
+  "vocabulaire_specifique": [
+    {
+      "terme": "OPCO",
+      "synonymes": [
+        "opérateur de compétences"
+      ],
+      "definition": "",
+      "contexte_utilisation": "Mentionné 4 fois dans le document"
+    },
+    {
+      "terme": "conseil supérieur du notariat",
+      "synonymes": [
+        "CSN"
+      ],
+      "definition": "",
+      "contexte_utilisation": "Mentionné 1 fois dans le document"
+    },
+    {
+      "terme": "circulaire",
+      "synonymes": [
+        "instruction",
+        "note d'information"
+      ],
+      "definition": "",
+      "contexte_utilisation": "Mentionné 1 fois dans le document"
+    },
+    {
+      "terme": "cybersécurité",
+      "synonymes": [
+        "sécurité informatique",
+        "cyber-risques"
+      ],
+      "definition": "",
+      "contexte_utilisation": "Mentionné 1 fois dans le document"
+    }
+  ],
   "questions_typiques": [
-    "Quelles sont les actualités juridiques importantes de ce numéro ?",
+    "Quelles sont les obligations de sécurité informatique ?",
+    "Comment financer ces formations ?",
+    "Comment se protéger contre les cyberattaques ?",
     "Y a-t-il des alertes ou points de vigilance pour les notaires ?",
-    "Quelles sont les échéances mentionnées ?"
+    "Quelles sont les échéances mentionnées ?",
+    "Quelles formations sont concernées par ce document ?",
+    "Quelles sont les actualités juridiques importantes de ce numéro ?"
   ],
   "relations_documentaires": {
     "remplace": [],
     "modifie": [],
-    "reference": [],
+    "reference": [
+      "Article 16.1"
+    ],
     "complete": []
   },
-  "resume": "Document de type Fil-Info",
+  "resume": "Cette migration a débuté ce 1er octobre pour s’achever ﬁn mars 2024. Depuis ce 1er octobre, l’utilisation du nom de domaine de la profession [.notaires.fr] s’impose, en toutes circonstances, aux ofﬁces. Chaque ofﬁce devra disposer d’une adresse de messagerie personnalisée constituant son identité numérique et dont le nommage sera contrôlé par la Chambre.",
   "mots_cles": [
-    "veille professionnelle",
-    "actualité juridique"
+    "actualité juridique",
+    "cybersécurité",
+    "formation professionnelle",
+    "veille professionnelle"
+  ],
+  "dates_mentionnees": [
+    "2023-09-15",
+    "2023-10-09",
+    "2023-10-15",
+    "2023-12-05"
   ]
 }

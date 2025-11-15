@@ -31,21 +31,45 @@
     "type": "fil_info",
     "numero": "279"
   },
-  "vocabulaire_specifique": [],
+  "vocabulaire_specifique": [
+    {
+      "terme": "conseil supérieur du notariat",
+      "synonymes": [
+        "CSN"
+      ],
+      "definition": "",
+      "contexte_utilisation": "Mentionné 4 fois dans le document"
+    }
+  ],
   "questions_typiques": [
-    "Quelles sont les actualités juridiques importantes de ce numéro ?",
+    "Quelles sont les tendances du marché immobilier ?",
+    "Comment financer ces formations ?",
     "Y a-t-il des alertes ou points de vigilance pour les notaires ?",
-    "Quelles sont les échéances mentionnées ?"
+    "Quelles sont les échéances mentionnées ?",
+    "Quelles formations sont concernées par ce document ?",
+    "Quelles sont les actualités juridiques importantes de ce numéro ?",
+    "Comment analyser ces données pour mon secteur ?"
   ],
   "relations_documentaires": {
     "remplace": [],
     "modifie": [],
-    "reference": [],
+    "reference": [
+      "Article 16.1"
+    ],
     "complete": []
   },
-  "resume": "Document de type Fil-Info",
+  "resume": "Nous disposons actuellement d’un article dans notre règlement national et de quelques notes sur le site du CSN qui permettent à la Chambre de demander aux notaires de modiﬁer leur dénomination, mais les critères sont assez ﬂous. Gouverner c’est prévoir et sur le sujet des dénominations, mieux vaut anticiper les effets du projet du Règlement Professionnel du Notariat (RPN), en cours d’examen par la Direction des affaires civiles et du sceau et en attente de validation par l'Autorité de la Concurrence. Loin d’assouplir les règles de dénomination de nos ofﬁces, il nous donne en revanche plus de précisions quant aux interdictions.",
   "mots_cles": [
-    "veille professionnelle",
-    "actualité juridique"
+    "actualité juridique",
+    "formation professionnelle",
+    "transactions immobilières",
+    "veille professionnelle"
+  ],
+  "dates_mentionnees": [
+    "2022-06-04",
+    "2023-02-27",
+    "2023-03-05",
+    "2023-03-24",
+    "2023-03-26"
   ]
 }

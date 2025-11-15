@@ -31,21 +31,46 @@
     "type": "fil_info",
     "numero": "241"
   },
-  "vocabulaire_specifique": [],
+  "vocabulaire_specifique": [
+    {
+      "terme": "LCB-FT",
+      "synonymes": [
+        "lutte contre le blanchiment",
+        "anti-blanchiment"
+      ],
+      "definition": "",
+      "contexte_utilisation": "Mentionné 4 fois dans le document"
+    }
+  ],
   "questions_typiques": [
-    "Quelles sont les actualités juridiques importantes de ce numéro ?",
+    "Quelles sont les tendances du marché immobilier ?",
+    "Comment financer ces formations ?",
     "Y a-t-il des alertes ou points de vigilance pour les notaires ?",
-    "Quelles sont les échéances mentionnées ?"
+    "Quelles sont les échéances mentionnées ?",
+    "Quelles formations sont concernées par ce document ?",
+    "Quelles sont les actualités juridiques importantes de ce numéro ?",
+    "Comment analyser ces données pour mon secteur ?"
   ],
   "relations_documentaires": {
     "remplace": [],
     "modifie": [],
-    "reference": [],
+    "reference": [
+      "Décret 2022-750"
+    ],
     "complete": []
   },
-  "resume": "Document de type Fil-Info",
+  "resume": "Semaine du 02 mai 2022 au 08 mai 2022 N° 241 Nous sommes tous les enfants de Jacques DESVAGES. D’un seul regard, tant dans le costume que dans le geste, il est aisé de reconnaitre la posture d’un homme qui a fait de son apparence une signature, celle de la mesure, de la tempérance, de la courtoisie, du respect et de l’Humanisme. Jacques DESV AGES et Edith BRILLANT , ont décidé de quitter le théâtre de leurs succès pour jouir d’une retraite bien méritée.",
   "mots_cles": [
-    "veille professionnelle",
-    "actualité juridique"
+    "actualité juridique",
+    "formation professionnelle",
+    "transactions immobilières",
+    "veille professionnelle"
+  ],
+  "dates_mentionnees": [
+    "2022-04-29",
+    "2022-04-30",
+    "2022-05-02",
+    "2022-05-08",
+    "2022-05-10"
   ]
 }

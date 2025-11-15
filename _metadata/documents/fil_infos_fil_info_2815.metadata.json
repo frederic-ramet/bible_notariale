@@ -31,11 +31,25 @@
     "type": "fil_info",
     "numero": "2815"
   },
-  "vocabulaire_specifique": [],
+  "vocabulaire_specifique": [
+    {
+      "terme": "minute",
+      "synonymes": [
+        "original de l'acte",
+        "archive notariale"
+      ],
+      "definition": "",
+      "contexte_utilisation": "Mentionné 2 fois dans le document"
+    }
+  ],
   "questions_typiques": [
-    "Quelles sont les actualités juridiques importantes de ce numéro ?",
+    "Quelles sont les obligations de sécurité informatique ?",
+    "Comment financer ces formations ?",
+    "Comment se protéger contre les cyberattaques ?",
     "Y a-t-il des alertes ou points de vigilance pour les notaires ?",
-    "Quelles sont les échéances mentionnées ?"
+    "Quelles sont les échéances mentionnées ?",
+    "Quelles formations sont concernées par ce document ?",
+    "Quelles sont les actualités juridiques importantes de ce numéro ?"
   ],
   "relations_documentaires": {
     "remplace": [],
@@ -43,9 +57,16 @@
     "reference": [],
     "complete": []
   },
-  "resume": "Document de type Fil-Info",
+  "resume": "Semaine du 17 avril 2023 au 23 avril 2023 N° 2815 \"Dernières volontés\" : Un escape game pour faire connaître le notariat L’attractivité du notariat est au cœur des préoccupations de la Chambre, malgré le ralentissement ponctuel de l’activité dans les ofﬁces. Le renouvellement générationnel lié au Papy boom est enclenché, et la profession doit poursuivre sa communication sur le long terme, pour rendre le notariat visible et attractif. Dans la continuité de l’esprit décalé qui l’anime, la Chambre a souhaité initier une communication différenciante dans le but d'impacter et de faire le buzz.",
   "mots_cles": [
-    "veille professionnelle",
-    "actualité juridique"
+    "actualité juridique",
+    "cybersécurité",
+    "formation professionnelle",
+    "veille professionnelle"
+  ],
+  "dates_mentionnees": [
+    "2023-04-17",
+    "2023-04-23",
+    "2023-09-26"
   ]
 }

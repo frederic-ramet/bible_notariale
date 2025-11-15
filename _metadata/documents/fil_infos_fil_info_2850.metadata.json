@@ -31,11 +31,24 @@
     "type": "fil_info",
     "numero": "2850"
   },
-  "vocabulaire_specifique": [],
+  "vocabulaire_specifique": [
+    {
+      "terme": "conseil supérieur du notariat",
+      "synonymes": [
+        "CSN"
+      ],
+      "definition": "",
+      "contexte_utilisation": "Mentionné 6 fois dans le document"
+    }
+  ],
   "questions_typiques": [
-    "Quelles sont les actualités juridiques importantes de ce numéro ?",
+    "Comment financer ces formations ?",
+    "Quels sont les montants de franchise ?",
     "Y a-t-il des alertes ou points de vigilance pour les notaires ?",
-    "Quelles sont les échéances mentionnées ?"
+    "Quelles sont les échéances mentionnées ?",
+    "Quelles formations sont concernées par ce document ?",
+    "Quelles sont les actualités juridiques importantes de ce numéro ?",
+    "Quelles garanties sont couvertes ?"
   ],
   "relations_documentaires": {
     "remplace": [],
@@ -43,9 +56,17 @@
     "reference": [],
     "complete": []
   },
-  "resume": "Document de type Fil-Info",
+  "resume": "Semaine du 19 février 2024 au 25 février 2024 N° 2850 Le Pacte Dutreil a 20 ans. Et il pourrait bien fêter son dernier anniversaire... Il y a maintenant plus de 20 ans, Renaud Dutreil, alors Secrétaire d'Etat du Président Chirac, mettait en place un dispositif d'allègement ﬁscal de la transmission d'entreprise, matérialisé par la loi du 1er août 2003 pour l’initiative économique.",
   "mots_cles": [
-    "veille professionnelle",
-    "actualité juridique"
+    "actualité juridique",
+    "formation professionnelle",
+    "veille professionnelle"
+  ],
+  "dates_mentionnees": [
+    "2024-02-19",
+    "2024-02-25",
+    "2024-03-15",
+    "2024-03-24",
+    "2024-06-02"
   ]
 }

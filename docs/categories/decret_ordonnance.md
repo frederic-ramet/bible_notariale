@@ -17,7 +17,7 @@ l'exercice de la profession.
 
 ## Statistiques
 
-- **Nombre de documents** : 5
+- **Nombre de documents** : 6
 - **Période couverte** : 2022 - 2025
 - **Document le plus récent** : 2025-01-15
 - **Document le plus ancien** : 2022-01-01
@@ -29,11 +29,12 @@ l'exercice de la profession.
 
 ### Sources
 
+- **CSN2023** : 1 documents
 - **racine** : 5 documents
 
 ### Thématiques principales
 
-législation, textes réglementaires
+assurance professionnelle, congés payés, formation professionnelle, instructions professionnelles, législation, procédure disciplinaire, réglementation notariale, rémunération, textes réglementaires, transactions immobilières
 
 ---
 
@@ -46,7 +47,7 @@ législation, textes réglementaires
 *2 documents*
 
 ### 2023
-*1 documents*
+*2 documents*
 
 ### 2022
 *1 documents*
@@ -61,8 +62,9 @@ législation, textes réglementaires
 | 2024-03-01 |  | [d 67 868 v conso 20240301](../../sources_documentaires/d_67-868_v_conso_20240301.pdf) | racine |
 | 2024-03-01 |  | [d 71 942 v conso 20240301](../../sources_documentaires/d_71-942_v_conso_20240301.pdf) | racine |
 | 2023-01-01 |  | [d 56 220 version consolidee 20230101](../../sources_documentaires/d_56-220_version_consolidee_20230101.pdf) | racine |
+| 2023-01-01 |  | [Ordonnance PLR 8.02.23](../../sources_documentaires/CSN2023/Ordonnance PLR 8.02.23.pdf) | CSN2023 |
 | 2022-01-01 |  | [JO ORDO 2022 04 13](../../sources_documentaires/JO ORDO 2022 04 13.pdf) | racine |
 
 ---
 
-*Page générée automatiquement le 15/11/2025 à 08:02*
+*Page générée automatiquement le 15/11/2025 à 08:12*

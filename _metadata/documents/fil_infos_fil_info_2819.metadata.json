@@ -33,19 +33,33 @@
   },
   "vocabulaire_specifique": [],
   "questions_typiques": [
-    "Quelles sont les actualités juridiques importantes de ce numéro ?",
+    "Comment financer ces formations ?",
+    "Quels sont les montants de franchise ?",
     "Y a-t-il des alertes ou points de vigilance pour les notaires ?",
-    "Quelles sont les échéances mentionnées ?"
+    "Quelles sont les échéances mentionnées ?",
+    "Quelles formations sont concernées par ce document ?",
+    "Quelles sont les actualités juridiques importantes de ce numéro ?",
+    "Quelles garanties sont couvertes ?"
   ],
   "relations_documentaires": {
     "remplace": [],
     "modifie": [],
-    "reference": [],
+    "reference": [
+      "Article 27"
+    ],
     "complete": []
   },
-  "resume": "Document de type Fil-Info",
+  "resume": "Semaine du 22 mai 2023 au 28 mai 2023 N° 2819 LE NOTARIAT FAIT SON CINÉMA. DEAUVILLE - 26 SEPTEMBRE 2023 Nous avons la chance et l’honneur de recevoir à DEAUVILLE du 27 au 29 septembre, le 119è Congrès des Notaires de France. Pour fêter cet évènement, la Chambre organise une grande soirée dédiée au 7e Art, la veille de l’ouverture des travaux.",
   "mots_cles": [
-    "veille professionnelle",
-    "actualité juridique"
+    "actualité juridique",
+    "formation professionnelle",
+    "veille professionnelle"
+  ],
+  "dates_mentionnees": [
+    "1945-12-19",
+    "2023-04-15",
+    "2023-05-22",
+    "2023-05-28",
+    "2023-09-26"
   ]
 }

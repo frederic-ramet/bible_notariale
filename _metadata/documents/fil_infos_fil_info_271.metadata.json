@@ -31,21 +31,49 @@
     "type": "fil_info",
     "numero": "271"
   },
-  "vocabulaire_specifique": [],
+  "vocabulaire_specifique": [
+    {
+      "terme": "rémunération",
+      "synonymes": [
+        "salaire",
+        "traitement",
+        "émoluments"
+      ],
+      "definition": "",
+      "contexte_utilisation": "Mentionné 1 fois dans le document"
+    }
+  ],
   "questions_typiques": [
-    "Quelles sont les actualités juridiques importantes de ce numéro ?",
+    "Quel est l'impact sur la rémunération des salariés ?",
+    "Quelles sont les tendances du marché immobilier ?",
+    "Comment financer ces formations ?",
+    "Quelles sont les nouvelles grilles de salaires ?",
     "Y a-t-il des alertes ou points de vigilance pour les notaires ?",
-    "Quelles sont les échéances mentionnées ?"
+    "Quelles sont les échéances mentionnées ?",
+    "Quelles formations sont concernées par ce document ?",
+    "Quelles sont les actualités juridiques importantes de ce numéro ?"
   ],
   "relations_documentaires": {
     "remplace": [],
     "modifie": [],
-    "reference": [],
+    "reference": [
+      "Article 27"
+    ],
     "complete": []
   },
-  "resume": "Document de type Fil-Info",
+  "resume": "Semaine du 19 décembre 2022 au 25 décembre 2022 N° 271 Le juge, l'avocat et le notaire... Je remercie pour leur investissement dans ce travail François PERRON, vice-président de mon bureau et Christophe COQUELIN, membre du centre de médiation notariale de notre Chambre. Nous devons nous approprier cette charte, outil pratique, pédagogique, riche de modèles que vous trouverez dans ce Fil.",
   "mots_cles": [
-    "veille professionnelle",
-    "actualité juridique"
+    "actualité juridique",
+    "formation professionnelle",
+    "rémunération",
+    "transactions immobilières",
+    "veille professionnelle"
+  ],
+  "dates_mentionnees": [
+    "1945-12-19",
+    "2022-11-21",
+    "2022-12-17",
+    "2022-12-19",
+    "2022-12-25"
   ]
 }

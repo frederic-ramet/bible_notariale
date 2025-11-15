@@ -31,11 +31,23 @@
     "type": "fil_info",
     "numero": "268"
   },
-  "vocabulaire_specifique": [],
+  "vocabulaire_specifique": [
+    {
+      "terme": "minute",
+      "synonymes": [
+        "original de l'acte",
+        "archive notariale"
+      ],
+      "definition": "",
+      "contexte_utilisation": "Mentionné 1 fois dans le document"
+    }
+  ],
   "questions_typiques": [
-    "Quelles sont les actualités juridiques importantes de ce numéro ?",
+    "Comment financer ces formations ?",
     "Y a-t-il des alertes ou points de vigilance pour les notaires ?",
-    "Quelles sont les échéances mentionnées ?"
+    "Quelles sont les échéances mentionnées ?",
+    "Quelles formations sont concernées par ce document ?",
+    "Quelles sont les actualités juridiques importantes de ce numéro ?"
   ],
   "relations_documentaires": {
     "remplace": [],
@@ -43,9 +55,17 @@
     "reference": [],
     "complete": []
   },
-  "resume": "Document de type Fil-Info",
+  "resume": "Semaine du 28 novembre 2022 au 04 décembre 2022 N° 268 C'EST QUI LES PLUS FORTS, ÉPISODE 2 Et de deux. L’année 2022 aura décidément été un millésime exceptionnel pour notre Chambre, puisque le mapping \"Le Droit impertinent\", projeté en février place Guillouard, a été primé le 24 novembre dernier aux Trophées de la communication de Normandie. Notre ambition était, en transformant la façade de la Chambre des notaires en écran de cinéma géant, d’interpeler le grand public, d’éveiller sa curiosité, et de l’emmener sur la Planète droit d’une manière ludique et insolite.",
   "mots_cles": [
-    "veille professionnelle",
-    "actualité juridique"
+    "actualité juridique",
+    "formation professionnelle",
+    "veille professionnelle"
+  ],
+  "dates_mentionnees": [
+    "2022-11-28",
+    "2022-12-04",
+    "2022-12-09",
+    "2022-12-17",
+    "2023-01-01"
   ]
 }

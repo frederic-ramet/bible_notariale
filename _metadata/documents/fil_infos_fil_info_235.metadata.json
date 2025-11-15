@@ -31,11 +31,25 @@
     "type": "fil_info",
     "numero": "235"
   },
-  "vocabulaire_specifique": [],
+  "vocabulaire_specifique": [
+    {
+      "terme": "conseil supérieur du notariat",
+      "synonymes": [
+        "CSN"
+      ],
+      "definition": "",
+      "contexte_utilisation": "Mentionné 1 fois dans le document"
+    }
+  ],
   "questions_typiques": [
-    "Quelles sont les actualités juridiques importantes de ce numéro ?",
+    "Quelles sont les tendances du marché immobilier ?",
+    "Quelle est la procédure de licenciement applicable ?",
+    "Comment financer ces formations ?",
     "Y a-t-il des alertes ou points de vigilance pour les notaires ?",
-    "Quelles sont les échéances mentionnées ?"
+    "Quelles sont les échéances mentionnées ?",
+    "Quels sont les délais à respecter ?",
+    "Quelles formations sont concernées par ce document ?",
+    "Quelles sont les actualités juridiques importantes de ce numéro ?"
   ],
   "relations_documentaires": {
     "remplace": [],
@@ -43,9 +57,17 @@
     "reference": [],
     "complete": []
   },
-  "resume": "Document de type Fil-Info",
+  "resume": "Cette forte mobilisation démontre une fois de plus, le dynamisme de notre compagnie et son intérêt pour comprendre et anticiper les ressorts d’un exercice professionnel en pleine mutation via les fusions, mutualisations et restructurations diverses. Les confrères qui ont assisté à ce premier rendez-vous ont compris l’intérêt qu’ils auront à bénéﬁci er de ce regard externe, personnalisé et conﬁdentiel de la part des consultants de KPMG. Cet accompagnement qualiﬁé qui a déjà fait ses preuves dans 300 ofﬁces, leur permettra d’identiﬁer les leviers de développement local et, si cela est opportun, les pistes de rapprochement les plus adaptés à leur situation.",
   "mots_cles": [
-    "veille professionnelle",
-    "actualité juridique"
+    "actualité juridique",
+    "formation professionnelle",
+    "transactions immobilières",
+    "veille professionnelle"
+  ],
+  "dates_mentionnees": [
+    "2022-03-21",
+    "2022-03-26",
+    "2022-03-27",
+    "2022-03-30"
   ]
 }

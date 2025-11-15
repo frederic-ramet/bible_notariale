@@ -31,11 +31,43 @@
     "type": "fil_info",
     "numero": "2842"
   },
-  "vocabulaire_specifique": [],
+  "vocabulaire_specifique": [
+    {
+      "terme": "conseil supérieur du notariat",
+      "synonymes": [
+        "CSN"
+      ],
+      "definition": "",
+      "contexte_utilisation": "Mentionné 2 fois dans le document"
+    },
+    {
+      "terme": "cybersécurité",
+      "synonymes": [
+        "sécurité informatique",
+        "cyber-risques"
+      ],
+      "definition": "",
+      "contexte_utilisation": "Mentionné 2 fois dans le document"
+    },
+    {
+      "terme": "prévoyance",
+      "synonymes": [
+        "protection sociale",
+        "assurance"
+      ],
+      "definition": "",
+      "contexte_utilisation": "Mentionné 1 fois dans le document"
+    }
+  ],
   "questions_typiques": [
-    "Quelles sont les actualités juridiques importantes de ce numéro ?",
+    "Quelles sont les obligations de sécurité informatique ?",
+    "Comment financer ces formations ?",
+    "Comment se protéger contre les cyberattaques ?",
+    "Quelles sont les modalités de prise de congés ?",
     "Y a-t-il des alertes ou points de vigilance pour les notaires ?",
-    "Quelles sont les échéances mentionnées ?"
+    "Quelles sont les échéances mentionnées ?",
+    "Comment sont calculés les droits à congés ?",
+    "Quelles sont les actualités juridiques importantes de ce numéro ?"
   ],
   "relations_documentaires": {
     "remplace": [],
@@ -43,9 +75,20 @@
     "reference": [],
     "complete": []
   },
-  "resume": "Document de type Fil-Info",
+  "resume": "Semaine du 18 décembre 2023 au 24 décembre 2023 N° 2842 Une année s'achève, l'autre commence 2024, nous le pressentons tous, sera une année difﬁcile pour l'activité économique. A l'aube de ce nouveau millésime, chaque ofﬁce a été destinataire de l'échéancier d'appel de cotisation pour 2024. Comme vous le savez, la Chambre n’est que l’organe d’encaissement de vos primes d'assurance (responsabilité civile, pertes d'exploitation, Cyber , absence du collaborateur et complémentaire maladie), des cotisations dues au CSN, à la Caisse de garantie collective, au CRIDON ou encore au CNAF.",
   "mots_cles": [
-    "veille professionnelle",
-    "actualité juridique"
+    "actualité juridique",
+    "assurance professionnelle",
+    "congés payés",
+    "cybersécurité",
+    "formation professionnelle",
+    "veille professionnelle"
+  ],
+  "dates_mentionnees": [
+    "2023-11-22",
+    "2023-12-18",
+    "2023-12-21",
+    "2023-12-24",
+    "2024-01-16"
   ]
 }

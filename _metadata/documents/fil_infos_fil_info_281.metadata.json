@@ -31,11 +31,63 @@
     "type": "fil_info",
     "numero": "281"
   },
-  "vocabulaire_specifique": [],
+  "vocabulaire_specifique": [
+    {
+      "terme": "prévoyance",
+      "synonymes": [
+        "protection sociale",
+        "assurance"
+      ],
+      "definition": "",
+      "contexte_utilisation": "Mentionné 2 fois dans le document"
+    },
+    {
+      "terme": "minute",
+      "synonymes": [
+        "original de l'acte",
+        "archive notariale"
+      ],
+      "definition": "",
+      "contexte_utilisation": "Mentionné 1 fois dans le document"
+    },
+    {
+      "terme": "rémunération",
+      "synonymes": [
+        "salaire",
+        "traitement",
+        "émoluments"
+      ],
+      "definition": "",
+      "contexte_utilisation": "Mentionné 1 fois dans le document"
+    },
+    {
+      "terme": "RGPD",
+      "synonymes": [
+        "protection des données",
+        "données personnelles"
+      ],
+      "definition": "",
+      "contexte_utilisation": "Mentionné 1 fois dans le document"
+    },
+    {
+      "terme": "cybersécurité",
+      "synonymes": [
+        "sécurité informatique",
+        "cyber-risques"
+      ],
+      "definition": "",
+      "contexte_utilisation": "Mentionné 1 fois dans le document"
+    }
+  ],
   "questions_typiques": [
-    "Quelles sont les actualités juridiques importantes de ce numéro ?",
+    "Quelles sont les obligations de sécurité informatique ?",
+    "Quelles sont les tendances du marché immobilier ?",
+    "Comment financer ces formations ?",
+    "Comment se protéger contre les cyberattaques ?",
+    "Quels sont les montants de franchise ?",
     "Y a-t-il des alertes ou points de vigilance pour les notaires ?",
-    "Quelles sont les échéances mentionnées ?"
+    "Quelles sont les échéances mentionnées ?",
+    "Quelles sont les actualités juridiques importantes de ce numéro ?"
   ],
   "relations_documentaires": {
     "remplace": [],
@@ -43,9 +95,19 @@
     "reference": [],
     "complete": []
   },
-  "resume": "Document de type Fil-Info",
+  "resume": "Semaine du 13 mars 2023 au 19 mars 2023 N° 281 CYBERSÉCURITÉ LA CHAMBRE SOUSCRIT UN CONTRA T POUR LUTTER CONTRE LES FRAUDES La sécurisation de vos échanges de ﬁchiers devient primordiale face à la recrudescence des fraudes par l’interception de documents conﬁdentiels ou de RIB. Cette solution permet de sécuriser les échanges de RIB, à la transmission comme à la réception, par double-authentiﬁcation du client (pas de facturation du coût des SMS). Les documents échangés sont horodatés automatiquement et vos échanges sont tracés et archivés en France pendant 2 ans.",
   "mots_cles": [
-    "veille professionnelle",
-    "actualité juridique"
+    "actualité juridique",
+    "assurance professionnelle",
+    "cybersécurité",
+    "formation professionnelle",
+    "protection des données",
+    "veille professionnelle"
+  ],
+  "dates_mentionnees": [
+    "2023-03-13",
+    "2023-03-19",
+    "2023-07-13",
+    "2023-09-29"
   ]
 }

@@ -31,11 +31,23 @@
     "type": "fil_info",
     "numero": "2849"
   },
-  "vocabulaire_specifique": [],
+  "vocabulaire_specifique": [
+    {
+      "terme": "RGPD",
+      "synonymes": [
+        "protection des données",
+        "données personnelles"
+      ],
+      "definition": "",
+      "contexte_utilisation": "Mentionné 1 fois dans le document"
+    }
+  ],
   "questions_typiques": [
-    "Quelles sont les actualités juridiques importantes de ce numéro ?",
+    "Comment financer ces formations ?",
     "Y a-t-il des alertes ou points de vigilance pour les notaires ?",
-    "Quelles sont les échéances mentionnées ?"
+    "Quelles sont les échéances mentionnées ?",
+    "Quelles formations sont concernées par ce document ?",
+    "Quelles sont les actualités juridiques importantes de ce numéro ?"
   ],
   "relations_documentaires": {
     "remplace": [],
@@ -43,9 +55,17 @@
     "reference": [],
     "complete": []
   },
-  "resume": "Document de type Fil-Info",
+  "resume": "Sa conscience morale lui aura servi de guide tout au long de son parcours politique, mais aussi professionnel, lui dictant de lutter contre les injustices, de défendre les plus vulnérables et d’œuvrer pour un système judiciaire plus juste et plus humain. La conscience morale doit être le guide des ofﬁciers publics que nous sommes, nous obligeant au strict respect de l’éthique dans l'exercice de nos fonctions. La conscience morale nous commande de dépasser le principe de l'authenticité et de la légalité de nos actes.",
   "mots_cles": [
-    "veille professionnelle",
-    "actualité juridique"
+    "actualité juridique",
+    "formation professionnelle",
+    "veille professionnelle"
+  ],
+  "dates_mentionnees": [
+    "2022-12-29",
+    "2024-02-12",
+    "2024-02-18",
+    "2024-03-01",
+    "2024-06-02"
   ]
 }

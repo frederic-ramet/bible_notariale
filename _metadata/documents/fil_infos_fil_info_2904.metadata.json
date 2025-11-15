@@ -6,7 +6,7 @@
     "titre": "fil info 2904",
     "titre_court": "fil info 2904",
     "date_publication": "2025-01-01",
-    "date_effet": "2025-01-01",
+    "date_effet": "2025-04-25",
     "version": "1.0",
     "langue": "fr",
     "auteur": "Profession notariale",
@@ -31,11 +31,24 @@
     "type": "fil_info",
     "numero": "2904"
   },
-  "vocabulaire_specifique": [],
+  "vocabulaire_specifique": [
+    {
+      "terme": "conseil supérieur du notariat",
+      "synonymes": [
+        "CSN"
+      ],
+      "definition": "",
+      "contexte_utilisation": "Mentionné 1 fois dans le document"
+    }
+  ],
   "questions_typiques": [
-    "Quelles sont les actualités juridiques importantes de ce numéro ?",
+    "Quelles sont les tendances du marché immobilier ?",
+    "Comment financer ces formations ?",
     "Y a-t-il des alertes ou points de vigilance pour les notaires ?",
-    "Quelles sont les échéances mentionnées ?"
+    "Quelles sont les échéances mentionnées ?",
+    "Quelles formations sont concernées par ce document ?",
+    "Quelles sont les actualités juridiques importantes de ce numéro ?",
+    "Comment analyser ces données pour mon secteur ?"
   ],
   "relations_documentaires": {
     "remplace": [],
@@ -43,9 +56,18 @@
     "reference": [],
     "complete": []
   },
-  "resume": "Document de type Fil-Info",
+  "resume": "Semaine du 12 mai 2025 au 18 mai 2025 N° 2904 Solde de la taxe d’apprentissage Un levier stratégique pour la formation notariale. Le versement du solde de la taxe d’app rentissage n’est pas une simple formalité comptable. C’est une opportunité de soutenir activement notre formation professionnelle en orientant nos ressources vers des formations qui garantissent l’excellence et l’insertion professionnelle de nos futurs collaborateurs.",
   "mots_cles": [
-    "veille professionnelle",
-    "actualité juridique"
+    "actualité juridique",
+    "formation professionnelle",
+    "transactions immobilières",
+    "veille professionnelle"
+  ],
+  "dates_mentionnees": [
+    "2025-04-25",
+    "2025-05-12",
+    "2025-05-18",
+    "2025-06-03",
+    "2025-06-16"
   ]
 }

@@ -31,11 +31,25 @@
     "type": "fil_info",
     "numero": "225"
   },
-  "vocabulaire_specifique": [],
+  "vocabulaire_specifique": [
+    {
+      "terme": "minute",
+      "synonymes": [
+        "original de l'acte",
+        "archive notariale"
+      ],
+      "definition": "",
+      "contexte_utilisation": "Mentionné 1 fois dans le document"
+    }
+  ],
   "questions_typiques": [
-    "Quelles sont les actualités juridiques importantes de ce numéro ?",
+    "Quelle est la procédure de licenciement applicable ?",
+    "Comment financer ces formations ?",
     "Y a-t-il des alertes ou points de vigilance pour les notaires ?",
-    "Quelles sont les échéances mentionnées ?"
+    "Quelles sont les échéances mentionnées ?",
+    "Quels sont les délais à respecter ?",
+    "Quelles formations sont concernées par ce document ?",
+    "Quelles sont les actualités juridiques importantes de ce numéro ?"
   ],
   "relations_documentaires": {
     "remplace": [],
@@ -43,9 +57,17 @@
     "reference": [],
     "complete": []
   },
-  "resume": "Document de type Fil-Info",
+  "resume": "Semaine du 10 janvier 2022 au 16 janvier 2022 N° 225 Les notaires2normandie vous embarquent sur la Planète Droit Du 28 janvier au 6 février La sphère juridique en général et le notariat en particulier n’échappent pas à l’usage d’un vocabulaire spéciﬁque, souvent peu compréhensible pour nos clients. Grosse, minute, bien propre, usufruit… notre profession possède son propre langage, ses termes, son jargon. Notre Chambre a fait le pari de rendre ces notions plus accessibles en embarquant le public sur la Planète Droit, du vendredi 28 janvier au dimanche 6 février de 18h à minuit.",
   "mots_cles": [
-    "veille professionnelle",
-    "actualité juridique"
+    "actualité juridique",
+    "formation professionnelle",
+    "veille professionnelle"
+  ],
+  "dates_mentionnees": [
+    "2022-01-10",
+    "2022-01-16",
+    "2022-02-03",
+    "2022-02-07",
+    "2022-02-08"
   ]
 }

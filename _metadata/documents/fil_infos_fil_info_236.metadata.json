@@ -31,11 +31,26 @@
     "type": "fil_info",
     "numero": "236"
   },
-  "vocabulaire_specifique": [],
+  "vocabulaire_specifique": [
+    {
+      "terme": "prévoyance",
+      "synonymes": [
+        "protection sociale",
+        "assurance"
+      ],
+      "definition": "",
+      "contexte_utilisation": "Mentionné 1 fois dans le document"
+    }
+  ],
   "questions_typiques": [
-    "Quelles sont les actualités juridiques importantes de ce numéro ?",
+    "Quelles sont les tendances du marché immobilier ?",
+    "Quelle est la procédure de licenciement applicable ?",
+    "Comment financer ces formations ?",
+    "Quels sont les montants de franchise ?",
     "Y a-t-il des alertes ou points de vigilance pour les notaires ?",
-    "Quelles sont les échéances mentionnées ?"
+    "Quelles sont les échéances mentionnées ?",
+    "Quels sont les délais à respecter ?",
+    "Quelles sont les actualités juridiques importantes de ce numéro ?"
   ],
   "relations_documentaires": {
     "remplace": [],
@@ -43,9 +58,18 @@
     "reference": [],
     "complete": []
   },
-  "resume": "Document de type Fil-Info",
+  "resume": "Semaine du 28 mars 2022 au 03 avril 2022 N° 236 TRIP NORMAND : On ne change pas une équipe qui gagne. Forte du succès de ce dispositif et de l’attente de nombre d’entre nous, j’ai le plaisir de vous faire savoir que la Chambre a reconduit notre adhésion au TRIP NORMAND pour une nouvelle année. Tout comme l’année dernière, une nouvelle carte de membre parviendra prochainement en vos ofﬁces et sera utilisable de la même manière que la précédente, par nous tous, nos collaborateurs ainsi que leurs familles.",
   "mots_cles": [
-    "veille professionnelle",
-    "actualité juridique"
+    "actualité juridique",
+    "assurance professionnelle",
+    "formation professionnelle",
+    "transactions immobilières",
+    "veille professionnelle"
+  ],
+  "dates_mentionnees": [
+    "1945-12-19",
+    "2022-03-28",
+    "2022-04-03",
+    "2022-06-09"
   ]
 }
