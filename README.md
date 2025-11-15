@@ -183,4 +183,4 @@ Ce script :
 
 ---
 
-*Généré automatiquement le 15/11/2025 à 07:45 par `index_bible_notariale.py`*
+*Généré automatiquement le 15/11/2025 à 08:02 par `index_bible_notariale.py`*
