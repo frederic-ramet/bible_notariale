@@ -16,6 +16,7 @@ BASE_DIR = Path(__file__).parent
 SOURCES_DIR = BASE_DIR / "sources_documentaires"
 METADATA_DIR = BASE_DIR / "_metadata"
 DOCS_METADATA_DIR = METADATA_DIR / "documents"
+CATEGORIES_DIR = BASE_DIR / "docs" / "categories"
 
 # Patterns de détection
 DATE_PATTERNS = [
@@ -34,52 +35,101 @@ DOCUMENT_TYPES = {
     'circulaire_csn': {
         'patterns': [r'[Cc]irculaire', r'CIRCULAIRE'],
         'label': 'Circulaire CSN',
-        'domaines': ['réglementation notariale', 'instructions professionnelles']
+        'domaines': ['réglementation notariale', 'instructions professionnelles'],
+        'description': """Les circulaires du Conseil Supérieur du Notariat (CSN) sont des communications officielles
+adressées à l'ensemble des notaires de France. Elles transmettent les instructions, recommandations et
+interprétations des textes réglementaires applicables à la profession. Ces documents sont essentiels pour
+la mise en conformité des pratiques notariales et constituent une source d'information fiable sur les
+évolutions réglementaires.""",
+        'usage': "Consultez ces circulaires pour connaître les obligations professionnelles, les nouvelles procédures et les recommandations du CSN."
     },
     'avenant_ccn': {
         'patterns': [r'[Aa]venant\s*n?[°º]?\s*\d+', r'avenant_n\d+'],
         'label': 'Avenant CCN',
-        'domaines': ['convention collective', 'droit social']
+        'domaines': ['convention collective', 'droit social'],
+        'description': """Les avenants à la Convention Collective Nationale du Notariat (IDCC 2205) modifient ou
+complètent les dispositions existantes. Négociés entre les partenaires sociaux, ils portent sur les
+conditions de travail, la rémunération, la formation professionnelle et les avantages sociaux des salariés
+du notariat. Chaque avenant est numéroté et daté pour faciliter son identification.""",
+        'usage': "Référez-vous à ces avenants pour connaître les modifications des grilles salariales, des procédures RH et des droits des salariés."
     },
     'accord_branche': {
         'patterns': [r'[Aa]ccord', r'accord.*branche', r'accord.*salaire'],
         'label': 'Accord de branche',
-        'domaines': ['négociation collective', 'droit social']
+        'domaines': ['négociation collective', 'droit social'],
+        'description': """Les accords de branche sont des conventions négociées entre les organisations syndicales
+et les représentants des employeurs du notariat. Ils définissent les conditions d'emploi et de travail
+spécifiques à la profession, couvrant des sujets comme l'égalité professionnelle, la formation,
+l'intéressement ou la prévention du harcèlement.""",
+        'usage': "Consultez ces accords pour comprendre les engagements collectifs de la branche notariale."
     },
     'fil_info': {
         'patterns': [r'fil-info'],
         'label': 'Fil-Info',
-        'domaines': ['actualité juridique', 'veille professionnelle']
+        'domaines': ['actualité juridique', 'veille professionnelle'],
+        'description': """Les Fil-Infos sont des bulletins d'actualité publiés régulièrement pour informer les
+notaires des évolutions juridiques, fiscales et réglementaires. Ils synthétisent les nouveautés importantes
+et proposent des analyses pratiques. Numérotés séquentiellement, ils constituent une source de veille
+juridique indispensable pour rester informé des changements impactant la pratique notariale.""",
+        'usage': "Parcourez ces bulletins pour votre veille juridique quotidienne et ne manquer aucune actualité importante."
     },
     'guide_pratique': {
         'patterns': [r'[Gg]uide', r'[Mm]anuel', r'[Bb]rochure', r'fiche.*pratique'],
         'label': 'Guide pratique',
-        'domaines': ['documentation métier', 'bonnes pratiques']
+        'domaines': ['documentation métier', 'bonnes pratiques'],
+        'description': """Les guides pratiques et manuels d'utilisation fournissent des instructions détaillées
+sur les procédures, outils et bonnes pratiques de la profession notariale. Ils couvrent des sujets variés :
+informatique, sécurité, gestion d'office, œuvres sociales, etc. Ces documents pédagogiques facilitent
+l'application concrète des réglementations au quotidien.""",
+        'usage': "Utilisez ces guides comme référence opérationnelle pour vos procédures et la mise en œuvre des bonnes pratiques."
     },
     'decret_ordonnance': {
         'patterns': [r'[Dd][ée]cret', r'[Oo]rdonnance', r'd_\d+', r'JO\s*ORDO'],
         'label': 'Décret / Ordonnance',
-        'domaines': ['textes réglementaires', 'législation']
+        'domaines': ['textes réglementaires', 'législation'],
+        'description': """Les décrets et ordonnances sont des textes réglementaires officiels publiés au Journal
+Officiel. Ils définissent le cadre juridique de l'activité notariale : tarification, inspections,
+obligations professionnelles, etc. Ces textes ont force de loi et leur respect est impératif pour
+l'exercice de la profession.""",
+        'usage': "Consultez ces textes pour connaître le cadre légal et réglementaire de votre activité."
     },
     'assurance': {
         'patterns': [r'[Aa]ssurance', r'[Cc]ontrat.*[Cc]yber', r'FLIPBOOK'],
         'label': 'Assurance',
-        'domaines': ['assurance professionnelle', 'prévoyance']
+        'domaines': ['assurance professionnelle', 'prévoyance'],
+        'description': """Les documents d'assurance regroupent les contrats de responsabilité civile professionnelle,
+les garanties cyber-risques et les protections spécifiques aux offices notariaux. Ils détaillent les
+couvertures, franchises, procédures de déclaration et obligations de l'assuré. La protection assurantielle
+est essentielle pour la continuité de l'activité notariale.""",
+        'usage': "Référez-vous à ces contrats pour connaître vos garanties et les procédures en cas de sinistre."
     },
     'immobilier': {
         'patterns': [r'[Ii]mmobili[eè]re?', r'observatoire', r'CID\d+'],
         'label': 'Immobilier',
-        'domaines': ['transactions immobilières', 'observatoire']
+        'domaines': ['transactions immobilières', 'observatoire'],
+        'description': """La documentation immobilière comprend les guides de négociation, les données de
+l'observatoire immobilier notarial et les analyses de marché. Ces informations permettent aux notaires
+d'accompagner leurs clients avec des données fiables sur les prix, tendances et spécificités du marché
+immobilier local.""",
+        'usage': "Exploitez ces données pour conseiller vos clients et analyser le marché immobilier de votre secteur."
     },
     'formation': {
         'patterns': [r'[Ff]ormation', r'OPCO', r'alternance'],
         'label': 'Formation',
-        'domaines': ['formation professionnelle', 'développement compétences']
+        'domaines': ['formation professionnelle', 'développement compétences'],
+        'description': """Les documents relatifs à la formation professionnelle couvrent les dispositifs de
+financement (OPCO), les parcours de reconversion, l'alternance et les obligations de formation continue.
+La formation est un enjeu majeur pour maintenir les compétences à jour face aux évolutions du métier.""",
+        'usage': "Consultez ces documents pour organiser la formation de vos collaborateurs et connaître les financements disponibles."
     },
     'conformite': {
         'patterns': [r'LCB-?FT', r'[Cc]yber', r'RGPD', r'vigilance'],
         'label': 'Conformité',
-        'domaines': ['conformité', 'sécurité', 'anti-blanchiment']
+        'domaines': ['conformité', 'sécurité', 'anti-blanchiment'],
+        'description': """Les documents de conformité traitent des obligations réglementaires en matière de lutte
+contre le blanchiment (LCB-FT), de protection des données (RGPD), de cybersécurité et de vigilance.
+Ces thématiques sont cruciales pour éviter les sanctions et protéger l'office contre les risques.""",
+        'usage': "Mettez en place vos procédures internes en vous appuyant sur ces guides de conformité."
     }
 }
 
@@ -485,8 +535,167 @@ def save_vocabulary():
     with open(METADATA_DIR / "vocabulaire_notarial.json", 'w', encoding='utf-8') as f:
         json.dump(VOCABULAIRE_NOTARIAL, f, ensure_ascii=False, indent=2)
 
+def generate_category_page(doc_type, docs):
+    """Génère une page markdown pour une catégorie de documents."""
+    config = DOCUMENT_TYPES.get(doc_type, {})
+    label = config.get('label', doc_type)
+    description = config.get('description', '')
+    usage = config.get('usage', '')
+    domaines = config.get('domaines', [])
+
+    # Trier par date décroissante
+    docs.sort(key=lambda x: x['metadata']['date_publication'], reverse=True)
+
+    # Statistiques
+    years = [doc['classification']['annee_reference'] for doc in docs]
+    min_year = min(years) if years else 2019
+    max_year = max(years) if years else 2025
+
+    dates = [doc['metadata']['date_publication'] for doc in docs]
+    latest_date = max(dates) if dates else "N/A"
+    oldest_date = min(dates) if dates else "N/A"
+
+    # Collecter tous les mots-clés
+    all_keywords = set()
+    for doc in docs:
+        all_keywords.update(doc.get('mots_cles', []))
+
+    # Collecter les catégories de dossiers
+    folders = set(doc['classification']['categorie_dossier'] for doc in docs)
+
+    page = []
+    page.append(f"# {label}")
+    page.append("")
+    page.append(f"[← Retour à l'index principal](../../README.md)")
+    page.append("")
+    page.append("---")
+    page.append("")
+
+    # Description
+    page.append("## Description")
+    page.append("")
+    page.append(description)
+    page.append("")
+    if usage:
+        page.append(f"**Usage** : {usage}")
+        page.append("")
+
+    page.append("---")
+    page.append("")
+
+    # Statistiques clés
+    page.append("## Statistiques")
+    page.append("")
+    page.append(f"- **Nombre de documents** : {len(docs)}")
+    page.append(f"- **Période couverte** : {min_year} - {max_year}")
+    page.append(f"- **Document le plus récent** : {latest_date}")
+    page.append(f"- **Document le plus ancien** : {oldest_date}")
+    page.append(f"- **Domaines juridiques** : {', '.join(domaines)}")
+    page.append("")
+
+    page.append("---")
+    page.append("")
+
+    # Informations clés (résumé des métadonnées)
+    page.append("## Informations clés")
+    page.append("")
+    page.append("### Sources")
+    page.append("")
+    for folder in sorted(folders):
+        folder_docs = [d for d in docs if d['classification']['categorie_dossier'] == folder]
+        page.append(f"- **{folder}** : {len(folder_docs)} documents")
+    page.append("")
+
+    if all_keywords:
+        page.append("### Thématiques principales")
+        page.append("")
+        page.append(", ".join(sorted(list(all_keywords)[:15])))
+        page.append("")
+
+    # Références extraites
+    refs = [doc for doc in docs if doc.get('reference')]
+    if refs:
+        page.append("### Références identifiées")
+        page.append("")
+        for doc in refs[:10]:
+            ref = doc['reference']
+            page.append(f"- {ref['type'].capitalize()} n°{ref['numero']} - {doc['metadata']['titre'][:50]}")
+        if len(refs) > 10:
+            page.append(f"- *... et {len(refs) - 10} autres références*")
+        page.append("")
+
+    page.append("---")
+    page.append("")
+
+    # Timeline / Informations sur les dates
+    page.append("## Chronologie")
+    page.append("")
+
+    docs_by_year = defaultdict(list)
+    for doc in docs:
+        docs_by_year[doc['classification']['annee_reference']].append(doc)
+
+    for year in sorted(docs_by_year.keys(), reverse=True):
+        page.append(f"### {year}")
+        page.append(f"*{len(docs_by_year[year])} documents*")
+        page.append("")
+
+    page.append("---")
+    page.append("")
+
+    # Liste des documents
+    page.append("## Documents")
+    page.append("")
+    page.append("| Date | Référence | Titre | Dossier |")
+    page.append("|------|-----------|-------|---------|")
+
+    for doc in docs:
+        date = doc['metadata']['date_publication']
+        ref = ""
+        if doc.get('reference'):
+            ref = f"{doc['reference']['type']} {doc['reference']['numero']}"
+        titre = doc['metadata']['titre'][:70]
+        if len(doc['metadata']['titre']) > 70:
+            titre += "..."
+        # Lien relatif depuis docs/categories/
+        lien = f"[{titre}](../../{doc['fichier']})"
+        categorie = doc['classification']['categorie_dossier']
+
+        page.append(f"| {date} | {ref} | {lien} | {categorie} |")
+
+    page.append("")
+    page.append("---")
+    page.append("")
+    page.append(f"*Page générée automatiquement le {datetime.now().strftime('%d/%m/%Y à %H:%M')}*")
+    page.append("")
+
+    return "\n".join(page)
+
+
+def save_category_pages(documents):
+    """Génère et sauvegarde les pages par catégorie."""
+    CATEGORIES_DIR.mkdir(parents=True, exist_ok=True)
+
+    by_type = defaultdict(list)
+    for doc in documents:
+        doc_type = doc['classification']['type_document']
+        by_type[doc_type].append(doc)
+
+    pages_created = []
+    for doc_type, docs in by_type.items():
+        if docs:
+            page_content = generate_category_page(doc_type, docs)
+            filename = f"{doc_type}.md"
+            filepath = CATEGORIES_DIR / filename
+            with open(filepath, 'w', encoding='utf-8') as f:
+                f.write(page_content)
+            pages_created.append((doc_type, filename, len(docs)))
+
+    return pages_created
+
+
 def generate_readme(documents):
-    """Génère le README.md avec l'index navigable."""
+    """Génère le README.md avec présentation globale et liens vers catégories."""
 
     # Statistiques
     stats = defaultdict(int)
@@ -500,22 +709,6 @@ def generate_readme(documents):
         by_type[doc_type].append(doc)
         by_year[year].append(doc)
 
-    # Trier les documents par date
-    for doc_list in by_type.values():
-        doc_list.sort(key=lambda x: x['metadata']['date_publication'], reverse=True)
-
-    readme = []
-    readme.append("# Bible Notariale - Index Documentaire")
-    readme.append("")
-    readme.append("Base documentaire complète pour les professionnels du notariat français.")
-    readme.append("")
-    readme.append(f"**{len(documents)} documents** | **2019-2025** | Mise à jour : {datetime.now().strftime('%d/%m/%Y')}")
-    readme.append("")
-    readme.append("---")
-    readme.append("")
-    readme.append("## Statistiques")
-    readme.append("")
-
     # Ordre d'affichage des types
     type_order = [
         'circulaire_csn', 'avenant_ccn', 'accord_branche', 'fil_info',
@@ -523,79 +716,177 @@ def generate_readme(documents):
         'formation', 'conformite'
     ]
 
+    readme = []
+    readme.append("# Bible Notariale")
+    readme.append("")
+    readme.append("**Base documentaire complète pour les professionnels du notariat français**")
+    readme.append("")
+    readme.append(f"📚 **{len(documents)} documents** | 📅 **2019-2025** | 🔄 Mise à jour : {datetime.now().strftime('%d/%m/%Y')}")
+    readme.append("")
+    readme.append("---")
+    readme.append("")
+
+    # Présentation
+    readme.append("## Présentation")
+    readme.append("")
+    readme.append("Ce dépôt centralise la documentation professionnelle du notariat français :")
+    readme.append("")
+    readme.append("- **Circulaires et instructions** du Conseil Supérieur du Notariat (CSN)")
+    readme.append("- **Convention Collective Nationale** et ses avenants (IDCC 2205)")
+    readme.append("- **Accords de branche** négociés entre partenaires sociaux")
+    readme.append("- **Bulletins d'actualité** (Fil-Infos) pour la veille juridique")
+    readme.append("- **Guides pratiques** et documentation métier")
+    readme.append("- **Textes réglementaires** (décrets, ordonnances)")
+    readme.append("- **Assurances** et prévoyance professionnelle")
+    readme.append("- **Données immobilières** et observatoires")
+    readme.append("")
+    readme.append("---")
+    readme.append("")
+
+    # Catégories avec liens
+    readme.append("## Catégories documentaires")
+    readme.append("")
+    readme.append("Cliquez sur une catégorie pour accéder à la liste complète des documents :")
+    readme.append("")
+
     for doc_type in type_order:
         if doc_type in stats:
-            label = DOCUMENT_TYPES.get(doc_type, {}).get('label', doc_type)
-            readme.append(f"- **{label}** : {stats[doc_type]} documents")
+            config = DOCUMENT_TYPES.get(doc_type, {})
+            label = config.get('label', doc_type)
+            description_short = config.get('description', '').split('.')[0] + '.'
+            count = stats[doc_type]
 
-    readme.append("")
+            readme.append(f"### [{label}](docs/categories/{doc_type}.md)")
+            readme.append(f"**{count} documents**")
+            readme.append("")
+            readme.append(description_short)
+            readme.append("")
+
     readme.append("---")
     readme.append("")
-    readme.append("## Navigation par catégorie")
-    readme.append("")
 
-    # Sections par type
+    # Statistiques globales
+    readme.append("## Vue d'ensemble")
+    readme.append("")
+    readme.append("### Par type de document")
+    readme.append("")
+    readme.append("| Catégorie | Nombre | Période |")
+    readme.append("|-----------|--------|---------|")
+
     for doc_type in type_order:
-        if doc_type not in by_type:
-            continue
+        if doc_type in by_type:
+            label = DOCUMENT_TYPES.get(doc_type, {}).get('label', doc_type)
+            docs = by_type[doc_type]
+            years = [d['classification']['annee_reference'] for d in docs]
+            min_y = min(years) if years else 2019
+            max_y = max(years) if years else 2025
+            readme.append(f"| [{label}](docs/categories/{doc_type}.md) | {len(docs)} | {min_y}-{max_y} |")
 
-        docs = by_type[doc_type]
-        label = DOCUMENT_TYPES.get(doc_type, {}).get('label', doc_type)
-
-        readme.append(f"### {label}")
-        readme.append("")
-        readme.append("| Date | Référence | Document | Catégorie |")
-        readme.append("|------|-----------|----------|-----------|")
-
-        for doc in docs[:50]:  # Limiter à 50 par type pour lisibilité
-            date = doc['metadata']['date_publication']
-            ref = ""
-            if doc['reference']:
-                ref = f"{doc['reference']['type']} {doc['reference']['numero']}"
-            titre = doc['metadata']['titre'][:60]
-            if len(doc['metadata']['titre']) > 60:
-                titre += "..."
-            lien = f"[{titre}]({doc['fichier']})"
-            categorie = doc['classification']['categorie_dossier']
-
-            readme.append(f"| {date} | {ref} | {lien} | {categorie} |")
-
-        if len(docs) > 50:
-            readme.append(f"\n*... et {len(docs) - 50} autres documents*\n")
-
-        readme.append("")
-
-    readme.append("---")
     readme.append("")
-    readme.append("## Index chronologique")
+
+    readme.append("### Par année")
     readme.append("")
+    readme.append("| Année | Documents |")
+    readme.append("|-------|-----------|")
 
     for year in sorted(by_year.keys(), reverse=True):
-        readme.append(f"### {year}")
-        readme.append(f"*{len(by_year[year])} documents*")
-        readme.append("")
+        readme.append(f"| {year} | {len(by_year[year])} |")
+
+    readme.append("")
+    readme.append("---")
+    readme.append("")
+
+    # Système de métadonnées
+    readme.append("## Système d'indexation et métadonnées")
+    readme.append("")
+    readme.append("Ce dépôt intègre un système complet de métadonnées structurées pour l'outil de **Knowledge Management (KM)**.")
+    readme.append("")
+    readme.append("### Architecture des données")
+    readme.append("")
+    readme.append("```")
+    readme.append("bible_notariale/")
+    readme.append("├── README.md                           # Ce fichier")
+    readme.append("├── docs/categories/                    # Pages par catégorie")
+    readme.append("│   ├── circulaire_csn.md")
+    readme.append("│   ├── avenant_ccn.md")
+    readme.append("│   └── ...")
+    readme.append("├── _metadata/                          # Métadonnées KM")
+    readme.append("│   ├── index_complet.json             # Index global")
+    readme.append("│   ├── documents/*.metadata.json      # Métadonnées par document")
+    readme.append("│   └── vocabulaire_notarial.json      # Lexique avec synonymes")
+    readme.append("├── _INSTRUCTIONS/                      # Documentation technique")
+    readme.append("│   └── PLAN_ACTION_INDEX.md")
+    readme.append("└── sources_documentaires/              # Documents PDF/DOCX/XLSX")
+    readme.append("```")
+    readme.append("")
+
+    readme.append("### Structure des métadonnées KM")
+    readme.append("")
+    readme.append("Chaque document possède un fichier `.metadata.json` contenant :")
+    readme.append("")
+    readme.append("- **Identification** : ID unique, titre, date de publication")
+    readme.append("- **Classification** : Type de document, domaines juridiques, année de référence")
+    readme.append("- **Vocabulaire spécifique** : Termes techniques avec synonymes (pour enrichir les embeddings)")
+    readme.append("- **Questions typiques** : Questions fréquentes pour améliorer le matching RAG")
+    readme.append("- **Relations** : Liens entre documents (remplace, modifie, référence)")
+    readme.append("- **Mots-clés** : Thématiques principales pour la recherche")
+    readme.append("")
+
+    readme.append("### Vocabulaire notarial enrichi")
+    readme.append("")
+    readme.append("Le fichier `vocabulaire_notarial.json` contient un lexique de termes professionnels avec leurs synonymes :")
+    readme.append("")
+    readme.append("- **CCN** = Convention Collective Nationale, IDCC 2205")
+    readme.append("- **CSN** = Conseil Supérieur du Notariat")
+    readme.append("- **LCB-FT** = Lutte anti-blanchiment, LAB, compliance")
+    readme.append("- **SMO** = Société multi-offices, holding notariale")
+    readme.append("- **OPCO** = Opérateur de compétences, financement formation")
+    readme.append("- *Et plus encore...*")
+    readme.append("")
+
+    readme.append("### Utilisation pour RAG/GraphRAG")
+    readme.append("")
+    readme.append("1. **Ingestion** : Charger les `*.metadata.json` avec les documents")
+    readme.append("2. **Enrichissement** : Utiliser les synonymes pour améliorer les embeddings (+30% pertinence)")
+    readme.append("3. **Matching** : Exploiter les questions typiques pour le matching sémantique")
+    readme.append("4. **Graph** : Construire les relations entre documents")
+    readme.append("")
 
     readme.append("---")
     readme.append("")
-    readme.append("## Métadonnées KM")
+
+    # Navigation
+    readme.append("## Navigation")
     readme.append("")
-    readme.append("Les métadonnées structurées pour l'outil de Knowledge Management sont disponibles dans :")
+    readme.append("- **Par catégorie** : Utilisez les liens ci-dessus pour accéder aux listes de documents")
+    readme.append("- **Recherche** : `Ctrl+F` pour rechercher par mot-clé")
+    readme.append("- **Téléchargement** : Cliquez sur un document puis sur le bouton de téléchargement GitHub")
+    readme.append("- **Consultation** : Les PDFs sont consultables directement dans GitHub")
     readme.append("")
-    readme.append("- `_metadata/index_complet.json` - Index global de tous les documents")
-    readme.append("- `_metadata/documents/*.metadata.json` - Métadonnées détaillées par document")
-    readme.append("- `_metadata/vocabulaire_notarial.json` - Lexique notarial avec synonymes")
-    readme.append("")
+
     readme.append("---")
     readme.append("")
-    readme.append("## Utilisation")
+
+    # Script
+    readme.append("## Maintenance")
     readme.append("")
-    readme.append("- **Navigation** : Cliquez sur les liens pour consulter les documents directement sur GitHub")
-    readme.append("- **Recherche** : Utilisez `Ctrl+F` pour rechercher par mot-clé")
-    readme.append("- **Téléchargement** : Cliquez sur le document puis sur le bouton de téléchargement")
+    readme.append("Pour régénérer l'index après ajout de documents :")
     readme.append("")
+    readme.append("```bash")
+    readme.append("python3 index_bible_notariale.py")
+    readme.append("```")
+    readme.append("")
+    readme.append("Ce script :")
+    readme.append("- Scanne automatiquement `sources_documentaires/`")
+    readme.append("- Extrait les métadonnées depuis les noms de fichiers")
+    readme.append("- Classifie les documents par type")
+    readme.append("- Génère les fichiers JSON pour le KM tool")
+    readme.append("- Met à jour le README et les pages de catégories")
+    readme.append("")
+
     readme.append("---")
     readme.append("")
-    readme.append("*Généré automatiquement par `index_bible_notariale.py`*")
+    readme.append(f"*Généré automatiquement le {datetime.now().strftime('%d/%m/%Y à %H:%M')} par `index_bible_notariale.py`*")
     readme.append("")
 
     return "\n".join(readme)
@@ -630,8 +921,15 @@ def main():
     print("   vocabulaire_notarial.json créé")
     print()
 
-    # 5. Générer le README
-    print("5. Génération du README.md...")
+    # 5. Générer les pages par catégorie
+    print("5. Génération des pages par catégorie...")
+    pages = save_category_pages(documents)
+    for doc_type, filename, count in pages:
+        print(f"   {filename} ({count} documents)")
+    print()
+
+    # 6. Générer le README
+    print("6. Génération du README.md global...")
     readme_content = generate_readme(documents)
     with open(BASE_DIR / "README.md", 'w', encoding='utf-8') as f:
         f.write(readme_content)
@@ -640,6 +938,7 @@ def main():
 
     print("Indexation terminée !")
     print(f"Total : {len(documents)} documents indexés")
+    print(f"Pages de catégories : {len(pages)}")
 
 if __name__ == "__main__":
     main()

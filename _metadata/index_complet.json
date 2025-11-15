@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-11-15T07:32:47.102890",
+  "generated_at": "2025-11-15T07:45:40.379762",
   "total_documents": 245,
   "documents": [
     {
@@ -46,8 +46,8 @@
       },
       "resume": "Document de type Décret / Ordonnance",
       "mots_cles": [
-        "textes réglementaires",
-        "législation"
+        "législation",
+        "textes réglementaires"
       ]
     },
     {
@@ -286,8 +286,8 @@
       },
       "resume": "Document de type Décret / Ordonnance",
       "mots_cles": [
-        "textes réglementaires",
-        "législation"
+        "législation",
+        "textes réglementaires"
       ]
     },
     {
@@ -574,8 +574,8 @@
       },
       "resume": "Document de type Décret / Ordonnance",
       "mots_cles": [
-        "textes réglementaires",
-        "législation"
+        "législation",
+        "textes réglementaires"
       ]
     },
     {
@@ -622,8 +622,8 @@
       },
       "resume": "Document de type Décret / Ordonnance",
       "mots_cles": [
-        "textes réglementaires",
-        "législation"
+        "législation",
+        "textes réglementaires"
       ]
     },
     {
@@ -670,8 +670,8 @@
       },
       "resume": "Document de type Décret / Ordonnance",
       "mots_cles": [
-        "textes réglementaires",
-        "législation"
+        "législation",
+        "textes réglementaires"
       ]
     },
     {
@@ -815,8 +815,8 @@
       "resume": "Document de type Assurance",
       "mots_cles": [
         "prévoyance",
-        "cybersécurité",
-        "assurance professionnelle"
+        "assurance professionnelle",
+        "cybersécurité"
       ]
     },
     {
@@ -962,8 +962,8 @@
       },
       "resume": "Document de type Circulaire CSN",
       "mots_cles": [
-        "réglementation notariale",
-        "instructions professionnelles"
+        "instructions professionnelles",
+        "réglementation notariale"
       ]
     },
     {
@@ -1010,9 +1010,9 @@
       },
       "resume": "Document de type Accord de branche",
       "mots_cles": [
+        "négociation collective",
         "droit social",
-        "formation professionnelle",
-        "négociation collective"
+        "formation professionnelle"
       ]
     },
     {
@@ -1059,9 +1059,9 @@
       },
       "resume": "Document de type Accord de branche",
       "mots_cles": [
-        "droit social",
         "égalité professionnelle",
-        "négociation collective"
+        "négociation collective",
+        "droit social"
       ]
     },
     {
@@ -1108,8 +1108,8 @@
       },
       "resume": "Document de type Accord de branche",
       "mots_cles": [
-        "droit social",
-        "négociation collective"
+        "négociation collective",
+        "droit social"
       ]
     },
     {
@@ -1156,8 +1156,8 @@
       },
       "resume": "Document de type Circulaire CSN",
       "mots_cles": [
-        "réglementation notariale",
-        "instructions professionnelles"
+        "instructions professionnelles",
+        "réglementation notariale"
       ]
     },
     {
@@ -1255,8 +1255,8 @@
       },
       "resume": "Document de type Accord de branche",
       "mots_cles": [
-        "droit social",
         "négociation collective",
+        "droit social",
         "participation aux bénéfices"
       ]
     },
@@ -1307,9 +1307,9 @@
       },
       "resume": "Document de type Avenant CCN",
       "mots_cles": [
+        "rémunération",
         "convention collective",
-        "droit social",
-        "rémunération"
+        "droit social"
       ]
     },
     {
@@ -1356,8 +1356,8 @@
       },
       "resume": "Document de type Circulaire CSN",
       "mots_cles": [
-        "réglementation notariale",
-        "instructions professionnelles"
+        "instructions professionnelles",
+        "réglementation notariale"
       ]
     },
     {
@@ -1407,8 +1407,8 @@
       },
       "resume": "Document de type Circulaire CSN",
       "mots_cles": [
-        "réglementation notariale",
-        "instructions professionnelles"
+        "instructions professionnelles",
+        "réglementation notariale"
       ]
     },
     {
@@ -1458,8 +1458,8 @@
       },
       "resume": "Document de type Circulaire CSN",
       "mots_cles": [
-        "réglementation notariale",
-        "instructions professionnelles"
+        "instructions professionnelles",
+        "réglementation notariale"
       ]
     },
     {
@@ -1509,8 +1509,8 @@
       },
       "resume": "Document de type Circulaire CSN",
       "mots_cles": [
-        "réglementation notariale",
-        "instructions professionnelles"
+        "instructions professionnelles",
+        "réglementation notariale"
       ]
     },
     {
@@ -1608,8 +1608,8 @@
       },
       "resume": "Document de type Accord de branche",
       "mots_cles": [
-        "droit social",
-        "négociation collective"
+        "négociation collective",
+        "droit social"
       ]
     },
     {
@@ -1656,9 +1656,9 @@
       },
       "resume": "Document de type Avenant CCN",
       "mots_cles": [
+        "rémunération",
         "convention collective",
-        "droit social",
-        "rémunération"
+        "droit social"
       ]
     },
     {
@@ -1705,8 +1705,8 @@
       },
       "resume": "Document de type Circulaire CSN",
       "mots_cles": [
-        "réglementation notariale",
-        "instructions professionnelles"
+        "instructions professionnelles",
+        "réglementation notariale"
       ]
     },
     {
@@ -1756,8 +1756,8 @@
       },
       "resume": "Document de type Circulaire CSN",
       "mots_cles": [
-        "réglementation notariale",
-        "instructions professionnelles"
+        "instructions professionnelles",
+        "réglementation notariale"
       ]
     },
     {
@@ -1804,8 +1804,8 @@
       },
       "resume": "Document de type Circulaire CSN",
       "mots_cles": [
-        "réglementation notariale",
-        "instructions professionnelles"
+        "instructions professionnelles",
+        "réglementation notariale"
       ]
     },
     {
@@ -1852,8 +1852,8 @@
       },
       "resume": "Document de type Circulaire CSN",
       "mots_cles": [
-        "réglementation notariale",
-        "instructions professionnelles"
+        "instructions professionnelles",
+        "réglementation notariale"
       ]
     },
     {
@@ -1900,8 +1900,8 @@
       },
       "resume": "Document de type Circulaire CSN",
       "mots_cles": [
-        "réglementation notariale",
-        "instructions professionnelles"
+        "instructions professionnelles",
+        "réglementation notariale"
       ]
     },
     {
@@ -1948,8 +1948,8 @@
       },
       "resume": "Document de type Circulaire CSN",
       "mots_cles": [
-        "réglementation notariale",
-        "instructions professionnelles"
+        "instructions professionnelles",
+        "réglementation notariale"
       ]
     },
     {
@@ -1996,8 +1996,8 @@
       },
       "resume": "Document de type Circulaire CSN",
       "mots_cles": [
-        "réglementation notariale",
-        "instructions professionnelles"
+        "instructions professionnelles",
+        "réglementation notariale"
       ]
     },
     {
@@ -2044,8 +2044,8 @@
       },
       "resume": "Document de type Circulaire CSN",
       "mots_cles": [
-        "réglementation notariale",
-        "instructions professionnelles"
+        "instructions professionnelles",
+        "réglementation notariale"
       ]
     },
     {
@@ -2092,8 +2092,8 @@
       },
       "resume": "Document de type Circulaire CSN",
       "mots_cles": [
-        "réglementation notariale",
-        "instructions professionnelles"
+        "instructions professionnelles",
+        "réglementation notariale"
       ]
     },
     {
@@ -2140,9 +2140,9 @@
       },
       "resume": "Document de type Accord de branche",
       "mots_cles": [
-        "droit social",
+        "harcèlement au travail",
         "négociation collective",
-        "harcèlement au travail"
+        "droit social"
       ]
     },
     {
@@ -2295,8 +2295,8 @@
       "resume": "Document de type Avenant CCN",
       "mots_cles": [
         "convention collective",
-        "complémentaire santé",
-        "droit social"
+        "droit social",
+        "complémentaire santé"
       ]
     },
     {
@@ -2346,8 +2346,8 @@
       },
       "resume": "Document de type Circulaire CSN",
       "mots_cles": [
-        "réglementation notariale",
-        "instructions professionnelles"
+        "instructions professionnelles",
+        "réglementation notariale"
       ]
     },
     {
@@ -2394,8 +2394,8 @@
       },
       "resume": "Document de type Circulaire CSN",
       "mots_cles": [
-        "réglementation notariale",
         "instructions professionnelles",
+        "réglementation notariale",
         "cybersécurité"
       ]
     },
@@ -2443,8 +2443,8 @@
       },
       "resume": "Document de type Circulaire CSN",
       "mots_cles": [
-        "réglementation notariale",
-        "instructions professionnelles"
+        "instructions professionnelles",
+        "réglementation notariale"
       ]
     },
     {
@@ -2491,8 +2491,8 @@
       },
       "resume": "Document de type Circulaire CSN",
       "mots_cles": [
-        "réglementation notariale",
-        "instructions professionnelles"
+        "instructions professionnelles",
+        "réglementation notariale"
       ]
     },
     {
@@ -2539,8 +2539,8 @@
       },
       "resume": "Document de type Circulaire CSN",
       "mots_cles": [
-        "réglementation notariale",
-        "instructions professionnelles"
+        "instructions professionnelles",
+        "réglementation notariale"
       ]
     },
     {
@@ -2587,8 +2587,8 @@
       },
       "resume": "Document de type Circulaire CSN",
       "mots_cles": [
-        "réglementation notariale",
-        "instructions professionnelles"
+        "instructions professionnelles",
+        "réglementation notariale"
       ]
     },
     {
@@ -2635,8 +2635,8 @@
       },
       "resume": "Document de type Circulaire CSN",
       "mots_cles": [
-        "réglementation notariale",
-        "instructions professionnelles"
+        "instructions professionnelles",
+        "réglementation notariale"
       ]
     },
     {
@@ -2683,9 +2683,9 @@
       },
       "resume": "Document de type Accord de branche",
       "mots_cles": [
+        "négociation collective",
         "droit social",
-        "formation professionnelle",
-        "négociation collective"
+        "formation professionnelle"
       ]
     },
     {
@@ -2732,8 +2732,8 @@
       },
       "resume": "Document de type Circulaire CSN",
       "mots_cles": [
-        "réglementation notariale",
-        "instructions professionnelles"
+        "instructions professionnelles",
+        "réglementation notariale"
       ]
     },
     {
@@ -2780,8 +2780,8 @@
       },
       "resume": "Document de type Circulaire CSN",
       "mots_cles": [
-        "réglementation notariale",
-        "instructions professionnelles"
+        "instructions professionnelles",
+        "réglementation notariale"
       ]
     },
     {
@@ -2828,9 +2828,9 @@
       },
       "resume": "Document de type Avenant CCN",
       "mots_cles": [
+        "rémunération",
         "convention collective",
-        "droit social",
-        "rémunération"
+        "droit social"
       ]
     },
     {
@@ -2880,9 +2880,9 @@
       },
       "resume": "Document de type Avenant CCN",
       "mots_cles": [
+        "procédure disciplinaire",
         "convention collective",
-        "droit social",
-        "procédure disciplinaire"
+        "droit social"
       ]
     },
     {
@@ -2929,8 +2929,8 @@
       },
       "resume": "Document de type Circulaire CSN",
       "mots_cles": [
-        "réglementation notariale",
         "instructions professionnelles",
+        "réglementation notariale",
         "formation professionnelle"
       ]
     },
@@ -2978,8 +2978,8 @@
       },
       "resume": "Document de type Circulaire CSN",
       "mots_cles": [
-        "réglementation notariale",
-        "instructions professionnelles"
+        "instructions professionnelles",
+        "réglementation notariale"
       ]
     },
     {
@@ -3026,8 +3026,8 @@
       },
       "resume": "Document de type Circulaire CSN",
       "mots_cles": [
-        "réglementation notariale",
-        "instructions professionnelles"
+        "instructions professionnelles",
+        "réglementation notariale"
       ]
     },
     {
@@ -3074,8 +3074,8 @@
       },
       "resume": "Document de type Circulaire CSN",
       "mots_cles": [
-        "réglementation notariale",
-        "instructions professionnelles"
+        "instructions professionnelles",
+        "réglementation notariale"
       ]
     },
     {
@@ -3122,8 +3122,8 @@
       },
       "resume": "Document de type Circulaire CSN",
       "mots_cles": [
-        "réglementation notariale",
-        "instructions professionnelles"
+        "instructions professionnelles",
+        "réglementation notariale"
       ]
     },
     {
@@ -3170,8 +3170,8 @@
       },
       "resume": "Document de type Circulaire CSN",
       "mots_cles": [
-        "réglementation notariale",
-        "instructions professionnelles"
+        "instructions professionnelles",
+        "réglementation notariale"
       ]
     },
     {
@@ -3218,8 +3218,8 @@
       },
       "resume": "Document de type Circulaire CSN",
       "mots_cles": [
-        "réglementation notariale",
-        "instructions professionnelles"
+        "instructions professionnelles",
+        "réglementation notariale"
       ]
     },
     {
@@ -3266,9 +3266,9 @@
       },
       "resume": "Document de type Avenant CCN",
       "mots_cles": [
+        "rémunération",
         "convention collective",
-        "droit social",
-        "rémunération"
+        "droit social"
       ]
     },
     {
@@ -3363,8 +3363,8 @@
       },
       "resume": "Document de type Circulaire CSN",
       "mots_cles": [
-        "réglementation notariale",
-        "instructions professionnelles"
+        "instructions professionnelles",
+        "réglementation notariale"
       ]
     },
     {
@@ -3411,8 +3411,8 @@
       },
       "resume": "Document de type Circulaire CSN",
       "mots_cles": [
-        "réglementation notariale",
-        "instructions professionnelles"
+        "instructions professionnelles",
+        "réglementation notariale"
       ]
     },
     {
@@ -3459,8 +3459,8 @@
       },
       "resume": "Document de type Circulaire CSN",
       "mots_cles": [
-        "réglementation notariale",
-        "instructions professionnelles"
+        "instructions professionnelles",
+        "réglementation notariale"
       ]
     },
     {
@@ -3507,8 +3507,8 @@
       },
       "resume": "Document de type Circulaire CSN",
       "mots_cles": [
-        "réglementation notariale",
-        "instructions professionnelles"
+        "instructions professionnelles",
+        "réglementation notariale"
       ]
     },
     {
@@ -3555,8 +3555,8 @@
       },
       "resume": "Document de type Circulaire CSN",
       "mots_cles": [
-        "réglementation notariale",
-        "instructions professionnelles"
+        "instructions professionnelles",
+        "réglementation notariale"
       ]
     },
     {
@@ -3603,8 +3603,8 @@
       },
       "resume": "Document de type Circulaire CSN",
       "mots_cles": [
-        "réglementation notariale",
-        "instructions professionnelles"
+        "instructions professionnelles",
+        "réglementation notariale"
       ]
     },
     {
@@ -3795,9 +3795,9 @@
       },
       "resume": "Document de type Avenant CCN",
       "mots_cles": [
+        "procédure disciplinaire",
         "convention collective",
-        "droit social",
-        "procédure disciplinaire"
+        "droit social"
       ]
     },
     {
@@ -3893,8 +3893,8 @@
       "resume": "Document de type Avenant CCN",
       "mots_cles": [
         "convention collective",
-        "formation professionnelle",
-        "droit social"
+        "droit social",
+        "formation professionnelle"
       ]
     },
     {
@@ -3941,8 +3941,8 @@
       },
       "resume": "Document de type Accord de branche",
       "mots_cles": [
-        "droit social",
-        "négociation collective"
+        "négociation collective",
+        "droit social"
       ]
     },
     {
@@ -3993,8 +3993,8 @@
       "resume": "Document de type Avenant CCN",
       "mots_cles": [
         "convention collective",
-        "formation professionnelle",
-        "droit social"
+        "droit social",
+        "formation professionnelle"
       ]
     },
     {
@@ -4041,8 +4041,8 @@
       },
       "resume": "Document de type Accord de branche",
       "mots_cles": [
-        "droit social",
-        "négociation collective"
+        "négociation collective",
+        "droit social"
       ]
     },
     {
@@ -4284,8 +4284,8 @@
       },
       "resume": "Document de type Fil-Info",
       "mots_cles": [
-        "actualité juridique",
-        "veille professionnelle"
+        "veille professionnelle",
+        "actualité juridique"
       ]
     },
     {
@@ -4335,8 +4335,8 @@
       },
       "resume": "Document de type Fil-Info",
       "mots_cles": [
-        "actualité juridique",
-        "veille professionnelle"
+        "veille professionnelle",
+        "actualité juridique"
       ]
     },
     {
@@ -4386,8 +4386,8 @@
       },
       "resume": "Document de type Fil-Info",
       "mots_cles": [
-        "actualité juridique",
-        "veille professionnelle"
+        "veille professionnelle",
+        "actualité juridique"
       ]
     },
     {
@@ -4437,8 +4437,8 @@
       },
       "resume": "Document de type Fil-Info",
       "mots_cles": [
-        "actualité juridique",
-        "veille professionnelle"
+        "veille professionnelle",
+        "actualité juridique"
       ]
     },
     {
@@ -4488,8 +4488,8 @@
       },
       "resume": "Document de type Fil-Info",
       "mots_cles": [
-        "actualité juridique",
-        "veille professionnelle"
+        "veille professionnelle",
+        "actualité juridique"
       ]
     },
     {
@@ -4539,8 +4539,8 @@
       },
       "resume": "Document de type Fil-Info",
       "mots_cles": [
-        "actualité juridique",
-        "veille professionnelle"
+        "veille professionnelle",
+        "actualité juridique"
       ]
     },
     {
@@ -4590,8 +4590,8 @@
       },
       "resume": "Document de type Fil-Info",
       "mots_cles": [
-        "actualité juridique",
-        "veille professionnelle"
+        "veille professionnelle",
+        "actualité juridique"
       ]
     },
     {
@@ -4641,8 +4641,8 @@
       },
       "resume": "Document de type Fil-Info",
       "mots_cles": [
-        "actualité juridique",
-        "veille professionnelle"
+        "veille professionnelle",
+        "actualité juridique"
       ]
     },
     {
@@ -4692,8 +4692,8 @@
       },
       "resume": "Document de type Fil-Info",
       "mots_cles": [
-        "actualité juridique",
-        "veille professionnelle"
+        "veille professionnelle",
+        "actualité juridique"
       ]
     },
     {
@@ -4743,8 +4743,8 @@
       },
       "resume": "Document de type Fil-Info",
       "mots_cles": [
-        "actualité juridique",
-        "veille professionnelle"
+        "veille professionnelle",
+        "actualité juridique"
       ]
     },
     {
@@ -4794,8 +4794,8 @@
       },
       "resume": "Document de type Fil-Info",
       "mots_cles": [
-        "actualité juridique",
-        "veille professionnelle"
+        "veille professionnelle",
+        "actualité juridique"
       ]
     },
     {
@@ -4845,8 +4845,8 @@
       },
       "resume": "Document de type Fil-Info",
       "mots_cles": [
-        "actualité juridique",
-        "veille professionnelle"
+        "veille professionnelle",
+        "actualité juridique"
       ]
     },
     {
@@ -4896,8 +4896,8 @@
       },
       "resume": "Document de type Fil-Info",
       "mots_cles": [
-        "actualité juridique",
-        "veille professionnelle"
+        "veille professionnelle",
+        "actualité juridique"
       ]
     },
     {
@@ -4947,8 +4947,8 @@
       },
       "resume": "Document de type Fil-Info",
       "mots_cles": [
-        "actualité juridique",
-        "veille professionnelle"
+        "veille professionnelle",
+        "actualité juridique"
       ]
     },
     {
@@ -4998,8 +4998,8 @@
       },
       "resume": "Document de type Fil-Info",
       "mots_cles": [
-        "actualité juridique",
-        "veille professionnelle"
+        "veille professionnelle",
+        "actualité juridique"
       ]
     },
     {
@@ -5049,8 +5049,8 @@
       },
       "resume": "Document de type Fil-Info",
       "mots_cles": [
-        "actualité juridique",
-        "veille professionnelle"
+        "veille professionnelle",
+        "actualité juridique"
       ]
     },
     {
@@ -5100,8 +5100,8 @@
       },
       "resume": "Document de type Fil-Info",
       "mots_cles": [
-        "actualité juridique",
-        "veille professionnelle"
+        "veille professionnelle",
+        "actualité juridique"
       ]
     },
     {
@@ -5151,8 +5151,8 @@
       },
       "resume": "Document de type Fil-Info",
       "mots_cles": [
-        "actualité juridique",
-        "veille professionnelle"
+        "veille professionnelle",
+        "actualité juridique"
       ]
     },
     {
@@ -5202,8 +5202,8 @@
       },
       "resume": "Document de type Fil-Info",
       "mots_cles": [
-        "actualité juridique",
-        "veille professionnelle"
+        "veille professionnelle",
+        "actualité juridique"
       ]
     },
     {
@@ -5253,8 +5253,8 @@
       },
       "resume": "Document de type Fil-Info",
       "mots_cles": [
-        "actualité juridique",
-        "veille professionnelle"
+        "veille professionnelle",
+        "actualité juridique"
       ]
     },
     {
@@ -5304,8 +5304,8 @@
       },
       "resume": "Document de type Fil-Info",
       "mots_cles": [
-        "actualité juridique",
-        "veille professionnelle"
+        "veille professionnelle",
+        "actualité juridique"
       ]
     },
     {
@@ -5355,8 +5355,8 @@
       },
       "resume": "Document de type Fil-Info",
       "mots_cles": [
-        "actualité juridique",
-        "veille professionnelle"
+        "veille professionnelle",
+        "actualité juridique"
       ]
     },
     {
@@ -5406,8 +5406,8 @@
       },
       "resume": "Document de type Fil-Info",
       "mots_cles": [
-        "actualité juridique",
-        "veille professionnelle"
+        "veille professionnelle",
+        "actualité juridique"
       ]
     },
     {
@@ -5457,8 +5457,8 @@
       },
       "resume": "Document de type Fil-Info",
       "mots_cles": [
-        "actualité juridique",
-        "veille professionnelle"
+        "veille professionnelle",
+        "actualité juridique"
       ]
     },
     {
@@ -5508,8 +5508,8 @@
       },
       "resume": "Document de type Fil-Info",
       "mots_cles": [
-        "actualité juridique",
-        "veille professionnelle"
+        "veille professionnelle",
+        "actualité juridique"
       ]
     },
     {
@@ -5559,8 +5559,8 @@
       },
       "resume": "Document de type Fil-Info",
       "mots_cles": [
-        "actualité juridique",
-        "veille professionnelle"
+        "veille professionnelle",
+        "actualité juridique"
       ]
     },
     {
@@ -5610,8 +5610,8 @@
       },
       "resume": "Document de type Fil-Info",
       "mots_cles": [
-        "actualité juridique",
-        "veille professionnelle"
+        "veille professionnelle",
+        "actualité juridique"
       ]
     },
     {
@@ -5661,8 +5661,8 @@
       },
       "resume": "Document de type Fil-Info",
       "mots_cles": [
-        "actualité juridique",
-        "veille professionnelle"
+        "veille professionnelle",
+        "actualité juridique"
       ]
     },
     {
@@ -5712,8 +5712,8 @@
       },
       "resume": "Document de type Fil-Info",
       "mots_cles": [
-        "actualité juridique",
-        "veille professionnelle"
+        "veille professionnelle",
+        "actualité juridique"
       ]
     },
     {
@@ -5763,8 +5763,8 @@
       },
       "resume": "Document de type Fil-Info",
       "mots_cles": [
-        "actualité juridique",
-        "veille professionnelle"
+        "veille professionnelle",
+        "actualité juridique"
       ]
     },
     {
@@ -5814,8 +5814,8 @@
       },
       "resume": "Document de type Fil-Info",
       "mots_cles": [
-        "actualité juridique",
-        "veille professionnelle"
+        "veille professionnelle",
+        "actualité juridique"
       ]
     },
     {
@@ -5865,8 +5865,8 @@
       },
       "resume": "Document de type Fil-Info",
       "mots_cles": [
-        "actualité juridique",
-        "veille professionnelle"
+        "veille professionnelle",
+        "actualité juridique"
       ]
     },
     {
@@ -5916,8 +5916,8 @@
       },
       "resume": "Document de type Fil-Info",
       "mots_cles": [
-        "actualité juridique",
-        "veille professionnelle"
+        "veille professionnelle",
+        "actualité juridique"
       ]
     },
     {
@@ -5967,8 +5967,8 @@
       },
       "resume": "Document de type Fil-Info",
       "mots_cles": [
-        "actualité juridique",
-        "veille professionnelle"
+        "veille professionnelle",
+        "actualité juridique"
       ]
     },
     {
@@ -6018,8 +6018,8 @@
       },
       "resume": "Document de type Fil-Info",
       "mots_cles": [
-        "actualité juridique",
-        "veille professionnelle"
+        "veille professionnelle",
+        "actualité juridique"
       ]
     },
     {
@@ -6069,8 +6069,8 @@
       },
       "resume": "Document de type Fil-Info",
       "mots_cles": [
-        "actualité juridique",
-        "veille professionnelle"
+        "veille professionnelle",
+        "actualité juridique"
       ]
     },
     {
@@ -6120,8 +6120,8 @@
       },
       "resume": "Document de type Fil-Info",
       "mots_cles": [
-        "actualité juridique",
-        "veille professionnelle"
+        "veille professionnelle",
+        "actualité juridique"
       ]
     },
     {
@@ -6171,8 +6171,8 @@
       },
       "resume": "Document de type Fil-Info",
       "mots_cles": [
-        "actualité juridique",
-        "veille professionnelle"
+        "veille professionnelle",
+        "actualité juridique"
       ]
     },
     {
@@ -6222,8 +6222,8 @@
       },
       "resume": "Document de type Fil-Info",
       "mots_cles": [
-        "actualité juridique",
-        "veille professionnelle"
+        "veille professionnelle",
+        "actualité juridique"
       ]
     },
     {
@@ -6273,8 +6273,8 @@
       },
       "resume": "Document de type Fil-Info",
       "mots_cles": [
-        "actualité juridique",
-        "veille professionnelle"
+        "veille professionnelle",
+        "actualité juridique"
       ]
     },
     {
@@ -6324,8 +6324,8 @@
       },
       "resume": "Document de type Fil-Info",
       "mots_cles": [
-        "actualité juridique",
-        "veille professionnelle"
+        "veille professionnelle",
+        "actualité juridique"
       ]
     },
     {
@@ -6375,8 +6375,8 @@
       },
       "resume": "Document de type Fil-Info",
       "mots_cles": [
-        "actualité juridique",
-        "veille professionnelle"
+        "veille professionnelle",
+        "actualité juridique"
       ]
     },
     {
@@ -6426,8 +6426,8 @@
       },
       "resume": "Document de type Fil-Info",
       "mots_cles": [
-        "actualité juridique",
-        "veille professionnelle"
+        "veille professionnelle",
+        "actualité juridique"
       ]
     },
     {
@@ -6477,8 +6477,8 @@
       },
       "resume": "Document de type Fil-Info",
       "mots_cles": [
-        "actualité juridique",
-        "veille professionnelle"
+        "veille professionnelle",
+        "actualité juridique"
       ]
     },
     {
@@ -6528,8 +6528,8 @@
       },
       "resume": "Document de type Fil-Info",
       "mots_cles": [
-        "actualité juridique",
-        "veille professionnelle"
+        "veille professionnelle",
+        "actualité juridique"
       ]
     },
     {
@@ -6579,8 +6579,8 @@
       },
       "resume": "Document de type Fil-Info",
       "mots_cles": [
-        "actualité juridique",
-        "veille professionnelle"
+        "veille professionnelle",
+        "actualité juridique"
       ]
     },
     {
@@ -6630,8 +6630,8 @@
       },
       "resume": "Document de type Fil-Info",
       "mots_cles": [
-        "actualité juridique",
-        "veille professionnelle"
+        "veille professionnelle",
+        "actualité juridique"
       ]
     },
     {
@@ -6681,8 +6681,8 @@
       },
       "resume": "Document de type Fil-Info",
       "mots_cles": [
-        "actualité juridique",
-        "veille professionnelle"
+        "veille professionnelle",
+        "actualité juridique"
       ]
     },
     {
@@ -6732,8 +6732,8 @@
       },
       "resume": "Document de type Fil-Info",
       "mots_cles": [
-        "actualité juridique",
-        "veille professionnelle"
+        "veille professionnelle",
+        "actualité juridique"
       ]
     },
     {
@@ -6783,8 +6783,8 @@
       },
       "resume": "Document de type Fil-Info",
       "mots_cles": [
-        "actualité juridique",
-        "veille professionnelle"
+        "veille professionnelle",
+        "actualité juridique"
       ]
     },
     {
@@ -6834,8 +6834,8 @@
       },
       "resume": "Document de type Fil-Info",
       "mots_cles": [
-        "actualité juridique",
-        "veille professionnelle"
+        "veille professionnelle",
+        "actualité juridique"
       ]
     },
     {
@@ -6885,8 +6885,8 @@
       },
       "resume": "Document de type Fil-Info",
       "mots_cles": [
-        "actualité juridique",
-        "veille professionnelle"
+        "veille professionnelle",
+        "actualité juridique"
       ]
     },
     {
@@ -6936,8 +6936,8 @@
       },
       "resume": "Document de type Fil-Info",
       "mots_cles": [
-        "actualité juridique",
-        "veille professionnelle"
+        "veille professionnelle",
+        "actualité juridique"
       ]
     },
     {
@@ -6987,8 +6987,8 @@
       },
       "resume": "Document de type Fil-Info",
       "mots_cles": [
-        "actualité juridique",
-        "veille professionnelle"
+        "veille professionnelle",
+        "actualité juridique"
       ]
     },
     {
@@ -7038,8 +7038,8 @@
       },
       "resume": "Document de type Fil-Info",
       "mots_cles": [
-        "actualité juridique",
-        "veille professionnelle"
+        "veille professionnelle",
+        "actualité juridique"
       ]
     },
     {
@@ -7089,8 +7089,8 @@
       },
       "resume": "Document de type Fil-Info",
       "mots_cles": [
-        "actualité juridique",
-        "veille professionnelle"
+        "veille professionnelle",
+        "actualité juridique"
       ]
     },
     {
@@ -7140,8 +7140,8 @@
       },
       "resume": "Document de type Fil-Info",
       "mots_cles": [
-        "actualité juridique",
-        "veille professionnelle"
+        "veille professionnelle",
+        "actualité juridique"
       ]
     },
     {
@@ -7191,8 +7191,8 @@
       },
       "resume": "Document de type Fil-Info",
       "mots_cles": [
-        "actualité juridique",
-        "veille professionnelle"
+        "veille professionnelle",
+        "actualité juridique"
       ]
     },
     {
@@ -7242,8 +7242,8 @@
       },
       "resume": "Document de type Fil-Info",
       "mots_cles": [
-        "actualité juridique",
-        "veille professionnelle"
+        "veille professionnelle",
+        "actualité juridique"
       ]
     },
     {
@@ -7293,8 +7293,8 @@
       },
       "resume": "Document de type Fil-Info",
       "mots_cles": [
-        "actualité juridique",
-        "veille professionnelle"
+        "veille professionnelle",
+        "actualité juridique"
       ]
     },
     {
@@ -7344,8 +7344,8 @@
       },
       "resume": "Document de type Fil-Info",
       "mots_cles": [
-        "actualité juridique",
-        "veille professionnelle"
+        "veille professionnelle",
+        "actualité juridique"
       ]
     },
     {
@@ -7395,8 +7395,8 @@
       },
       "resume": "Document de type Fil-Info",
       "mots_cles": [
-        "actualité juridique",
-        "veille professionnelle"
+        "veille professionnelle",
+        "actualité juridique"
       ]
     },
     {
@@ -7446,8 +7446,8 @@
       },
       "resume": "Document de type Fil-Info",
       "mots_cles": [
-        "actualité juridique",
-        "veille professionnelle"
+        "veille professionnelle",
+        "actualité juridique"
       ]
     },
     {
@@ -7497,8 +7497,8 @@
       },
       "resume": "Document de type Fil-Info",
       "mots_cles": [
-        "actualité juridique",
-        "veille professionnelle"
+        "veille professionnelle",
+        "actualité juridique"
       ]
     },
     {
@@ -7548,8 +7548,8 @@
       },
       "resume": "Document de type Fil-Info",
       "mots_cles": [
-        "actualité juridique",
-        "veille professionnelle"
+        "veille professionnelle",
+        "actualité juridique"
       ]
     },
     {
@@ -7599,8 +7599,8 @@
       },
       "resume": "Document de type Fil-Info",
       "mots_cles": [
-        "actualité juridique",
-        "veille professionnelle"
+        "veille professionnelle",
+        "actualité juridique"
       ]
     },
     {
@@ -7650,8 +7650,8 @@
       },
       "resume": "Document de type Fil-Info",
       "mots_cles": [
-        "actualité juridique",
-        "veille professionnelle"
+        "veille professionnelle",
+        "actualité juridique"
       ]
     },
     {
@@ -7701,8 +7701,8 @@
       },
       "resume": "Document de type Fil-Info",
       "mots_cles": [
-        "actualité juridique",
-        "veille professionnelle"
+        "veille professionnelle",
+        "actualité juridique"
       ]
     },
     {
@@ -7752,8 +7752,8 @@
       },
       "resume": "Document de type Fil-Info",
       "mots_cles": [
-        "actualité juridique",
-        "veille professionnelle"
+        "veille professionnelle",
+        "actualité juridique"
       ]
     },
     {
@@ -7803,8 +7803,8 @@
       },
       "resume": "Document de type Fil-Info",
       "mots_cles": [
-        "actualité juridique",
-        "veille professionnelle"
+        "veille professionnelle",
+        "actualité juridique"
       ]
     },
     {
@@ -7854,8 +7854,8 @@
       },
       "resume": "Document de type Fil-Info",
       "mots_cles": [
-        "actualité juridique",
-        "veille professionnelle"
+        "veille professionnelle",
+        "actualité juridique"
       ]
     },
     {
@@ -7905,8 +7905,8 @@
       },
       "resume": "Document de type Fil-Info",
       "mots_cles": [
-        "actualité juridique",
-        "veille professionnelle"
+        "veille professionnelle",
+        "actualité juridique"
       ]
     },
     {
@@ -7956,8 +7956,8 @@
       },
       "resume": "Document de type Fil-Info",
       "mots_cles": [
-        "actualité juridique",
-        "veille professionnelle"
+        "veille professionnelle",
+        "actualité juridique"
       ]
     },
     {
@@ -8007,8 +8007,8 @@
       },
       "resume": "Document de type Fil-Info",
       "mots_cles": [
-        "actualité juridique",
-        "veille professionnelle"
+        "veille professionnelle",
+        "actualité juridique"
       ]
     },
     {
@@ -8058,8 +8058,8 @@
       },
       "resume": "Document de type Fil-Info",
       "mots_cles": [
-        "actualité juridique",
-        "veille professionnelle"
+        "veille professionnelle",
+        "actualité juridique"
       ]
     },
     {
@@ -8109,8 +8109,8 @@
       },
       "resume": "Document de type Fil-Info",
       "mots_cles": [
-        "actualité juridique",
-        "veille professionnelle"
+        "veille professionnelle",
+        "actualité juridique"
       ]
     },
     {
@@ -8160,8 +8160,8 @@
       },
       "resume": "Document de type Fil-Info",
       "mots_cles": [
-        "actualité juridique",
-        "veille professionnelle"
+        "veille professionnelle",
+        "actualité juridique"
       ]
     },
     {
@@ -8211,8 +8211,8 @@
       },
       "resume": "Document de type Fil-Info",
       "mots_cles": [
-        "actualité juridique",
-        "veille professionnelle"
+        "veille professionnelle",
+        "actualité juridique"
       ]
     },
     {
@@ -8262,8 +8262,8 @@
       },
       "resume": "Document de type Fil-Info",
       "mots_cles": [
-        "actualité juridique",
-        "veille professionnelle"
+        "veille professionnelle",
+        "actualité juridique"
       ]
     },
     {
@@ -8313,8 +8313,8 @@
       },
       "resume": "Document de type Fil-Info",
       "mots_cles": [
-        "actualité juridique",
-        "veille professionnelle"
+        "veille professionnelle",
+        "actualité juridique"
       ]
     },
     {
@@ -8364,8 +8364,8 @@
       },
       "resume": "Document de type Fil-Info",
       "mots_cles": [
-        "actualité juridique",
-        "veille professionnelle"
+        "veille professionnelle",
+        "actualité juridique"
       ]
     },
     {
@@ -8415,8 +8415,8 @@
       },
       "resume": "Document de type Fil-Info",
       "mots_cles": [
-        "actualité juridique",
-        "veille professionnelle"
+        "veille professionnelle",
+        "actualité juridique"
       ]
     },
     {
@@ -8466,8 +8466,8 @@
       },
       "resume": "Document de type Fil-Info",
       "mots_cles": [
-        "actualité juridique",
-        "veille professionnelle"
+        "veille professionnelle",
+        "actualité juridique"
       ]
     },
     {
@@ -8517,8 +8517,8 @@
       },
       "resume": "Document de type Fil-Info",
       "mots_cles": [
-        "actualité juridique",
-        "veille professionnelle"
+        "veille professionnelle",
+        "actualité juridique"
       ]
     },
     {
@@ -8568,8 +8568,8 @@
       },
       "resume": "Document de type Fil-Info",
       "mots_cles": [
-        "actualité juridique",
-        "veille professionnelle"
+        "veille professionnelle",
+        "actualité juridique"
       ]
     },
     {
@@ -8619,8 +8619,8 @@
       },
       "resume": "Document de type Fil-Info",
       "mots_cles": [
-        "actualité juridique",
-        "veille professionnelle"
+        "veille professionnelle",
+        "actualité juridique"
       ]
     },
     {
@@ -8670,8 +8670,8 @@
       },
       "resume": "Document de type Fil-Info",
       "mots_cles": [
-        "actualité juridique",
-        "veille professionnelle"
+        "veille professionnelle",
+        "actualité juridique"
       ]
     },
     {
@@ -8721,8 +8721,8 @@
       },
       "resume": "Document de type Fil-Info",
       "mots_cles": [
-        "actualité juridique",
-        "veille professionnelle"
+        "veille professionnelle",
+        "actualité juridique"
       ]
     },
     {
@@ -8772,8 +8772,8 @@
       },
       "resume": "Document de type Fil-Info",
       "mots_cles": [
-        "actualité juridique",
-        "veille professionnelle"
+        "veille professionnelle",
+        "actualité juridique"
       ]
     },
     {
@@ -8823,8 +8823,8 @@
       },
       "resume": "Document de type Fil-Info",
       "mots_cles": [
-        "actualité juridique",
-        "veille professionnelle"
+        "veille professionnelle",
+        "actualité juridique"
       ]
     },
     {
@@ -8874,8 +8874,8 @@
       },
       "resume": "Document de type Fil-Info",
       "mots_cles": [
-        "actualité juridique",
-        "veille professionnelle"
+        "veille professionnelle",
+        "actualité juridique"
       ]
     },
     {
@@ -8925,8 +8925,8 @@
       },
       "resume": "Document de type Fil-Info",
       "mots_cles": [
-        "actualité juridique",
-        "veille professionnelle"
+        "veille professionnelle",
+        "actualité juridique"
       ]
     },
     {
@@ -8976,8 +8976,8 @@
       },
       "resume": "Document de type Fil-Info",
       "mots_cles": [
-        "actualité juridique",
-        "veille professionnelle"
+        "veille professionnelle",
+        "actualité juridique"
       ]
     },
     {
@@ -9027,8 +9027,8 @@
       },
       "resume": "Document de type Fil-Info",
       "mots_cles": [
-        "actualité juridique",
-        "veille professionnelle"
+        "veille professionnelle",
+        "actualité juridique"
       ]
     },
     {
@@ -9078,8 +9078,8 @@
       },
       "resume": "Document de type Fil-Info",
       "mots_cles": [
-        "actualité juridique",
-        "veille professionnelle"
+        "veille professionnelle",
+        "actualité juridique"
       ]
     },
     {
@@ -9129,8 +9129,8 @@
       },
       "resume": "Document de type Fil-Info",
       "mots_cles": [
-        "actualité juridique",
-        "veille professionnelle"
+        "veille professionnelle",
+        "actualité juridique"
       ]
     },
     {
@@ -9180,8 +9180,8 @@
       },
       "resume": "Document de type Fil-Info",
       "mots_cles": [
-        "actualité juridique",
-        "veille professionnelle"
+        "veille professionnelle",
+        "actualité juridique"
       ]
     },
     {
@@ -9231,8 +9231,8 @@
       },
       "resume": "Document de type Fil-Info",
       "mots_cles": [
-        "actualité juridique",
-        "veille professionnelle"
+        "veille professionnelle",
+        "actualité juridique"
       ]
     },
     {
@@ -9282,8 +9282,8 @@
       },
       "resume": "Document de type Fil-Info",
       "mots_cles": [
-        "actualité juridique",
-        "veille professionnelle"
+        "veille professionnelle",
+        "actualité juridique"
       ]
     },
     {
@@ -9333,8 +9333,8 @@
       },
       "resume": "Document de type Fil-Info",
       "mots_cles": [
-        "actualité juridique",
-        "veille professionnelle"
+        "veille professionnelle",
+        "actualité juridique"
       ]
     },
     {
@@ -9384,8 +9384,8 @@
       },
       "resume": "Document de type Fil-Info",
       "mots_cles": [
-        "actualité juridique",
-        "veille professionnelle"
+        "veille professionnelle",
+        "actualité juridique"
       ]
     },
     {
@@ -9435,8 +9435,8 @@
       },
       "resume": "Document de type Fil-Info",
       "mots_cles": [
-        "actualité juridique",
-        "veille professionnelle"
+        "veille professionnelle",
+        "actualité juridique"
       ]
     },
     {
@@ -9486,8 +9486,8 @@
       },
       "resume": "Document de type Fil-Info",
       "mots_cles": [
-        "actualité juridique",
-        "veille professionnelle"
+        "veille professionnelle",
+        "actualité juridique"
       ]
     },
     {
@@ -9537,8 +9537,8 @@
       },
       "resume": "Document de type Fil-Info",
       "mots_cles": [
-        "actualité juridique",
-        "veille professionnelle"
+        "veille professionnelle",
+        "actualité juridique"
       ]
     },
     {
@@ -9588,8 +9588,8 @@
       },
       "resume": "Document de type Fil-Info",
       "mots_cles": [
-        "actualité juridique",
-        "veille professionnelle"
+        "veille professionnelle",
+        "actualité juridique"
       ]
     },
     {
@@ -9639,8 +9639,8 @@
       },
       "resume": "Document de type Fil-Info",
       "mots_cles": [
-        "actualité juridique",
-        "veille professionnelle"
+        "veille professionnelle",
+        "actualité juridique"
       ]
     },
     {
@@ -9690,8 +9690,8 @@
       },
       "resume": "Document de type Fil-Info",
       "mots_cles": [
-        "actualité juridique",
-        "veille professionnelle"
+        "veille professionnelle",
+        "actualité juridique"
       ]
     },
     {
@@ -9741,8 +9741,8 @@
       },
       "resume": "Document de type Fil-Info",
       "mots_cles": [
-        "actualité juridique",
-        "veille professionnelle"
+        "veille professionnelle",
+        "actualité juridique"
       ]
     },
     {
@@ -9792,8 +9792,8 @@
       },
       "resume": "Document de type Fil-Info",
       "mots_cles": [
-        "actualité juridique",
-        "veille professionnelle"
+        "veille professionnelle",
+        "actualité juridique"
       ]
     },
     {
@@ -9843,8 +9843,8 @@
       },
       "resume": "Document de type Fil-Info",
       "mots_cles": [
-        "actualité juridique",
-        "veille professionnelle"
+        "veille professionnelle",
+        "actualité juridique"
       ]
     },
     {
@@ -9894,8 +9894,8 @@
       },
       "resume": "Document de type Fil-Info",
       "mots_cles": [
-        "actualité juridique",
-        "veille professionnelle"
+        "veille professionnelle",
+        "actualité juridique"
       ]
     },
     {
@@ -9945,8 +9945,8 @@
       },
       "resume": "Document de type Fil-Info",
       "mots_cles": [
-        "actualité juridique",
-        "veille professionnelle"
+        "veille professionnelle",
+        "actualité juridique"
       ]
     },
     {
@@ -9996,8 +9996,8 @@
       },
       "resume": "Document de type Fil-Info",
       "mots_cles": [
-        "actualité juridique",
-        "veille professionnelle"
+        "veille professionnelle",
+        "actualité juridique"
       ]
     },
     {
@@ -10047,8 +10047,8 @@
       },
       "resume": "Document de type Fil-Info",
       "mots_cles": [
-        "actualité juridique",
-        "veille professionnelle"
+        "veille professionnelle",
+        "actualité juridique"
       ]
     },
     {
@@ -10098,8 +10098,8 @@
       },
       "resume": "Document de type Fil-Info",
       "mots_cles": [
-        "actualité juridique",
-        "veille professionnelle"
+        "veille professionnelle",
+        "actualité juridique"
       ]
     },
     {
@@ -10149,8 +10149,8 @@
       },
       "resume": "Document de type Fil-Info",
       "mots_cles": [
-        "actualité juridique",
-        "veille professionnelle"
+        "veille professionnelle",
+        "actualité juridique"
       ]
     },
     {
@@ -10200,8 +10200,8 @@
       },
       "resume": "Document de type Fil-Info",
       "mots_cles": [
-        "actualité juridique",
-        "veille professionnelle"
+        "veille professionnelle",
+        "actualité juridique"
       ]
     },
     {
@@ -10251,8 +10251,8 @@
       },
       "resume": "Document de type Fil-Info",
       "mots_cles": [
-        "actualité juridique",
-        "veille professionnelle"
+        "veille professionnelle",
+        "actualité juridique"
       ]
     },
     {
@@ -10302,8 +10302,8 @@
       },
       "resume": "Document de type Fil-Info",
       "mots_cles": [
-        "actualité juridique",
-        "veille professionnelle"
+        "veille professionnelle",
+        "actualité juridique"
       ]
     },
     {
@@ -10353,8 +10353,8 @@
       },
       "resume": "Document de type Fil-Info",
       "mots_cles": [
-        "actualité juridique",
-        "veille professionnelle"
+        "veille professionnelle",
+        "actualité juridique"
       ]
     },
     {
@@ -10404,8 +10404,8 @@
       },
       "resume": "Document de type Fil-Info",
       "mots_cles": [
-        "actualité juridique",
-        "veille professionnelle"
+        "veille professionnelle",
+        "actualité juridique"
       ]
     },
     {
@@ -10455,8 +10455,8 @@
       },
       "resume": "Document de type Fil-Info",
       "mots_cles": [
-        "actualité juridique",
-        "veille professionnelle"
+        "veille professionnelle",
+        "actualité juridique"
       ]
     },
     {
@@ -10506,8 +10506,8 @@
       },
       "resume": "Document de type Fil-Info",
       "mots_cles": [
-        "actualité juridique",
-        "veille professionnelle"
+        "veille professionnelle",
+        "actualité juridique"
       ]
     },
     {
@@ -10557,8 +10557,8 @@
       },
       "resume": "Document de type Fil-Info",
       "mots_cles": [
-        "actualité juridique",
-        "veille professionnelle"
+        "veille professionnelle",
+        "actualité juridique"
       ]
     },
     {
@@ -10608,8 +10608,8 @@
       },
       "resume": "Document de type Fil-Info",
       "mots_cles": [
-        "actualité juridique",
-        "veille professionnelle"
+        "veille professionnelle",
+        "actualité juridique"
       ]
     },
     {
@@ -10659,8 +10659,8 @@
       },
       "resume": "Document de type Fil-Info",
       "mots_cles": [
-        "actualité juridique",
-        "veille professionnelle"
+        "veille professionnelle",
+        "actualité juridique"
       ]
     },
     {
@@ -10710,8 +10710,8 @@
       },
       "resume": "Document de type Fil-Info",
       "mots_cles": [
-        "actualité juridique",
-        "veille professionnelle"
+        "veille professionnelle",
+        "actualité juridique"
       ]
     },
     {
@@ -10761,8 +10761,8 @@
       },
       "resume": "Document de type Fil-Info",
       "mots_cles": [
-        "actualité juridique",
-        "veille professionnelle"
+        "veille professionnelle",
+        "actualité juridique"
       ]
     },
     {
@@ -10812,8 +10812,8 @@
       },
       "resume": "Document de type Fil-Info",
       "mots_cles": [
-        "actualité juridique",
-        "veille professionnelle"
+        "veille professionnelle",
+        "actualité juridique"
       ]
     },
     {
@@ -10863,8 +10863,8 @@
       },
       "resume": "Document de type Fil-Info",
       "mots_cles": [
-        "actualité juridique",
-        "veille professionnelle"
+        "veille professionnelle",
+        "actualité juridique"
       ]
     },
     {
@@ -10914,8 +10914,8 @@
       },
       "resume": "Document de type Fil-Info",
       "mots_cles": [
-        "actualité juridique",
-        "veille professionnelle"
+        "veille professionnelle",
+        "actualité juridique"
       ]
     },
     {
@@ -10965,8 +10965,8 @@
       },
       "resume": "Document de type Fil-Info",
       "mots_cles": [
-        "actualité juridique",
-        "veille professionnelle"
+        "veille professionnelle",
+        "actualité juridique"
       ]
     },
     {
@@ -11016,8 +11016,8 @@
       },
       "resume": "Document de type Fil-Info",
       "mots_cles": [
-        "actualité juridique",
-        "veille professionnelle"
+        "veille professionnelle",
+        "actualité juridique"
       ]
     },
     {
@@ -11067,8 +11067,8 @@
       },
       "resume": "Document de type Fil-Info",
       "mots_cles": [
-        "actualité juridique",
-        "veille professionnelle"
+        "veille professionnelle",
+        "actualité juridique"
       ]
     },
     {
@@ -11118,8 +11118,8 @@
       },
       "resume": "Document de type Fil-Info",
       "mots_cles": [
-        "actualité juridique",
-        "veille professionnelle"
+        "veille professionnelle",
+        "actualité juridique"
       ]
     },
     {
@@ -11169,8 +11169,8 @@
       },
       "resume": "Document de type Fil-Info",
       "mots_cles": [
-        "actualité juridique",
-        "veille professionnelle"
+        "veille professionnelle",
+        "actualité juridique"
       ]
     },
     {
@@ -11220,8 +11220,8 @@
       },
       "resume": "Document de type Fil-Info",
       "mots_cles": [
-        "actualité juridique",
-        "veille professionnelle"
+        "veille professionnelle",
+        "actualité juridique"
       ]
     },
     {
@@ -11271,8 +11271,8 @@
       },
       "resume": "Document de type Fil-Info",
       "mots_cles": [
-        "actualité juridique",
-        "veille professionnelle"
+        "veille professionnelle",
+        "actualité juridique"
       ]
     },
     {
@@ -11322,8 +11322,8 @@
       },
       "resume": "Document de type Fil-Info",
       "mots_cles": [
-        "actualité juridique",
-        "veille professionnelle"
+        "veille professionnelle",
+        "actualité juridique"
       ]
     },
     {
@@ -11373,8 +11373,8 @@
       },
       "resume": "Document de type Fil-Info",
       "mots_cles": [
-        "actualité juridique",
-        "veille professionnelle"
+        "veille professionnelle",
+        "actualité juridique"
       ]
     },
     {
@@ -11424,8 +11424,8 @@
       },
       "resume": "Document de type Fil-Info",
       "mots_cles": [
-        "actualité juridique",
-        "veille professionnelle"
+        "veille professionnelle",
+        "actualité juridique"
       ]
     },
     {
@@ -11475,8 +11475,8 @@
       },
       "resume": "Document de type Fil-Info",
       "mots_cles": [
-        "actualité juridique",
-        "veille professionnelle"
+        "veille professionnelle",
+        "actualité juridique"
       ]
     },
     {
@@ -11526,8 +11526,8 @@
       },
       "resume": "Document de type Fil-Info",
       "mots_cles": [
-        "actualité juridique",
-        "veille professionnelle"
+        "veille professionnelle",
+        "actualité juridique"
       ]
     },
     {
@@ -11577,8 +11577,8 @@
       },
       "resume": "Document de type Fil-Info",
       "mots_cles": [
-        "actualité juridique",
-        "veille professionnelle"
+        "veille professionnelle",
+        "actualité juridique"
       ]
     },
     {
@@ -11628,8 +11628,8 @@
       },
       "resume": "Document de type Fil-Info",
       "mots_cles": [
-        "actualité juridique",
-        "veille professionnelle"
+        "veille professionnelle",
+        "actualité juridique"
       ]
     },
     {
@@ -11679,8 +11679,8 @@
       },
       "resume": "Document de type Fil-Info",
       "mots_cles": [
-        "actualité juridique",
-        "veille professionnelle"
+        "veille professionnelle",
+        "actualité juridique"
       ]
     },
     {
@@ -11730,8 +11730,8 @@
       },
       "resume": "Document de type Fil-Info",
       "mots_cles": [
-        "actualité juridique",
-        "veille professionnelle"
+        "veille professionnelle",
+        "actualité juridique"
       ]
     },
     {
@@ -11781,8 +11781,8 @@
       },
       "resume": "Document de type Fil-Info",
       "mots_cles": [
-        "actualité juridique",
-        "veille professionnelle"
+        "veille professionnelle",
+        "actualité juridique"
       ]
     },
     {
@@ -11832,8 +11832,8 @@
       },
       "resume": "Document de type Fil-Info",
       "mots_cles": [
-        "actualité juridique",
-        "veille professionnelle"
+        "veille professionnelle",
+        "actualité juridique"
       ]
     },
     {
@@ -11883,8 +11883,8 @@
       },
       "resume": "Document de type Fil-Info",
       "mots_cles": [
-        "actualité juridique",
-        "veille professionnelle"
+        "veille professionnelle",
+        "actualité juridique"
       ]
     },
     {
@@ -11934,8 +11934,8 @@
       },
       "resume": "Document de type Fil-Info",
       "mots_cles": [
-        "actualité juridique",
-        "veille professionnelle"
+        "veille professionnelle",
+        "actualité juridique"
       ]
     },
     {
@@ -11985,8 +11985,8 @@
       },
       "resume": "Document de type Fil-Info",
       "mots_cles": [
-        "actualité juridique",
-        "veille professionnelle"
+        "veille professionnelle",
+        "actualité juridique"
       ]
     },
     {
@@ -12036,8 +12036,8 @@
       },
       "resume": "Document de type Fil-Info",
       "mots_cles": [
-        "actualité juridique",
-        "veille professionnelle"
+        "veille professionnelle",
+        "actualité juridique"
       ]
     },
     {
@@ -12084,8 +12084,8 @@
       },
       "resume": "Document de type Immobilier",
       "mots_cles": [
-        "observatoire",
-        "transactions immobilières"
+        "transactions immobilières",
+        "observatoire"
       ]
     },
     {
@@ -12132,8 +12132,8 @@
       },
       "resume": "Document de type Immobilier",
       "mots_cles": [
-        "observatoire",
-        "transactions immobilières"
+        "transactions immobilières",
+        "observatoire"
       ]
     },
     {
@@ -12180,8 +12180,8 @@
       },
       "resume": "Document de type Immobilier",
       "mots_cles": [
-        "observatoire",
-        "transactions immobilières"
+        "transactions immobilières",
+        "observatoire"
       ]
     },
     {
