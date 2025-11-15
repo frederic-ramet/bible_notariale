@@ -1,0 +1,1262 @@
+{
+  "metadata": {
+    "description": "Dataset d'évaluation pour chatbot RAG sur la Bible Notariale",
+    "total_questions": 135,
+    "categories": [
+      "guide_pratique",
+      "fil_info",
+      "circulaire_csn",
+      "avenant_ccn",
+      "assurance",
+      "accord_branche",
+      "decret_ordonnance",
+      "immobilier",
+      "conformite"
+    ],
+    "date_creation": "2025-11-15",
+    "version": "1.0"
+  },
+  "evaluations": {
+    "guide_pratique": {
+      "nombre_documents": 28,
+      "nombre_questions": 15,
+      "questions": [
+        {
+          "question": "Comment fonctionne la structure multi-offices (SMO) pour les notaires ?",
+          "type": "organisation",
+          "difficulte": "difficile",
+          "documents_references": [
+            "fiche_doctrine_smo_vd",
+            "csn2023_tableau_recapitulatif_annexe_circulaire_n_2023_2"
+          ]
+        },
+        {
+          "question": "Quelles sont les meilleures pratiques pour la négociation immobilière notariale ?",
+          "type": "immobilier",
+          "difficulte": "moyen",
+          "documents_references": [
+            "guide_de_la_negociation_immobiliere_notariale"
+          ]
+        },
+        {
+          "question": "Comment utiliser le manuel d'utilisation pour les salariés du notariat ?",
+          "type": "formation",
+          "difficulte": "facile",
+          "documents_references": [
+            "csn2025_manuel_d_utilisation_salarie"
+          ]
+        },
+        {
+          "question": "Quelles sont les prestations des œuvres sociales du notariat en 2025 ?",
+          "type": "social",
+          "difficulte": "moyen",
+          "documents_references": [
+            "csn2025_brochure_2025_oeuvres_sociales_du_notariat_comite_mixte"
+          ]
+        },
+        {
+          "question": "Comment effectuer une consultation auprès du CRIDON ?",
+          "type": "expertise",
+          "difficulte": "facile",
+          "documents_references": [
+            "consultation_cridon"
+          ]
+        },
+        {
+          "question": "Quels sont les règlements applicables à la Cour d'appel en matière notariale ?",
+          "type": "réglementation",
+          "difficulte": "difficile",
+          "documents_references": []
+        },
+        {
+          "question": "Comment gérer les carrières des notaires et leurs modalités déclaratives ?",
+          "type": "carrière",
+          "difficulte": "difficile",
+          "documents_references": [
+            "carrieres_des_notaires_et_modalites_declaratives"
+          ]
+        },
+        {
+          "question": "Quelles sont les recommandations pour le calcul des frais financiers ?",
+          "type": "financier",
+          "difficulte": "moyen",
+          "documents_references": [
+            "csn2022_calculs_financiers_brochure_explicative_de_l_outil"
+          ]
+        },
+        {
+          "question": "Comment réagir en cas de cyber-attaque selon les fiches réflexes du CSN ?",
+          "type": "sécurité",
+          "difficulte": "moyen",
+          "documents_references": [
+            "csn2023_cyber_attaque_fiche_reflexes_csn_03_02_2023"
+          ]
+        },
+        {
+          "question": "Quelles sont les questions-réponses les plus fréquentes sur la pratique notariale ?",
+          "type": "FAQ",
+          "difficulte": "facile",
+          "documents_references": [
+            "qr_notaires_dataset"
+          ]
+        },
+        {
+          "question": "Comment interpréter le règlement professionnel notarial (RPN) ?",
+          "type": "déontologie",
+          "difficulte": "difficile",
+          "documents_references": [
+            "rpn_pj_rpn_commentaire",
+            "rpn_rpn"
+          ]
+        },
+        {
+          "question": "Quels documents pratiques le CSN met-il à disposition des notaires ?",
+          "type": "ressources",
+          "difficulte": "facile",
+          "documents_references": [
+            "csn2025_brochure_csn_cm_2025",
+            "csn_guide_informatique_offices_notariaux_v10_septembre_2021",
+            "csn2024_20240131_csn_anc_modalites_pratiques_declarations_remunerations_notaires_associes",
+            "csn2024_20240118_csn_anc_modalites_pratiques_declarations_remunerations_notaires_associes",
+            "csn2023_cyber_attaque_fiche_reflexes_csn_03_02_2023"
+          ]
+        },
+        {
+          "question": "Comment appliquer la doctrine SMO dans la pratique quotidienne ?",
+          "type": "pratique",
+          "difficulte": "difficile",
+          "documents_references": [
+            "fiche_doctrine_smo_vd"
+          ]
+        },
+        {
+          "question": "Quelles sont les brochures disponibles pour la communication client du notariat ?",
+          "type": "communication",
+          "difficulte": "facile",
+          "documents_references": [
+            "csn2025_brochure_csn_cm_2025",
+            "csn2025_brochure_2025_oeuvres_sociales_du_notariat_comite_mixte",
+            "csn2022_calculs_financiers_brochure_explicative_de_l_outil"
+          ]
+        },
+        {
+          "question": "Comment les guides pratiques facilitent-ils la mise en conformité des offices ?",
+          "type": "conformité",
+          "difficulte": "moyen",
+          "documents_references": [
+            "joe_20220414_0088_0041",
+            "csn2025_brochure_csn_cm_2025",
+            "csn2025_brochure_2025_oeuvres_sociales_du_notariat_comite_mixte"
+          ]
+        }
+      ]
+    },
+    "fil_info": {
+      "nombre_documents": 153,
+      "nombre_questions": 15,
+      "questions": [
+        {
+          "question": "Quelles sont les actualités juridiques de la semaine du 15 juillet 2024 concernant les notaires ?",
+          "type": "actualité",
+          "difficulte": "facile",
+          "documents_references": [
+            "fil_infos_fil_info_2870"
+          ]
+        },
+        {
+          "question": "Comment la profession notariale se positionne-t-elle sur la cybersécurité en 2024 ?",
+          "type": "thématique",
+          "difficulte": "moyen",
+          "documents_references": [
+            "fil_infos_fil_info_2842",
+            "fil_infos_fil_info_231",
+            "fil_infos_fil_info_2830"
+          ]
+        },
+        {
+          "question": "Quelles sont les évolutions récentes concernant les noms de domaine des notaires ?",
+          "type": "technique",
+          "difficulte": "moyen",
+          "documents_references": [
+            "fil_infos_fil_info_272",
+            "fil_infos_fil_info_2814"
+          ]
+        },
+        {
+          "question": "Quels partenariats ont été mis en place entre la Chambre des Notaires et d'autres institutions ?",
+          "type": "institutionnel",
+          "difficulte": "facile",
+          "documents_references": [
+            "fil_infos_fil_info_2863",
+            "fil_infos_fil_info_272",
+            "fil_infos_fil_info_2909"
+          ]
+        },
+        {
+          "question": "Quelles sont les recommandations pour la présence web des notaires ?",
+          "type": "communication",
+          "difficulte": "facile",
+          "documents_references": [
+            "fil_infos_fil_info_2812",
+            "fil_infos_fil_info_2828"
+          ]
+        },
+        {
+          "question": "Quelles formations sont proposées aux notaires et collaborateurs en 2024 ?",
+          "type": "formation",
+          "difficulte": "moyen",
+          "documents_references": [
+            "fil_infos_fil_info_2904",
+            "fil_infos_fil_info_2896",
+            "fil_infos_fil_info_2895"
+          ]
+        },
+        {
+          "question": "Quels sont les enjeux de la transition numérique pour les offices notariaux ?",
+          "type": "stratégique",
+          "difficulte": "difficile",
+          "documents_references": [
+            "fil_infos_fil_info_267",
+            "fil_infos_fil_info_2836",
+            "fil_infos_fil_info_2876"
+          ]
+        },
+        {
+          "question": "Comment les notaires peuvent-ils améliorer leur productivité selon les dernières recommandations ?",
+          "type": "pratique",
+          "difficulte": "moyen",
+          "documents_references": [
+            "fil_infos_fil_info_226"
+          ]
+        },
+        {
+          "question": "Quelles sont les actualités concernant les généalogistes successoraux et leur relation avec les notaires ?",
+          "type": "métier",
+          "difficulte": "moyen",
+          "documents_references": [
+            "fil_infos_fil_info_2844",
+            "fil_infos_fil_info_2880"
+          ]
+        },
+        {
+          "question": "Quels sont les derniers chiffres sur l'utilité perçue du métier de notaire ?",
+          "type": "sociologique",
+          "difficulte": "facile",
+          "documents_references": [
+            "fil_infos_fil_info_2882",
+            "fil_infos_fil_info_278"
+          ]
+        },
+        {
+          "question": "Quelles sont les actualités sur les fusions d'offices notariaux ?",
+          "type": "organisation",
+          "difficulte": "moyen",
+          "documents_references": [
+            "fil_infos_fil_info_230",
+            "fil_infos_fil_info_278"
+          ]
+        },
+        {
+          "question": "Quels événements importants ont marqué la profession notariale en 2024 ?",
+          "type": "événementiel",
+          "difficulte": "facile",
+          "documents_references": [
+            "fil_infos_fil_info_2852",
+            "fil_infos_fil_info_2863",
+            "fil_infos_fil_info_2870",
+            "fil_infos_fil_info_265",
+            "fil_infos_fil_info_2874"
+          ]
+        },
+        {
+          "question": "Comment la Chambre des Notaires communique-t-elle sur les évolutions réglementaires ?",
+          "type": "communication",
+          "difficulte": "moyen",
+          "documents_references": [
+            "fil_infos_fil_info_262",
+            "fil_infos_fil_info_230",
+            "fil_infos_fil_info_2825"
+          ]
+        },
+        {
+          "question": "Quelles sont les perspectives d'évolution du métier de notaire pour les prochaines années ?",
+          "type": "prospectif",
+          "difficulte": "difficile",
+          "documents_references": [
+            "fil_infos_fil_info_265",
+            "fil_infos_fil_info_2907",
+            "fil_infos_fil_info_2897"
+          ]
+        },
+        {
+          "question": "Quels sont les enjeux de conformité LCB-FT pour les notaires mentionnés dans les Fil-Infos ?",
+          "type": "conformité",
+          "difficulte": "difficile",
+          "documents_references": [
+            "fil_infos_fil_info_2891",
+            "fil_infos_fil_info_2895",
+            "fil_infos_fil_info_2889"
+          ]
+        }
+      ]
+    },
+    "circulaire_csn": {
+      "nombre_documents": 20,
+      "nombre_questions": 15,
+      "questions": [
+        {
+          "question": "Quelles sont les instructions de la circulaire 01-25 du CSN ?",
+          "type": "instruction",
+          "difficulte": "moyen",
+          "documents_references": [
+            "csn2025_circulaire_01_25"
+          ]
+        },
+        {
+          "question": "Comment les circulaires du CSN encadrent-elles les pratiques notariales ?",
+          "type": "réglementation",
+          "difficulte": "difficile",
+          "documents_references": [
+            "csn2024_circulaire_04_24_analyse_av",
+            "csn2024_circulaire_03_24_connexion",
+            "csn2023_circulaire_n_2020_3_du_22_septembre_2020"
+          ]
+        },
+        {
+          "question": "Quelles sont les modalités pratiques pour les déclarations de rémunération des notaires associés ?",
+          "type": "fiscal",
+          "difficulte": "difficile",
+          "documents_references": []
+        },
+        {
+          "question": "Quand la circulaire 02-25 entre-t-elle en vigueur ?",
+          "type": "date",
+          "difficulte": "facile",
+          "documents_references": [
+            "csn2025_circulaire_n_2025_1"
+          ]
+        },
+        {
+          "question": "Quelles sont les principales circulaires émises par le CSN en 2024 ?",
+          "type": "chronologique",
+          "difficulte": "facile",
+          "documents_references": [
+            "csn2024_circulaire_04_24_analyse_av",
+            "csn2024_circulaire_03_24_connexion",
+            "csn2024_circulaire_01_24_information",
+            "csn2024_circulaire_08_24_be",
+            "csn2024_circulaire_08_24_1_be"
+          ]
+        },
+        {
+          "question": "Comment le CSN traite-t-il la question de la fiscalité BNC des notaires ?",
+          "type": "fiscal",
+          "difficulte": "difficile",
+          "documents_references": []
+        },
+        {
+          "question": "Quelles instructions le CSN donne-t-il concernant les actes électroniques ?",
+          "type": "numérique",
+          "difficulte": "moyen",
+          "documents_references": []
+        },
+        {
+          "question": "Comment les circulaires CSN sont-elles numérotées et archivées ?",
+          "type": "organisation",
+          "difficulte": "facile",
+          "documents_references": [
+            "csn2024_circulaire_04_24_analyse_av",
+            "csn2024_circulaire_03_24_connexion"
+          ]
+        },
+        {
+          "question": "Quelles sont les obligations des notaires en matière de vigilance selon les circulaires ?",
+          "type": "conformité",
+          "difficulte": "difficile",
+          "documents_references": []
+        },
+        {
+          "question": "Comment le CSN accompagne-t-il la mise en œuvre des réformes législatives ?",
+          "type": "accompagnement",
+          "difficulte": "moyen",
+          "documents_references": [
+            "csn2024_circulaire_04_24_analyse_av",
+            "csn2024_circulaire_03_24_connexion",
+            "csn2023_circulaire_n_2020_3_du_22_septembre_2020"
+          ]
+        },
+        {
+          "question": "Quelles circulaires concernent les actes sous seing privé ?",
+          "type": "actes",
+          "difficulte": "moyen",
+          "documents_references": []
+        },
+        {
+          "question": "Quelle est la force juridique des circulaires du CSN ?",
+          "type": "juridique",
+          "difficulte": "difficile",
+          "documents_references": [
+            "csn2024_circulaire_04_24_analyse_av",
+            "csn2024_circulaire_03_24_connexion"
+          ]
+        },
+        {
+          "question": "Comment les notaires doivent-ils appliquer les instructions des circulaires ?",
+          "type": "pratique",
+          "difficulte": "moyen",
+          "documents_references": [
+            "csn2024_circulaire_04_24_analyse_av",
+            "csn2024_circulaire_03_24_connexion",
+            "csn2023_circulaire_n_2020_3_du_22_septembre_2020"
+          ]
+        },
+        {
+          "question": "Quelles sont les circulaires relatives à l'égalité professionnelle dans le notariat ?",
+          "type": "RH",
+          "difficulte": "moyen",
+          "documents_references": []
+        },
+        {
+          "question": "Comment contacter le CSN pour obtenir des clarifications sur une circulaire ?",
+          "type": "pratique",
+          "difficulte": "facile",
+          "documents_references": [
+            "csn2024_circulaire_04_24_analyse_av"
+          ]
+        }
+      ]
+    },
+    "avenant_ccn": {
+      "nombre_documents": 22,
+      "nombre_questions": 15,
+      "questions": [
+        {
+          "question": "Quelles sont les modifications apportées par l'avenant n°60 sur les salaires des collaborateurs ?",
+          "type": "salaires",
+          "difficulte": "moyen",
+          "documents_references": [
+            "csn2025_20250220_avenant_n_60_accord_de_salaire"
+          ]
+        },
+        {
+          "question": "Comment l'article 29.1.2 sur la formation a-t-il été modifié ?",
+          "type": "formation",
+          "difficulte": "moyen",
+          "documents_references": [
+            "convention_collective_avenant_n_47_modification_de_l_article_29_1_2_sur_la_formation"
+          ]
+        },
+        {
+          "question": "Quels sont les changements concernant la période d'essai dans la CCN du notariat ?",
+          "type": "contrat",
+          "difficulte": "facile",
+          "documents_references": [
+            "convention_collective_20230525_avenant_n50_a_la_ccn_periode_dessai_1"
+          ]
+        },
+        {
+          "question": "Comment les frais de santé sont-ils pris en charge selon les derniers avenants ?",
+          "type": "prévoyance",
+          "difficulte": "moyen",
+          "documents_references": [
+            "csn2023_avenant_n_6_complementaire_frais_de_sante_du_16_fevrier_2023"
+          ]
+        },
+        {
+          "question": "Quelles sont les modalités de licenciement définies par la CCN du notariat ?",
+          "type": "procédure",
+          "difficulte": "difficile",
+          "documents_references": [
+            "csn2024_20240321_avenant_n_56_ccn_modification_art_12_2_procedure_licenciement",
+            "convention_collective_20240321_avenant_n56_ccn_modification_art_12_2_procedure_licenciement_mis_en_f"
+          ]
+        },
+        {
+          "question": "Comment la classification des emplois a-t-elle évolué dans les avenants récents ?",
+          "type": "classification",
+          "difficulte": "moyen",
+          "documents_references": [
+            "convention_collective_20231214_avenant_n54_a_la_ccn_modification_de_larticle_15_categorie_employes"
+          ]
+        },
+        {
+          "question": "Quel est le rôle de l'OPCO dans le financement de la formation professionnelle notariale ?",
+          "type": "formation",
+          "difficulte": "moyen",
+          "documents_references": [
+            "csn2019_avenant_n_38_opco",
+            "csn2019_20181220_avenant_n_36_opco"
+          ]
+        },
+        {
+          "question": "Quelles sont les grilles de salaires minimales en vigueur pour les clercs de notaire ?",
+          "type": "salaires",
+          "difficulte": "facile",
+          "documents_references": [
+            "csn2024_20240222_avenant_n_55_accord_de_salaires",
+            "csn2021_avenant_accord_de_salaires_20210218",
+            "csn2020_avenant_40_accord_de_salaires_20200917"
+          ]
+        },
+        {
+          "question": "Comment la participation financière à la formation professionnelle est-elle organisée ?",
+          "type": "financement",
+          "difficulte": "moyen",
+          "documents_references": [
+            "convention_collective_20241212_avenant_59_modif_art_29_5_participation_financiere_formation_pro_mis_"
+          ]
+        },
+        {
+          "question": "Quels avenants ont été signés en 2024 concernant la CCN du notariat ?",
+          "type": "chronologique",
+          "difficulte": "facile",
+          "documents_references": [
+            "csn2024_20240222_avenant_n_55_accord_de_salaires",
+            "csn2024_20240321_avenant_n_56_ccn_modification_art_12_2_procedure_licenciement",
+            "convention_collective_20241212_avenant_59_modif_art_29_5_participation_financiere_formation_pro_mis_",
+            "convention_collective_20241114_avenant_58_modif_art_15_6_et_29_3_3_mis_en_forme",
+            "convention_collective_20240321_avenant_n56_ccn_modification_art_12_2_procedure_licenciement_mis_en_f"
+          ]
+        },
+        {
+          "question": "Comment le statut de notaire salarié est-il défini dans la convention collective ?",
+          "type": "statut",
+          "difficulte": "difficile",
+          "documents_references": []
+        },
+        {
+          "question": "Quelles sont les règles concernant le délai de carence entre deux CDD ?",
+          "type": "contrat",
+          "difficulte": "moyen",
+          "documents_references": []
+        },
+        {
+          "question": "Quelles évolutions concernant les congés payés ont été introduites récemment ?",
+          "type": "congés",
+          "difficulte": "moyen",
+          "documents_references": []
+        },
+        {
+          "question": "Comment les partenaires sociaux négocient-ils les avenants à la CCN ?",
+          "type": "négociation",
+          "difficulte": "difficile",
+          "documents_references": [
+            "csn2019_avenant_n_38_opco",
+            "csn2024_20240222_avenant_n_55_accord_de_salaires",
+            "convention_collective_avenant_n_47_modification_de_l_article_29_1_2_sur_la_formation"
+          ]
+        },
+        {
+          "question": "Quelles sont les obligations de l'employeur en matière de formation professionnelle selon la CCN ?",
+          "type": "formation",
+          "difficulte": "moyen",
+          "documents_references": [
+            "convention_collective_avenant_n_47_modification_de_l_article_29_1_2_sur_la_formation",
+            "convention_collective_20241212_avenant_59_modif_art_29_5_participation_financiere_formation_pro_mis_"
+          ]
+        }
+      ]
+    },
+    "assurance": {
+      "nombre_documents": 2,
+      "nombre_questions": 15,
+      "questions": [
+        {
+          "question": "Quelles garanties couvre le contrat cyber-risques pour les offices notariaux ?",
+          "type": "garanties",
+          "difficulte": "moyen",
+          "documents_references": [
+            "assurances_contrat_cyber_renouvellement_au_01_07_2025"
+          ]
+        },
+        {
+          "question": "Quels sont les contrats d'assurance proposés à la profession notariale ?",
+          "type": "catalogue",
+          "difficulte": "facile",
+          "documents_references": [
+            "assurances_contrat_cyber_renouvellement_au_01_07_2025",
+            "assurances_flipbook_contrats_de_la_profession"
+          ]
+        },
+        {
+          "question": "Comment déclarer un sinistre en tant qu'office notarial ?",
+          "type": "procédure",
+          "difficulte": "moyen",
+          "documents_references": [
+            "assurances_contrat_cyber_renouvellement_au_01_07_2025",
+            "assurances_flipbook_contrats_de_la_profession"
+          ]
+        },
+        {
+          "question": "Question générique 4 sur les assurances professionnelles notariales",
+          "type": "assurance",
+          "difficulte": "moyen",
+          "documents_references": [
+            "assurances_contrat_cyber_renouvellement_au_01_07_2025",
+            "assurances_flipbook_contrats_de_la_profession"
+          ]
+        },
+        {
+          "question": "Question générique 5 sur les assurances professionnelles notariales",
+          "type": "assurance",
+          "difficulte": "moyen",
+          "documents_references": [
+            "assurances_contrat_cyber_renouvellement_au_01_07_2025",
+            "assurances_flipbook_contrats_de_la_profession"
+          ]
+        },
+        {
+          "question": "Question générique 6 sur les assurances professionnelles notariales",
+          "type": "assurance",
+          "difficulte": "moyen",
+          "documents_references": [
+            "assurances_contrat_cyber_renouvellement_au_01_07_2025",
+            "assurances_flipbook_contrats_de_la_profession"
+          ]
+        },
+        {
+          "question": "Question générique 7 sur les assurances professionnelles notariales",
+          "type": "assurance",
+          "difficulte": "moyen",
+          "documents_references": [
+            "assurances_contrat_cyber_renouvellement_au_01_07_2025",
+            "assurances_flipbook_contrats_de_la_profession"
+          ]
+        },
+        {
+          "question": "Question générique 8 sur les assurances professionnelles notariales",
+          "type": "assurance",
+          "difficulte": "moyen",
+          "documents_references": [
+            "assurances_contrat_cyber_renouvellement_au_01_07_2025",
+            "assurances_flipbook_contrats_de_la_profession"
+          ]
+        },
+        {
+          "question": "Question générique 9 sur les assurances professionnelles notariales",
+          "type": "assurance",
+          "difficulte": "moyen",
+          "documents_references": [
+            "assurances_contrat_cyber_renouvellement_au_01_07_2025",
+            "assurances_flipbook_contrats_de_la_profession"
+          ]
+        },
+        {
+          "question": "Question générique 10 sur les assurances professionnelles notariales",
+          "type": "assurance",
+          "difficulte": "moyen",
+          "documents_references": [
+            "assurances_contrat_cyber_renouvellement_au_01_07_2025",
+            "assurances_flipbook_contrats_de_la_profession"
+          ]
+        },
+        {
+          "question": "Question générique 11 sur les assurances professionnelles notariales",
+          "type": "assurance",
+          "difficulte": "moyen",
+          "documents_references": [
+            "assurances_contrat_cyber_renouvellement_au_01_07_2025",
+            "assurances_flipbook_contrats_de_la_profession"
+          ]
+        },
+        {
+          "question": "Question générique 12 sur les assurances professionnelles notariales",
+          "type": "assurance",
+          "difficulte": "moyen",
+          "documents_references": [
+            "assurances_contrat_cyber_renouvellement_au_01_07_2025",
+            "assurances_flipbook_contrats_de_la_profession"
+          ]
+        },
+        {
+          "question": "Question générique 13 sur les assurances professionnelles notariales",
+          "type": "assurance",
+          "difficulte": "moyen",
+          "documents_references": [
+            "assurances_contrat_cyber_renouvellement_au_01_07_2025",
+            "assurances_flipbook_contrats_de_la_profession"
+          ]
+        },
+        {
+          "question": "Question générique 14 sur les assurances professionnelles notariales",
+          "type": "assurance",
+          "difficulte": "moyen",
+          "documents_references": [
+            "assurances_contrat_cyber_renouvellement_au_01_07_2025",
+            "assurances_flipbook_contrats_de_la_profession"
+          ]
+        },
+        {
+          "question": "Question générique 15 sur les assurances professionnelles notariales",
+          "type": "assurance",
+          "difficulte": "moyen",
+          "documents_references": [
+            "assurances_contrat_cyber_renouvellement_au_01_07_2025",
+            "assurances_flipbook_contrats_de_la_profession"
+          ]
+        }
+      ]
+    },
+    "accord_branche": {
+      "nombre_documents": 9,
+      "nombre_questions": 15,
+      "questions": [
+        {
+          "question": "Comment fonctionne le dispositif d'intéressement dans les offices notariaux ?",
+          "type": "épargne salariale",
+          "difficulte": "moyen",
+          "documents_references": [
+            "csn2020_accord_interessement_11072019"
+          ]
+        },
+        {
+          "question": "Quelles sont les mesures contre le harcèlement au travail dans le notariat ?",
+          "type": "prévention",
+          "difficulte": "moyen",
+          "documents_references": [
+            "csn2023_20221215_accord_de_branche_harcelement_au_travail"
+          ]
+        },
+        {
+          "question": "Comment l'égalité professionnelle femmes-hommes est-elle promue dans la profession ?",
+          "type": "égalité",
+          "difficulte": "moyen",
+          "documents_references": [
+            "csn2019_accord_egalite_professionnelle_entre_les_femmes_et_les_hommes_20190418"
+          ]
+        },
+        {
+          "question": "Quel est le rôle de l'OPCO dans la promotion par l'alternance ?",
+          "type": "formation",
+          "difficulte": "moyen",
+          "documents_references": [
+            "csn2019_accord_formation_et_reconversion_ou_promotion_par_l_alternance_20190711"
+          ]
+        },
+        {
+          "question": "Comment sont négociés les accords de salaires dans le notariat ?",
+          "type": "négociation",
+          "difficulte": "difficile",
+          "documents_references": []
+        },
+        {
+          "question": "Quels accords de branche ont été signés en 2023 ?",
+          "type": "chronologique",
+          "difficulte": "facile",
+          "documents_references": [
+            "csn2024_20231214_accord_de_branche_financement_de_la_formation"
+          ]
+        },
+        {
+          "question": "Comment le financement de la formation professionnelle est-il organisé par branche ?",
+          "type": "financement",
+          "difficulte": "moyen",
+          "documents_references": [
+            "csn2019_accord_formation_et_reconversion_ou_promotion_par_l_alternance_20190711",
+            "csn2024_20231214_accord_de_branche_financement_de_la_formation"
+          ]
+        },
+        {
+          "question": "Quelles sont les garanties de prévoyance prévues par les accords de branche ?",
+          "type": "prévoyance",
+          "difficulte": "moyen",
+          "documents_references": []
+        },
+        {
+          "question": "Comment les partenaires sociaux du notariat fonctionnent-ils ?",
+          "type": "institutionnel",
+          "difficulte": "difficile",
+          "documents_references": [
+            "csn2019_accord_egalite_professionnelle_entre_les_femmes_et_les_hommes_20190418",
+            "csn2019_accord_formation_et_reconversion_ou_promotion_par_l_alternance_20190711",
+            "csn2020_accord_interessement_11072019"
+          ]
+        },
+        {
+          "question": "Quels sont les accords les plus importants pour les collaborateurs d'office ?",
+          "type": "synthèse",
+          "difficulte": "moyen",
+          "documents_references": [
+            "csn2019_accord_egalite_professionnelle_entre_les_femmes_et_les_hommes_20190418",
+            "csn2019_accord_formation_et_reconversion_ou_promotion_par_l_alternance_20190711",
+            "csn2020_accord_interessement_11072019",
+            "csn2023_20221215_accord_de_branche_harcelement_au_travail",
+            "csn2024_20231214_accord_de_branche_financement_de_la_formation"
+          ]
+        },
+        {
+          "question": "Comment l'accord sur les frais de santé protège-t-il les salariés ?",
+          "type": "protection sociale",
+          "difficulte": "moyen",
+          "documents_references": []
+        },
+        {
+          "question": "Quelles évolutions salariales sont prévues par les accords de branche ?",
+          "type": "salaires",
+          "difficulte": "facile",
+          "documents_references": []
+        },
+        {
+          "question": "Comment les accords de branche s'articulent-ils avec la CCN du notariat ?",
+          "type": "juridique",
+          "difficulte": "difficile",
+          "documents_references": [
+            "csn2019_accord_egalite_professionnelle_entre_les_femmes_et_les_hommes_20190418",
+            "csn2019_accord_formation_et_reconversion_ou_promotion_par_l_alternance_20190711"
+          ]
+        },
+        {
+          "question": "Quels sont les droits des salariés en matière de formation selon les accords ?",
+          "type": "droits",
+          "difficulte": "moyen",
+          "documents_references": [
+            "csn2019_accord_formation_et_reconversion_ou_promotion_par_l_alternance_20190711",
+            "csn2024_20231214_accord_de_branche_financement_de_la_formation"
+          ]
+        },
+        {
+          "question": "Comment contester ou négocier un accord de branche dans le notariat ?",
+          "type": "procédure",
+          "difficulte": "difficile",
+          "documents_references": [
+            "csn2019_accord_egalite_professionnelle_entre_les_femmes_et_les_hommes_20190418",
+            "csn2019_accord_formation_et_reconversion_ou_promotion_par_l_alternance_20190711"
+          ]
+        }
+      ]
+    },
+    "decret_ordonnance": {
+      "nombre_documents": 6,
+      "nombre_questions": 15,
+      "questions": [
+        {
+          "question": "Quelles sont les dispositions du décret 2024-906 sur les inspections des officiers publics ?",
+          "type": "inspection",
+          "difficulte": "difficile",
+          "documents_references": [
+            "20250115_note_decret_2024_906_relatif_aux_inspections_des_officiers_publics_et_ministeriels_et_arret"
+          ]
+        },
+        {
+          "question": "Comment le décret 67-868 réglemente-t-il la profession notariale ?",
+          "type": "réglementation",
+          "difficulte": "difficile",
+          "documents_references": [
+            "d_67_868_v_conso_20240301"
+          ]
+        },
+        {
+          "question": "Quelles ordonnances ont modifié le droit notarial en 2022 ?",
+          "type": "législation",
+          "difficulte": "moyen",
+          "documents_references": [
+            "jo_ordo_2022_04_13"
+          ]
+        },
+        {
+          "question": "Comment les décrets définissent-ils les obligations des notaires ?",
+          "type": "obligations",
+          "difficulte": "difficile",
+          "documents_references": [
+            "d_67_868_v_conso_20240301",
+            "d_56_220_version_consolidee_20230101",
+            "d_71_942_v_conso_20240301"
+          ]
+        },
+        {
+          "question": "Quand entrent en vigueur les dernières ordonnances relatives au notariat ?",
+          "type": "date",
+          "difficulte": "facile",
+          "documents_references": [
+            "d_67_868_v_conso_20240301",
+            "d_56_220_version_consolidee_20230101"
+          ]
+        },
+        {
+          "question": "Question générique 6 sur les décrets et ordonnances du notariat",
+          "type": "général",
+          "difficulte": "moyen",
+          "documents_references": [
+            "d_67_868_v_conso_20240301",
+            "d_56_220_version_consolidee_20230101"
+          ]
+        },
+        {
+          "question": "Question générique 7 sur les décrets et ordonnances du notariat",
+          "type": "général",
+          "difficulte": "moyen",
+          "documents_references": [
+            "d_67_868_v_conso_20240301",
+            "d_56_220_version_consolidee_20230101"
+          ]
+        },
+        {
+          "question": "Question générique 8 sur les décrets et ordonnances du notariat",
+          "type": "général",
+          "difficulte": "moyen",
+          "documents_references": [
+            "d_67_868_v_conso_20240301",
+            "d_56_220_version_consolidee_20230101"
+          ]
+        },
+        {
+          "question": "Question générique 9 sur les décrets et ordonnances du notariat",
+          "type": "général",
+          "difficulte": "moyen",
+          "documents_references": [
+            "d_67_868_v_conso_20240301",
+            "d_56_220_version_consolidee_20230101"
+          ]
+        },
+        {
+          "question": "Question générique 10 sur les décrets et ordonnances du notariat",
+          "type": "général",
+          "difficulte": "moyen",
+          "documents_references": [
+            "d_67_868_v_conso_20240301",
+            "d_56_220_version_consolidee_20230101"
+          ]
+        },
+        {
+          "question": "Question générique 11 sur les décrets et ordonnances du notariat",
+          "type": "général",
+          "difficulte": "moyen",
+          "documents_references": [
+            "d_67_868_v_conso_20240301",
+            "d_56_220_version_consolidee_20230101"
+          ]
+        },
+        {
+          "question": "Question générique 12 sur les décrets et ordonnances du notariat",
+          "type": "général",
+          "difficulte": "moyen",
+          "documents_references": [
+            "d_67_868_v_conso_20240301",
+            "d_56_220_version_consolidee_20230101"
+          ]
+        },
+        {
+          "question": "Question générique 13 sur les décrets et ordonnances du notariat",
+          "type": "général",
+          "difficulte": "moyen",
+          "documents_references": [
+            "d_67_868_v_conso_20240301",
+            "d_56_220_version_consolidee_20230101"
+          ]
+        },
+        {
+          "question": "Question générique 14 sur les décrets et ordonnances du notariat",
+          "type": "général",
+          "difficulte": "moyen",
+          "documents_references": [
+            "d_67_868_v_conso_20240301",
+            "d_56_220_version_consolidee_20230101"
+          ]
+        },
+        {
+          "question": "Question générique 15 sur les décrets et ordonnances du notariat",
+          "type": "général",
+          "difficulte": "moyen",
+          "documents_references": [
+            "d_67_868_v_conso_20240301",
+            "d_56_220_version_consolidee_20230101"
+          ]
+        }
+      ]
+    },
+    "immobilier": {
+      "nombre_documents": 3,
+      "nombre_questions": 15,
+      "questions": [
+        {
+          "question": "Quelles sont les tendances du marché immobilier dans le Calvados en 2025 ?",
+          "type": "marché",
+          "difficulte": "facile",
+          "documents_references": [
+            "observatoire_immobilier_cid14_2025m1"
+          ]
+        },
+        {
+          "question": "Comment évoluent les prix immobiliers en Normandie ?",
+          "type": "prix",
+          "difficulte": "moyen",
+          "documents_references": [
+            "observatoire_immobilier_cid50_2025m1",
+            "observatoire_immobilier_cid61_2025m1",
+            "observatoire_immobilier_cid14_2025m1"
+          ]
+        },
+        {
+          "question": "Quels sont les indicateurs de l'observatoire immobilier notarial ?",
+          "type": "statistiques",
+          "difficulte": "moyen",
+          "documents_references": [
+            "observatoire_immobilier_cid50_2025m1",
+            "observatoire_immobilier_cid61_2025m1",
+            "observatoire_immobilier_cid14_2025m1"
+          ]
+        },
+        {
+          "question": "Question générique 4 sur le marché immobilier normand",
+          "type": "immobilier",
+          "difficulte": "moyen",
+          "documents_references": [
+            "observatoire_immobilier_cid50_2025m1",
+            "observatoire_immobilier_cid61_2025m1",
+            "observatoire_immobilier_cid14_2025m1"
+          ]
+        },
+        {
+          "question": "Question générique 5 sur le marché immobilier normand",
+          "type": "immobilier",
+          "difficulte": "moyen",
+          "documents_references": [
+            "observatoire_immobilier_cid50_2025m1",
+            "observatoire_immobilier_cid61_2025m1",
+            "observatoire_immobilier_cid14_2025m1"
+          ]
+        },
+        {
+          "question": "Question générique 6 sur le marché immobilier normand",
+          "type": "immobilier",
+          "difficulte": "moyen",
+          "documents_references": [
+            "observatoire_immobilier_cid50_2025m1",
+            "observatoire_immobilier_cid61_2025m1",
+            "observatoire_immobilier_cid14_2025m1"
+          ]
+        },
+        {
+          "question": "Question générique 7 sur le marché immobilier normand",
+          "type": "immobilier",
+          "difficulte": "moyen",
+          "documents_references": [
+            "observatoire_immobilier_cid50_2025m1",
+            "observatoire_immobilier_cid61_2025m1",
+            "observatoire_immobilier_cid14_2025m1"
+          ]
+        },
+        {
+          "question": "Question générique 8 sur le marché immobilier normand",
+          "type": "immobilier",
+          "difficulte": "moyen",
+          "documents_references": [
+            "observatoire_immobilier_cid50_2025m1",
+            "observatoire_immobilier_cid61_2025m1",
+            "observatoire_immobilier_cid14_2025m1"
+          ]
+        },
+        {
+          "question": "Question générique 9 sur le marché immobilier normand",
+          "type": "immobilier",
+          "difficulte": "moyen",
+          "documents_references": [
+            "observatoire_immobilier_cid50_2025m1",
+            "observatoire_immobilier_cid61_2025m1",
+            "observatoire_immobilier_cid14_2025m1"
+          ]
+        },
+        {
+          "question": "Question générique 10 sur le marché immobilier normand",
+          "type": "immobilier",
+          "difficulte": "moyen",
+          "documents_references": [
+            "observatoire_immobilier_cid50_2025m1",
+            "observatoire_immobilier_cid61_2025m1",
+            "observatoire_immobilier_cid14_2025m1"
+          ]
+        },
+        {
+          "question": "Question générique 11 sur le marché immobilier normand",
+          "type": "immobilier",
+          "difficulte": "moyen",
+          "documents_references": [
+            "observatoire_immobilier_cid50_2025m1",
+            "observatoire_immobilier_cid61_2025m1",
+            "observatoire_immobilier_cid14_2025m1"
+          ]
+        },
+        {
+          "question": "Question générique 12 sur le marché immobilier normand",
+          "type": "immobilier",
+          "difficulte": "moyen",
+          "documents_references": [
+            "observatoire_immobilier_cid50_2025m1",
+            "observatoire_immobilier_cid61_2025m1",
+            "observatoire_immobilier_cid14_2025m1"
+          ]
+        },
+        {
+          "question": "Question générique 13 sur le marché immobilier normand",
+          "type": "immobilier",
+          "difficulte": "moyen",
+          "documents_references": [
+            "observatoire_immobilier_cid50_2025m1",
+            "observatoire_immobilier_cid61_2025m1",
+            "observatoire_immobilier_cid14_2025m1"
+          ]
+        },
+        {
+          "question": "Question générique 14 sur le marché immobilier normand",
+          "type": "immobilier",
+          "difficulte": "moyen",
+          "documents_references": [
+            "observatoire_immobilier_cid50_2025m1",
+            "observatoire_immobilier_cid61_2025m1",
+            "observatoire_immobilier_cid14_2025m1"
+          ]
+        },
+        {
+          "question": "Question générique 15 sur le marché immobilier normand",
+          "type": "immobilier",
+          "difficulte": "moyen",
+          "documents_references": [
+            "observatoire_immobilier_cid50_2025m1",
+            "observatoire_immobilier_cid61_2025m1",
+            "observatoire_immobilier_cid14_2025m1"
+          ]
+        }
+      ]
+    },
+    "conformite": {
+      "nombre_documents": 2,
+      "nombre_questions": 15,
+      "questions": [
+        {
+          "question": "Quels sont les risques LCB-FT identifiés pour les notaires ?",
+          "type": "analyse de risques",
+          "difficulte": "difficile",
+          "documents_references": [
+            "csn2019_analyse_nationale_des_risques_lcb_ft_en_france_septembre_2019"
+          ]
+        },
+        {
+          "question": "Comment mettre en place un programme de conformité dans un office notarial ?",
+          "type": "mise en oeuvre",
+          "difficulte": "difficile",
+          "documents_references": [
+            "csn2022_appel_a_vigilance_de_la_direction_generale_du_tresor",
+            "csn2019_analyse_nationale_des_risques_lcb_ft_en_france_septembre_2019"
+          ]
+        },
+        {
+          "question": "Question générique 3 sur la conformité et la lutte anti-blanchiment",
+          "type": "conformité",
+          "difficulte": "difficile",
+          "documents_references": [
+            "csn2022_appel_a_vigilance_de_la_direction_generale_du_tresor",
+            "csn2019_analyse_nationale_des_risques_lcb_ft_en_france_septembre_2019"
+          ]
+        },
+        {
+          "question": "Question générique 4 sur la conformité et la lutte anti-blanchiment",
+          "type": "conformité",
+          "difficulte": "difficile",
+          "documents_references": [
+            "csn2022_appel_a_vigilance_de_la_direction_generale_du_tresor",
+            "csn2019_analyse_nationale_des_risques_lcb_ft_en_france_septembre_2019"
+          ]
+        },
+        {
+          "question": "Question générique 5 sur la conformité et la lutte anti-blanchiment",
+          "type": "conformité",
+          "difficulte": "difficile",
+          "documents_references": [
+            "csn2022_appel_a_vigilance_de_la_direction_generale_du_tresor",
+            "csn2019_analyse_nationale_des_risques_lcb_ft_en_france_septembre_2019"
+          ]
+        },
+        {
+          "question": "Question générique 6 sur la conformité et la lutte anti-blanchiment",
+          "type": "conformité",
+          "difficulte": "difficile",
+          "documents_references": [
+            "csn2022_appel_a_vigilance_de_la_direction_generale_du_tresor",
+            "csn2019_analyse_nationale_des_risques_lcb_ft_en_france_septembre_2019"
+          ]
+        },
+        {
+          "question": "Question générique 7 sur la conformité et la lutte anti-blanchiment",
+          "type": "conformité",
+          "difficulte": "difficile",
+          "documents_references": [
+            "csn2022_appel_a_vigilance_de_la_direction_generale_du_tresor",
+            "csn2019_analyse_nationale_des_risques_lcb_ft_en_france_septembre_2019"
+          ]
+        },
+        {
+          "question": "Question générique 8 sur la conformité et la lutte anti-blanchiment",
+          "type": "conformité",
+          "difficulte": "difficile",
+          "documents_references": [
+            "csn2022_appel_a_vigilance_de_la_direction_generale_du_tresor",
+            "csn2019_analyse_nationale_des_risques_lcb_ft_en_france_septembre_2019"
+          ]
+        },
+        {
+          "question": "Question générique 9 sur la conformité et la lutte anti-blanchiment",
+          "type": "conformité",
+          "difficulte": "difficile",
+          "documents_references": [
+            "csn2022_appel_a_vigilance_de_la_direction_generale_du_tresor",
+            "csn2019_analyse_nationale_des_risques_lcb_ft_en_france_septembre_2019"
+          ]
+        },
+        {
+          "question": "Question générique 10 sur la conformité et la lutte anti-blanchiment",
+          "type": "conformité",
+          "difficulte": "difficile",
+          "documents_references": [
+            "csn2022_appel_a_vigilance_de_la_direction_generale_du_tresor",
+            "csn2019_analyse_nationale_des_risques_lcb_ft_en_france_septembre_2019"
+          ]
+        },
+        {
+          "question": "Question générique 11 sur la conformité et la lutte anti-blanchiment",
+          "type": "conformité",
+          "difficulte": "difficile",
+          "documents_references": [
+            "csn2022_appel_a_vigilance_de_la_direction_generale_du_tresor",
+            "csn2019_analyse_nationale_des_risques_lcb_ft_en_france_septembre_2019"
+          ]
+        },
+        {
+          "question": "Question générique 12 sur la conformité et la lutte anti-blanchiment",
+          "type": "conformité",
+          "difficulte": "difficile",
+          "documents_references": [
+            "csn2022_appel_a_vigilance_de_la_direction_generale_du_tresor",
+            "csn2019_analyse_nationale_des_risques_lcb_ft_en_france_septembre_2019"
+          ]
+        },
+        {
+          "question": "Question générique 13 sur la conformité et la lutte anti-blanchiment",
+          "type": "conformité",
+          "difficulte": "difficile",
+          "documents_references": [
+            "csn2022_appel_a_vigilance_de_la_direction_generale_du_tresor",
+            "csn2019_analyse_nationale_des_risques_lcb_ft_en_france_septembre_2019"
+          ]
+        },
+        {
+          "question": "Question générique 14 sur la conformité et la lutte anti-blanchiment",
+          "type": "conformité",
+          "difficulte": "difficile",
+          "documents_references": [
+            "csn2022_appel_a_vigilance_de_la_direction_generale_du_tresor",
+            "csn2019_analyse_nationale_des_risques_lcb_ft_en_france_septembre_2019"
+          ]
+        },
+        {
+          "question": "Question générique 15 sur la conformité et la lutte anti-blanchiment",
+          "type": "conformité",
+          "difficulte": "difficile",
+          "documents_references": [
+            "csn2022_appel_a_vigilance_de_la_direction_generale_du_tresor",
+            "csn2019_analyse_nationale_des_risques_lcb_ft_en_france_septembre_2019"
+          ]
+        }
+      ]
+    }
+  }
+}
