@@ -25,7 +25,12 @@
       "collaborateurs d'office"
     ],
     "annee_reference": 2019,
-    "categorie_dossier": "CSN2019"
+    "categorie_dossier": "CSN2019",
+    "categories_metier": [
+      "PROCEDURE",
+      "RH"
+    ],
+    "categorie_metier_principale": "RH"
   },
   "reference": null,
   "vocabulaire_specifique": [
@@ -38,13 +43,6 @@
       "definition": "Acte reçu par un officier public (notaire) conférant foi publique à son contenu. Il a date certaine et force exécutoire.",
       "contexte_utilisation": "Mentionné 2 fois dans le document"
     }
-  ],
-  "questions_typiques": [
-    "À quelle date cette circulaire entre-t-elle en vigueur ?",
-    "Quels offices sont concernés par ces instructions ?",
-    "Quels sont les montants de franchise ?",
-    "Quelles sont les nouvelles obligations introduites par cette circulaire ?",
-    "Quelles garanties sont couvertes ?"
   ],
   "relations_documentaires": {
     "remplace": [],

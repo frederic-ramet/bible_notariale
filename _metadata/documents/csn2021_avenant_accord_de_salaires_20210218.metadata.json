@@ -25,7 +25,11 @@
       "collaborateurs d'office"
     ],
     "annee_reference": 2021,
-    "categorie_dossier": "CSN2021"
+    "categorie_dossier": "CSN2021",
+    "categories_metier": [
+      "RH"
+    ],
+    "categorie_metier_principale": "RH"
   },
   "reference": null,
   "vocabulaire_specifique": [
@@ -65,14 +69,6 @@
       "definition": "Acte juridique modifiant les clauses d'un accord ou d'une convention existante. Dans le contexte notarial, modification de la CCN négociée entre partenaires sociaux.",
       "contexte_utilisation": "Mentionné 1 fois dans le document"
     }
-  ],
-  "questions_typiques": [
-    "Quel est l'impact sur la rémunération des salariés ?",
-    "À partir de quand cet avenant s'applique-t-il ?",
-    "Quels articles de la convention collective sont modifiés ?",
-    "Quels sont les montants mentionnés dans ce document ?",
-    "Quelles sont les nouvelles grilles de salaires ?",
-    "Quel impact sur les conditions de travail des salariés ?"
   ],
   "relations_documentaires": {
     "remplace": [],

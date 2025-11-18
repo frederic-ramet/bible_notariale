@@ -25,7 +25,11 @@
       "collaborateurs d'office"
     ],
     "annee_reference": 2024,
-    "categorie_dossier": "Convention Collective"
+    "categorie_dossier": "Convention Collective",
+    "categories_metier": [
+      "RH"
+    ],
+    "categorie_metier_principale": "RH"
   },
   "reference": null,
   "vocabulaire_specifique": [
@@ -65,15 +69,6 @@
       "definition": "Ensemble des contreparties financières du travail : salaire de base + primes + avantages. Minima fixés par la CCN selon classification.",
       "contexte_utilisation": "Mentionné 1 fois dans le document"
     }
-  ],
-  "questions_typiques": [
-    "Quel est l'impact sur la rémunération des salariés ?",
-    "À partir de quand cet avenant s'applique-t-il ?",
-    "Quels articles de la convention collective sont modifiés ?",
-    "Comment financer ces formations ?",
-    "Quelles sont les nouvelles grilles de salaires ?",
-    "Quel impact sur les conditions de travail des salariés ?",
-    "Quelles formations sont concernées par ce document ?"
   ],
   "relations_documentaires": {
     "remplace": [],

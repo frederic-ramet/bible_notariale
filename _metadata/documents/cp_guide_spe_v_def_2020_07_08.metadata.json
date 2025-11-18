@@ -25,7 +25,12 @@
       "collaborateurs d'office"
     ],
     "annee_reference": 2020,
-    "categorie_dossier": "racine"
+    "categorie_dossier": "racine",
+    "categories_metier": [
+      "RH",
+      "ASSURANCES"
+    ],
+    "categorie_metier_principale": "RH"
   },
   "reference": null,
   "vocabulaire_specifique": [
@@ -47,15 +52,6 @@
       "definition": "Système de protection sociale complémentaire (décès, invalidité, incapacité) couvrant les risques non pris en charge par la Sécurité Sociale.",
       "contexte_utilisation": "Mentionné 1 fois dans le document"
     }
-  ],
-  "questions_typiques": [
-    "Quelles sont les recommandations principales de ce guide ?",
-    "Comment appliquer ces bonnes pratiques au quotidien ?",
-    "Comment financer ces formations ?",
-    "Quels sont les montants de franchise ?",
-    "Quels sont les points de vigilance à retenir ?",
-    "Quelles formations sont concernées par ce document ?",
-    "Quelles garanties sont couvertes ?"
   ],
   "relations_documentaires": {
     "remplace": [],

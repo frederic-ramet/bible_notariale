@@ -25,7 +25,13 @@
       "collaborateurs d'office"
     ],
     "annee_reference": 2025,
-    "categorie_dossier": "rpn"
+    "categorie_dossier": "rpn",
+    "categories_metier": [
+      "DEONTOLOGIE",
+      "RH",
+      "ASSURANCES"
+    ],
+    "categorie_metier_principale": "DEONTOLOGIE"
   },
   "reference": null,
   "vocabulaire_specifique": [
@@ -92,15 +98,6 @@
       "definition": "Barème réglementé fixant les émoluments des actes notariés. Défini par décret et applicable uniformément sur le territoire.",
       "contexte_utilisation": "Mentionné 1 fois dans le document"
     }
-  ],
-  "questions_typiques": [
-    "Quelles sont les recommandations principales de ce guide ?",
-    "Comment appliquer ces bonnes pratiques au quotidien ?",
-    "Comment financer ces formations ?",
-    "Quels sont les montants de franchise ?",
-    "Quels sont les points de vigilance à retenir ?",
-    "Quelles formations sont concernées par ce document ?",
-    "Quelles garanties sont couvertes ?"
   ],
   "relations_documentaires": {
     "remplace": [],

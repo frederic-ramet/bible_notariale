@@ -25,7 +25,11 @@
       "collaborateurs d'office"
     ],
     "annee_reference": 2023,
-    "categorie_dossier": "CSN2023"
+    "categorie_dossier": "CSN2023",
+    "categories_metier": [
+      "RH"
+    ],
+    "categorie_metier_principale": "RH"
   },
   "reference": null,
   "vocabulaire_specifique": [
@@ -54,15 +58,6 @@
       "definition": "Principe garantissant l'égalité de traitement entre femmes et hommes en matière de recrutement, formation, rémunération et évolution.",
       "contexte_utilisation": "Mentionné 1 fois dans le document"
     }
-  ],
-  "questions_typiques": [
-    "Comment financer ces formations ?",
-    "Comment signaler un cas de harcèlement ?",
-    "Quelles sont les nouvelles dispositions négociées ?",
-    "Quelle est la durée de validité de cet accord ?",
-    "Quelles formations sont concernées par ce document ?",
-    "Qui sont les parties signataires de cet accord ?",
-    "Quelles sont les mesures de prévention du harcèlement ?"
   ],
   "relations_documentaires": {
     "remplace": [],

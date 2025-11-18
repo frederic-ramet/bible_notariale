@@ -25,7 +25,13 @@
       "collaborateurs d'office"
     ],
     "annee_reference": 2023,
-    "categorie_dossier": "CSN2023"
+    "categorie_dossier": "CSN2023",
+    "categories_metier": [
+      "DEONTOLOGIE",
+      "RH",
+      "PROCEDURE"
+    ],
+    "categorie_metier_principale": "DEONTOLOGIE"
   },
   "reference": null,
   "vocabulaire_specifique": [
@@ -55,15 +61,6 @@
       "definition": "Document émis par le CSN donnant des instructions ou recommandations aux notaires sur l'application de dispositions légales ou réglementaires.",
       "contexte_utilisation": "Mentionné 1 fois dans le document"
     }
-  ],
-  "questions_typiques": [
-    "À quelle date cette circulaire entre-t-elle en vigueur ?",
-    "Quelle est la procédure de licenciement applicable ?",
-    "Quels offices sont concernés par ces instructions ?",
-    "Comment financer ces formations ?",
-    "Quels sont les délais à respecter ?",
-    "Quelles formations sont concernées par ce document ?",
-    "Quelles sont les nouvelles obligations introduites par cette circulaire ?"
   ],
   "relations_documentaires": {
     "remplace": [],

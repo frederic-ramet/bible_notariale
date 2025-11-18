@@ -25,7 +25,11 @@
       "collaborateurs d'office"
     ],
     "annee_reference": 2021,
-    "categorie_dossier": "CSN2021"
+    "categorie_dossier": "CSN2021",
+    "categories_metier": [
+      "RH"
+    ],
+    "categorie_metier_principale": "RH"
   },
   "reference": {
     "type": "avenant",
@@ -68,11 +72,6 @@
       "definition": "Ensemble des contreparties financières du travail : salaire de base + primes + avantages. Minima fixés par la CCN selon classification.",
       "contexte_utilisation": "Mentionné 1 fois dans le document"
     }
-  ],
-  "questions_typiques": [
-    "Quels articles de la convention collective sont modifiés ?",
-    "Quel impact sur les conditions de travail des salariés ?",
-    "À partir de quand cet avenant s'applique-t-il ?"
   ],
   "relations_documentaires": {
     "remplace": [],

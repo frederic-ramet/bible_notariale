@@ -25,7 +25,12 @@
       "collaborateurs d'office"
     ],
     "annee_reference": 2021,
-    "categorie_dossier": "CSN2021"
+    "categorie_dossier": "CSN2021",
+    "categories_metier": [
+      "DEONTOLOGIE",
+      "PROCEDURE"
+    ],
+    "categorie_metier_principale": "DEONTOLOGIE"
   },
   "reference": {
     "type": "circulaire",
@@ -77,15 +82,6 @@
       "definition": "Document émis par le CSN donnant des instructions ou recommandations aux notaires sur l'application de dispositions légales ou réglementaires.",
       "contexte_utilisation": "Mentionné 1 fois dans le document"
     }
-  ],
-  "questions_typiques": [
-    "À quelle date cette circulaire entre-t-elle en vigueur ?",
-    "Quel est l'impact sur la rémunération des salariés ?",
-    "Quels offices sont concernés par ces instructions ?",
-    "Comment financer ces formations ?",
-    "Quelles sont les nouvelles grilles de salaires ?",
-    "Quelles formations sont concernées par ce document ?",
-    "Quelles sont les nouvelles obligations introduites par cette circulaire ?"
   ],
   "relations_documentaires": {
     "remplace": [],

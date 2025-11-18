@@ -25,7 +25,11 @@
       "collaborateurs d'office"
     ],
     "annee_reference": 2025,
-    "categorie_dossier": "fil-infos"
+    "categorie_dossier": "fil-infos",
+    "categories_metier": [
+      "RH"
+    ],
+    "categorie_metier_principale": "RH"
   },
   "reference": {
     "type": "fil_info",
@@ -41,12 +45,6 @@
       "definition": "Lutte Contre le Blanchiment et le Financement du Terrorisme. Ensemble des obligations légales imposées aux notaires pour prévenir l'utilisation du système financier à des fins de blanchiment de capitaux.",
       "contexte_utilisation": "Mentionné 4 fois dans le document"
     }
-  ],
-  "questions_typiques": [
-    "Y a-t-il des alertes ou points de vigilance pour les notaires ?",
-    "Quelles sont les échéances mentionnées ?",
-    "Quelles formations sont concernées par ce document ?",
-    "Quelles sont les actualités juridiques importantes de ce numéro ?"
   ],
   "relations_documentaires": {
     "remplace": [],

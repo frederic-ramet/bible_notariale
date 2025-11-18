@@ -25,7 +25,11 @@
       "collaborateurs d'office"
     ],
     "annee_reference": 2025,
-    "categorie_dossier": "rpn"
+    "categorie_dossier": "rpn",
+    "categories_metier": [
+      "DEONTOLOGIE"
+    ],
+    "categorie_metier_principale": "DEONTOLOGIE"
   },
   "reference": null,
   "vocabulaire_specifique": [
@@ -65,11 +69,6 @@
       "definition": "Barème réglementé fixant les émoluments des actes notariés. Défini par décret et applicable uniformément sur le territoire.",
       "contexte_utilisation": "Mentionné 2 fois dans le document"
     }
-  ],
-  "questions_typiques": [
-    "Quelles sont les recommandations principales de ce guide ?",
-    "Comment appliquer ces bonnes pratiques au quotidien ?",
-    "Quels sont les points de vigilance à retenir ?"
   ],
   "relations_documentaires": {
     "remplace": [],

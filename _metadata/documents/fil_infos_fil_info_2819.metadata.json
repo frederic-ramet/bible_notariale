@@ -25,21 +25,17 @@
       "collaborateurs d'office"
     ],
     "annee_reference": 2025,
-    "categorie_dossier": "fil-infos"
+    "categorie_dossier": "fil-infos",
+    "categories_metier": [
+      "RH"
+    ],
+    "categorie_metier_principale": "RH"
   },
   "reference": {
     "type": "fil_info",
     "numero": "2819"
   },
   "vocabulaire_specifique": [],
-  "questions_typiques": [
-    "Quels sont les montants de franchise ?",
-    "Y a-t-il des alertes ou points de vigilance pour les notaires ?",
-    "Quelles sont les échéances mentionnées ?",
-    "Quelles formations sont concernées par ce document ?",
-    "Quelles sont les actualités juridiques importantes de ce numéro ?",
-    "Quelles garanties sont couvertes ?"
-  ],
   "relations_documentaires": {
     "remplace": [],
     "modifie": [],

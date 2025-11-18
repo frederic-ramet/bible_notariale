@@ -25,7 +25,13 @@
       "collaborateurs d'office"
     ],
     "annee_reference": 2025,
-    "categorie_dossier": "fil-infos"
+    "categorie_dossier": "fil-infos",
+    "categories_metier": [
+      "IMMOBILIER",
+      "RH",
+      "PROCEDURE"
+    ],
+    "categorie_metier_principale": "IMMOBILIER"
   },
   "reference": {
     "type": "fil_info",
@@ -49,15 +55,6 @@
       "definition": "Original d'un acte authentique conservé par le notaire. Document source qui ne peut quitter l'étude et dont seules des copies (expéditions) sont délivrées.",
       "contexte_utilisation": "Mentionné 1 fois dans le document"
     }
-  ],
-  "questions_typiques": [
-    "Quelles sont les obligations de sécurité informatique ?",
-    "Quelles sont les tendances du marché immobilier ?",
-    "Comment se protéger contre les cyberattaques ?",
-    "Quelles sont les modalités de prise de congés ?",
-    "Y a-t-il des alertes ou points de vigilance pour les notaires ?",
-    "Quelles sont les échéances mentionnées ?",
-    "Quelles sont les actualités juridiques importantes de ce numéro ?"
   ],
   "relations_documentaires": {
     "remplace": [],

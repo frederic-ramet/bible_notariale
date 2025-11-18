@@ -25,7 +25,11 @@
       "collaborateurs d'office"
     ],
     "annee_reference": 2025,
-    "categorie_dossier": "fil-infos"
+    "categorie_dossier": "fil-infos",
+    "categories_metier": [
+      "RH"
+    ],
+    "categorie_metier_principale": "RH"
   },
   "reference": {
     "type": "fil_info",
@@ -49,15 +53,6 @@
       "definition": "Document émis par le CSN donnant des instructions ou recommandations aux notaires sur l'application de dispositions légales ou réglementaires.",
       "contexte_utilisation": "Mentionné 1 fois dans le document"
     }
-  ],
-  "questions_typiques": [
-    "Quelles sont les obligations de sécurité informatique ?",
-    "Quels sont les montants mentionnés dans ce document ?",
-    "Comment se protéger contre les cyberattaques ?",
-    "Y a-t-il des alertes ou points de vigilance pour les notaires ?",
-    "Quelles sont les échéances mentionnées ?",
-    "Quelles formations sont concernées par ce document ?",
-    "Quelles sont les actualités juridiques importantes de ce numéro ?"
   ],
   "relations_documentaires": {
     "remplace": [],

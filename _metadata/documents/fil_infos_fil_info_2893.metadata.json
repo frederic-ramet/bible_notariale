@@ -25,7 +25,12 @@
       "collaborateurs d'office"
     ],
     "annee_reference": 2025,
-    "categorie_dossier": "fil-infos"
+    "categorie_dossier": "fil-infos",
+    "categories_metier": [
+      "RH",
+      "ASSURANCES"
+    ],
+    "categorie_metier_principale": "RH"
   },
   "reference": {
     "type": "fil_info",
@@ -49,15 +54,6 @@
       "definition": "Système de protection sociale complémentaire (décès, invalidité, incapacité) couvrant les risques non pris en charge par la Sécurité Sociale.",
       "contexte_utilisation": "Mentionné 1 fois dans le document"
     }
-  ],
-  "questions_typiques": [
-    "Quelles sont les obligations de sécurité informatique ?",
-    "Quelles sont les tendances du marché immobilier ?",
-    "Comment se protéger contre les cyberattaques ?",
-    "Quels sont les montants de franchise ?",
-    "Y a-t-il des alertes ou points de vigilance pour les notaires ?",
-    "Quelles sont les échéances mentionnées ?",
-    "Quelles sont les actualités juridiques importantes de ce numéro ?"
   ],
   "relations_documentaires": {
     "remplace": [],

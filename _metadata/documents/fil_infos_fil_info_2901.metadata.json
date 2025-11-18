@@ -25,19 +25,19 @@
       "collaborateurs d'office"
     ],
     "annee_reference": 2025,
-    "categorie_dossier": "fil-infos"
+    "categorie_dossier": "fil-infos",
+    "categories_metier": [
+      "IMMOBILIER",
+      "RH",
+      "FISCAL_SUCCESSION"
+    ],
+    "categorie_metier_principale": "IMMOBILIER"
   },
   "reference": {
     "type": "fil_info",
     "numero": "2901"
   },
   "vocabulaire_specifique": [],
-  "questions_typiques": [
-    "Y a-t-il des alertes ou points de vigilance pour les notaires ?",
-    "Quelles sont les échéances mentionnées ?",
-    "Quelles formations sont concernées par ce document ?",
-    "Quelles sont les actualités juridiques importantes de ce numéro ?"
-  ],
   "relations_documentaires": {
     "remplace": [],
     "modifie": [],

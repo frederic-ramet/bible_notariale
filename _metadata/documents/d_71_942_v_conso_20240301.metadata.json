@@ -25,7 +25,12 @@
       "collaborateurs d'office"
     ],
     "annee_reference": 2024,
-    "categorie_dossier": "racine"
+    "categorie_dossier": "racine",
+    "categories_metier": [
+      "DEONTOLOGIE",
+      "PROCEDURE"
+    ],
+    "categorie_metier_principale": "DEONTOLOGIE"
   },
   "reference": null,
   "vocabulaire_specifique": [
@@ -55,14 +60,6 @@
       "definition": "Document émis par le CSN donnant des instructions ou recommandations aux notaires sur l'application de dispositions légales ou réglementaires.",
       "contexte_utilisation": "Mentionné 1 fois dans le document"
     }
-  ],
-  "questions_typiques": [
-    "Quelles sont les tendances du marché immobilier ?",
-    "Quels articles du code sont concernés ?",
-    "Quelle est la date d'entrée en vigueur ?",
-    "Quelles formations sont concernées par ce document ?",
-    "Quelles modifications réglementaires sont introduites ?",
-    "Comment analyser ces données pour mon secteur ?"
   ],
   "relations_documentaires": {
     "remplace": [],

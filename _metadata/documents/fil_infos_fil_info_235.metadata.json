@@ -25,7 +25,12 @@
       "collaborateurs d'office"
     ],
     "annee_reference": 2023,
-    "categorie_dossier": "fil-infos"
+    "categorie_dossier": "fil-infos",
+    "categories_metier": [
+      "IMMOBILIER",
+      "RH"
+    ],
+    "categorie_metier_principale": "IMMOBILIER"
   },
   "reference": {
     "type": "fil_info",
@@ -40,15 +45,6 @@
       "definition": "Conseil Supérieur du Notariat. Instance nationale représentant la profession auprès des pouvoirs publics et coordonnant les chambres départementales.",
       "contexte_utilisation": "Mentionné 1 fois dans le document"
     }
-  ],
-  "questions_typiques": [
-    "Quelles sont les tendances du marché immobilier ?",
-    "Quelle est la procédure de licenciement applicable ?",
-    "Y a-t-il des alertes ou points de vigilance pour les notaires ?",
-    "Quelles sont les échéances mentionnées ?",
-    "Quels sont les délais à respecter ?",
-    "Quelles formations sont concernées par ce document ?",
-    "Quelles sont les actualités juridiques importantes de ce numéro ?"
   ],
   "relations_documentaires": {
     "remplace": [],

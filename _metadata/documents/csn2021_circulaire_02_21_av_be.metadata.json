@@ -25,7 +25,12 @@
       "collaborateurs d'office"
     ],
     "annee_reference": 2021,
-    "categorie_dossier": "CSN2021"
+    "categorie_dossier": "CSN2021",
+    "categories_metier": [
+      "DEONTOLOGIE",
+      "PROCEDURE"
+    ],
+    "categorie_metier_principale": "DEONTOLOGIE"
   },
   "reference": null,
   "vocabulaire_specifique": [
@@ -55,13 +60,6 @@
       "definition": "Système de protection sociale complémentaire (décès, invalidité, incapacité) couvrant les risques non pris en charge par la Sécurité Sociale.",
       "contexte_utilisation": "Mentionné 1 fois dans le document"
     }
-  ],
-  "questions_typiques": [
-    "À quelle date cette circulaire entre-t-elle en vigueur ?",
-    "Quels offices sont concernés par ces instructions ?",
-    "Quels sont les montants de franchise ?",
-    "Quelles sont les nouvelles obligations introduites par cette circulaire ?",
-    "Quelles garanties sont couvertes ?"
   ],
   "relations_documentaires": {
     "remplace": [],

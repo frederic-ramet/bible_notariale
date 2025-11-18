@@ -25,7 +25,11 @@
       "collaborateurs d'office"
     ],
     "annee_reference": 2025,
-    "categorie_dossier": "racine"
+    "categorie_dossier": "racine",
+    "categories_metier": [
+      "DEONTOLOGIE"
+    ],
+    "categorie_metier_principale": "DEONTOLOGIE"
   },
   "reference": null,
   "vocabulaire_specifique": [
@@ -57,16 +61,6 @@
       "definition": "Ensemble des contreparties financières du travail : salaire de base + primes + avantages. Minima fixés par la CCN selon classification.",
       "contexte_utilisation": "Mentionné 1 fois dans le document"
     }
-  ],
-  "questions_typiques": [
-    "Quelles sont les recommandations principales de ce guide ?",
-    "Quel est l'impact sur la rémunération des salariés ?",
-    "Comment appliquer ces bonnes pratiques au quotidien ?",
-    "Quelles sont les tendances du marché immobilier ?",
-    "Quelles sont les nouvelles grilles de salaires ?",
-    "Quels sont les montants de franchise ?",
-    "Quels sont les points de vigilance à retenir ?",
-    "Comment analyser ces données pour mon secteur ?"
   ],
   "relations_documentaires": {
     "remplace": [],

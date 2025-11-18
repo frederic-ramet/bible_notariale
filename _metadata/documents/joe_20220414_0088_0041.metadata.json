@@ -25,7 +25,13 @@
       "collaborateurs d'office"
     ],
     "annee_reference": 2022,
-    "categorie_dossier": "racine"
+    "categorie_dossier": "racine",
+    "categories_metier": [
+      "DEONTOLOGIE",
+      "RH",
+      "PROCEDURE"
+    ],
+    "categorie_metier_principale": "DEONTOLOGIE"
   },
   "reference": null,
   "vocabulaire_specifique": [
@@ -83,16 +89,6 @@
       "definition": "",
       "contexte_utilisation": "Mentionné 1 fois dans le document"
     }
-  ],
-  "questions_typiques": [
-    "Quelles sont les recommandations principales de ce guide ?",
-    "Quel est l'impact sur la rémunération des salariés ?",
-    "Quelle est la procédure de licenciement applicable ?",
-    "Comment appliquer ces bonnes pratiques au quotidien ?",
-    "Quels sont les montants mentionnés dans ce document ?",
-    "Quelles sont les nouvelles grilles de salaires ?",
-    "Quelles sont les modalités de prise de congés ?",
-    "Quels sont les points de vigilance à retenir ?"
   ],
   "relations_documentaires": {
     "remplace": [],

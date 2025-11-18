@@ -25,7 +25,11 @@
       "collaborateurs d'office"
     ],
     "annee_reference": 2021,
-    "categorie_dossier": "Convention Collective"
+    "categorie_dossier": "Convention Collective",
+    "categories_metier": [
+      "RH"
+    ],
+    "categorie_metier_principale": "RH"
   },
   "reference": null,
   "vocabulaire_specifique": [
@@ -100,16 +104,6 @@
       "definition": "Principe garantissant l'égalité de traitement entre femmes et hommes en matière de recrutement, formation, rémunération et évolution.",
       "contexte_utilisation": "Mentionné 1 fois dans le document"
     }
-  ],
-  "questions_typiques": [
-    "Quel est l'impact sur la rémunération des salariés ?",
-    "Quelle est la procédure de licenciement applicable ?",
-    "Comment financer ces formations ?",
-    "Quelles sont les nouvelles grilles de salaires ?",
-    "Quelles sont les nouvelles dispositions négociées ?",
-    "Quelle est la durée de validité de cet accord ?",
-    "Comment sont calculés les droits à congés ?",
-    "Qui sont les parties signataires de cet accord ?"
   ],
   "relations_documentaires": {
     "remplace": [],

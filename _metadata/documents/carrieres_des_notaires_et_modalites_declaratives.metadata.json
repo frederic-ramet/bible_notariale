@@ -25,17 +25,14 @@
       "collaborateurs d'office"
     ],
     "annee_reference": 2025,
-    "categorie_dossier": "racine"
+    "categorie_dossier": "racine",
+    "categories_metier": [
+      "PROCEDURE"
+    ],
+    "categorie_metier_principale": "PROCEDURE"
   },
   "reference": null,
   "vocabulaire_specifique": [],
-  "questions_typiques": [
-    "Quelles sont les étapes de la carrière d'un notaire ?",
-    "Quelles déclarations fiscales un notaire doit-il effectuer ?",
-    "Comment évoluer dans sa carrière de notaire ?",
-    "Quelles sont les obligations déclaratives annuelles ?",
-    "Quels formulaires utiliser pour les déclarations ?"
-  ],
   "relations_documentaires": {
     "remplace": [],
     "modifie": [],

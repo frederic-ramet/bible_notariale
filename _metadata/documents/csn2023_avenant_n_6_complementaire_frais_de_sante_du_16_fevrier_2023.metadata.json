@@ -25,7 +25,11 @@
       "collaborateurs d'office"
     ],
     "annee_reference": 2023,
-    "categorie_dossier": "CSN2023"
+    "categorie_dossier": "CSN2023",
+    "categories_metier": [
+      "RH"
+    ],
+    "categorie_metier_principale": "RH"
   },
   "reference": {
     "type": "avenant",
@@ -58,13 +62,6 @@
       "definition": "Système de protection sociale complémentaire (décès, invalidité, incapacité) couvrant les risques non pris en charge par la Sécurité Sociale.",
       "contexte_utilisation": "Mentionné 1 fois dans le document"
     }
-  ],
-  "questions_typiques": [
-    "À partir de quand cet avenant s'applique-t-il ?",
-    "Quels articles de la convention collective sont modifiés ?",
-    "Quel impact sur les conditions de travail des salariés ?",
-    "Quels sont les montants de franchise ?",
-    "Quelles garanties sont couvertes ?"
   ],
   "relations_documentaires": {
     "remplace": [],

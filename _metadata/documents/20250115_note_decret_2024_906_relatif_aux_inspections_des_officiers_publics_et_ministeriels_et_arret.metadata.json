@@ -25,7 +25,12 @@
       "collaborateurs d'office"
     ],
     "annee_reference": 2025,
-    "categorie_dossier": "racine"
+    "categorie_dossier": "racine",
+    "categories_metier": [
+      "DEONTOLOGIE",
+      "PROCEDURE"
+    ],
+    "categorie_metier_principale": "DEONTOLOGIE"
   },
   "reference": null,
   "vocabulaire_specifique": [
@@ -64,14 +69,6 @@
       "definition": "Barème réglementé fixant les émoluments des actes notariés. Défini par décret et applicable uniformément sur le territoire.",
       "contexte_utilisation": "Mentionné 1 fois dans le document"
     }
-  ],
-  "questions_typiques": [
-    "Quels articles du code sont concernés ?",
-    "Quelle est la date d'entrée en vigueur ?",
-    "Quels sont les montants de franchise ?",
-    "Quelles formations sont concernées par ce document ?",
-    "Quelles modifications réglementaires sont introduites ?",
-    "Quelles garanties sont couvertes ?"
   ],
   "relations_documentaires": {
     "remplace": [],

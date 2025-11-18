@@ -25,7 +25,11 @@
       "collaborateurs d'office"
     ],
     "annee_reference": 2023,
-    "categorie_dossier": "FICHES BONNES PRATIQUES CLE REAL"
+    "categorie_dossier": "FICHES BONNES PRATIQUES CLE REAL",
+    "categories_metier": [
+      "RH"
+    ],
+    "categorie_metier_principale": "RH"
   },
   "reference": null,
   "vocabulaire_specifique": [
@@ -37,13 +41,6 @@
       "definition": "Conseil Supérieur du Notariat. Instance nationale représentant la profession auprès des pouvoirs publics et coordonnant les chambres départementales.",
       "contexte_utilisation": "Mentionné 2 fois dans le document"
     }
-  ],
-  "questions_typiques": [
-    "Quelles sont les recommandations principales de ce guide ?",
-    "Comment appliquer ces bonnes pratiques au quotidien ?",
-    "Comment financer ces formations ?",
-    "Quels sont les points de vigilance à retenir ?",
-    "Quelles formations sont concernées par ce document ?"
   ],
   "relations_documentaires": {
     "remplace": [],

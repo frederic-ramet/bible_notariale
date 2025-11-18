@@ -25,7 +25,11 @@
       "collaborateurs d'office"
     ],
     "annee_reference": 2023,
-    "categorie_dossier": "Convention Collective"
+    "categorie_dossier": "Convention Collective",
+    "categories_metier": [
+      "RH"
+    ],
+    "categorie_metier_principale": "RH"
   },
   "reference": null,
   "vocabulaire_specifique": [
@@ -74,16 +78,6 @@
       "definition": "Droits à repos rémunéré des salariés. Régime spécifique dans la CCN du notariat avec majoration pour ancienneté.",
       "contexte_utilisation": "Mentionné 1 fois dans le document"
     }
-  ],
-  "questions_typiques": [
-    "Quel est l'impact sur la rémunération des salariés ?",
-    "À partir de quand cet avenant s'applique-t-il ?",
-    "Quels articles de la convention collective sont modifiés ?",
-    "Comment financer ces formations ?",
-    "Quelles sont les nouvelles grilles de salaires ?",
-    "Quel impact sur les conditions de travail des salariés ?",
-    "Quelles sont les modalités de prise de congés ?",
-    "Comment sont calculés les droits à congés ?"
   ],
   "relations_documentaires": {
     "remplace": [],

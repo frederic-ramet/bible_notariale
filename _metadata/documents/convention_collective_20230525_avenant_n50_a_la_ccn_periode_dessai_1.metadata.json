@@ -25,7 +25,11 @@
       "collaborateurs d'office"
     ],
     "annee_reference": 2023,
-    "categorie_dossier": "Convention Collective"
+    "categorie_dossier": "Convention Collective",
+    "categories_metier": [
+      "RH"
+    ],
+    "categorie_metier_principale": "RH"
   },
   "reference": null,
   "vocabulaire_specifique": [
@@ -55,13 +59,6 @@
       "definition": "Conseil Supérieur du Notariat. Instance nationale représentant la profession auprès des pouvoirs publics et coordonnant les chambres départementales.",
       "contexte_utilisation": "Mentionné 1 fois dans le document"
     }
-  ],
-  "questions_typiques": [
-    "À partir de quand cet avenant s'applique-t-il ?",
-    "Quels articles de la convention collective sont modifiés ?",
-    "Quelle est la procédure de licenciement applicable ?",
-    "Quel impact sur les conditions de travail des salariés ?",
-    "Quels sont les délais à respecter ?"
   ],
   "relations_documentaires": {
     "remplace": [],

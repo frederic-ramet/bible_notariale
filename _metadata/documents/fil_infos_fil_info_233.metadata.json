@@ -25,7 +25,13 @@
       "collaborateurs d'office"
     ],
     "annee_reference": 2025,
-    "categorie_dossier": "fil-infos"
+    "categorie_dossier": "fil-infos",
+    "categories_metier": [
+      "IMMOBILIER",
+      "RH",
+      "ASSURANCES"
+    ],
+    "categorie_metier_principale": "IMMOBILIER"
   },
   "reference": {
     "type": "fil_info",
@@ -67,15 +73,6 @@
       "definition": "Barème réglementé fixant les émoluments des actes notariés. Défini par décret et applicable uniformément sur le territoire.",
       "contexte_utilisation": "Mentionné 1 fois dans le document"
     }
-  ],
-  "questions_typiques": [
-    "Quelles sont les tendances du marché immobilier ?",
-    "Quels sont les montants de franchise ?",
-    "Y a-t-il des alertes ou points de vigilance pour les notaires ?",
-    "Quelles sont les échéances mentionnées ?",
-    "Quelles formations sont concernées par ce document ?",
-    "Quelles sont les actualités juridiques importantes de ce numéro ?",
-    "Comment analyser ces données pour mon secteur ?"
   ],
   "relations_documentaires": {
     "remplace": [],

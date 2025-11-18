@@ -25,7 +25,11 @@
       "collaborateurs d'office"
     ],
     "annee_reference": 2023,
-    "categorie_dossier": "CSN2023"
+    "categorie_dossier": "CSN2023",
+    "categories_metier": [
+      "RH"
+    ],
+    "categorie_metier_principale": "RH"
   },
   "reference": null,
   "vocabulaire_specifique": [
@@ -37,13 +41,6 @@
       "definition": "Conseil Supérieur du Notariat. Instance nationale représentant la profession auprès des pouvoirs publics et coordonnant les chambres départementales.",
       "contexte_utilisation": "Mentionné 1 fois dans le document"
     }
-  ],
-  "questions_typiques": [
-    "À quelle date cette circulaire entre-t-elle en vigueur ?",
-    "Quels offices sont concernés par ces instructions ?",
-    "Quelles sont les modalités de prise de congés ?",
-    "Comment sont calculés les droits à congés ?",
-    "Quelles sont les nouvelles obligations introduites par cette circulaire ?"
   ],
   "relations_documentaires": {
     "remplace": [],

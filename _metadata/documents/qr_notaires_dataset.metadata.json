@@ -25,17 +25,16 @@
       "collaborateurs d'office"
     ],
     "annee_reference": 2025,
-    "categorie_dossier": "racine"
+    "categorie_dossier": "racine",
+    "categories_metier": [
+      "DEONTOLOGIE",
+      "IMMOBILIER",
+      "RH"
+    ],
+    "categorie_metier_principale": "DEONTOLOGIE"
   },
   "reference": null,
   "vocabulaire_specifique": [],
-  "questions_typiques": [
-    "Comment trouver une réponse dans le dataset QR ?",
-    "Quels domaines juridiques sont couverts ?",
-    "Comment contribuer au dataset de questions ?",
-    "Le dataset est-il mis à jour régulièrement ?",
-    "Puis-je utiliser ce dataset pour former mes collaborateurs ?"
-  ],
   "relations_documentaires": {
     "remplace": [],
     "modifie": [],
