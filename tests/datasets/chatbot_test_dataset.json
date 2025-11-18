@@ -795,6 +795,201 @@
       ],
       "necessite_multi_documents": false,
       "notes_validation": ""
+    },
+    {
+      "id": "Q041",
+      "categorie": "edge_case",
+      "difficulte": "moyen",
+      "question": "Quelles sont toutes les modifications apportées à la CCN en 2024 ?",
+      "documents_sources_attendus": [
+        "convention_collective_20241212_avenant_59_modif_art_29_5_participation_financiere_formation_pro_mis_",
+        "convention_collective_20241114_avenant_58_modif_art_15_6_et_29_3_3_mis_en_forme",
+        "convention_collective_20240321_avenant_n56_ccn_modification_art_12_2_procedure_licenciement_mis_en_f"
+      ],
+      "elements_cles_reponse": [
+        "Avenant 56 (mars 2024) : article 12.2 sur la procédure de licenciement",
+        "Avenant 58 (novembre 2024) : articles 15.6 et 29.3.3",
+        "Avenant 59 (décembre 2024) : article 29.5 sur la participation financière formation",
+        "Questions temporelles nécessitant synthèse de plusieurs documents"
+      ],
+      "reponse_attendue_resumee": "En 2024, la CCN a connu trois modifications majeures via les avenants 56 (mars, procédure licenciement), 58 (novembre, catégories employés et formation) et 59 (décembre, participation financière formation). Ces avenants ont principalement porté sur les articles 12.2, 15.6, 29.3.3 et 29.5.",
+      "articles_references": [
+        "Article 12.2 de la CCN",
+        "Article 15.6 de la CCN",
+        "Article 29.3.3 de la CCN",
+        "Article 29.5 de la CCN"
+      ],
+      "necessite_multi_documents": true,
+      "notes_validation": ""
+    },
+    {
+      "id": "Q042",
+      "categorie": "edge_case",
+      "difficulte": "facile",
+      "question": "Comment devenir notaire en France ?",
+      "documents_sources_attendus": [],
+      "elements_cles_reponse": [
+        "Question hors périmètre de la Bible Notariale",
+        "Concerne le parcours de formation",
+        "Non couvert par les documents indexés",
+        "Le chatbot devrait l'indiquer clairement"
+      ],
+      "reponse_attendue_resumee": "Cette question concerne le parcours de formation pour devenir notaire, ce qui est hors du périmètre des documents de la Bible Notariale qui se concentrent sur la déontologie, la CCN et les règles professionnelles pour les notaires en exercice. Le chatbot devrait indiquer qu'il ne dispose pas d'informations sur ce sujet.",
+      "articles_references": [],
+      "necessite_multi_documents": false,
+      "notes_validation": ""
+    },
+    {
+      "id": "Q043",
+      "categorie": "edge_case",
+      "difficulte": "moyen",
+      "question": "Quelle est l'histoire du notariat en France ?",
+      "documents_sources_attendus": [],
+      "elements_cles_reponse": [
+        "Question très large et historique",
+        "Hors périmètre de la Bible Notariale",
+        "Documents se concentrent sur l'actualité professionnelle",
+        "Le chatbot devrait l'indiquer"
+      ],
+      "reponse_attendue_resumee": "Cette question sur l'histoire du notariat est trop large et hors du périmètre des documents de la Bible Notariale qui se concentrent sur l'actualité professionnelle, la déontologie actuelle et les règles en vigueur. Le chatbot devrait indiquer qu'il ne dispose pas d'informations historiques détaillées.",
+      "articles_references": [],
+      "necessite_multi_documents": false,
+      "notes_validation": ""
+    },
+    {
+      "id": "Q044",
+      "categorie": "edge_case",
+      "difficulte": "pointu",
+      "question": "Quels sont les liens entre la réforme de la déontologie de 2021-2024 et les modifications de la CCN sur la formation professionnelle ?",
+      "documents_sources_attendus": [
+        "fil_infos_fil_info_262",
+        "rpn_rpn",
+        "convention_collective_20241212_avenant_59_modif_art_29_5_participation_financiere_formation_pro_mis_",
+        "convention_collective_20241114_avenant_58_modif_art_15_6_et_29_3_3_mis_en_forme"
+      ],
+      "elements_cles_reponse": [
+        "Réforme déontologie : nouvelles exigences professionnelles",
+        "CCN formation : mise en conformité avec obligations",
+        "Cohérence entre textes déontologiques et sociaux",
+        "Période de transformation 2021-2024"
+      ],
+      "reponse_attendue_resumee": "La réforme de la déontologie (2021-2024) a établi de nouvelles exigences professionnelles, tandis que les modifications de la CCN sur la formation (avenants 58-59 en 2024) ont mis à jour les modalités de formation pour s'aligner sur ces nouvelles obligations. Ces évolutions parallèles illustrent la cohérence entre textes déontologiques et sociaux.",
+      "articles_references": [],
+      "necessite_multi_documents": true,
+      "notes_validation": ""
+    },
+    {
+      "id": "Q045",
+      "categorie": "edge_case",
+      "difficulte": "moyen",
+      "question": "Quels sont les tarifs notariaux pour un acte de vente immobilière ?",
+      "documents_sources_attendus": [],
+      "elements_cles_reponse": [
+        "Question très spécifique sur les montants",
+        "Nécessite des barèmes détaillés",
+        "Peut ne pas être dans les documents de la Bible Notariale",
+        "Le chatbot devrait orienter vers les sources officielles"
+      ],
+      "reponse_attendue_resumee": "Cette question nécessite des barèmes tarifaires détaillés qui peuvent ne pas être entièrement documentés dans la Bible Notariale. Le chatbot devrait mentionner que les tarifs dépendent de nombreux facteurs (valeur du bien, nature de l'acte) et orienter vers les sources officielles ou le service compétent.",
+      "articles_references": [],
+      "necessite_multi_documents": false,
+      "notes_validation": ""
+    },
+    {
+      "id": "Q046",
+      "categorie": "edge_case",
+      "difficulte": "facile",
+      "question": "Quelles sont les actualités juridiques de la semaine dernière ?",
+      "documents_sources_attendus": [],
+      "elements_cles_reponse": [
+        "Question temporelle avec date relative",
+        "Nécessite des documents très récents",
+        "Le chatbot doit gérer les dates relatives",
+        "Doit indiquer les derniers documents disponibles"
+      ],
+      "reponse_attendue_resumee": "Cette question avec une référence temporelle relative ('semaine dernière') nécessite que le chatbot identifie les documents les plus récents dans sa base. Il devrait indiquer la date de sa dernière mise à jour et présenter les actualités des Fil-Info les plus récents disponibles.",
+      "articles_references": [],
+      "necessite_multi_documents": false,
+      "notes_validation": ""
+    },
+    {
+      "id": "Q047",
+      "categorie": "edge_case",
+      "difficulte": "moyen",
+      "question": "Je suis clerc, puis-je accéder à la formation continue financée par l'OPCO ?",
+      "documents_sources_attendus": [
+        "csn2019_avenant_n_38_opco",
+        "convention_collective_20241212_avenant_59_modif_art_29_5_participation_financiere_formation_pro_mis_"
+      ],
+      "elements_cles_reponse": [
+        "Question à la première personne",
+        "Nécessite de comprendre le statut de clerc",
+        "OPCO finance la formation des salariés",
+        "Oui, les clercs sont éligibles"
+      ],
+      "reponse_attendue_resumee": "Oui, en tant que clerc de notaire (salarié d'une étude), vous pouvez accéder à la formation professionnelle financée par l'OPCO EP, l'opérateur de compétences du notariat. Les modalités sont définies dans la CCN et les avenants relatifs à la formation professionnelle.",
+      "articles_references": [
+        "Article 29 de la CCN"
+      ],
+      "necessite_multi_documents": true,
+      "notes_validation": ""
+    },
+    {
+      "id": "Q048",
+      "categorie": "edge_case",
+      "difficulte": "pointu",
+      "question": "Quelles sont les différences entre le Code de déontologie des notaires, le RPN et la CCN en termes de champ d'application ?",
+      "documents_sources_attendus": [
+        "rpn_rpn",
+        "convention_collective_20241212_avenant_59_modif_art_29_5_participation_financiere_formation_pro_mis_"
+      ],
+      "elements_cles_reponse": [
+        "Code déontologie : règles éthiques et professionnelles",
+        "RPN : règles d'exercice professionnel",
+        "CCN : relations de travail employeur-salarié",
+        "Trois textes complémentaires avec champs distincts",
+        "Code et RPN pour tous les notaires, CCN pour relations employeur-salarié"
+      ],
+      "reponse_attendue_resumee": "Le Code de déontologie établit les règles éthiques applicables à tous les notaires. Le RPN détaille les règles d'exercice professionnel. La CCN (IDCC 2205) régit les relations de travail entre notaires employeurs et leurs salariés. Ces trois textes ont des champs d'application complémentaires : déontologie professionnelle vs droit social.",
+      "articles_references": [],
+      "necessite_multi_documents": true,
+      "notes_validation": ""
+    },
+    {
+      "id": "Q049",
+      "categorie": "edge_case",
+      "difficulte": "moyen",
+      "question": "Combien de documents la Bible Notariale contient-elle sur la déontologie ?",
+      "documents_sources_attendus": [],
+      "elements_cles_reponse": [
+        "Question méta sur la Bible Notariale elle-même",
+        "Nécessite une capacité d'introspection du système",
+        "Le chatbot doit pouvoir compter les documents pertinents",
+        "Environ 20 circulaires CSN, guides pratiques, Fil-Info sur déontologie"
+      ],
+      "reponse_attendue_resumee": "Cette question méta nécessite que le chatbot analyse sa propre base documentaire. La Bible Notariale contient plusieurs dizaines de documents traitant de déontologie : circulaires CSN, guides pratiques (notamment le RPN et son commentaire), et de nombreux Fil-Info abordant des questions déontologiques.",
+      "articles_references": [],
+      "necessite_multi_documents": false,
+      "notes_validation": ""
+    },
+    {
+      "id": "Q050",
+      "categorie": "edge_case",
+      "difficulte": "facile",
+      "question": "Où puis-je trouver le formulaire de déclaration Tracfin ?",
+      "documents_sources_attendus": [
+        "csn2019_analyse_nationale_des_risques_lcb_ft_en_france_septembre_2019"
+      ],
+      "elements_cles_reponse": [
+        "Question pratique opérationnelle",
+        "Peut ne pas être dans les documents",
+        "Le chatbot devrait orienter vers Tracfin ou le CSN",
+        "Information sur l'existence de l'obligation, pas le formulaire lui-même"
+      ],
+      "reponse_attendue_resumee": "Les documents de la Bible Notariale expliquent l'obligation de déclaration auprès de Tracfin dans le cadre de la LCB-FT, mais ne contiennent probablement pas le formulaire lui-même. Le chatbot devrait orienter vers le site de Tracfin ou les services du CSN pour obtenir le formulaire officiel.",
+      "articles_references": [],
+      "necessite_multi_documents": false,
+      "notes_validation": ""
     }
   ]
 }
