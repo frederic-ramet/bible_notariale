@@ -1,5 +1,5 @@
 {
-  "dataset_version": "1.0",
+  "dataset_version": "2.0",
   "created_at": "2025-11-18",
   "last_updated": "2025-11-18",
   "description": "Dataset de test pour validation du chatbot RAG Bible Notariale",
@@ -142,7 +142,7 @@
         "Loi du 18 novembre 2021",
         "Ordonnance du 13 avril 2022"
       ],
-      "necessite_multi_documents": false,
+      "necessite_multi_documents": true,
       "notes_validation": ""
     },
     {
@@ -154,10 +154,10 @@
         "csn2019_analyse_nationale_des_risques_lcb_ft_en_france_septembre_2019"
       ],
       "elements_cles_reponse": [
-        "Obligation devenue pratique professionnelle quotidienne",
-        "Premiers contributeurs du secteur non-financier",
-        "Déclarations auprès de Tracfin",
-        "Prévenir le blanchiment de capitaux"
+        "Notaires premiers contributeurs du secteur non-financier à Tracfin",
+        "Déclarations de soupçon auprès de Tracfin",
+        "Prévenir le blanchiment de capitaux et financement du terrorisme",
+        "Obligation devenue pratique professionnelle quotidienne"
       ],
       "reponse_attendue_resumee": "Le notariat remplit un rôle important dans la LCB-FT qui est devenue une pratique professionnelle quotidienne. Les notaires sont les premiers contributeurs du secteur non-financier auprès du service de renseignement gouvernemental Tracfin, avec pour mission de prévenir l'utilisation du système financier à des fins de blanchiment.",
       "articles_references": [],
@@ -198,7 +198,7 @@
       ],
       "reponse_attendue_resumee": "Selon la réforme de 2021, la discipline sanctionne la déontologie, mais la discipline n'est pas une fin en soi. Les deux ont été réformées conjointement car elles sont intrinsèquement liées dans l'exercice professionnel du notaire.",
       "articles_references": [],
-      "necessite_multi_documents": false,
+      "necessite_multi_documents": true,
       "notes_validation": ""
     },
     {
@@ -229,10 +229,13 @@
       "categorie": "deontologie",
       "difficulte": "moyen",
       "question": "Quelles sont les règles déontologiques régissant les relations entre notaires et généalogistes successoraux ?",
-      "documents_sources_attendus": [],
+      "documents_sources_attendus": [
+        "rpn_rpn"
+      ],
       "elements_cles_reponse": [
+        "Relations encadrées par le RPN",
         "Exigences de rigueur et professionnalisme mutuelles",
-        "Règles sur le secret professionnel",
+        "Respect du secret professionnel",
         "Encadrement des relations d'affaires"
       ],
       "reponse_attendue_resumee": "Les relations entre notaires et généalogistes successoraux sont encadrées par des règles déontologiques rappelant les exigences de rigueur et de professionnalisme que chacun est en droit d'attendre de l'autre. Ces règles couvrent notamment le secret professionnel et l'encadrement des relations d'affaires.",
@@ -359,7 +362,7 @@
       "articles_references": [
         "Loi du 22 décembre 2021"
       ],
-      "necessite_multi_documents": false,
+      "necessite_multi_documents": true,
       "notes_validation": ""
     },
     {
@@ -508,7 +511,9 @@
       "categorie": "deontologie",
       "difficulte": "pointu",
       "question": "Quelles sont les conditions dans lesquelles un code de déontologie est édicté pour une profession réglementée selon l'ordonnance mentionnée dans les documents ?",
-      "documents_sources_attendus": [],
+      "documents_sources_attendus": [
+        "rpn_rpn"
+      ],
       "elements_cles_reponse": [
         "Code de déontologie préparé par l'instance nationale",
         "Édicté par décret en Conseil d'État",
@@ -527,7 +532,9 @@
       "categorie": "deontologie",
       "difficulte": "pointu",
       "question": "Comment s'articulent les obligations déontologiques avec le secret professionnel dans les relations avec les généalogistes ?",
-      "documents_sources_attendus": [],
+      "documents_sources_attendus": [
+        "rpn_rpn"
+      ],
       "elements_cles_reponse": [
         "Exigences mutuelles de rigueur",
         "Secret professionnel s'applique",
@@ -648,7 +655,9 @@
       "categorie": "juridique",
       "difficulte": "facile",
       "question": "Qu'est-ce qu'une Société Multi-Offices (SMO) ?",
-      "documents_sources_attendus": [],
+      "documents_sources_attendus": [
+        "fiche_doctrine_smo_vd"
+      ],
       "elements_cles_reponse": [
         "Structure permettant de détenir des parts dans plusieurs offices",
         "Holding notariale",
@@ -707,7 +716,9 @@
       "categorie": "juridique",
       "difficulte": "facile",
       "question": "Qu'est-ce qu'un clerc de notaire ?",
-      "documents_sources_attendus": [],
+      "documents_sources_attendus": [
+        "convention_collective_convention_collective_nationale_du_notariat_idcc_2205_actualisee_et_consolidee"
+      ],
       "elements_cles_reponse": [
         "Salarié qualifié d'une étude notariale",
         "Collaborateur du notaire",
