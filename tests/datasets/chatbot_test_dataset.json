@@ -11,5 +11,195 @@
     "juridique_specifique": 10,
     "edge_cases": 5
   },
-  "qa_pairs": []
+  "qa_pairs": [
+    {
+      "id": "Q001",
+      "categorie": "deontologie",
+      "difficulte": "facile",
+      "question": "Que signifie l'acronyme LCB-FT ?",
+      "documents_sources_attendus": [
+        "csn2019_analyse_nationale_des_risques_lcb_ft_en_france_septembre_2019"
+      ],
+      "elements_cles_reponse": [
+        "Lutte Contre le Blanchiment de capitaux",
+        "Financement du Terrorisme",
+        "Obligation légale pour les notaires"
+      ],
+      "reponse_attendue_resumee": "LCB-FT signifie Lutte Contre le Blanchiment de capitaux et le Financement du Terrorisme. Il s'agit d'un ensemble d'obligations légales imposées aux notaires pour prévenir l'utilisation du système financier à des fins illégales.",
+      "articles_references": [],
+      "necessite_multi_documents": false,
+      "notes_validation": ""
+    },
+    {
+      "id": "Q002",
+      "categorie": "deontologie",
+      "difficulte": "facile",
+      "question": "Qu'est-ce que le RPN ?",
+      "documents_sources_attendus": [
+        "rpn_rpn"
+      ],
+      "elements_cles_reponse": [
+        "Règlement Professionnel du Notariat",
+        "Entré en vigueur le 1er février 2024",
+        "Approuvé par arrêté du Garde des Sceaux du 29 janvier 2024"
+      ],
+      "reponse_attendue_resumee": "Le RPN est le Règlement Professionnel du Notariat. Il est entré en vigueur le 1er février 2024 après avoir été approuvé par arrêté du Garde des Sceaux en date du 29 janvier 2024. Il remplace l'ancien règlement national-règlement intercours.",
+      "articles_references": [],
+      "necessite_multi_documents": false,
+      "notes_validation": ""
+    },
+    {
+      "id": "Q003",
+      "categorie": "deontologie",
+      "difficulte": "facile",
+      "question": "Quand le Code de déontologie des notaires est-il entré en vigueur ?",
+      "documents_sources_attendus": [
+        "rpn_rpn",
+        "fil_infos_fil_info_262"
+      ],
+      "elements_cles_reponse": [
+        "1er février 2024",
+        "Décret du 28 décembre 2023",
+        "En même temps que le RPN"
+      ],
+      "reponse_attendue_resumee": "Le Code de déontologie des notaires est entré en vigueur le 1er février 2024, édicté par décret du 28 décembre 2023, en même temps que le Règlement Professionnel du Notariat (RPN).",
+      "articles_references": [],
+      "necessite_multi_documents": true,
+      "notes_validation": ""
+    },
+    {
+      "id": "Q004",
+      "categorie": "deontologie",
+      "difficulte": "facile",
+      "question": "Qu'est-ce qu'une minute notariale ?",
+      "documents_sources_attendus": [
+        "rpn_rpn"
+      ],
+      "elements_cles_reponse": [
+        "Original de l'acte authentique",
+        "Conservé par le notaire",
+        "Ne peut quitter l'étude",
+        "Seules des copies (expéditions) sont délivrées"
+      ],
+      "reponse_attendue_resumee": "La minute est l'original d'un acte authentique conservé par le notaire. C'est un document source qui ne peut quitter l'étude et dont seules des copies appelées expéditions sont délivrées aux parties.",
+      "articles_references": [],
+      "necessite_multi_documents": false,
+      "notes_validation": ""
+    },
+    {
+      "id": "Q005",
+      "categorie": "deontologie",
+      "difficulte": "facile",
+      "question": "Qu'est-ce que le CSN ?",
+      "documents_sources_attendus": [
+        "rpn_rpn"
+      ],
+      "elements_cles_reponse": [
+        "Conseil Supérieur du Notariat",
+        "Instance nationale représentant la profession",
+        "Coordonne les chambres départementales"
+      ],
+      "reponse_attendue_resumee": "Le CSN (Conseil Supérieur du Notariat) est l'instance nationale représentant la profession notariale auprès des pouvoirs publics et coordonnant les chambres départementales.",
+      "articles_references": [],
+      "necessite_multi_documents": false,
+      "notes_validation": ""
+    },
+    {
+      "id": "Q006",
+      "categorie": "deontologie",
+      "difficulte": "facile",
+      "question": "Quelle est la mission du notaire selon le RPN ?",
+      "documents_sources_attendus": [
+        "rpn_rpn"
+      ],
+      "elements_cles_reponse": [
+        "Conseiller avec rigueur et impartialité",
+        "Accompagner avec humanité et discrétion",
+        "Exprimer l'équilibre des volontés dans le cadre de la loi",
+        "Conserver les actes",
+        "Agir pour la paix dans la société"
+      ],
+      "reponse_attendue_resumee": "Selon le RPN, la mission du notaire est de conseiller avec rigueur et impartialité, accompagner avec humanité et discrétion, exprimer l'équilibre des volontés dans le cadre fixé par la loi, conserver les actes pour toujours, et agir ainsi pour la paix au cœur de la société.",
+      "articles_references": [],
+      "necessite_multi_documents": false,
+      "notes_validation": ""
+    },
+    {
+      "id": "Q007",
+      "categorie": "deontologie",
+      "difficulte": "moyen",
+      "question": "Quelles lois ont réformé la déontologie et la discipline notariale ?",
+      "documents_sources_attendus": [
+        "fil_infos_fil_info_262"
+      ],
+      "elements_cles_reponse": [
+        "Loi du 18 novembre 2021 pour la confiance dans l'institution judiciaire",
+        "Ordonnance du 13 avril 2022",
+        "Réforme profonde de la discipline et de la déontologie"
+      ],
+      "reponse_attendue_resumee": "La loi du 18 novembre 2021 pour la confiance dans l'institution judiciaire et l'ordonnance du 13 avril 2022 ont réformé en profondeur la discipline et la déontologie notariale. Ces textes sont applicables à l'action des professionnels du droit, donc aux notaires.",
+      "articles_references": [
+        "Loi du 18 novembre 2021",
+        "Ordonnance du 13 avril 2022"
+      ],
+      "necessite_multi_documents": false,
+      "notes_validation": ""
+    },
+    {
+      "id": "Q008",
+      "categorie": "deontologie",
+      "difficulte": "moyen",
+      "question": "Quel est le rôle du notariat en matière de LCB-FT ?",
+      "documents_sources_attendus": [
+        "csn2019_analyse_nationale_des_risques_lcb_ft_en_france_septembre_2019"
+      ],
+      "elements_cles_reponse": [
+        "Obligation devenue pratique professionnelle quotidienne",
+        "Premiers contributeurs du secteur non-financier",
+        "Déclarations auprès de Tracfin",
+        "Prévenir le blanchiment de capitaux"
+      ],
+      "reponse_attendue_resumee": "Le notariat remplit un rôle important dans la LCB-FT qui est devenue une pratique professionnelle quotidienne. Les notaires sont les premiers contributeurs du secteur non-financier auprès du service de renseignement gouvernemental Tracfin, avec pour mission de prévenir l'utilisation du système financier à des fins de blanchiment.",
+      "articles_references": [],
+      "necessite_multi_documents": false,
+      "notes_validation": ""
+    },
+    {
+      "id": "Q009",
+      "categorie": "deontologie",
+      "difficulte": "moyen",
+      "question": "Qu'est-ce qu'un acte authentique et quelles sont ses caractéristiques ?",
+      "documents_sources_attendus": [
+        "rpn_rpn"
+      ],
+      "elements_cles_reponse": [
+        "Acte reçu par un officier public (notaire)",
+        "Confère foi publique à son contenu",
+        "Date certaine",
+        "Force exécutoire"
+      ],
+      "reponse_attendue_resumee": "Un acte authentique est un acte reçu par un officier public, en l'occurrence le notaire, qui confère foi publique à son contenu. Il a une date certaine et possède une force exécutoire, ce qui lui donne une valeur juridique particulière.",
+      "articles_references": [],
+      "necessite_multi_documents": false,
+      "notes_validation": ""
+    },
+    {
+      "id": "Q010",
+      "categorie": "deontologie",
+      "difficulte": "moyen",
+      "question": "Quelle est la relation entre la déontologie et la discipline selon la réforme de 2021 ?",
+      "documents_sources_attendus": [
+        "fil_infos_fil_info_262"
+      ],
+      "elements_cles_reponse": [
+        "La discipline sanctionne la déontologie",
+        "La discipline n'est pas une fin en soi",
+        "Réforme conjointe des deux aspects"
+      ],
+      "reponse_attendue_resumee": "Selon la réforme de 2021, la discipline sanctionne la déontologie, mais la discipline n'est pas une fin en soi. Les deux ont été réformées conjointement car elles sont intrinsèquement liées dans l'exercice professionnel du notaire.",
+      "articles_references": [],
+      "necessite_multi_documents": false,
+      "notes_validation": ""
+    }
+  ]
 }
