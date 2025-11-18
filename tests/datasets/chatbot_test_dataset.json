@@ -1,0 +1,995 @@
+{
+  "dataset_version": "1.0",
+  "created_at": "2025-11-18",
+  "last_updated": "2025-11-18",
+  "description": "Dataset de test pour validation du chatbot RAG Bible Notariale",
+  "total_questions": 50,
+  "repartition": {
+    "deontologie_facile": 15,
+    "deontologie_moyen": 12,
+    "deontologie_pointu": 8,
+    "juridique_specifique": 10,
+    "edge_cases": 5
+  },
+  "qa_pairs": [
+    {
+      "id": "Q001",
+      "categorie": "deontologie",
+      "difficulte": "facile",
+      "question": "Que signifie l'acronyme LCB-FT ?",
+      "documents_sources_attendus": [
+        "csn2019_analyse_nationale_des_risques_lcb_ft_en_france_septembre_2019"
+      ],
+      "elements_cles_reponse": [
+        "Lutte Contre le Blanchiment de capitaux",
+        "Financement du Terrorisme",
+        "Obligation légale pour les notaires"
+      ],
+      "reponse_attendue_resumee": "LCB-FT signifie Lutte Contre le Blanchiment de capitaux et le Financement du Terrorisme. Il s'agit d'un ensemble d'obligations légales imposées aux notaires pour prévenir l'utilisation du système financier à des fins illégales.",
+      "articles_references": [],
+      "necessite_multi_documents": false,
+      "notes_validation": ""
+    },
+    {
+      "id": "Q002",
+      "categorie": "deontologie",
+      "difficulte": "facile",
+      "question": "Qu'est-ce que le RPN ?",
+      "documents_sources_attendus": [
+        "rpn_rpn"
+      ],
+      "elements_cles_reponse": [
+        "Règlement Professionnel du Notariat",
+        "Entré en vigueur le 1er février 2024",
+        "Approuvé par arrêté du Garde des Sceaux du 29 janvier 2024"
+      ],
+      "reponse_attendue_resumee": "Le RPN est le Règlement Professionnel du Notariat. Il est entré en vigueur le 1er février 2024 après avoir été approuvé par arrêté du Garde des Sceaux en date du 29 janvier 2024. Il remplace l'ancien règlement national-règlement intercours.",
+      "articles_references": [],
+      "necessite_multi_documents": false,
+      "notes_validation": ""
+    },
+    {
+      "id": "Q003",
+      "categorie": "deontologie",
+      "difficulte": "facile",
+      "question": "Quand le Code de déontologie des notaires est-il entré en vigueur ?",
+      "documents_sources_attendus": [
+        "rpn_rpn",
+        "fil_infos_fil_info_262"
+      ],
+      "elements_cles_reponse": [
+        "1er février 2024",
+        "Décret du 28 décembre 2023",
+        "En même temps que le RPN"
+      ],
+      "reponse_attendue_resumee": "Le Code de déontologie des notaires est entré en vigueur le 1er février 2024, édicté par décret du 28 décembre 2023, en même temps que le Règlement Professionnel du Notariat (RPN).",
+      "articles_references": [],
+      "necessite_multi_documents": true,
+      "notes_validation": ""
+    },
+    {
+      "id": "Q004",
+      "categorie": "deontologie",
+      "difficulte": "facile",
+      "question": "Qu'est-ce qu'une minute notariale ?",
+      "documents_sources_attendus": [
+        "rpn_rpn"
+      ],
+      "elements_cles_reponse": [
+        "Original de l'acte authentique",
+        "Conservé par le notaire",
+        "Ne peut quitter l'étude",
+        "Seules des copies (expéditions) sont délivrées"
+      ],
+      "reponse_attendue_resumee": "La minute est l'original d'un acte authentique conservé par le notaire. C'est un document source qui ne peut quitter l'étude et dont seules des copies appelées expéditions sont délivrées aux parties.",
+      "articles_references": [],
+      "necessite_multi_documents": false,
+      "notes_validation": ""
+    },
+    {
+      "id": "Q005",
+      "categorie": "deontologie",
+      "difficulte": "facile",
+      "question": "Qu'est-ce que le CSN ?",
+      "documents_sources_attendus": [
+        "rpn_rpn"
+      ],
+      "elements_cles_reponse": [
+        "Conseil Supérieur du Notariat",
+        "Instance nationale représentant la profession",
+        "Coordonne les chambres départementales"
+      ],
+      "reponse_attendue_resumee": "Le CSN (Conseil Supérieur du Notariat) est l'instance nationale représentant la profession notariale auprès des pouvoirs publics et coordonnant les chambres départementales.",
+      "articles_references": [],
+      "necessite_multi_documents": false,
+      "notes_validation": ""
+    },
+    {
+      "id": "Q006",
+      "categorie": "deontologie",
+      "difficulte": "facile",
+      "question": "Quelle est la mission du notaire selon le RPN ?",
+      "documents_sources_attendus": [
+        "rpn_rpn"
+      ],
+      "elements_cles_reponse": [
+        "Conseiller avec rigueur et impartialité",
+        "Accompagner avec humanité et discrétion",
+        "Exprimer l'équilibre des volontés dans le cadre de la loi",
+        "Conserver les actes",
+        "Agir pour la paix dans la société"
+      ],
+      "reponse_attendue_resumee": "Selon le RPN, la mission du notaire est de conseiller avec rigueur et impartialité, accompagner avec humanité et discrétion, exprimer l'équilibre des volontés dans le cadre fixé par la loi, conserver les actes pour toujours, et agir ainsi pour la paix au cœur de la société.",
+      "articles_references": [],
+      "necessite_multi_documents": false,
+      "notes_validation": ""
+    },
+    {
+      "id": "Q007",
+      "categorie": "deontologie",
+      "difficulte": "moyen",
+      "question": "Quelles lois ont réformé la déontologie et la discipline notariale ?",
+      "documents_sources_attendus": [
+        "fil_infos_fil_info_262"
+      ],
+      "elements_cles_reponse": [
+        "Loi du 18 novembre 2021 pour la confiance dans l'institution judiciaire",
+        "Ordonnance du 13 avril 2022",
+        "Réforme profonde de la discipline et de la déontologie"
+      ],
+      "reponse_attendue_resumee": "La loi du 18 novembre 2021 pour la confiance dans l'institution judiciaire et l'ordonnance du 13 avril 2022 ont réformé en profondeur la discipline et la déontologie notariale. Ces textes sont applicables à l'action des professionnels du droit, donc aux notaires.",
+      "articles_references": [
+        "Loi du 18 novembre 2021",
+        "Ordonnance du 13 avril 2022"
+      ],
+      "necessite_multi_documents": false,
+      "notes_validation": ""
+    },
+    {
+      "id": "Q008",
+      "categorie": "deontologie",
+      "difficulte": "moyen",
+      "question": "Quel est le rôle du notariat en matière de LCB-FT ?",
+      "documents_sources_attendus": [
+        "csn2019_analyse_nationale_des_risques_lcb_ft_en_france_septembre_2019"
+      ],
+      "elements_cles_reponse": [
+        "Obligation devenue pratique professionnelle quotidienne",
+        "Premiers contributeurs du secteur non-financier",
+        "Déclarations auprès de Tracfin",
+        "Prévenir le blanchiment de capitaux"
+      ],
+      "reponse_attendue_resumee": "Le notariat remplit un rôle important dans la LCB-FT qui est devenue une pratique professionnelle quotidienne. Les notaires sont les premiers contributeurs du secteur non-financier auprès du service de renseignement gouvernemental Tracfin, avec pour mission de prévenir l'utilisation du système financier à des fins de blanchiment.",
+      "articles_references": [],
+      "necessite_multi_documents": false,
+      "notes_validation": ""
+    },
+    {
+      "id": "Q009",
+      "categorie": "deontologie",
+      "difficulte": "moyen",
+      "question": "Qu'est-ce qu'un acte authentique et quelles sont ses caractéristiques ?",
+      "documents_sources_attendus": [
+        "rpn_rpn"
+      ],
+      "elements_cles_reponse": [
+        "Acte reçu par un officier public (notaire)",
+        "Confère foi publique à son contenu",
+        "Date certaine",
+        "Force exécutoire"
+      ],
+      "reponse_attendue_resumee": "Un acte authentique est un acte reçu par un officier public, en l'occurrence le notaire, qui confère foi publique à son contenu. Il a une date certaine et possède une force exécutoire, ce qui lui donne une valeur juridique particulière.",
+      "articles_references": [],
+      "necessite_multi_documents": false,
+      "notes_validation": ""
+    },
+    {
+      "id": "Q010",
+      "categorie": "deontologie",
+      "difficulte": "moyen",
+      "question": "Quelle est la relation entre la déontologie et la discipline selon la réforme de 2021 ?",
+      "documents_sources_attendus": [
+        "fil_infos_fil_info_262"
+      ],
+      "elements_cles_reponse": [
+        "La discipline sanctionne la déontologie",
+        "La discipline n'est pas une fin en soi",
+        "Réforme conjointe des deux aspects"
+      ],
+      "reponse_attendue_resumee": "Selon la réforme de 2021, la discipline sanctionne la déontologie, mais la discipline n'est pas une fin en soi. Les deux ont été réformées conjointement car elles sont intrinsèquement liées dans l'exercice professionnel du notaire.",
+      "articles_references": [],
+      "necessite_multi_documents": false,
+      "notes_validation": ""
+    },
+    {
+      "id": "Q011",
+      "categorie": "deontologie",
+      "difficulte": "moyen",
+      "question": "Quelles sont les obligations du notaire en matière de médiation de la consommation ?",
+      "documents_sources_attendus": [
+        "fil_infos_fil_info_265"
+      ],
+      "elements_cles_reponse": [
+        "Obligation depuis le 1er février 2024",
+        "Intégrée au Code de déontologie (article 25.2)",
+        "Intégrée au Règlement professionnel (article 25.1)",
+        "Concerne les différends entre notaire et client",
+        "Inscrite dans l'ADN de la déontologie"
+      ],
+      "reponse_attendue_resumee": "Depuis le 1er février 2024, le Code de déontologie (article 25.2) et le Règlement professionnel (article 25.1) intègrent explicitement l'obligation de médiation de la consommation. Cette obligation ne concerne que les différends entre un notaire et son client et traduit une volonté d'inscrire la médiation dans l'ADN de la déontologie.",
+      "articles_references": [
+        "Article 25.2 du Code de déontologie",
+        "Article 25.1 du RPN"
+      ],
+      "necessite_multi_documents": false,
+      "notes_validation": ""
+    },
+    {
+      "id": "Q012",
+      "categorie": "deontologie",
+      "difficulte": "moyen",
+      "question": "Quelles sont les règles déontologiques régissant les relations entre notaires et généalogistes successoraux ?",
+      "documents_sources_attendus": [],
+      "elements_cles_reponse": [
+        "Exigences de rigueur et professionnalisme mutuelles",
+        "Règles sur le secret professionnel",
+        "Encadrement des relations d'affaires"
+      ],
+      "reponse_attendue_resumee": "Les relations entre notaires et généalogistes successoraux sont encadrées par des règles déontologiques rappelant les exigences de rigueur et de professionnalisme que chacun est en droit d'attendre de l'autre. Ces règles couvrent notamment le secret professionnel et l'encadrement des relations d'affaires.",
+      "articles_references": [],
+      "necessite_multi_documents": false,
+      "notes_validation": ""
+    },
+    {
+      "id": "Q013",
+      "categorie": "deontologie",
+      "difficulte": "pointu",
+      "question": "Comment le Code de déontologie et le RPN s'articulent-ils ensemble dans la régulation de la profession notariale ?",
+      "documents_sources_attendus": [
+        "rpn_rpn"
+      ],
+      "elements_cles_reponse": [
+        "Entrés en vigueur simultanément le 1er février 2024",
+        "Code de déontologie édicté par décret en Conseil d'État",
+        "RPN approuvé par arrêté du Garde des Sceaux",
+        "Le Code pose les principes déontologiques",
+        "Le RPN détaille les règles d'application",
+        "Violation expose à des poursuites disciplinaires"
+      ],
+      "reponse_attendue_resumee": "Le Code de déontologie et le RPN sont deux textes complémentaires entrés en vigueur simultanément le 1er février 2024. Le Code de déontologie, édicté par décret en Conseil d'État, pose les principes déontologiques généraux. Le RPN, approuvé par arrêté du Garde des Sceaux, détaille les règles d'application pratiques. La violation de ces dispositions expose à des poursuites disciplinaires.",
+      "articles_references": [],
+      "necessite_multi_documents": true,
+      "notes_validation": ""
+    },
+    {
+      "id": "Q014",
+      "categorie": "deontologie",
+      "difficulte": "moyen",
+      "question": "Qu'est-ce que Tracfin et quel est son rôle dans les obligations LCB-FT des notaires ?",
+      "documents_sources_attendus": [
+        "csn2019_analyse_nationale_des_risques_lcb_ft_en_france_septembre_2019"
+      ],
+      "elements_cles_reponse": [
+        "Service de renseignement gouvernemental",
+        "Traitement du Renseignement et Action contre les Circuits FINanciers clandestins",
+        "Réception des déclarations de soupçon",
+        "Les notaires sont les premiers contributeurs du secteur non-financier"
+      ],
+      "reponse_attendue_resumee": "Tracfin (Traitement du Renseignement et Action contre les Circuits FINanciers clandestins) est le service de renseignement gouvernemental auprès duquel les notaires doivent effectuer leurs déclarations de soupçon dans le cadre de la LCB-FT. Les notaires sont les premiers contributeurs du secteur non-financier auprès de Tracfin.",
+      "articles_references": [],
+      "necessite_multi_documents": false,
+      "notes_validation": ""
+    },
+    {
+      "id": "Q015",
+      "categorie": "deontologie",
+      "difficulte": "pointu",
+      "question": "Quels sont les objectifs fondamentaux inscrits dans le manifeste du notariat selon le Fil-Info 2865 ?",
+      "documents_sources_attendus": [
+        "fil_infos_fil_info_265"
+      ],
+      "elements_cles_reponse": [
+        "Vision : société apaisée où les droits de chacun sont garantis",
+        "Mission : comprendre et accompagner avec humanité et proximité",
+        "Accompagner tous les citoyens à toutes les étapes de leur vie",
+        "Résultat d'ateliers de co-construction"
+      ],
+      "reponse_attendue_resumee": "Le manifeste du notariat définit une vision (croire en une société apaisée dans laquelle chacun peut compter sur le fait que ses droits sont garantis) et une mission (comprendre et accompagner avec humanité et proximité tous les citoyens à toutes les étapes de leur vie). Ces objectifs ont été définis lors d'ateliers de co-construction.",
+      "articles_references": [],
+      "necessite_multi_documents": false,
+      "notes_validation": ""
+    },
+    {
+      "id": "Q016",
+      "categorie": "deontologie",
+      "difficulte": "pointu",
+      "question": "Quelles sont les cinq missions fondamentales du notaire inscrites dans le serment du RPN ?",
+      "documents_sources_attendus": [
+        "rpn_rpn"
+      ],
+      "elements_cles_reponse": [
+        "Conseiller avec rigueur et impartialité",
+        "Accompagner avec humanité et discrétion",
+        "Exprimer l'équilibre des volontés dans le cadre fixé par la loi",
+        "Conserver les actes pour toujours",
+        "Agir pour la paix au cœur de la société",
+        "Sous le sceau de l'État"
+      ],
+      "reponse_attendue_resumee": "Les cinq missions fondamentales inscrites dans le serment du RPN sont : 1) Conseiller avec rigueur et impartialité, 2) Accompagner avec humanité et discrétion, 3) Exprimer l'équilibre des volontés dans le cadre fixé par la loi, 4) Conserver les actes pour toujours, 5) Agir ainsi pour la paix au cœur de la société. Tout cela sous le sceau de l'État.",
+      "articles_references": [],
+      "necessite_multi_documents": false,
+      "notes_validation": ""
+    },
+    {
+      "id": "Q017",
+      "categorie": "deontologie",
+      "difficulte": "moyen",
+      "question": "Quelle est la différence entre la minute et l'expédition d'un acte notarié ?",
+      "documents_sources_attendus": [
+        "rpn_rpn"
+      ],
+      "elements_cles_reponse": [
+        "Minute : original de l'acte authentique",
+        "Minute conservée par le notaire",
+        "Minute ne peut quitter l'étude",
+        "Expédition : copie de la minute",
+        "Expédition délivrée aux parties"
+      ],
+      "reponse_attendue_resumee": "La minute est l'original de l'acte authentique qui doit être conservé par le notaire et ne peut quitter l'étude. L'expédition est une copie de la minute qui est délivrée aux parties. Seules les expéditions circulent, jamais la minute elle-même.",
+      "articles_references": [],
+      "necessite_multi_documents": false,
+      "notes_validation": ""
+    },
+    {
+      "id": "Q018",
+      "categorie": "deontologie",
+      "difficulte": "pointu",
+      "question": "Pourquoi la réforme de la déontologie et de la discipline de 2021 a-t-elle été décrite comme écrite 'à quatre mains' ?",
+      "documents_sources_attendus": [
+        "rpn_rpn"
+      ],
+      "elements_cles_reponse": [
+        "Réforme souhaitée par le notariat",
+        "Écrite conjointement avec la DACS",
+        "DACS : Direction des Affaires Civiles et du Sceau",
+        "Collaboration profession-ministère",
+        "Corollaire de la réforme de la discipline"
+      ],
+      "reponse_attendue_resumee": "La réforme a été décrite comme écrite 'à quatre mains' car elle a été élaborée conjointement par le notariat et la DACS (Direction des Affaires Civiles et du Sceau du ministère de la Justice). Cette réforme, souhaitée par le notariat, illustre une collaboration étroite entre la profession et les pouvoirs publics.",
+      "articles_references": [
+        "Loi du 22 décembre 2021"
+      ],
+      "necessite_multi_documents": false,
+      "notes_validation": ""
+    },
+    {
+      "id": "Q019",
+      "categorie": "deontologie",
+      "difficulte": "moyen",
+      "question": "Qu'est-ce qui distingue les émoluments des honoraires pour un notaire ?",
+      "documents_sources_attendus": [
+        "rpn_rpn"
+      ],
+      "elements_cles_reponse": [
+        "Émoluments : tarification réglementée",
+        "Définis par décret",
+        "Applicables uniformément sur le territoire",
+        "Honoraires : rémunération libre pour certaines prestations",
+        "Les deux peuvent coexister selon la nature de l'acte"
+      ],
+      "reponse_attendue_resumee": "Les émoluments sont une tarification réglementée définie par décret et applicable uniformément sur le territoire pour certains actes notariés. Les honoraires sont une rémunération librement convenue pour d'autres prestations. La distinction dépend de la nature de l'acte ou de la prestation fournie.",
+      "articles_references": [],
+      "necessite_multi_documents": false,
+      "notes_validation": ""
+    },
+    {
+      "id": "Q020",
+      "categorie": "deontologie",
+      "difficulte": "pointu",
+      "question": "Quelles sont les caractéristiques de la force probante et de la force exécutoire d'un acte authentique ?",
+      "documents_sources_attendus": [
+        "rpn_rpn"
+      ],
+      "elements_cles_reponse": [
+        "Force probante : foi publique conférée au contenu",
+        "L'acte fait foi jusqu'à inscription de faux",
+        "Force exécutoire : exécution possible sans jugement préalable",
+        "Équivaut à une décision de justice",
+        "Permet l'exécution forcée directe"
+      ],
+      "reponse_attendue_resumee": "La force probante signifie que l'acte authentique fait foi de son contenu jusqu'à inscription de faux - il bénéficie de la foi publique. La force exécutoire signifie qu'il permet l'exécution forcée directe sans nécessiter un jugement préalable, équivalant ainsi à une décision de justice définitive.",
+      "articles_references": [],
+      "necessite_multi_documents": false,
+      "notes_validation": ""
+    },
+    {
+      "id": "Q021",
+      "categorie": "juridique",
+      "difficulte": "facile",
+      "question": "Qu'est-ce que la CCN du notariat et quel est son identifiant IDCC ?",
+      "documents_sources_attendus": [
+        "convention_collective_20241212_avenant_59_modif_art_29_5_participation_financiere_formation_pro_mis_"
+      ],
+      "elements_cles_reponse": [
+        "Convention Collective Nationale du Notariat",
+        "IDCC 2205",
+        "Régit les relations de travail",
+        "Entre employeurs (notaires) et salariés"
+      ],
+      "reponse_attendue_resumee": "La CCN est la Convention Collective Nationale du Notariat, identifiée sous le code IDCC 2205. C'est le texte qui régit les relations de travail entre les employeurs (notaires) et les salariés de la profession notariale.",
+      "articles_references": [],
+      "necessite_multi_documents": false,
+      "notes_validation": ""
+    },
+    {
+      "id": "Q022",
+      "categorie": "juridique",
+      "difficulte": "moyen",
+      "question": "Quel article de la CCN a été modifié par l'avenant 59 de décembre 2024 ?",
+      "documents_sources_attendus": [
+        "convention_collective_20241212_avenant_59_modif_art_29_5_participation_financiere_formation_pro_mis_"
+      ],
+      "elements_cles_reponse": [
+        "Article 29.5",
+        "Participation financière à la formation professionnelle",
+        "Date de publication : 12 décembre 2024"
+      ],
+      "reponse_attendue_resumee": "L'avenant 59 du 12 décembre 2024 a modifié l'article 29.5 de la CCN concernant la participation financière à la formation professionnelle.",
+      "articles_references": [
+        "Article 29.5 de la CCN"
+      ],
+      "necessite_multi_documents": false,
+      "notes_validation": ""
+    },
+    {
+      "id": "Q023",
+      "categorie": "juridique",
+      "difficulte": "moyen",
+      "question": "Quels articles ont été modifiés par l'avenant 58 de novembre 2024 ?",
+      "documents_sources_attendus": [
+        "convention_collective_20241114_avenant_58_modif_art_15_6_et_29_3_3_mis_en_forme"
+      ],
+      "elements_cles_reponse": [
+        "Article 15.6",
+        "Article 29.3.3",
+        "Date de publication : 14 novembre 2024"
+      ],
+      "reponse_attendue_resumee": "L'avenant 58 du 14 novembre 2024 a modifié les articles 15.6 et 29.3.3 de la CCN du notariat.",
+      "articles_references": [
+        "Article 15.6 de la CCN",
+        "Article 29.3.3 de la CCN"
+      ],
+      "necessite_multi_documents": false,
+      "notes_validation": ""
+    },
+    {
+      "id": "Q024",
+      "categorie": "juridique",
+      "difficulte": "pointu",
+      "question": "Quelles sont les relations documentaires entre les avenants 58 et 59 de la CCN ?",
+      "documents_sources_attendus": [
+        "convention_collective_20241212_avenant_59_modif_art_29_5_participation_financiere_formation_pro_mis_",
+        "convention_collective_20241114_avenant_58_modif_art_15_6_et_29_3_3_mis_en_forme"
+      ],
+      "elements_cles_reponse": [
+        "Avenant 59 modifie l'avenant 58",
+        "Les deux concernent la formation professionnelle (article 29)",
+        "Suite logique de modifications",
+        "Publiés à un mois d'intervalle (novembre et décembre 2024)"
+      ],
+      "reponse_attendue_resumee": "L'avenant 59 (décembre 2024) modifie l'avenant 58 (novembre 2024). Les deux avenants concernent la formation professionnelle via l'article 29 de la CCN, constituant une suite logique de modifications publiées à un mois d'intervalle.",
+      "articles_references": [
+        "Article 29 de la CCN"
+      ],
+      "necessite_multi_documents": true,
+      "notes_validation": ""
+    },
+    {
+      "id": "Q025",
+      "categorie": "juridique",
+      "difficulte": "moyen",
+      "question": "Quelle est l'obligation de formation continue pour les notaires ?",
+      "documents_sources_attendus": [
+        "convention_collective_20241212_avenant_59_modif_art_29_5_participation_financiere_formation_pro_mis_"
+      ],
+      "elements_cles_reponse": [
+        "30 heures de formation par période de 2 ans",
+        "Obligation légale",
+        "Formation continue obligatoire",
+        "Développement des compétences"
+      ],
+      "reponse_attendue_resumee": "Les notaires ont une obligation légale de formation continue de 30 heures sur une période de 2 ans. Cette obligation vise le développement continu de leurs compétences professionnelles.",
+      "articles_references": [],
+      "necessite_multi_documents": false,
+      "notes_validation": ""
+    },
+    {
+      "id": "Q026",
+      "categorie": "deontologie",
+      "difficulte": "pointu",
+      "question": "Quelles sont les conditions dans lesquelles un code de déontologie est édicté pour une profession réglementée selon l'ordonnance mentionnée dans les documents ?",
+      "documents_sources_attendus": [],
+      "elements_cles_reponse": [
+        "Code de déontologie préparé par l'instance nationale",
+        "Édicté par décret en Conseil d'État",
+        "Propre à chaque profession",
+        "Mention dans le document sur le code de déontologie"
+      ],
+      "reponse_attendue_resumee": "Selon les textes réglementaires, un code de déontologie propre à chaque profession est préparé par son instance nationale (pour le notariat, le CSN) et édicté par décret en Conseil d'État. Cette procédure garantit la validité juridique et l'opposabilité du code.",
+      "articles_references": [
+        "Article 2 de l'ordonnance"
+      ],
+      "necessite_multi_documents": false,
+      "notes_validation": ""
+    },
+    {
+      "id": "Q027",
+      "categorie": "deontologie",
+      "difficulte": "pointu",
+      "question": "Comment s'articulent les obligations déontologiques avec le secret professionnel dans les relations avec les généalogistes ?",
+      "documents_sources_attendus": [],
+      "elements_cles_reponse": [
+        "Exigences mutuelles de rigueur",
+        "Secret professionnel s'applique",
+        "Encadrement strict des relations d'affaires",
+        "Professionnalisme requis des deux parties"
+      ],
+      "reponse_attendue_resumee": "Les obligations déontologiques dans les relations avec les généalogistes incluent le respect du secret professionnel par le notaire, des exigences mutuelles de rigueur et de professionnalisme, et un encadrement strict des relations d'affaires pour prévenir tout conflit d'intérêts.",
+      "articles_references": [],
+      "necessite_multi_documents": false,
+      "notes_validation": ""
+    },
+    {
+      "id": "Q028",
+      "categorie": "juridique",
+      "difficulte": "moyen",
+      "question": "Qui sont les partenaires sociaux signataires des avenants à la CCN ?",
+      "documents_sources_attendus": [
+        "convention_collective_20241212_avenant_59_modif_art_29_5_participation_financiere_formation_pro_mis_",
+        "convention_collective_20241114_avenant_58_modif_art_15_6_et_29_3_3_mis_en_forme"
+      ],
+      "elements_cles_reponse": [
+        "Organisations syndicales de salariés",
+        "Organisations patronales (notaires employeurs)",
+        "CFE-CGC",
+        "CFTC",
+        "Fédération générale des clercs et employés de notaire"
+      ],
+      "reponse_attendue_resumee": "Les partenaires sociaux signataires des avenants à la CCN incluent les organisations syndicales de salariés (CFE-CGC, CFTC, Fédération générale des clercs et employés de notaire) et les organisations patronales représentant les notaires employeurs.",
+      "articles_references": [],
+      "necessite_multi_documents": true,
+      "notes_validation": ""
+    },
+    {
+      "id": "Q029",
+      "categorie": "deontologie",
+      "difficulte": "pointu",
+      "question": "Quelle est la différence entre les circulaires du CSN et le Règlement Professionnel du Notariat en termes de valeur normative ?",
+      "documents_sources_attendus": [
+        "rpn_rpn"
+      ],
+      "elements_cles_reponse": [
+        "Circulaires : communications officielles, instructions",
+        "RPN : texte réglementaire approuvé par arrêté",
+        "RPN a force obligatoire",
+        "Circulaires sont des directives professionnelles",
+        "Violation du RPN expose à poursuites disciplinaires"
+      ],
+      "reponse_attendue_resumee": "Le RPN est un texte réglementaire approuvé par arrêté du Garde des Sceaux ayant force obligatoire, dont la violation expose à des poursuites disciplinaires. Les circulaires du CSN sont des communications officielles donnant des instructions aux notaires, mais n'ont pas la même force normative que le RPN.",
+      "articles_references": [],
+      "necessite_multi_documents": false,
+      "notes_validation": ""
+    },
+    {
+      "id": "Q030",
+      "categorie": "deontologie",
+      "difficulte": "pointu",
+      "question": "En quoi la réforme de 2021-2024 a-t-elle modifié l'approche de la déontologie notariale par rapport au système antérieur ?",
+      "documents_sources_attendus": [
+        "fil_infos_fil_info_262",
+        "rpn_rpn"
+      ],
+      "elements_cles_reponse": [
+        "Passage d'un règlement national-règlement intercours à un Code + RPN",
+        "Séparation Code déontologie / Règlement professionnel",
+        "Code édicté par décret en Conseil d'État (plus grande force juridique)",
+        "Réforme conjointe déontologie-discipline",
+        "Élaboration à quatre mains (profession + DACS)"
+      ],
+      "reponse_attendue_resumee": "La réforme 2021-2024 a remplacé l'ancien règlement national-règlement intercours par deux textes distincts : un Code de déontologie édicté par décret en Conseil d'État et un RPN approuvé par arrêté. Cette architecture donne une plus grande force juridique aux règles déontologiques et lie explicitement déontologie et discipline.",
+      "articles_references": [
+        "Loi du 18 novembre 2021",
+        "Ordonnance du 13 avril 2022",
+        "Décret du 28 décembre 2023"
+      ],
+      "necessite_multi_documents": true,
+      "notes_validation": ""
+    },
+    {
+      "id": "Q031",
+      "categorie": "juridique",
+      "difficulte": "facile",
+      "question": "Qu'est-ce que l'OPCO et quel est son rôle pour le notariat ?",
+      "documents_sources_attendus": [
+        "csn2019_avenant_n_38_opco"
+      ],
+      "elements_cles_reponse": [
+        "Opérateur de Compétences",
+        "Financement de l'apprentissage et de la formation professionnelle",
+        "Pour le notariat : OPCO EP (Entreprises de Proximité)",
+        "Organisme agréé"
+      ],
+      "reponse_attendue_resumee": "L'OPCO (Opérateur de Compétences) est un organisme agréé pour financer l'apprentissage et la formation professionnelle. Pour le notariat, il s'agit de l'OPCO EP (Entreprises de Proximité).",
+      "articles_references": [],
+      "necessite_multi_documents": false,
+      "notes_validation": ""
+    },
+    {
+      "id": "Q032",
+      "categorie": "juridique",
+      "difficulte": "moyen",
+      "question": "Quels types de contrats d'assurance sont obligatoires pour les offices notariaux ?",
+      "documents_sources_attendus": [
+        "assurances_flipbook_contrats_de_la_profession"
+      ],
+      "elements_cles_reponse": [
+        "Responsabilité Civile Professionnelle",
+        "Pertes de Produits",
+        "Contrats collectifs à adhésion obligatoire",
+        "Toutes les études de l'instance adhérente en bénéficient"
+      ],
+      "reponse_attendue_resumee": "Les contrats d'assurance obligatoires pour les offices notariaux incluent la Responsabilité Civile Professionnelle et l'assurance Pertes de Produits. Ces contrats collectifs à adhésion obligatoire couvrent toutes les études de l'instance adhérente.",
+      "articles_references": [],
+      "necessite_multi_documents": false,
+      "notes_validation": ""
+    },
+    {
+      "id": "Q033",
+      "categorie": "juridique",
+      "difficulte": "facile",
+      "question": "Qu'est-ce qu'une Société Multi-Offices (SMO) ?",
+      "documents_sources_attendus": [],
+      "elements_cles_reponse": [
+        "Structure permettant de détenir des parts dans plusieurs offices",
+        "Holding notariale",
+        "Organisation professionnelle"
+      ],
+      "reponse_attendue_resumee": "Une Société Multi-Offices (SMO) est une structure, également appelée holding notariale, qui permet à un notaire de détenir des parts dans plusieurs offices notariaux.",
+      "articles_references": [],
+      "necessite_multi_documents": false,
+      "notes_validation": ""
+    },
+    {
+      "id": "Q034",
+      "categorie": "juridique",
+      "difficulte": "moyen",
+      "question": "Qu'est-ce que la prévoyance dans le contexte notarial et quels risques couvre-t-elle ?",
+      "documents_sources_attendus": [
+        "assurances_flipbook_contrats_de_la_profession"
+      ],
+      "elements_cles_reponse": [
+        "Protection sociale complémentaire",
+        "Couvre décès, invalidité, incapacité",
+        "Risques non pris en charge par la Sécurité Sociale",
+        "Système de protection sociale"
+      ],
+      "reponse_attendue_resumee": "La prévoyance est un système de protection sociale complémentaire qui couvre les risques de décès, d'invalidité et d'incapacité non pris en charge par la Sécurité Sociale, offrant ainsi une protection supplémentaire aux professionnels du notariat.",
+      "articles_references": [],
+      "necessite_multi_documents": false,
+      "notes_validation": ""
+    },
+    {
+      "id": "Q035",
+      "categorie": "juridique",
+      "difficulte": "moyen",
+      "question": "Quels articles de la CCN sont référencés dans l'avenant 38 sur l'OPCO ?",
+      "documents_sources_attendus": [
+        "csn2019_avenant_n_38_opco"
+      ],
+      "elements_cles_reponse": [
+        "Article 29.6",
+        "Article 1",
+        "Article 2",
+        "Article 3",
+        "Article 39",
+        "Référence à la loi 2018-771"
+      ],
+      "reponse_attendue_resumee": "L'avenant 38 sur l'OPCO référence plusieurs articles de la CCN, notamment l'article 29.6 (formation professionnelle), ainsi que les articles 1, 2, 3 et 39. Il fait également référence à la loi 2018-771.",
+      "articles_references": [
+        "Article 29.6 de la CCN",
+        "Loi 2018-771"
+      ],
+      "necessite_multi_documents": false,
+      "notes_validation": ""
+    },
+    {
+      "id": "Q036",
+      "categorie": "juridique",
+      "difficulte": "facile",
+      "question": "Qu'est-ce qu'un clerc de notaire ?",
+      "documents_sources_attendus": [],
+      "elements_cles_reponse": [
+        "Salarié qualifié d'une étude notariale",
+        "Collaborateur du notaire",
+        "Employé d'office",
+        "Assistant notarial"
+      ],
+      "reponse_attendue_resumee": "Un clerc de notaire est un salarié qualifié travaillant dans une étude notariale en tant que collaborateur du notaire. Il s'agit d'un employé d'office ou assistant notarial.",
+      "articles_references": [],
+      "necessite_multi_documents": false,
+      "notes_validation": ""
+    },
+    {
+      "id": "Q037",
+      "categorie": "juridique",
+      "difficulte": "moyen",
+      "question": "Quelle est la différence entre actes courants (ACS) et biens d'exception (BE) en matière de tarification notariale ?",
+      "documents_sources_attendus": [],
+      "elements_cles_reponse": [
+        "ACS : actes de complexité modérée avec tarification encadrée",
+        "BE : biens immobiliers de grande valeur",
+        "Honoraires spécifiques pour les BE",
+        "Tarification différenciée selon la nature du bien"
+      ],
+      "reponse_attendue_resumee": "Les actes courants (ACS) sont des actes notariés de complexité modérée avec une tarification encadrée. Les biens d'exception (BE) concernent les biens immobiliers de grande valeur avec des honoraires spécifiques et une tarification différenciée.",
+      "articles_references": [],
+      "necessite_multi_documents": false,
+      "notes_validation": ""
+    },
+    {
+      "id": "Q038",
+      "categorie": "juridique",
+      "difficulte": "facile",
+      "question": "Qu'est-ce que la Taxe de Publicité Foncière (TPF) ?",
+      "documents_sources_attendus": [],
+      "elements_cles_reponse": [
+        "Impôt perçu lors des mutations immobilières",
+        "Aussi appelée droits d'enregistrement",
+        "Taxe immobilière",
+        "Collectée par le notaire"
+      ],
+      "reponse_attendue_resumee": "La Taxe de Publicité Foncière (TPF), aussi appelée droits d'enregistrement ou taxe immobilière, est un impôt perçu lors des mutations immobilières et collecté par le notaire.",
+      "articles_references": [],
+      "necessite_multi_documents": false,
+      "notes_validation": ""
+    },
+    {
+      "id": "Q039",
+      "categorie": "juridique",
+      "difficulte": "moyen",
+      "question": "Quels sont les principaux contrats d'assurance proposés dans le manuel digital de la profession ?",
+      "documents_sources_attendus": [
+        "assurances_flipbook_contrats_de_la_profession"
+      ],
+      "elements_cles_reponse": [
+        "Responsabilité Civile Professionnelle",
+        "Pertes de Produits",
+        "Cyber",
+        "Auto-mission",
+        "Contrats collectifs à adhésion obligatoire"
+      ],
+      "reponse_attendue_resumee": "Le manuel digital de la profession regroupe plusieurs contrats d'assurance : Responsabilité Civile Professionnelle, Pertes de Produits, Cyber, Auto-mission. Certains de ces contrats sont collectifs à adhésion obligatoire.",
+      "articles_references": [],
+      "necessite_multi_documents": false,
+      "notes_validation": ""
+    },
+    {
+      "id": "Q040",
+      "categorie": "juridique",
+      "difficulte": "pointu",
+      "question": "Quelle est l'évolution du financement de la formation professionnelle dans le notariat depuis la loi de 2018 ?",
+      "documents_sources_attendus": [
+        "csn2019_avenant_n_38_opco"
+      ],
+      "elements_cles_reponse": [
+        "Loi 2018-771 réforme le financement",
+        "Passage aux OPCO (anciennement OPCA)",
+        "OPCO EP pour le notariat",
+        "Modification de l'article 29.6 de la CCN",
+        "Nouvelles modalités de financement de l'apprentissage"
+      ],
+      "reponse_attendue_resumee": "La loi 2018-771 a réformé le financement de la formation professionnelle en remplaçant les anciens OPCA par les OPCO (Opérateurs de Compétences). Pour le notariat, l'OPCO EP a été désigné. L'avenant 38 a modifié l'article 29.6 de la CCN pour intégrer ces nouvelles modalités de financement.",
+      "articles_references": [
+        "Loi 2018-771",
+        "Article 29.6 de la CCN"
+      ],
+      "necessite_multi_documents": false,
+      "notes_validation": ""
+    },
+    {
+      "id": "Q041",
+      "categorie": "edge_case",
+      "difficulte": "moyen",
+      "question": "Quelles sont toutes les modifications apportées à la CCN en 2024 ?",
+      "documents_sources_attendus": [
+        "convention_collective_20241212_avenant_59_modif_art_29_5_participation_financiere_formation_pro_mis_",
+        "convention_collective_20241114_avenant_58_modif_art_15_6_et_29_3_3_mis_en_forme",
+        "convention_collective_20240321_avenant_n56_ccn_modification_art_12_2_procedure_licenciement_mis_en_f"
+      ],
+      "elements_cles_reponse": [
+        "Avenant 56 (mars 2024) : article 12.2 sur la procédure de licenciement",
+        "Avenant 58 (novembre 2024) : articles 15.6 et 29.3.3",
+        "Avenant 59 (décembre 2024) : article 29.5 sur la participation financière formation",
+        "Questions temporelles nécessitant synthèse de plusieurs documents"
+      ],
+      "reponse_attendue_resumee": "En 2024, la CCN a connu trois modifications majeures via les avenants 56 (mars, procédure licenciement), 58 (novembre, catégories employés et formation) et 59 (décembre, participation financière formation). Ces avenants ont principalement porté sur les articles 12.2, 15.6, 29.3.3 et 29.5.",
+      "articles_references": [
+        "Article 12.2 de la CCN",
+        "Article 15.6 de la CCN",
+        "Article 29.3.3 de la CCN",
+        "Article 29.5 de la CCN"
+      ],
+      "necessite_multi_documents": true,
+      "notes_validation": ""
+    },
+    {
+      "id": "Q042",
+      "categorie": "edge_case",
+      "difficulte": "facile",
+      "question": "Comment devenir notaire en France ?",
+      "documents_sources_attendus": [],
+      "elements_cles_reponse": [
+        "Question hors périmètre de la Bible Notariale",
+        "Concerne le parcours de formation",
+        "Non couvert par les documents indexés",
+        "Le chatbot devrait l'indiquer clairement"
+      ],
+      "reponse_attendue_resumee": "Cette question concerne le parcours de formation pour devenir notaire, ce qui est hors du périmètre des documents de la Bible Notariale qui se concentrent sur la déontologie, la CCN et les règles professionnelles pour les notaires en exercice. Le chatbot devrait indiquer qu'il ne dispose pas d'informations sur ce sujet.",
+      "articles_references": [],
+      "necessite_multi_documents": false,
+      "notes_validation": ""
+    },
+    {
+      "id": "Q043",
+      "categorie": "edge_case",
+      "difficulte": "moyen",
+      "question": "Quelle est l'histoire du notariat en France ?",
+      "documents_sources_attendus": [],
+      "elements_cles_reponse": [
+        "Question très large et historique",
+        "Hors périmètre de la Bible Notariale",
+        "Documents se concentrent sur l'actualité professionnelle",
+        "Le chatbot devrait l'indiquer"
+      ],
+      "reponse_attendue_resumee": "Cette question sur l'histoire du notariat est trop large et hors du périmètre des documents de la Bible Notariale qui se concentrent sur l'actualité professionnelle, la déontologie actuelle et les règles en vigueur. Le chatbot devrait indiquer qu'il ne dispose pas d'informations historiques détaillées.",
+      "articles_references": [],
+      "necessite_multi_documents": false,
+      "notes_validation": ""
+    },
+    {
+      "id": "Q044",
+      "categorie": "edge_case",
+      "difficulte": "pointu",
+      "question": "Quels sont les liens entre la réforme de la déontologie de 2021-2024 et les modifications de la CCN sur la formation professionnelle ?",
+      "documents_sources_attendus": [
+        "fil_infos_fil_info_262",
+        "rpn_rpn",
+        "convention_collective_20241212_avenant_59_modif_art_29_5_participation_financiere_formation_pro_mis_",
+        "convention_collective_20241114_avenant_58_modif_art_15_6_et_29_3_3_mis_en_forme"
+      ],
+      "elements_cles_reponse": [
+        "Réforme déontologie : nouvelles exigences professionnelles",
+        "CCN formation : mise en conformité avec obligations",
+        "Cohérence entre textes déontologiques et sociaux",
+        "Période de transformation 2021-2024"
+      ],
+      "reponse_attendue_resumee": "La réforme de la déontologie (2021-2024) a établi de nouvelles exigences professionnelles, tandis que les modifications de la CCN sur la formation (avenants 58-59 en 2024) ont mis à jour les modalités de formation pour s'aligner sur ces nouvelles obligations. Ces évolutions parallèles illustrent la cohérence entre textes déontologiques et sociaux.",
+      "articles_references": [],
+      "necessite_multi_documents": true,
+      "notes_validation": ""
+    },
+    {
+      "id": "Q045",
+      "categorie": "edge_case",
+      "difficulte": "moyen",
+      "question": "Quels sont les tarifs notariaux pour un acte de vente immobilière ?",
+      "documents_sources_attendus": [],
+      "elements_cles_reponse": [
+        "Question très spécifique sur les montants",
+        "Nécessite des barèmes détaillés",
+        "Peut ne pas être dans les documents de la Bible Notariale",
+        "Le chatbot devrait orienter vers les sources officielles"
+      ],
+      "reponse_attendue_resumee": "Cette question nécessite des barèmes tarifaires détaillés qui peuvent ne pas être entièrement documentés dans la Bible Notariale. Le chatbot devrait mentionner que les tarifs dépendent de nombreux facteurs (valeur du bien, nature de l'acte) et orienter vers les sources officielles ou le service compétent.",
+      "articles_references": [],
+      "necessite_multi_documents": false,
+      "notes_validation": ""
+    },
+    {
+      "id": "Q046",
+      "categorie": "edge_case",
+      "difficulte": "facile",
+      "question": "Quelles sont les actualités juridiques de la semaine dernière ?",
+      "documents_sources_attendus": [],
+      "elements_cles_reponse": [
+        "Question temporelle avec date relative",
+        "Nécessite des documents très récents",
+        "Le chatbot doit gérer les dates relatives",
+        "Doit indiquer les derniers documents disponibles"
+      ],
+      "reponse_attendue_resumee": "Cette question avec une référence temporelle relative ('semaine dernière') nécessite que le chatbot identifie les documents les plus récents dans sa base. Il devrait indiquer la date de sa dernière mise à jour et présenter les actualités des Fil-Info les plus récents disponibles.",
+      "articles_references": [],
+      "necessite_multi_documents": false,
+      "notes_validation": ""
+    },
+    {
+      "id": "Q047",
+      "categorie": "edge_case",
+      "difficulte": "moyen",
+      "question": "Je suis clerc, puis-je accéder à la formation continue financée par l'OPCO ?",
+      "documents_sources_attendus": [
+        "csn2019_avenant_n_38_opco",
+        "convention_collective_20241212_avenant_59_modif_art_29_5_participation_financiere_formation_pro_mis_"
+      ],
+      "elements_cles_reponse": [
+        "Question à la première personne",
+        "Nécessite de comprendre le statut de clerc",
+        "OPCO finance la formation des salariés",
+        "Oui, les clercs sont éligibles"
+      ],
+      "reponse_attendue_resumee": "Oui, en tant que clerc de notaire (salarié d'une étude), vous pouvez accéder à la formation professionnelle financée par l'OPCO EP, l'opérateur de compétences du notariat. Les modalités sont définies dans la CCN et les avenants relatifs à la formation professionnelle.",
+      "articles_references": [
+        "Article 29 de la CCN"
+      ],
+      "necessite_multi_documents": true,
+      "notes_validation": ""
+    },
+    {
+      "id": "Q048",
+      "categorie": "edge_case",
+      "difficulte": "pointu",
+      "question": "Quelles sont les différences entre le Code de déontologie des notaires, le RPN et la CCN en termes de champ d'application ?",
+      "documents_sources_attendus": [
+        "rpn_rpn",
+        "convention_collective_20241212_avenant_59_modif_art_29_5_participation_financiere_formation_pro_mis_"
+      ],
+      "elements_cles_reponse": [
+        "Code déontologie : règles éthiques et professionnelles",
+        "RPN : règles d'exercice professionnel",
+        "CCN : relations de travail employeur-salarié",
+        "Trois textes complémentaires avec champs distincts",
+        "Code et RPN pour tous les notaires, CCN pour relations employeur-salarié"
+      ],
+      "reponse_attendue_resumee": "Le Code de déontologie établit les règles éthiques applicables à tous les notaires. Le RPN détaille les règles d'exercice professionnel. La CCN (IDCC 2205) régit les relations de travail entre notaires employeurs et leurs salariés. Ces trois textes ont des champs d'application complémentaires : déontologie professionnelle vs droit social.",
+      "articles_references": [],
+      "necessite_multi_documents": true,
+      "notes_validation": ""
+    },
+    {
+      "id": "Q049",
+      "categorie": "edge_case",
+      "difficulte": "moyen",
+      "question": "Combien de documents la Bible Notariale contient-elle sur la déontologie ?",
+      "documents_sources_attendus": [],
+      "elements_cles_reponse": [
+        "Question méta sur la Bible Notariale elle-même",
+        "Nécessite une capacité d'introspection du système",
+        "Le chatbot doit pouvoir compter les documents pertinents",
+        "Environ 20 circulaires CSN, guides pratiques, Fil-Info sur déontologie"
+      ],
+      "reponse_attendue_resumee": "Cette question méta nécessite que le chatbot analyse sa propre base documentaire. La Bible Notariale contient plusieurs dizaines de documents traitant de déontologie : circulaires CSN, guides pratiques (notamment le RPN et son commentaire), et de nombreux Fil-Info abordant des questions déontologiques.",
+      "articles_references": [],
+      "necessite_multi_documents": false,
+      "notes_validation": ""
+    },
+    {
+      "id": "Q050",
+      "categorie": "edge_case",
+      "difficulte": "facile",
+      "question": "Où puis-je trouver le formulaire de déclaration Tracfin ?",
+      "documents_sources_attendus": [
+        "csn2019_analyse_nationale_des_risques_lcb_ft_en_france_septembre_2019"
+      ],
+      "elements_cles_reponse": [
+        "Question pratique opérationnelle",
+        "Peut ne pas être dans les documents",
+        "Le chatbot devrait orienter vers Tracfin ou le CSN",
+        "Information sur l'existence de l'obligation, pas le formulaire lui-même"
+      ],
+      "reponse_attendue_resumee": "Les documents de la Bible Notariale expliquent l'obligation de déclaration auprès de Tracfin dans le cadre de la LCB-FT, mais ne contiennent probablement pas le formulaire lui-même. Le chatbot devrait orienter vers le site de Tracfin ou les services du CSN pour obtenir le formulaire officiel.",
+      "articles_references": [],
+      "necessite_multi_documents": false,
+      "notes_validation": ""
+    }
+  ]
+}
