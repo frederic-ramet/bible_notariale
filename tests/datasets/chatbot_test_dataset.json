@@ -604,6 +604,197 @@
       ],
       "necessite_multi_documents": true,
       "notes_validation": ""
+    },
+    {
+      "id": "Q031",
+      "categorie": "juridique",
+      "difficulte": "facile",
+      "question": "Qu'est-ce que l'OPCO et quel est son rôle pour le notariat ?",
+      "documents_sources_attendus": [
+        "csn2019_avenant_n_38_opco"
+      ],
+      "elements_cles_reponse": [
+        "Opérateur de Compétences",
+        "Financement de l'apprentissage et de la formation professionnelle",
+        "Pour le notariat : OPCO EP (Entreprises de Proximité)",
+        "Organisme agréé"
+      ],
+      "reponse_attendue_resumee": "L'OPCO (Opérateur de Compétences) est un organisme agréé pour financer l'apprentissage et la formation professionnelle. Pour le notariat, il s'agit de l'OPCO EP (Entreprises de Proximité).",
+      "articles_references": [],
+      "necessite_multi_documents": false,
+      "notes_validation": ""
+    },
+    {
+      "id": "Q032",
+      "categorie": "juridique",
+      "difficulte": "moyen",
+      "question": "Quels types de contrats d'assurance sont obligatoires pour les offices notariaux ?",
+      "documents_sources_attendus": [
+        "assurances_flipbook_contrats_de_la_profession"
+      ],
+      "elements_cles_reponse": [
+        "Responsabilité Civile Professionnelle",
+        "Pertes de Produits",
+        "Contrats collectifs à adhésion obligatoire",
+        "Toutes les études de l'instance adhérente en bénéficient"
+      ],
+      "reponse_attendue_resumee": "Les contrats d'assurance obligatoires pour les offices notariaux incluent la Responsabilité Civile Professionnelle et l'assurance Pertes de Produits. Ces contrats collectifs à adhésion obligatoire couvrent toutes les études de l'instance adhérente.",
+      "articles_references": [],
+      "necessite_multi_documents": false,
+      "notes_validation": ""
+    },
+    {
+      "id": "Q033",
+      "categorie": "juridique",
+      "difficulte": "facile",
+      "question": "Qu'est-ce qu'une Société Multi-Offices (SMO) ?",
+      "documents_sources_attendus": [],
+      "elements_cles_reponse": [
+        "Structure permettant de détenir des parts dans plusieurs offices",
+        "Holding notariale",
+        "Organisation professionnelle"
+      ],
+      "reponse_attendue_resumee": "Une Société Multi-Offices (SMO) est une structure, également appelée holding notariale, qui permet à un notaire de détenir des parts dans plusieurs offices notariaux.",
+      "articles_references": [],
+      "necessite_multi_documents": false,
+      "notes_validation": ""
+    },
+    {
+      "id": "Q034",
+      "categorie": "juridique",
+      "difficulte": "moyen",
+      "question": "Qu'est-ce que la prévoyance dans le contexte notarial et quels risques couvre-t-elle ?",
+      "documents_sources_attendus": [
+        "assurances_flipbook_contrats_de_la_profession"
+      ],
+      "elements_cles_reponse": [
+        "Protection sociale complémentaire",
+        "Couvre décès, invalidité, incapacité",
+        "Risques non pris en charge par la Sécurité Sociale",
+        "Système de protection sociale"
+      ],
+      "reponse_attendue_resumee": "La prévoyance est un système de protection sociale complémentaire qui couvre les risques de décès, d'invalidité et d'incapacité non pris en charge par la Sécurité Sociale, offrant ainsi une protection supplémentaire aux professionnels du notariat.",
+      "articles_references": [],
+      "necessite_multi_documents": false,
+      "notes_validation": ""
+    },
+    {
+      "id": "Q035",
+      "categorie": "juridique",
+      "difficulte": "moyen",
+      "question": "Quels articles de la CCN sont référencés dans l'avenant 38 sur l'OPCO ?",
+      "documents_sources_attendus": [
+        "csn2019_avenant_n_38_opco"
+      ],
+      "elements_cles_reponse": [
+        "Article 29.6",
+        "Article 1",
+        "Article 2",
+        "Article 3",
+        "Article 39",
+        "Référence à la loi 2018-771"
+      ],
+      "reponse_attendue_resumee": "L'avenant 38 sur l'OPCO référence plusieurs articles de la CCN, notamment l'article 29.6 (formation professionnelle), ainsi que les articles 1, 2, 3 et 39. Il fait également référence à la loi 2018-771.",
+      "articles_references": [
+        "Article 29.6 de la CCN",
+        "Loi 2018-771"
+      ],
+      "necessite_multi_documents": false,
+      "notes_validation": ""
+    },
+    {
+      "id": "Q036",
+      "categorie": "juridique",
+      "difficulte": "facile",
+      "question": "Qu'est-ce qu'un clerc de notaire ?",
+      "documents_sources_attendus": [],
+      "elements_cles_reponse": [
+        "Salarié qualifié d'une étude notariale",
+        "Collaborateur du notaire",
+        "Employé d'office",
+        "Assistant notarial"
+      ],
+      "reponse_attendue_resumee": "Un clerc de notaire est un salarié qualifié travaillant dans une étude notariale en tant que collaborateur du notaire. Il s'agit d'un employé d'office ou assistant notarial.",
+      "articles_references": [],
+      "necessite_multi_documents": false,
+      "notes_validation": ""
+    },
+    {
+      "id": "Q037",
+      "categorie": "juridique",
+      "difficulte": "moyen",
+      "question": "Quelle est la différence entre actes courants (ACS) et biens d'exception (BE) en matière de tarification notariale ?",
+      "documents_sources_attendus": [],
+      "elements_cles_reponse": [
+        "ACS : actes de complexité modérée avec tarification encadrée",
+        "BE : biens immobiliers de grande valeur",
+        "Honoraires spécifiques pour les BE",
+        "Tarification différenciée selon la nature du bien"
+      ],
+      "reponse_attendue_resumee": "Les actes courants (ACS) sont des actes notariés de complexité modérée avec une tarification encadrée. Les biens d'exception (BE) concernent les biens immobiliers de grande valeur avec des honoraires spécifiques et une tarification différenciée.",
+      "articles_references": [],
+      "necessite_multi_documents": false,
+      "notes_validation": ""
+    },
+    {
+      "id": "Q038",
+      "categorie": "juridique",
+      "difficulte": "facile",
+      "question": "Qu'est-ce que la Taxe de Publicité Foncière (TPF) ?",
+      "documents_sources_attendus": [],
+      "elements_cles_reponse": [
+        "Impôt perçu lors des mutations immobilières",
+        "Aussi appelée droits d'enregistrement",
+        "Taxe immobilière",
+        "Collectée par le notaire"
+      ],
+      "reponse_attendue_resumee": "La Taxe de Publicité Foncière (TPF), aussi appelée droits d'enregistrement ou taxe immobilière, est un impôt perçu lors des mutations immobilières et collecté par le notaire.",
+      "articles_references": [],
+      "necessite_multi_documents": false,
+      "notes_validation": ""
+    },
+    {
+      "id": "Q039",
+      "categorie": "juridique",
+      "difficulte": "moyen",
+      "question": "Quels sont les principaux contrats d'assurance proposés dans le manuel digital de la profession ?",
+      "documents_sources_attendus": [
+        "assurances_flipbook_contrats_de_la_profession"
+      ],
+      "elements_cles_reponse": [
+        "Responsabilité Civile Professionnelle",
+        "Pertes de Produits",
+        "Cyber",
+        "Auto-mission",
+        "Contrats collectifs à adhésion obligatoire"
+      ],
+      "reponse_attendue_resumee": "Le manuel digital de la profession regroupe plusieurs contrats d'assurance : Responsabilité Civile Professionnelle, Pertes de Produits, Cyber, Auto-mission. Certains de ces contrats sont collectifs à adhésion obligatoire.",
+      "articles_references": [],
+      "necessite_multi_documents": false,
+      "notes_validation": ""
+    },
+    {
+      "id": "Q040",
+      "categorie": "juridique",
+      "difficulte": "pointu",
+      "question": "Quelle est l'évolution du financement de la formation professionnelle dans le notariat depuis la loi de 2018 ?",
+      "documents_sources_attendus": [
+        "csn2019_avenant_n_38_opco"
+      ],
+      "elements_cles_reponse": [
+        "Loi 2018-771 réforme le financement",
+        "Passage aux OPCO (anciennement OPCA)",
+        "OPCO EP pour le notariat",
+        "Modification de l'article 29.6 de la CCN",
+        "Nouvelles modalités de financement de l'apprentissage"
+      ],
+      "reponse_attendue_resumee": "La loi 2018-771 a réformé le financement de la formation professionnelle en remplaçant les anciens OPCA par les OPCO (Opérateurs de Compétences). Pour le notariat, l'OPCO EP a été désigné. L'avenant 38 a modifié l'article 29.6 de la CCN pour intégrer ces nouvelles modalités de financement.",
+      "articles_references": [
+        "Loi 2018-771",
+        "Article 29.6 de la CCN"
+      ],
+      "necessite_multi_documents": false,
+      "notes_validation": ""
     }
   ]
 }
