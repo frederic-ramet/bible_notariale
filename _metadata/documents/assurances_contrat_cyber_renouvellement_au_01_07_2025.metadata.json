@@ -33,13 +33,6 @@
   },
   "reference": null,
   "vocabulaire_specifique": [],
-  "questions_typiques": [
-    "Quelles sont les garanties cyber couvertes par ce contrat ?",
-    "Quel est le montant de la franchise en cas de cyberattaque ?",
-    "Comment déclarer un sinistre cyber ?",
-    "Quelles sont les exclusions du contrat cyber ?",
-    "Quelle est la procédure en cas de violation de données ?"
-  ],
   "relations_documentaires": {
     "remplace": [],
     "modifie": [],

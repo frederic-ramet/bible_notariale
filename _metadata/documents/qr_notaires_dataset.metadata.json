@@ -35,13 +35,6 @@
   },
   "reference": null,
   "vocabulaire_specifique": [],
-  "questions_typiques": [
-    "Comment trouver une réponse dans le dataset QR ?",
-    "Quels domaines juridiques sont couverts ?",
-    "Comment contribuer au dataset de questions ?",
-    "Le dataset est-il mis à jour régulièrement ?",
-    "Puis-je utiliser ce dataset pour former mes collaborateurs ?"
-  ],
   "relations_documentaires": {
     "remplace": [],
     "modifie": [],

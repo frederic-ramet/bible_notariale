@@ -61,14 +61,6 @@
       "contexte_utilisation": "Mentionné 1 fois dans le document"
     }
   ],
-  "questions_typiques": [
-    "Quelles sont les tendances du marché immobilier ?",
-    "Quels articles du code sont concernés ?",
-    "Quelle est la date d'entrée en vigueur ?",
-    "Quelles formations sont concernées par ce document ?",
-    "Quelles modifications réglementaires sont introduites ?",
-    "Comment analyser ces données pour mon secteur ?"
-  ],
   "relations_documentaires": {
     "remplace": [],
     "modifie": [],

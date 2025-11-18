@@ -44,13 +44,6 @@
       "contexte_utilisation": "Mentionné 2 fois dans le document"
     }
   ],
-  "questions_typiques": [
-    "À quelle date cette circulaire entre-t-elle en vigueur ?",
-    "Quels offices sont concernés par ces instructions ?",
-    "Quels sont les montants de franchise ?",
-    "Quelles sont les nouvelles obligations introduites par cette circulaire ?",
-    "Quelles garanties sont couvertes ?"
-  ],
   "relations_documentaires": {
     "remplace": [],
     "modifie": [],

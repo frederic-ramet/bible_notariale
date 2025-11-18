@@ -89,16 +89,6 @@
       "contexte_utilisation": "Mentionné 1 fois dans le document"
     }
   ],
-  "questions_typiques": [
-    "Quel est l'impact sur la rémunération des salariés ?",
-    "Quelle est la procédure de licenciement applicable ?",
-    "Quels articles du code sont concernés ?",
-    "Quels sont les montants mentionnés dans ce document ?",
-    "Quelles sont les nouvelles grilles de salaires ?",
-    "Quelle est la date d'entrée en vigueur ?",
-    "Quelles sont les modalités de prise de congés ?",
-    "Quelles modifications réglementaires sont introduites ?"
-  ],
   "relations_documentaires": {
     "remplace": [],
     "modifie": [],

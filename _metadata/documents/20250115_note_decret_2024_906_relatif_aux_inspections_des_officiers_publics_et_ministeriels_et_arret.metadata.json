@@ -70,14 +70,6 @@
       "contexte_utilisation": "Mentionné 1 fois dans le document"
     }
   ],
-  "questions_typiques": [
-    "Quels articles du code sont concernés ?",
-    "Quelle est la date d'entrée en vigueur ?",
-    "Quels sont les montants de franchise ?",
-    "Quelles formations sont concernées par ce document ?",
-    "Quelles modifications réglementaires sont introduites ?",
-    "Quelles garanties sont couvertes ?"
-  ],
   "relations_documentaires": {
     "remplace": [],
     "modifie": [],

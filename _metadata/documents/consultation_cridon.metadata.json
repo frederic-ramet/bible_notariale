@@ -33,13 +33,6 @@
   },
   "reference": null,
   "vocabulaire_specifique": [],
-  "questions_typiques": [
-    "Comment soumettre une question au CRIDON ?",
-    "Quels types de questions le CRIDON peut-il traiter ?",
-    "Quel est le délai de réponse du CRIDON ?",
-    "Les avis du CRIDON ont-ils valeur contraignante ?",
-    "Comment utiliser les consultations CRIDON dans ma pratique ?"
-  ],
   "relations_documentaires": {
     "remplace": [],
     "modifie": [],

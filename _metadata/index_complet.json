@@ -70,14 +70,6 @@
           "contexte_utilisation": "Mentionné 1 fois dans le document"
         }
       ],
-      "questions_typiques": [
-        "Quels sont les montants de franchise ?",
-        "Y a-t-il des alertes ou points de vigilance pour les notaires ?",
-        "Quelles sont les échéances mentionnées ?",
-        "Quelles formations sont concernées par ce document ?",
-        "Quelles sont les actualités juridiques importantes de ce numéro ?",
-        "Quelles garanties sont couvertes ?"
-      ],
       "relations_documentaires": {
         "remplace": [],
         "modifie": [],
@@ -145,15 +137,6 @@
           "definition": "Ensemble des contreparties financières du travail : salaire de base + primes + avantages. Minima fixés par la CCN selon classification.",
           "contexte_utilisation": "Mentionné 1 fois dans le document"
         }
-      ],
-      "questions_typiques": [
-        "Quel est l'impact sur la rémunération des salariés ?",
-        "Quelles sont les tendances du marché immobilier ?",
-        "Quelles sont les nouvelles grilles de salaires ?",
-        "Y a-t-il des alertes ou points de vigilance pour les notaires ?",
-        "Quelles sont les échéances mentionnées ?",
-        "Quelles formations sont concernées par ce document ?",
-        "Quelles sont les actualités juridiques importantes de ce numéro ?"
       ],
       "relations_documentaires": {
         "remplace": [],
@@ -251,14 +234,6 @@
           "contexte_utilisation": "Mentionné 1 fois dans le document"
         }
       ],
-      "questions_typiques": [
-        "Quel est l'impact sur la rémunération des salariés ?",
-        "À partir de quand cet avenant s'applique-t-il ?",
-        "Quels articles de la convention collective sont modifiés ?",
-        "Quels sont les montants mentionnés dans ce document ?",
-        "Quelles sont les nouvelles grilles de salaires ?",
-        "Quel impact sur les conditions de travail des salariés ?"
-      ],
       "relations_documentaires": {
         "remplace": [],
         "modifie": [],
@@ -344,15 +319,6 @@
           "definition": "Système de protection sociale complémentaire (décès, invalidité, incapacité) couvrant les risques non pris en charge par la Sécurité Sociale.",
           "contexte_utilisation": "Mentionné 1 fois dans le document"
         }
-      ],
-      "questions_typiques": [
-        "Quelles sont les tendances du marché immobilier ?",
-        "Quels sont les montants de franchise ?",
-        "Y a-t-il des alertes ou points de vigilance pour les notaires ?",
-        "Quelles sont les échéances mentionnées ?",
-        "Quelles formations sont concernées par ce document ?",
-        "Quelles sont les actualités juridiques importantes de ce numéro ?",
-        "Comment analyser ces données pour mon secteur ?"
       ],
       "relations_documentaires": {
         "remplace": [],
@@ -447,13 +413,6 @@
           "contexte_utilisation": "Mentionné 1 fois dans le document"
         }
       ],
-      "questions_typiques": [
-        "À partir de quand cet avenant s'applique-t-il ?",
-        "Quels articles de la convention collective sont modifiés ?",
-        "Comment financer ces formations ?",
-        "Quel impact sur les conditions de travail des salariés ?",
-        "Quelles formations sont concernées par ce document ?"
-      ],
       "relations_documentaires": {
         "remplace": [],
         "modifie": [
@@ -515,11 +474,6 @@
       },
       "reference": null,
       "vocabulaire_specifique": [],
-      "questions_typiques": [
-        "Quelles sont les nouvelles obligations introduites par cette circulaire ?",
-        "À quelle date cette circulaire entre-t-elle en vigueur ?",
-        "Quels offices sont concernés par ces instructions ?"
-      ],
       "relations_documentaires": {
         "remplace": [],
         "modifie": [],
@@ -610,14 +564,6 @@
           "contexte_utilisation": "Mentionné 1 fois dans le document"
         }
       ],
-      "questions_typiques": [
-        "Quelles sont les obligations de sécurité informatique ?",
-        "Comment se protéger contre les cyberattaques ?",
-        "Y a-t-il des alertes ou points de vigilance pour les notaires ?",
-        "Quelles sont les échéances mentionnées ?",
-        "Quelles formations sont concernées par ce document ?",
-        "Quelles sont les actualités juridiques importantes de ce numéro ?"
-      ],
       "relations_documentaires": {
         "remplace": [],
         "modifie": [],
@@ -706,13 +652,6 @@
           "contexte_utilisation": "Mentionné 1 fois dans le document"
         }
       ],
-      "questions_typiques": [
-        "Quelles sont les recommandations principales de ce guide ?",
-        "Comment appliquer ces bonnes pratiques au quotidien ?",
-        "Comment financer ces formations ?",
-        "Quels sont les points de vigilance à retenir ?",
-        "Quelles formations sont concernées par ce document ?"
-      ],
       "relations_documentaires": {
         "remplace": [],
         "modifie": [],
@@ -786,13 +725,6 @@
           "contexte_utilisation": "Mentionné 1 fois dans le document"
         }
       ],
-      "questions_typiques": [
-        "Quelles sont les recommandations principales de ce guide ?",
-        "Comment appliquer ces bonnes pratiques au quotidien ?",
-        "Comment financer ces formations ?",
-        "Quels sont les points de vigilance à retenir ?",
-        "Quelles formations sont concernées par ce document ?"
-      ],
       "relations_documentaires": {
         "remplace": [],
         "modifie": [],
@@ -864,15 +796,6 @@
           "definition": "Règlement Général sur la Protection des Données. Réglementation européenne encadrant le traitement des données personnelles.",
           "contexte_utilisation": "Mentionné 1 fois dans le document"
         }
-      ],
-      "questions_typiques": [
-        "Quelles sont les obligations de sécurité informatique ?",
-        "Quelles sont les tendances du marché immobilier ?",
-        "Quels sont les montants mentionnés dans ce document ?",
-        "Comment se protéger contre les cyberattaques ?",
-        "Y a-t-il des alertes ou points de vigilance pour les notaires ?",
-        "Quelles sont les échéances mentionnées ?",
-        "Quelles sont les actualités juridiques importantes de ce numéro ?"
       ],
       "relations_documentaires": {
         "remplace": [],
@@ -957,13 +880,6 @@
           "contexte_utilisation": "Mentionné 1 fois dans le document"
         }
       ],
-      "questions_typiques": [
-        "À quelle date cette circulaire entre-t-elle en vigueur ?",
-        "Quel est l'impact sur la rémunération des salariés ?",
-        "Quels offices sont concernés par ces instructions ?",
-        "Quelles sont les nouvelles grilles de salaires ?",
-        "Quelles sont les nouvelles obligations introduites par cette circulaire ?"
-      ],
       "relations_documentaires": {
         "remplace": [],
         "modifie": [],
@@ -1039,14 +955,6 @@
           "definition": "Lutte Contre le Blanchiment et le Financement du Terrorisme. Ensemble des obligations légales imposées aux notaires pour prévenir l'utilisation du système financier à des fins de blanchiment de capitaux.",
           "contexte_utilisation": "Mentionné 1 fois dans le document"
         }
-      ],
-      "questions_typiques": [
-        "Quelles sont les obligations de sécurité informatique ?",
-        "Comment se protéger contre les cyberattaques ?",
-        "Y a-t-il des alertes ou points de vigilance pour les notaires ?",
-        "Quelles sont les échéances mentionnées ?",
-        "Quelles formations sont concernées par ce document ?",
-        "Quelles sont les actualités juridiques importantes de ce numéro ?"
       ],
       "relations_documentaires": {
         "remplace": [],
@@ -1145,15 +1053,6 @@
           "contexte_utilisation": "Mentionné 1 fois dans le document"
         }
       ],
-      "questions_typiques": [
-        "Quelles sont les obligations de sécurité informatique ?",
-        "Quel est l'impact sur la rémunération des salariés ?",
-        "Quelles sont les nouvelles grilles de salaires ?",
-        "Comment se protéger contre les cyberattaques ?",
-        "Y a-t-il des alertes ou points de vigilance pour les notaires ?",
-        "Quelles sont les échéances mentionnées ?",
-        "Quelles sont les actualités juridiques importantes de ce numéro ?"
-      ],
       "relations_documentaires": {
         "remplace": [],
         "modifie": [],
@@ -1231,15 +1130,6 @@
           "definition": "Ensemble des contreparties financières du travail : salaire de base + primes + avantages. Minima fixés par la CCN selon classification.",
           "contexte_utilisation": "Mentionné 1 fois dans le document"
         }
-      ],
-      "questions_typiques": [
-        "À quelle date cette circulaire entre-t-elle en vigueur ?",
-        "Quel est l'impact sur la rémunération des salariés ?",
-        "Quels offices sont concernés par ces instructions ?",
-        "Quelles sont les nouvelles grilles de salaires ?",
-        "Quelles sont les modalités de prise de congés ?",
-        "Comment sont calculés les droits à congés ?",
-        "Quelles sont les nouvelles obligations introduites par cette circulaire ?"
       ],
       "relations_documentaires": {
         "remplace": [],
@@ -1354,14 +1244,6 @@
           "contexte_utilisation": "Mentionné 1 fois dans le document"
         }
       ],
-      "questions_typiques": [
-        "Quel est l'impact sur la rémunération des salariés ?",
-        "Quelles sont les nouvelles grilles de salaires ?",
-        "Y a-t-il des alertes ou points de vigilance pour les notaires ?",
-        "Quelles sont les échéances mentionnées ?",
-        "Quelles formations sont concernées par ce document ?",
-        "Quelles sont les actualités juridiques importantes de ce numéro ?"
-      ],
       "relations_documentaires": {
         "remplace": [],
         "modifie": [],
@@ -1431,14 +1313,6 @@
           "definition": "Conseil Supérieur du Notariat. Instance nationale représentant la profession auprès des pouvoirs publics et coordonnant les chambres départementales.",
           "contexte_utilisation": "Mentionné 1 fois dans le document"
         }
-      ],
-      "questions_typiques": [
-        "Quelles sont les obligations de sécurité informatique ?",
-        "Comment se protéger contre les cyberattaques ?",
-        "Y a-t-il des alertes ou points de vigilance pour les notaires ?",
-        "Quelles sont les échéances mentionnées ?",
-        "Quelles formations sont concernées par ce document ?",
-        "Quelles sont les actualités juridiques importantes de ce numéro ?"
       ],
       "relations_documentaires": {
         "remplace": [],
@@ -1531,15 +1405,6 @@
           "contexte_utilisation": "Mentionné 1 fois dans le document"
         }
       ],
-      "questions_typiques": [
-        "Quelles sont les tendances du marché immobilier ?",
-        "Quelle est la procédure de licenciement applicable ?",
-        "Y a-t-il des alertes ou points de vigilance pour les notaires ?",
-        "Quelles sont les échéances mentionnées ?",
-        "Quels sont les délais à respecter ?",
-        "Quelles formations sont concernées par ce document ?",
-        "Quelles sont les actualités juridiques importantes de ce numéro ?"
-      ],
       "relations_documentaires": {
         "remplace": [],
         "modifie": [],
@@ -1613,15 +1478,6 @@
           "contexte_utilisation": "Mentionné 1 fois dans le document"
         }
       ],
-      "questions_typiques": [
-        "Quelles sont les tendances du marché immobilier ?",
-        "Quelle est la procédure de licenciement applicable ?",
-        "Quels sont les montants de franchise ?",
-        "Y a-t-il des alertes ou points de vigilance pour les notaires ?",
-        "Quelles sont les échéances mentionnées ?",
-        "Quels sont les délais à respecter ?",
-        "Quelles sont les actualités juridiques importantes de ce numéro ?"
-      ],
       "relations_documentaires": {
         "remplace": [],
         "modifie": [],
@@ -1678,12 +1534,6 @@
       },
       "reference": null,
       "vocabulaire_specifique": [],
-      "questions_typiques": [
-        "Comment interpréter ces données pour mon secteur ?",
-        "Quels indicateurs sont suivis ?",
-        "Quelles sont les tendances du marché immobilier ?",
-        "Comment analyser ces données pour mon secteur ?"
-      ],
       "relations_documentaires": {
         "remplace": [],
         "modifie": [],
@@ -1767,15 +1617,6 @@
           "definition": "Conseil Supérieur du Notariat. Instance nationale représentant la profession auprès des pouvoirs publics et coordonnant les chambres départementales.",
           "contexte_utilisation": "Mentionné 1 fois dans le document"
         }
-      ],
-      "questions_typiques": [
-        "Quel est l'impact sur la rémunération des salariés ?",
-        "À partir de quand cet avenant s'applique-t-il ?",
-        "Quels articles de la convention collective sont modifiés ?",
-        "Comment financer ces formations ?",
-        "Quelles sont les nouvelles grilles de salaires ?",
-        "Quel impact sur les conditions de travail des salariés ?",
-        "Quelles formations sont concernées par ce document ?"
       ],
       "relations_documentaires": {
         "remplace": [],
@@ -1867,13 +1708,6 @@
           "definition": "Système de protection sociale complémentaire (décès, invalidité, incapacité) couvrant les risques non pris en charge par la Sécurité Sociale.",
           "contexte_utilisation": "Mentionné 1 fois dans le document"
         }
-      ],
-      "questions_typiques": [
-        "À quelle date cette circulaire entre-t-elle en vigueur ?",
-        "Quels offices sont concernés par ces instructions ?",
-        "Quels sont les montants de franchise ?",
-        "Quelles sont les nouvelles obligations introduites par cette circulaire ?",
-        "Quelles garanties sont couvertes ?"
       ],
       "relations_documentaires": {
         "remplace": [],
@@ -1975,15 +1809,6 @@
           "contexte_utilisation": "Mentionné 1 fois dans le document"
         }
       ],
-      "questions_typiques": [
-        "Quel est l'impact sur la rémunération des salariés ?",
-        "À partir de quand cet avenant s'applique-t-il ?",
-        "Quels articles de la convention collective sont modifiés ?",
-        "Quelle est la procédure de licenciement applicable ?",
-        "Quelles sont les nouvelles grilles de salaires ?",
-        "Quel impact sur les conditions de travail des salariés ?",
-        "Quels sont les délais à respecter ?"
-      ],
       "relations_documentaires": {
         "remplace": [],
         "modifie": [
@@ -2052,14 +1877,6 @@
         "numero": "2862"
       },
       "vocabulaire_specifique": [],
-      "questions_typiques": [
-        "Quels sont les montants de franchise ?",
-        "Y a-t-il des alertes ou points de vigilance pour les notaires ?",
-        "Quelles sont les échéances mentionnées ?",
-        "Quelles formations sont concernées par ce document ?",
-        "Quelles sont les actualités juridiques importantes de ce numéro ?",
-        "Quelles garanties sont couvertes ?"
-      ],
       "relations_documentaires": {
         "remplace": [],
         "modifie": [],
@@ -2139,15 +1956,6 @@
           "definition": "Principe garantissant l'égalité de traitement entre femmes et hommes en matière de recrutement, formation, rémunération et évolution.",
           "contexte_utilisation": "Mentionné 1 fois dans le document"
         }
-      ],
-      "questions_typiques": [
-        "Comment financer ces formations ?",
-        "Comment signaler un cas de harcèlement ?",
-        "Quelles sont les nouvelles dispositions négociées ?",
-        "Quelle est la durée de validité de cet accord ?",
-        "Quelles formations sont concernées par ce document ?",
-        "Qui sont les parties signataires de cet accord ?",
-        "Quelles sont les mesures de prévention du harcèlement ?"
       ],
       "relations_documentaires": {
         "remplace": [],
@@ -2239,15 +2047,6 @@
           "contexte_utilisation": "Mentionné 1 fois dans le document"
         }
       ],
-      "questions_typiques": [
-        "Quelles sont les obligations de sécurité informatique ?",
-        "Comment se protéger contre les cyberattaques ?",
-        "Quels sont les montants de franchise ?",
-        "Y a-t-il des alertes ou points de vigilance pour les notaires ?",
-        "Quelles sont les échéances mentionnées ?",
-        "Quelles formations sont concernées par ce document ?",
-        "Quelles sont les actualités juridiques importantes de ce numéro ?"
-      ],
       "relations_documentaires": {
         "remplace": [],
         "modifie": [],
@@ -2322,14 +2121,6 @@
           "definition": "Ensemble des mesures techniques et organisationnelles visant à protéger les systèmes informatiques de l'office contre les menaces numériques.",
           "contexte_utilisation": "Mentionné 1 fois dans le document"
         }
-      ],
-      "questions_typiques": [
-        "Quelles sont les obligations de sécurité informatique ?",
-        "Comment se protéger contre les cyberattaques ?",
-        "Y a-t-il des alertes ou points de vigilance pour les notaires ?",
-        "Quelles sont les échéances mentionnées ?",
-        "Quelles formations sont concernées par ce document ?",
-        "Quelles sont les actualités juridiques importantes de ce numéro ?"
       ],
       "relations_documentaires": {
         "remplace": [],
@@ -2418,14 +2209,6 @@
           "contexte_utilisation": "Mentionné 1 fois dans le document"
         }
       ],
-      "questions_typiques": [
-        "Quelles sont les obligations de sécurité informatique ?",
-        "Comment se protéger contre les cyberattaques ?",
-        "Y a-t-il des alertes ou points de vigilance pour les notaires ?",
-        "Quelles sont les échéances mentionnées ?",
-        "Quelles formations sont concernées par ce document ?",
-        "Quelles sont les actualités juridiques importantes de ce numéro ?"
-      ],
       "relations_documentaires": {
         "remplace": [],
         "modifie": [],
@@ -2492,12 +2275,6 @@
           "contexte_utilisation": "Mentionné 3 fois dans le document"
         }
       ],
-      "questions_typiques": [
-        "Y a-t-il des alertes ou points de vigilance pour les notaires ?",
-        "Quelles sont les échéances mentionnées ?",
-        "Quelles formations sont concernées par ce document ?",
-        "Quelles sont les actualités juridiques importantes de ce numéro ?"
-      ],
       "relations_documentaires": {
         "remplace": [],
         "modifie": [],
@@ -2559,14 +2336,6 @@
         "numero": "2860"
       },
       "vocabulaire_specifique": [],
-      "questions_typiques": [
-        "Quelles sont les tendances du marché immobilier ?",
-        "Y a-t-il des alertes ou points de vigilance pour les notaires ?",
-        "Quelles sont les échéances mentionnées ?",
-        "Quelles formations sont concernées par ce document ?",
-        "Quelles sont les actualités juridiques importantes de ce numéro ?",
-        "Comment analyser ces données pour mon secteur ?"
-      ],
       "relations_documentaires": {
         "remplace": [],
         "modifie": [],
@@ -2636,14 +2405,6 @@
           "definition": "Conseil Supérieur du Notariat. Instance nationale représentant la profession auprès des pouvoirs publics et coordonnant les chambres départementales.",
           "contexte_utilisation": "Mentionné 1 fois dans le document"
         }
-      ],
-      "questions_typiques": [
-        "Quelles sont les tendances du marché immobilier ?",
-        "Y a-t-il des alertes ou points de vigilance pour les notaires ?",
-        "Quelles sont les échéances mentionnées ?",
-        "Quelles formations sont concernées par ce document ?",
-        "Quelles sont les actualités juridiques importantes de ce numéro ?",
-        "Comment analyser ces données pour mon secteur ?"
       ],
       "relations_documentaires": {
         "remplace": [],
@@ -2740,14 +2501,6 @@
           "contexte_utilisation": "Mentionné 1 fois dans le document"
         }
       ],
-      "questions_typiques": [
-        "Quelles sont les obligations de sécurité informatique ?",
-        "Comment se protéger contre les cyberattaques ?",
-        "Y a-t-il des alertes ou points de vigilance pour les notaires ?",
-        "Quelles sont les échéances mentionnées ?",
-        "Quelles formations sont concernées par ce document ?",
-        "Quelles sont les actualités juridiques importantes de ce numéro ?"
-      ],
       "relations_documentaires": {
         "remplace": [],
         "modifie": [],
@@ -2824,15 +2577,6 @@
           "definition": "Ensemble des contreparties financières du travail : salaire de base + primes + avantages. Minima fixés par la CCN selon classification.",
           "contexte_utilisation": "Mentionné 1 fois dans le document"
         }
-      ],
-      "questions_typiques": [
-        "À quelle date cette circulaire entre-t-elle en vigueur ?",
-        "Quel est l'impact sur la rémunération des salariés ?",
-        "Quels offices sont concernés par ces instructions ?",
-        "Quelles sont les nouvelles grilles de salaires ?",
-        "Quelles sont les modalités de prise de congés ?",
-        "Comment sont calculés les droits à congés ?",
-        "Quelles sont les nouvelles obligations introduites par cette circulaire ?"
       ],
       "relations_documentaires": {
         "remplace": [],
@@ -2920,15 +2664,6 @@
           "definition": "Système de protection sociale complémentaire (décès, invalidité, incapacité) couvrant les risques non pris en charge par la Sécurité Sociale.",
           "contexte_utilisation": "Mentionné 1 fois dans le document"
         }
-      ],
-      "questions_typiques": [
-        "Quelles sont les obligations de sécurité informatique ?",
-        "Comment se protéger contre les cyberattaques ?",
-        "Quelles sont les modalités de prise de congés ?",
-        "Y a-t-il des alertes ou points de vigilance pour les notaires ?",
-        "Quelles sont les échéances mentionnées ?",
-        "Comment sont calculés les droits à congés ?",
-        "Quelles sont les actualités juridiques importantes de ce numéro ?"
       ],
       "relations_documentaires": {
         "remplace": [],
@@ -3027,15 +2762,6 @@
           "contexte_utilisation": "Mentionné 1 fois dans le document"
         }
       ],
-      "questions_typiques": [
-        "À quelle date cette circulaire entre-t-elle en vigueur ?",
-        "Quel est l'impact sur la rémunération des salariés ?",
-        "Quels offices sont concernés par ces instructions ?",
-        "Quelles sont les nouvelles grilles de salaires ?",
-        "Quels sont les montants de franchise ?",
-        "Quelles sont les nouvelles obligations introduites par cette circulaire ?",
-        "Quelles garanties sont couvertes ?"
-      ],
       "relations_documentaires": {
         "remplace": [],
         "modifie": [],
@@ -3116,16 +2842,6 @@
           "contexte_utilisation": "Mentionné 1 fois dans le document"
         }
       ],
-      "questions_typiques": [
-        "À quelle date cette circulaire entre-t-elle en vigueur ?",
-        "Quelles sont les tendances du marché immobilier ?",
-        "Quels offices sont concernés par ces instructions ?",
-        "Comment financer ces formations ?",
-        "Quels sont les montants de franchise ?",
-        "Quelles formations sont concernées par ce document ?",
-        "Quelles sont les nouvelles obligations introduites par cette circulaire ?",
-        "Comment analyser ces données pour mon secteur ?"
-      ],
       "relations_documentaires": {
         "remplace": [],
         "modifie": [],
@@ -3197,15 +2913,6 @@
           "definition": "Système de protection sociale complémentaire (décès, invalidité, incapacité) couvrant les risques non pris en charge par la Sécurité Sociale.",
           "contexte_utilisation": "Mentionné 1 fois dans le document"
         }
-      ],
-      "questions_typiques": [
-        "Quelles sont les obligations de sécurité informatique ?",
-        "Quelles sont les tendances du marché immobilier ?",
-        "Comment se protéger contre les cyberattaques ?",
-        "Quels sont les montants de franchise ?",
-        "Y a-t-il des alertes ou points de vigilance pour les notaires ?",
-        "Quelles sont les échéances mentionnées ?",
-        "Quelles sont les actualités juridiques importantes de ce numéro ?"
       ],
       "relations_documentaires": {
         "remplace": [],
@@ -3280,15 +2987,6 @@
           "definition": "Système de protection sociale complémentaire (décès, invalidité, incapacité) couvrant les risques non pris en charge par la Sécurité Sociale.",
           "contexte_utilisation": "Mentionné 1 fois dans le document"
         }
-      ],
-      "questions_typiques": [
-        "Quelles sont les tendances du marché immobilier ?",
-        "Quels sont les montants de franchise ?",
-        "Y a-t-il des alertes ou points de vigilance pour les notaires ?",
-        "Quelles sont les échéances mentionnées ?",
-        "Quelles formations sont concernées par ce document ?",
-        "Quelles sont les actualités juridiques importantes de ce numéro ?",
-        "Comment analyser ces données pour mon secteur ?"
       ],
       "relations_documentaires": {
         "remplace": [],
@@ -3387,14 +3085,6 @@
           "contexte_utilisation": "Mentionné 1 fois dans le document"
         }
       ],
-      "questions_typiques": [
-        "Quel est l'impact sur la rémunération des salariés ?",
-        "À partir de quand cet avenant s'applique-t-il ?",
-        "Quels articles de la convention collective sont modifiés ?",
-        "Quels sont les montants mentionnés dans ce document ?",
-        "Quelles sont les nouvelles grilles de salaires ?",
-        "Quel impact sur les conditions de travail des salariés ?"
-      ],
       "relations_documentaires": {
         "remplace": [],
         "modifie": [],
@@ -3472,15 +3162,6 @@
           "contexte_utilisation": "Mentionné 1 fois dans le document"
         }
       ],
-      "questions_typiques": [
-        "Quelles sont les tendances du marché immobilier ?",
-        "Quelle est la procédure de licenciement applicable ?",
-        "Y a-t-il des alertes ou points de vigilance pour les notaires ?",
-        "Quelles sont les échéances mentionnées ?",
-        "Quels sont les délais à respecter ?",
-        "Quelles formations sont concernées par ce document ?",
-        "Quelles sont les actualités juridiques importantes de ce numéro ?"
-      ],
       "relations_documentaires": {
         "remplace": [],
         "modifie": [],
@@ -3555,14 +3236,6 @@
           "contexte_utilisation": "Mentionné 1 fois dans le document"
         }
       ],
-      "questions_typiques": [
-        "Quelles sont les obligations de sécurité informatique ?",
-        "Comment déclarer un sinistre ?",
-        "Comment se protéger contre les cyberattaques ?",
-        "Quels sont les montants de franchise ?",
-        "Quelles formations sont concernées par ce document ?",
-        "Quelles garanties sont couvertes par ce contrat ?"
-      ],
       "relations_documentaires": {
         "remplace": [],
         "modifie": [],
@@ -3625,12 +3298,6 @@
           "contexte_utilisation": "Mentionné 1 fois dans le document"
         }
       ],
-      "questions_typiques": [
-        "Y a-t-il des alertes ou points de vigilance pour les notaires ?",
-        "Quelles sont les échéances mentionnées ?",
-        "Quelles formations sont concernées par ce document ?",
-        "Quelles sont les actualités juridiques importantes de ce numéro ?"
-      ],
       "relations_documentaires": {
         "remplace": [],
         "modifie": [],
@@ -3689,14 +3356,6 @@
         "numero": "2813"
       },
       "vocabulaire_specifique": [],
-      "questions_typiques": [
-        "Quelles sont les tendances du marché immobilier ?",
-        "Y a-t-il des alertes ou points de vigilance pour les notaires ?",
-        "Quelles sont les échéances mentionnées ?",
-        "Quelles formations sont concernées par ce document ?",
-        "Quelles sont les actualités juridiques importantes de ce numéro ?",
-        "Comment analyser ces données pour mon secteur ?"
-      ],
       "relations_documentaires": {
         "remplace": [],
         "modifie": [],
@@ -3787,15 +3446,6 @@
           "contexte_utilisation": "Mentionné 1 fois dans le document"
         }
       ],
-      "questions_typiques": [
-        "Quelles sont les obligations de sécurité informatique ?",
-        "Comment se protéger contre les cyberattaques ?",
-        "Quels sont les montants de franchise ?",
-        "Y a-t-il des alertes ou points de vigilance pour les notaires ?",
-        "Quelles sont les échéances mentionnées ?",
-        "Quelles formations sont concernées par ce document ?",
-        "Quelles sont les actualités juridiques importantes de ce numéro ?"
-      ],
       "relations_documentaires": {
         "remplace": [],
         "modifie": [],
@@ -3866,12 +3516,6 @@
           "contexte_utilisation": "Mentionné 1 fois dans le document"
         }
       ],
-      "questions_typiques": [
-        "Y a-t-il des alertes ou points de vigilance pour les notaires ?",
-        "Quelles sont les échéances mentionnées ?",
-        "Quelles formations sont concernées par ce document ?",
-        "Quelles sont les actualités juridiques importantes de ce numéro ?"
-      ],
       "relations_documentaires": {
         "remplace": [],
         "modifie": [],
@@ -3931,14 +3575,6 @@
         "numero": "273"
       },
       "vocabulaire_specifique": [],
-      "questions_typiques": [
-        "Quelles sont les tendances du marché immobilier ?",
-        "Y a-t-il des alertes ou points de vigilance pour les notaires ?",
-        "Quelles sont les échéances mentionnées ?",
-        "Quelles formations sont concernées par ce document ?",
-        "Quelles sont les actualités juridiques importantes de ce numéro ?",
-        "Comment analyser ces données pour mon secteur ?"
-      ],
       "relations_documentaires": {
         "remplace": [],
         "modifie": [],
@@ -4006,14 +3642,6 @@
           "definition": "Conseil Supérieur du Notariat. Instance nationale représentant la profession auprès des pouvoirs publics et coordonnant les chambres départementales.",
           "contexte_utilisation": "Mentionné 2 fois dans le document"
         }
-      ],
-      "questions_typiques": [
-        "Quelles sont les obligations de sécurité informatique ?",
-        "Comment se protéger contre les cyberattaques ?",
-        "Y a-t-il des alertes ou points de vigilance pour les notaires ?",
-        "Quelles sont les échéances mentionnées ?",
-        "Quelles formations sont concernées par ce document ?",
-        "Quelles sont les actualités juridiques importantes de ce numéro ?"
       ],
       "relations_documentaires": {
         "remplace": [],
@@ -4092,15 +3720,6 @@
           "contexte_utilisation": "Mentionné 1 fois dans le document"
         }
       ],
-      "questions_typiques": [
-        "Quelles sont les tendances du marché immobilier ?",
-        "Quelle est la procédure de licenciement applicable ?",
-        "Y a-t-il des alertes ou points de vigilance pour les notaires ?",
-        "Quelles sont les échéances mentionnées ?",
-        "Quels sont les délais à respecter ?",
-        "Quelles formations sont concernées par ce document ?",
-        "Quelles sont les actualités juridiques importantes de ce numéro ?"
-      ],
       "relations_documentaires": {
         "remplace": [],
         "modifie": [],
@@ -4169,14 +3788,6 @@
           "definition": "Lutte Contre le Blanchiment et le Financement du Terrorisme. Ensemble des obligations légales imposées aux notaires pour prévenir l'utilisation du système financier à des fins de blanchiment de capitaux.",
           "contexte_utilisation": "Mentionné 4 fois dans le document"
         }
-      ],
-      "questions_typiques": [
-        "Quelles sont les tendances du marché immobilier ?",
-        "Y a-t-il des alertes ou points de vigilance pour les notaires ?",
-        "Quelles sont les échéances mentionnées ?",
-        "Quelles formations sont concernées par ce document ?",
-        "Quelles sont les actualités juridiques importantes de ce numéro ?",
-        "Comment analyser ces données pour mon secteur ?"
       ],
       "relations_documentaires": {
         "remplace": [],
@@ -4257,13 +3868,6 @@
           "contexte_utilisation": "Mentionné 1 fois dans le document"
         }
       ],
-      "questions_typiques": [
-        "À quelle date cette circulaire entre-t-elle en vigueur ?",
-        "Quel est l'impact sur la rémunération des salariés ?",
-        "Quels offices sont concernés par ces instructions ?",
-        "Quelles sont les nouvelles grilles de salaires ?",
-        "Quelles sont les nouvelles obligations introduites par cette circulaire ?"
-      ],
       "relations_documentaires": {
         "remplace": [],
         "modifie": [],
@@ -4327,13 +3931,6 @@
           "definition": "Conseil Supérieur du Notariat. Instance nationale représentant la profession auprès des pouvoirs publics et coordonnant les chambres départementales.",
           "contexte_utilisation": "Mentionné 2 fois dans le document"
         }
-      ],
-      "questions_typiques": [
-        "Quelles sont les recommandations principales de ce guide ?",
-        "Comment appliquer ces bonnes pratiques au quotidien ?",
-        "Comment financer ces formations ?",
-        "Quels sont les points de vigilance à retenir ?",
-        "Quelles formations sont concernées par ce document ?"
       ],
       "relations_documentaires": {
         "remplace": [],
@@ -4413,14 +4010,6 @@
           "contexte_utilisation": "Mentionné 1 fois dans le document"
         }
       ],
-      "questions_typiques": [
-        "Quelles sont les tendances du marché immobilier ?",
-        "Y a-t-il des alertes ou points de vigilance pour les notaires ?",
-        "Quelles sont les échéances mentionnées ?",
-        "Quelles formations sont concernées par ce document ?",
-        "Quelles sont les actualités juridiques importantes de ce numéro ?",
-        "Comment analyser ces données pour mon secteur ?"
-      ],
       "relations_documentaires": {
         "remplace": [],
         "modifie": [],
@@ -4485,15 +4074,6 @@
         "numero": "282"
       },
       "vocabulaire_specifique": [],
-      "questions_typiques": [
-        "Quelles sont les tendances du marché immobilier ?",
-        "Quels sont les montants de franchise ?",
-        "Y a-t-il des alertes ou points de vigilance pour les notaires ?",
-        "Quelles sont les échéances mentionnées ?",
-        "Quelles formations sont concernées par ce document ?",
-        "Quelles sont les actualités juridiques importantes de ce numéro ?",
-        "Comment analyser ces données pour mon secteur ?"
-      ],
       "relations_documentaires": {
         "remplace": [],
         "modifie": [],
@@ -4577,13 +4157,6 @@
           "definition": "Système de protection sociale complémentaire (décès, invalidité, incapacité) couvrant les risques non pris en charge par la Sécurité Sociale.",
           "contexte_utilisation": "Mentionné 1 fois dans le document"
         }
-      ],
-      "questions_typiques": [
-        "À quelle date cette circulaire entre-t-elle en vigueur ?",
-        "Quels offices sont concernés par ces instructions ?",
-        "Quels sont les montants de franchise ?",
-        "Quelles sont les nouvelles obligations introduites par cette circulaire ?",
-        "Quelles garanties sont couvertes ?"
       ],
       "relations_documentaires": {
         "remplace": [],
@@ -4682,16 +4255,6 @@
           "contexte_utilisation": "Mentionné 1 fois dans le document"
         }
       ],
-      "questions_typiques": [
-        "Quel est l'impact sur la rémunération des salariés ?",
-        "Quelle est la procédure de licenciement applicable ?",
-        "Comment financer ces formations ?",
-        "Quelles sont les nouvelles grilles de salaires ?",
-        "Quelles sont les nouvelles dispositions négociées ?",
-        "Quelle est la durée de validité de cet accord ?",
-        "Comment sont calculés les droits à congés ?",
-        "Qui sont les parties signataires de cet accord ?"
-      ],
       "relations_documentaires": {
         "remplace": [],
         "modifie": [],
@@ -4777,15 +4340,6 @@
           "definition": "Ensemble des contreparties financières du travail : salaire de base + primes + avantages. Minima fixés par la CCN selon classification.",
           "contexte_utilisation": "Mentionné 1 fois dans le document"
         }
-      ],
-      "questions_typiques": [
-        "Quelles sont les obligations de sécurité informatique ?",
-        "Quelles sont les tendances du marché immobilier ?",
-        "Quelle est la procédure de licenciement applicable ?",
-        "Comment se protéger contre les cyberattaques ?",
-        "Y a-t-il des alertes ou points de vigilance pour les notaires ?",
-        "Quelles sont les échéances mentionnées ?",
-        "Quelles sont les actualités juridiques importantes de ce numéro ?"
       ],
       "relations_documentaires": {
         "remplace": [],
@@ -4884,15 +4438,6 @@
           "contexte_utilisation": "Mentionné 1 fois dans le document"
         }
       ],
-      "questions_typiques": [
-        "Quelles sont les obligations de sécurité informatique ?",
-        "Comment se protéger contre les cyberattaques ?",
-        "Quels sont les montants de franchise ?",
-        "Y a-t-il des alertes ou points de vigilance pour les notaires ?",
-        "Quelles sont les échéances mentionnées ?",
-        "Quelles formations sont concernées par ce document ?",
-        "Quelles sont les actualités juridiques importantes de ce numéro ?"
-      ],
       "relations_documentaires": {
         "remplace": [],
         "modifie": [],
@@ -4980,14 +4525,6 @@
           "contexte_utilisation": "Mentionné 1 fois dans le document"
         }
       ],
-      "questions_typiques": [
-        "Quels sont les montants de franchise ?",
-        "Y a-t-il des alertes ou points de vigilance pour les notaires ?",
-        "Quelles sont les échéances mentionnées ?",
-        "Quelles formations sont concernées par ce document ?",
-        "Quelles sont les actualités juridiques importantes de ce numéro ?",
-        "Quelles garanties sont couvertes ?"
-      ],
       "relations_documentaires": {
         "remplace": [],
         "modifie": [],
@@ -5067,12 +4604,6 @@
           "contexte_utilisation": "Mentionné 1 fois dans le document"
         }
       ],
-      "questions_typiques": [
-        "Y a-t-il des alertes ou points de vigilance pour les notaires ?",
-        "Quelles sont les échéances mentionnées ?",
-        "Quelles formations sont concernées par ce document ?",
-        "Quelles sont les actualités juridiques importantes de ce numéro ?"
-      ],
       "relations_documentaires": {
         "remplace": [],
         "modifie": [],
@@ -5151,15 +4682,6 @@
           "contexte_utilisation": "Mentionné 1 fois dans le document"
         }
       ],
-      "questions_typiques": [
-        "Quelles sont les obligations de sécurité informatique ?",
-        "Quelles sont les tendances du marché immobilier ?",
-        "Comment se protéger contre les cyberattaques ?",
-        "Quels sont les montants de franchise ?",
-        "Y a-t-il des alertes ou points de vigilance pour les notaires ?",
-        "Quelles sont les échéances mentionnées ?",
-        "Quelles sont les actualités juridiques importantes de ce numéro ?"
-      ],
       "relations_documentaires": {
         "remplace": [],
         "modifie": [],
@@ -5225,13 +4747,6 @@
           "contexte_utilisation": "Mentionné 3 fois dans le document"
         }
       ],
-      "questions_typiques": [
-        "À quelle date cette circulaire entre-t-elle en vigueur ?",
-        "Quels offices sont concernés par ces instructions ?",
-        "Comment financer ces formations ?",
-        "Quelles formations sont concernées par ce document ?",
-        "Quelles sont les nouvelles obligations introduites par cette circulaire ?"
-      ],
       "relations_documentaires": {
         "remplace": [],
         "modifie": [],
@@ -5286,14 +4801,6 @@
         "numero": "2864"
       },
       "vocabulaire_specifique": [],
-      "questions_typiques": [
-        "Quelles sont les tendances du marché immobilier ?",
-        "Y a-t-il des alertes ou points de vigilance pour les notaires ?",
-        "Quelles sont les échéances mentionnées ?",
-        "Quelles formations sont concernées par ce document ?",
-        "Quelles sont les actualités juridiques importantes de ce numéro ?",
-        "Comment analyser ces données pour mon secteur ?"
-      ],
       "relations_documentaires": {
         "remplace": [],
         "modifie": [],
@@ -5360,13 +4867,6 @@
           "definition": "Acte reçu par un officier public (notaire) conférant foi publique à son contenu. Il a date certaine et force exécutoire.",
           "contexte_utilisation": "Mentionné 2 fois dans le document"
         }
-      ],
-      "questions_typiques": [
-        "À quelle date cette circulaire entre-t-elle en vigueur ?",
-        "Quels offices sont concernés par ces instructions ?",
-        "Quels sont les montants de franchise ?",
-        "Quelles sont les nouvelles obligations introduites par cette circulaire ?",
-        "Quelles garanties sont couvertes ?"
       ],
       "relations_documentaires": {
         "remplace": [],
@@ -5463,14 +4963,6 @@
           "contexte_utilisation": "Mentionné 1 fois dans le document"
         }
       ],
-      "questions_typiques": [
-        "Quel est l'impact sur la rémunération des salariés ?",
-        "À partir de quand cet avenant s'applique-t-il ?",
-        "Quels articles de la convention collective sont modifiés ?",
-        "Quels sont les montants mentionnés dans ce document ?",
-        "Quelles sont les nouvelles grilles de salaires ?",
-        "Quel impact sur les conditions de travail des salariés ?"
-      ],
       "relations_documentaires": {
         "remplace": [],
         "modifie": [],
@@ -5558,15 +5050,6 @@
           "contexte_utilisation": "Mentionné 1 fois dans le document"
         }
       ],
-      "questions_typiques": [
-        "Quelles sont les obligations de sécurité informatique ?",
-        "Quelles sont les tendances du marché immobilier ?",
-        "Comment se protéger contre les cyberattaques ?",
-        "Quelles sont les modalités de prise de congés ?",
-        "Y a-t-il des alertes ou points de vigilance pour les notaires ?",
-        "Quelles sont les échéances mentionnées ?",
-        "Quelles sont les actualités juridiques importantes de ce numéro ?"
-      ],
       "relations_documentaires": {
         "remplace": [],
         "modifie": [],
@@ -5638,15 +5121,6 @@
           "definition": "Lutte Contre le Blanchiment et le Financement du Terrorisme. Ensemble des obligations légales imposées aux notaires pour prévenir l'utilisation du système financier à des fins de blanchiment de capitaux.",
           "contexte_utilisation": "Mentionné 2 fois dans le document"
         }
-      ],
-      "questions_typiques": [
-        "Quelles sont les tendances du marché immobilier ?",
-        "Quelle est la procédure de licenciement applicable ?",
-        "Y a-t-il des alertes ou points de vigilance pour les notaires ?",
-        "Quelles sont les échéances mentionnées ?",
-        "Quels sont les délais à respecter ?",
-        "Quelles formations sont concernées par ce document ?",
-        "Quelles sont les actualités juridiques importantes de ce numéro ?"
       ],
       "relations_documentaires": {
         "remplace": [],
@@ -5724,15 +5198,6 @@
           "definition": "Original d'un acte authentique conservé par le notaire. Document source qui ne peut quitter l'étude et dont seules des copies (expéditions) sont délivrées.",
           "contexte_utilisation": "Mentionné 1 fois dans le document"
         }
-      ],
-      "questions_typiques": [
-        "Quelles sont les tendances du marché immobilier ?",
-        "Quels sont les montants de franchise ?",
-        "Y a-t-il des alertes ou points de vigilance pour les notaires ?",
-        "Quelles sont les échéances mentionnées ?",
-        "Quelles formations sont concernées par ce document ?",
-        "Quelles sont les actualités juridiques importantes de ce numéro ?",
-        "Comment analyser ces données pour mon secteur ?"
       ],
       "relations_documentaires": {
         "remplace": [],
@@ -5828,13 +5293,6 @@
           "contexte_utilisation": "Mentionné 1 fois dans le document"
         }
       ],
-      "questions_typiques": [
-        "À partir de quand cet avenant s'applique-t-il ?",
-        "Quels articles de la convention collective sont modifiés ?",
-        "Comment financer ces formations ?",
-        "Quel impact sur les conditions de travail des salariés ?",
-        "Quelles formations sont concernées par ce document ?"
-      ],
       "relations_documentaires": {
         "remplace": [],
         "modifie": [],
@@ -5917,12 +5375,6 @@
           "definition": "Conseil Supérieur du Notariat. Instance nationale représentant la profession auprès des pouvoirs publics et coordonnant les chambres départementales.",
           "contexte_utilisation": "Mentionné 1 fois dans le document"
         }
-      ],
-      "questions_typiques": [
-        "Y a-t-il des alertes ou points de vigilance pour les notaires ?",
-        "Quelles sont les échéances mentionnées ?",
-        "Quelles formations sont concernées par ce document ?",
-        "Quelles sont les actualités juridiques importantes de ce numéro ?"
       ],
       "relations_documentaires": {
         "remplace": [],
@@ -6019,15 +5471,6 @@
           "contexte_utilisation": "Mentionné 1 fois dans le document"
         }
       ],
-      "questions_typiques": [
-        "Quelles sont les tendances du marché immobilier ?",
-        "Quels sont les montants de franchise ?",
-        "Y a-t-il des alertes ou points de vigilance pour les notaires ?",
-        "Quelles sont les échéances mentionnées ?",
-        "Quelles formations sont concernées par ce document ?",
-        "Quelles sont les actualités juridiques importantes de ce numéro ?",
-        "Comment analyser ces données pour mon secteur ?"
-      ],
       "relations_documentaires": {
         "remplace": [],
         "modifie": [],
@@ -6099,14 +5542,6 @@
           "contexte_utilisation": "Mentionné 1 fois dans le document"
         }
       ],
-      "questions_typiques": [
-        "Quelle est la procédure de licenciement applicable ?",
-        "Y a-t-il des alertes ou points de vigilance pour les notaires ?",
-        "Quelles sont les échéances mentionnées ?",
-        "Quels sont les délais à respecter ?",
-        "Quelles formations sont concernées par ce document ?",
-        "Quelles sont les actualités juridiques importantes de ce numéro ?"
-      ],
       "relations_documentaires": {
         "remplace": [],
         "modifie": [],
@@ -6176,14 +5611,6 @@
           "contexte_utilisation": "Mentionné 1 fois dans le document"
         }
       ],
-      "questions_typiques": [
-        "Quelles sont les tendances du marché immobilier ?",
-        "Y a-t-il des alertes ou points de vigilance pour les notaires ?",
-        "Quelles sont les échéances mentionnées ?",
-        "Quelles formations sont concernées par ce document ?",
-        "Quelles sont les actualités juridiques importantes de ce numéro ?",
-        "Comment analyser ces données pour mon secteur ?"
-      ],
       "relations_documentaires": {
         "remplace": [],
         "modifie": [],
@@ -6240,12 +5667,6 @@
       },
       "reference": null,
       "vocabulaire_specifique": [],
-      "questions_typiques": [
-        "Comment interpréter ces données pour mon secteur ?",
-        "Quels indicateurs sont suivis ?",
-        "Quelles sont les tendances du marché immobilier ?",
-        "Comment analyser ces données pour mon secteur ?"
-      ],
       "relations_documentaires": {
         "remplace": [],
         "modifie": [],
@@ -6339,16 +5760,6 @@
           "contexte_utilisation": "Mentionné 1 fois dans le document"
         }
       ],
-      "questions_typiques": [
-        "Quel est l'impact sur la rémunération des salariés ?",
-        "Quelles sont les nouvelles grilles de salaires ?",
-        "Quelles sont les modalités de prise de congés ?",
-        "Quels sont les montants de franchise ?",
-        "Quelles sont les nouvelles dispositions négociées ?",
-        "Quelle est la durée de validité de cet accord ?",
-        "Comment sont calculés les droits à congés ?",
-        "Qui sont les parties signataires de cet accord ?"
-      ],
       "relations_documentaires": {
         "remplace": [],
         "modifie": [],
@@ -6436,13 +5847,6 @@
           "contexte_utilisation": "Mentionné 1 fois dans le document"
         }
       ],
-      "questions_typiques": [
-        "À quelle date cette circulaire entre-t-elle en vigueur ?",
-        "Quels offices sont concernés par ces instructions ?",
-        "Quels sont les montants de franchise ?",
-        "Quelles sont les nouvelles obligations introduites par cette circulaire ?",
-        "Quelles garanties sont couvertes ?"
-      ],
       "relations_documentaires": {
         "remplace": [],
         "modifie": [],
@@ -6508,15 +5912,6 @@
           "definition": "Système de protection sociale complémentaire (décès, invalidité, incapacité) couvrant les risques non pris en charge par la Sécurité Sociale.",
           "contexte_utilisation": "Mentionné 2 fois dans le document"
         }
-      ],
-      "questions_typiques": [
-        "Quelles sont les tendances du marché immobilier ?",
-        "Quels sont les montants de franchise ?",
-        "Y a-t-il des alertes ou points de vigilance pour les notaires ?",
-        "Quelles sont les échéances mentionnées ?",
-        "Quelles formations sont concernées par ce document ?",
-        "Quelles sont les actualités juridiques importantes de ce numéro ?",
-        "Comment analyser ces données pour mon secteur ?"
       ],
       "relations_documentaires": {
         "remplace": [],
@@ -6596,15 +5991,6 @@
           "contexte_utilisation": "Mentionné 1 fois dans le document"
         }
       ],
-      "questions_typiques": [
-        "À quelle date cette circulaire entre-t-elle en vigueur ?",
-        "Quels offices sont concernés par ces instructions ?",
-        "Comment financer ces formations ?",
-        "Quels sont les montants de franchise ?",
-        "Quelles formations sont concernées par ce document ?",
-        "Quelles sont les nouvelles obligations introduites par cette circulaire ?",
-        "Quelles garanties sont couvertes ?"
-      ],
       "relations_documentaires": {
         "remplace": [],
         "modifie": [],
@@ -6680,13 +6066,6 @@
           "contexte_utilisation": "Mentionné 1 fois dans le document"
         }
       ],
-      "questions_typiques": [
-        "Quels articles du code sont concernés ?",
-        "Quelle est la date d'entrée en vigueur ?",
-        "Quels sont les montants de franchise ?",
-        "Quelles modifications réglementaires sont introduites ?",
-        "Quelles garanties sont couvertes ?"
-      ],
       "relations_documentaires": {
         "remplace": [],
         "modifie": [],
@@ -6757,15 +6136,6 @@
           "definition": "Conseil Supérieur du Notariat. Instance nationale représentant la profession auprès des pouvoirs publics et coordonnant les chambres départementales.",
           "contexte_utilisation": "Mentionné 2 fois dans le document"
         }
-      ],
-      "questions_typiques": [
-        "Quelles sont les tendances du marché immobilier ?",
-        "Quelle est la procédure de licenciement applicable ?",
-        "Y a-t-il des alertes ou points de vigilance pour les notaires ?",
-        "Quelles sont les échéances mentionnées ?",
-        "Quels sont les délais à respecter ?",
-        "Quelles formations sont concernées par ce document ?",
-        "Quelles sont les actualités juridiques importantes de ce numéro ?"
       ],
       "relations_documentaires": {
         "remplace": [],
@@ -6866,13 +6236,6 @@
           "definition": "Opérateur de Compétences. Organisme agréé pour financer l'apprentissage et la formation professionnelle. Pour le notariat : OPCO EP (Entreprises de Proximité).",
           "contexte_utilisation": "Mentionné 1 fois dans le document"
         }
-      ],
-      "questions_typiques": [
-        "Comment financer ces formations ?",
-        "Quelles sont les nouvelles dispositions négociées ?",
-        "Quelle est la durée de validité de cet accord ?",
-        "Quelles formations sont concernées par ce document ?",
-        "Qui sont les parties signataires de cet accord ?"
       ],
       "relations_documentaires": {
         "remplace": [],
@@ -6978,13 +6341,6 @@
           "contexte_utilisation": "Mentionné 1 fois dans le document"
         }
       ],
-      "questions_typiques": [
-        "Comment financer ces formations ?",
-        "Quelles sont les nouvelles dispositions négociées ?",
-        "Quelle est la durée de validité de cet accord ?",
-        "Quelles formations sont concernées par ce document ?",
-        "Qui sont les parties signataires de cet accord ?"
-      ],
       "relations_documentaires": {
         "remplace": [],
         "modifie": [],
@@ -7044,11 +6400,6 @@
       },
       "reference": null,
       "vocabulaire_specifique": [],
-      "questions_typiques": [
-        "Quelles sont les nouvelles obligations introduites par cette circulaire ?",
-        "À quelle date cette circulaire entre-t-elle en vigueur ?",
-        "Quels offices sont concernés par ces instructions ?"
-      ],
       "relations_documentaires": {
         "remplace": [],
         "modifie": [],
@@ -7148,15 +6499,6 @@
           "contexte_utilisation": "Mentionné 1 fois dans le document"
         }
       ],
-      "questions_typiques": [
-        "Quelles sont les modalités de prise de congés ?",
-        "Y a-t-il des alertes ou points de vigilance pour les notaires ?",
-        "Quels sont les montants de franchise ?",
-        "Quelles sont les échéances mentionnées ?",
-        "Comment signaler un cas de harcèlement ?",
-        "Comment sont calculés les droits à congés ?",
-        "Quelles sont les actualités juridiques importantes de ce numéro ?"
-      ],
       "relations_documentaires": {
         "remplace": [],
         "modifie": [],
@@ -7241,14 +6583,6 @@
           "contexte_utilisation": "Mentionné 1 fois dans le document"
         }
       ],
-      "questions_typiques": [
-        "Quelles sont les tendances du marché immobilier ?",
-        "Y a-t-il des alertes ou points de vigilance pour les notaires ?",
-        "Quelles sont les échéances mentionnées ?",
-        "Quelles formations sont concernées par ce document ?",
-        "Quelles sont les actualités juridiques importantes de ce numéro ?",
-        "Comment analyser ces données pour mon secteur ?"
-      ],
       "relations_documentaires": {
         "remplace": [],
         "modifie": [],
@@ -7308,12 +6642,6 @@
       },
       "reference": null,
       "vocabulaire_specifique": [],
-      "questions_typiques": [
-        "Comment interpréter ces données pour mon secteur ?",
-        "Quels indicateurs sont suivis ?",
-        "Quelles sont les tendances du marché immobilier ?",
-        "Comment analyser ces données pour mon secteur ?"
-      ],
       "relations_documentaires": {
         "remplace": [],
         "modifie": [],
@@ -7388,13 +6716,6 @@
           "definition": "Système de protection sociale complémentaire (décès, invalidité, incapacité) couvrant les risques non pris en charge par la Sécurité Sociale.",
           "contexte_utilisation": "Mentionné 1 fois dans le document"
         }
-      ],
-      "questions_typiques": [
-        "À quelle date cette circulaire entre-t-elle en vigueur ?",
-        "Quels offices sont concernés par ces instructions ?",
-        "Quels sont les montants de franchise ?",
-        "Quelles sont les nouvelles obligations introduites par cette circulaire ?",
-        "Quelles garanties sont couvertes ?"
       ],
       "relations_documentaires": {
         "remplace": [],
@@ -7479,14 +6800,6 @@
           "contexte_utilisation": "Mentionné 1 fois dans le document"
         }
       ],
-      "questions_typiques": [
-        "Quelle est la procédure de licenciement applicable ?",
-        "Y a-t-il des alertes ou points de vigilance pour les notaires ?",
-        "Quelles sont les échéances mentionnées ?",
-        "Quels sont les délais à respecter ?",
-        "Quelles formations sont concernées par ce document ?",
-        "Quelles sont les actualités juridiques importantes de ce numéro ?"
-      ],
       "relations_documentaires": {
         "remplace": [],
         "modifie": [],
@@ -7551,13 +6864,6 @@
           "definition": "Original d'un acte authentique conservé par le notaire. Document source qui ne peut quitter l'étude et dont seules des copies (expéditions) sont délivrées.",
           "contexte_utilisation": "Mentionné 1 fois dans le document"
         }
-      ],
-      "questions_typiques": [
-        "À quelle date cette circulaire entre-t-elle en vigueur ?",
-        "Quels offices sont concernés par ces instructions ?",
-        "Comment financer ces formations ?",
-        "Quelles formations sont concernées par ce document ?",
-        "Quelles sont les nouvelles obligations introduites par cette circulaire ?"
       ],
       "relations_documentaires": {
         "remplace": [],
@@ -7627,13 +6933,6 @@
           "definition": "Conseil Supérieur du Notariat. Instance nationale représentant la profession auprès des pouvoirs publics et coordonnant les chambres départementales.",
           "contexte_utilisation": "Mentionné 1 fois dans le document"
         }
-      ],
-      "questions_typiques": [
-        "Comment financer ces formations ?",
-        "Quelles sont les nouvelles dispositions négociées ?",
-        "Quelle est la durée de validité de cet accord ?",
-        "Quelles formations sont concernées par ce document ?",
-        "Qui sont les parties signataires de cet accord ?"
       ],
       "relations_documentaires": {
         "remplace": [],
@@ -7730,13 +7029,6 @@
           "contexte_utilisation": "Mentionné 1 fois dans le document"
         }
       ],
-      "questions_typiques": [
-        "À partir de quand cet avenant s'applique-t-il ?",
-        "Quels articles de la convention collective sont modifiés ?",
-        "Comment financer ces formations ?",
-        "Quel impact sur les conditions de travail des salariés ?",
-        "Quelles formations sont concernées par ce document ?"
-      ],
       "relations_documentaires": {
         "remplace": [],
         "modifie": [],
@@ -7799,14 +7091,6 @@
         "numero": "2836"
       },
       "vocabulaire_specifique": [],
-      "questions_typiques": [
-        "Quelles sont les obligations de sécurité informatique ?",
-        "Comment se protéger contre les cyberattaques ?",
-        "Y a-t-il des alertes ou points de vigilance pour les notaires ?",
-        "Quelles sont les échéances mentionnées ?",
-        "Quelles formations sont concernées par ce document ?",
-        "Quelles sont les actualités juridiques importantes de ce numéro ?"
-      ],
       "relations_documentaires": {
         "remplace": [],
         "modifie": [],
@@ -7866,12 +7150,6 @@
         "numero": "2814"
       },
       "vocabulaire_specifique": [],
-      "questions_typiques": [
-        "Y a-t-il des alertes ou points de vigilance pour les notaires ?",
-        "Quelles sont les échéances mentionnées ?",
-        "Quelles formations sont concernées par ce document ?",
-        "Quelles sont les actualités juridiques importantes de ce numéro ?"
-      ],
       "relations_documentaires": {
         "remplace": [],
         "modifie": [],
@@ -7979,15 +7257,6 @@
           "contexte_utilisation": "Mentionné 1 fois dans le document"
         }
       ],
-      "questions_typiques": [
-        "Quelles sont les obligations de sécurité informatique ?",
-        "Comment se protéger contre les cyberattaques ?",
-        "Quels sont les montants de franchise ?",
-        "Y a-t-il des alertes ou points de vigilance pour les notaires ?",
-        "Quelles sont les échéances mentionnées ?",
-        "Quelles formations sont concernées par ce document ?",
-        "Quelles sont les actualités juridiques importantes de ce numéro ?"
-      ],
       "relations_documentaires": {
         "remplace": [],
         "modifie": [],
@@ -8076,15 +7345,6 @@
           "definition": "Ensemble des mesures techniques et organisationnelles visant à protéger les systèmes informatiques de l'office contre les menaces numériques.",
           "contexte_utilisation": "Mentionné 1 fois dans le document"
         }
-      ],
-      "questions_typiques": [
-        "Quelles sont les obligations de sécurité informatique ?",
-        "Quelles sont les tendances du marché immobilier ?",
-        "Comment se protéger contre les cyberattaques ?",
-        "Quels sont les montants de franchise ?",
-        "Y a-t-il des alertes ou points de vigilance pour les notaires ?",
-        "Quelles sont les échéances mentionnées ?",
-        "Quelles sont les actualités juridiques importantes de ce numéro ?"
       ],
       "relations_documentaires": {
         "remplace": [],
@@ -8196,15 +7456,6 @@
           "contexte_utilisation": "Mentionné 1 fois dans le document"
         }
       ],
-      "questions_typiques": [
-        "Quel est l'impact sur la rémunération des salariés ?",
-        "À partir de quand cet avenant s'applique-t-il ?",
-        "Quels articles de la convention collective sont modifiés ?",
-        "Comment financer ces formations ?",
-        "Quelles sont les nouvelles grilles de salaires ?",
-        "Quel impact sur les conditions de travail des salariés ?",
-        "Quelles formations sont concernées par ce document ?"
-      ],
       "relations_documentaires": {
         "remplace": [],
         "modifie": [],
@@ -8281,16 +7532,6 @@
           "contexte_utilisation": "Mentionné 3 fois dans le document"
         }
       ],
-      "questions_typiques": [
-        "À quelle date cette circulaire entre-t-elle en vigueur ?",
-        "Quelles sont les tendances du marché immobilier ?",
-        "Quels offices sont concernés par ces instructions ?",
-        "Comment financer ces formations ?",
-        "Quels sont les montants de franchise ?",
-        "Quelles formations sont concernées par ce document ?",
-        "Quelles sont les nouvelles obligations introduites par cette circulaire ?",
-        "Comment analyser ces données pour mon secteur ?"
-      ],
       "relations_documentaires": {
         "remplace": [],
         "modifie": [],
@@ -8344,12 +7585,6 @@
         "numero": "2855"
       },
       "vocabulaire_specifique": [],
-      "questions_typiques": [
-        "Y a-t-il des alertes ou points de vigilance pour les notaires ?",
-        "Quelles sont les échéances mentionnées ?",
-        "Quelles formations sont concernées par ce document ?",
-        "Quelles sont les actualités juridiques importantes de ce numéro ?"
-      ],
       "relations_documentaires": {
         "remplace": [],
         "modifie": [],
@@ -8433,12 +7668,6 @@
           "contexte_utilisation": "Mentionné 1 fois dans le document"
         }
       ],
-      "questions_typiques": [
-        "Quels articles du code sont concernés ?",
-        "Quelle est la date d'entrée en vigueur ?",
-        "Quelles formations sont concernées par ce document ?",
-        "Quelles modifications réglementaires sont introduites ?"
-      ],
       "relations_documentaires": {
         "remplace": [],
         "modifie": [],
@@ -8503,11 +7732,6 @@
         "numero": "2020-3"
       },
       "vocabulaire_specifique": [],
-      "questions_typiques": [
-        "Quelles sont les nouvelles obligations introduites par cette circulaire ?",
-        "À quelle date cette circulaire entre-t-elle en vigueur ?",
-        "Quels offices sont concernés par ces instructions ?"
-      ],
       "relations_documentaires": {
         "remplace": [],
         "modifie": [],
@@ -8560,14 +7784,6 @@
         "numero": "2863"
       },
       "vocabulaire_specifique": [],
-      "questions_typiques": [
-        "Quelles sont les tendances du marché immobilier ?",
-        "Y a-t-il des alertes ou points de vigilance pour les notaires ?",
-        "Quelles sont les échéances mentionnées ?",
-        "Quelles formations sont concernées par ce document ?",
-        "Quelles sont les actualités juridiques importantes de ce numéro ?",
-        "Comment analyser ces données pour mon secteur ?"
-      ],
       "relations_documentaires": {
         "remplace": [],
         "modifie": [],
@@ -8641,15 +7857,6 @@
           "contexte_utilisation": "Mentionné 1 fois dans le document"
         }
       ],
-      "questions_typiques": [
-        "À quelle date cette circulaire entre-t-elle en vigueur ?",
-        "Quel est l'impact sur la rémunération des salariés ?",
-        "Quels offices sont concernés par ces instructions ?",
-        "Quelles sont les nouvelles grilles de salaires ?",
-        "Quelles sont les modalités de prise de congés ?",
-        "Comment sont calculés les droits à congés ?",
-        "Quelles sont les nouvelles obligations introduites par cette circulaire ?"
-      ],
       "relations_documentaires": {
         "remplace": [],
         "modifie": [],
@@ -8718,13 +7925,6 @@
           "definition": "Ensemble des contreparties financières du travail : salaire de base + primes + avantages. Minima fixés par la CCN selon classification.",
           "contexte_utilisation": "Mentionné 1 fois dans le document"
         }
-      ],
-      "questions_typiques": [
-        "À quelle date cette circulaire entre-t-elle en vigueur ?",
-        "Quels offices sont concernés par ces instructions ?",
-        "Comment financer ces formations ?",
-        "Quelles formations sont concernées par ce document ?",
-        "Quelles sont les nouvelles obligations introduites par cette circulaire ?"
       ],
       "relations_documentaires": {
         "remplace": [],
@@ -8845,15 +8045,6 @@
           "contexte_utilisation": "Mentionné 1 fois dans le document"
         }
       ],
-      "questions_typiques": [
-        "Quelles sont les recommandations principales de ce guide ?",
-        "Comment appliquer ces bonnes pratiques au quotidien ?",
-        "Comment financer ces formations ?",
-        "Quels sont les montants de franchise ?",
-        "Quels sont les points de vigilance à retenir ?",
-        "Quelles formations sont concernées par ce document ?",
-        "Quelles garanties sont couvertes ?"
-      ],
       "relations_documentaires": {
         "remplace": [],
         "modifie": [],
@@ -8908,13 +8099,6 @@
       },
       "reference": null,
       "vocabulaire_specifique": [],
-      "questions_typiques": [
-        "Quelles sont les garanties cyber couvertes par ce contrat ?",
-        "Quel est le montant de la franchise en cas de cyberattaque ?",
-        "Comment déclarer un sinistre cyber ?",
-        "Quelles sont les exclusions du contrat cyber ?",
-        "Quelle est la procédure en cas de violation de données ?"
-      ],
       "relations_documentaires": {
         "remplace": [],
         "modifie": [],
@@ -9007,15 +8191,6 @@
           "contexte_utilisation": "Mentionné 1 fois dans le document"
         }
       ],
-      "questions_typiques": [
-        "Quelles sont les obligations de sécurité informatique ?",
-        "Quelles sont les tendances du marché immobilier ?",
-        "Comment se protéger contre les cyberattaques ?",
-        "Quels sont les montants de franchise ?",
-        "Y a-t-il des alertes ou points de vigilance pour les notaires ?",
-        "Quelles sont les échéances mentionnées ?",
-        "Quelles sont les actualités juridiques importantes de ce numéro ?"
-      ],
       "relations_documentaires": {
         "remplace": [],
         "modifie": [],
@@ -9095,14 +8270,6 @@
           "definition": "",
           "contexte_utilisation": "Mentionné 1 fois dans le document"
         }
-      ],
-      "questions_typiques": [
-        "Quelle est la procédure de licenciement applicable ?",
-        "Y a-t-il des alertes ou points de vigilance pour les notaires ?",
-        "Quelles sont les échéances mentionnées ?",
-        "Quels sont les délais à respecter ?",
-        "Quelles formations sont concernées par ce document ?",
-        "Quelles sont les actualités juridiques importantes de ce numéro ?"
       ],
       "relations_documentaires": {
         "remplace": [],
@@ -9212,12 +8379,6 @@
           "contexte_utilisation": "Mentionné 3 fois dans le document"
         }
       ],
-      "questions_typiques": [
-        "Y a-t-il des alertes ou points de vigilance pour les notaires ?",
-        "Quelles sont les échéances mentionnées ?",
-        "Quelles formations sont concernées par ce document ?",
-        "Quelles sont les actualités juridiques importantes de ce numéro ?"
-      ],
       "relations_documentaires": {
         "remplace": [],
         "modifie": [],
@@ -9287,12 +8448,6 @@
           "definition": "Conseil Supérieur du Notariat. Instance nationale représentant la profession auprès des pouvoirs publics et coordonnant les chambres départementales.",
           "contexte_utilisation": "Mentionné 3 fois dans le document"
         }
-      ],
-      "questions_typiques": [
-        "Y a-t-il des alertes ou points de vigilance pour les notaires ?",
-        "Quelles sont les échéances mentionnées ?",
-        "Quelles formations sont concernées par ce document ?",
-        "Quelles sont les actualités juridiques importantes de ce numéro ?"
       ],
       "relations_documentaires": {
         "remplace": [],
@@ -9368,12 +8523,6 @@
           "definition": "Conseil Supérieur du Notariat. Instance nationale représentant la profession auprès des pouvoirs publics et coordonnant les chambres départementales.",
           "contexte_utilisation": "Mentionné 1 fois dans le document"
         }
-      ],
-      "questions_typiques": [
-        "Y a-t-il des alertes ou points de vigilance pour les notaires ?",
-        "Quelles sont les échéances mentionnées ?",
-        "Quelles formations sont concernées par ce document ?",
-        "Quelles sont les actualités juridiques importantes de ce numéro ?"
       ],
       "relations_documentaires": {
         "remplace": [],
@@ -9466,15 +8615,6 @@
           "contexte_utilisation": "Mentionné 1 fois dans le document"
         }
       ],
-      "questions_typiques": [
-        "Quel est l'impact sur la rémunération des salariés ?",
-        "À partir de quand cet avenant s'applique-t-il ?",
-        "Quels articles de la convention collective sont modifiés ?",
-        "Comment financer ces formations ?",
-        "Quelles sont les nouvelles grilles de salaires ?",
-        "Quel impact sur les conditions de travail des salariés ?",
-        "Quelles formations sont concernées par ce document ?"
-      ],
       "relations_documentaires": {
         "remplace": [],
         "modifie": [
@@ -9538,11 +8678,6 @@
       },
       "reference": null,
       "vocabulaire_specifique": [],
-      "questions_typiques": [
-        "Quelles sont les nouvelles obligations introduites par cette circulaire ?",
-        "À quelle date cette circulaire entre-t-elle en vigueur ?",
-        "Quels offices sont concernés par ces instructions ?"
-      ],
       "relations_documentaires": {
         "remplace": [],
         "modifie": [],
@@ -9616,15 +8751,6 @@
           "contexte_utilisation": "Mentionné 1 fois dans le document"
         }
       ],
-      "questions_typiques": [
-        "Quelles sont les obligations de sécurité informatique ?",
-        "Quelles sont les tendances du marché immobilier ?",
-        "Comment se protéger contre les cyberattaques ?",
-        "Quels sont les montants de franchise ?",
-        "Y a-t-il des alertes ou points de vigilance pour les notaires ?",
-        "Quelles sont les échéances mentionnées ?",
-        "Quelles sont les actualités juridiques importantes de ce numéro ?"
-      ],
       "relations_documentaires": {
         "remplace": [],
         "modifie": [],
@@ -9697,14 +8823,6 @@
           "definition": "Système de protection sociale complémentaire (décès, invalidité, incapacité) couvrant les risques non pris en charge par la Sécurité Sociale.",
           "contexte_utilisation": "Mentionné 1 fois dans le document"
         }
-      ],
-      "questions_typiques": [
-        "Quelles sont les tendances du marché immobilier ?",
-        "Y a-t-il des alertes ou points de vigilance pour les notaires ?",
-        "Quelles sont les échéances mentionnées ?",
-        "Quelles formations sont concernées par ce document ?",
-        "Quelles sont les actualités juridiques importantes de ce numéro ?",
-        "Comment analyser ces données pour mon secteur ?"
       ],
       "relations_documentaires": {
         "remplace": [],
@@ -9790,13 +8908,6 @@
           "definition": "Système de protection sociale complémentaire (décès, invalidité, incapacité) couvrant les risques non pris en charge par la Sécurité Sociale.",
           "contexte_utilisation": "Mentionné 1 fois dans le document"
         }
-      ],
-      "questions_typiques": [
-        "À quelle date cette circulaire entre-t-elle en vigueur ?",
-        "Quels offices sont concernés par ces instructions ?",
-        "Quels sont les montants de franchise ?",
-        "Quelles sont les nouvelles obligations introduites par cette circulaire ?",
-        "Quelles garanties sont couvertes ?"
       ],
       "relations_documentaires": {
         "remplace": [],
@@ -9888,13 +8999,6 @@
           "contexte_utilisation": "Mentionné 1 fois dans le document"
         }
       ],
-      "questions_typiques": [
-        "À partir de quand cet avenant s'applique-t-il ?",
-        "Quels articles de la convention collective sont modifiés ?",
-        "Comment financer ces formations ?",
-        "Quel impact sur les conditions de travail des salariés ?",
-        "Quelles formations sont concernées par ce document ?"
-      ],
       "relations_documentaires": {
         "remplace": [],
         "modifie": [],
@@ -9977,15 +9081,6 @@
           "definition": "Document émis par le CSN donnant des instructions ou recommandations aux notaires sur l'application de dispositions légales ou réglementaires.",
           "contexte_utilisation": "Mentionné 1 fois dans le document"
         }
-      ],
-      "questions_typiques": [
-        "Quelles sont les obligations de sécurité informatique ?",
-        "Quels sont les montants mentionnés dans ce document ?",
-        "Comment se protéger contre les cyberattaques ?",
-        "Y a-t-il des alertes ou points de vigilance pour les notaires ?",
-        "Quelles sont les échéances mentionnées ?",
-        "Quelles formations sont concernées par ce document ?",
-        "Quelles sont les actualités juridiques importantes de ce numéro ?"
       ],
       "relations_documentaires": {
         "remplace": [],
@@ -10096,15 +9191,6 @@
           "contexte_utilisation": "Mentionné 1 fois dans le document"
         }
       ],
-      "questions_typiques": [
-        "À quelle date cette circulaire entre-t-elle en vigueur ?",
-        "Quel est l'impact sur la rémunération des salariés ?",
-        "Quels offices sont concernés par ces instructions ?",
-        "Comment financer ces formations ?",
-        "Quelles sont les nouvelles grilles de salaires ?",
-        "Quelles formations sont concernées par ce document ?",
-        "Quelles sont les nouvelles obligations introduites par cette circulaire ?"
-      ],
       "relations_documentaires": {
         "remplace": [],
         "modifie": [],
@@ -10204,12 +9290,6 @@
           "contexte_utilisation": "Mentionné 1 fois dans le document"
         }
       ],
-      "questions_typiques": [
-        "Y a-t-il des alertes ou points de vigilance pour les notaires ?",
-        "Quelles sont les échéances mentionnées ?",
-        "Quelles formations sont concernées par ce document ?",
-        "Quelles sont les actualités juridiques importantes de ce numéro ?"
-      ],
       "relations_documentaires": {
         "remplace": [],
         "modifie": [],
@@ -10278,12 +9358,6 @@
           "definition": "Conseil Supérieur du Notariat. Instance nationale représentant la profession auprès des pouvoirs publics et coordonnant les chambres départementales.",
           "contexte_utilisation": "Mentionné 1 fois dans le document"
         }
-      ],
-      "questions_typiques": [
-        "Y a-t-il des alertes ou points de vigilance pour les notaires ?",
-        "Quelles sont les échéances mentionnées ?",
-        "Quelles formations sont concernées par ce document ?",
-        "Quelles sont les actualités juridiques importantes de ce numéro ?"
       ],
       "relations_documentaires": {
         "remplace": [],
@@ -10386,15 +9460,6 @@
           "contexte_utilisation": "Mentionné 1 fois dans le document"
         }
       ],
-      "questions_typiques": [
-        "À quelle date cette circulaire entre-t-elle en vigueur ?",
-        "Quel est l'impact sur la rémunération des salariés ?",
-        "Quels offices sont concernés par ces instructions ?",
-        "Comment financer ces formations ?",
-        "Quelles sont les nouvelles grilles de salaires ?",
-        "Quelles formations sont concernées par ce document ?",
-        "Quelles sont les nouvelles obligations introduites par cette circulaire ?"
-      ],
       "relations_documentaires": {
         "remplace": [],
         "modifie": [],
@@ -10471,15 +9536,6 @@
           "contexte_utilisation": "Mentionné 1 fois dans le document"
         }
       ],
-      "questions_typiques": [
-        "Quelles sont les tendances du marché immobilier ?",
-        "Quels sont les montants de franchise ?",
-        "Y a-t-il des alertes ou points de vigilance pour les notaires ?",
-        "Quelles sont les échéances mentionnées ?",
-        "Quelles formations sont concernées par ce document ?",
-        "Quelles sont les actualités juridiques importantes de ce numéro ?",
-        "Comment analyser ces données pour mon secteur ?"
-      ],
       "relations_documentaires": {
         "remplace": [],
         "modifie": [],
@@ -10537,15 +9593,6 @@
         "numero": "2820"
       },
       "vocabulaire_specifique": [],
-      "questions_typiques": [
-        "Quelles sont les obligations de sécurité informatique ?",
-        "Quelles sont les tendances du marché immobilier ?",
-        "Comment se protéger contre les cyberattaques ?",
-        "Y a-t-il des alertes ou points de vigilance pour les notaires ?",
-        "Quelles sont les échéances mentionnées ?",
-        "Quelles formations sont concernées par ce document ?",
-        "Quelles sont les actualités juridiques importantes de ce numéro ?"
-      ],
       "relations_documentaires": {
         "remplace": [],
         "modifie": [],
@@ -10640,14 +9687,6 @@
           "contexte_utilisation": "Mentionné 1 fois dans le document"
         }
       ],
-      "questions_typiques": [
-        "Quel est l'impact sur la rémunération des salariés ?",
-        "À partir de quand cet avenant s'applique-t-il ?",
-        "Quels articles de la convention collective sont modifiés ?",
-        "Quels sont les montants mentionnés dans ce document ?",
-        "Quelles sont les nouvelles grilles de salaires ?",
-        "Quel impact sur les conditions de travail des salariés ?"
-      ],
       "relations_documentaires": {
         "remplace": [],
         "modifie": [],
@@ -10723,13 +9762,6 @@
           "contexte_utilisation": "Mentionné 1 fois dans le document"
         }
       ],
-      "questions_typiques": [
-        "À quelle date cette circulaire entre-t-elle en vigueur ?",
-        "Quelles sont les obligations de sécurité informatique ?",
-        "Quels offices sont concernés par ces instructions ?",
-        "Comment se protéger contre les cyberattaques ?",
-        "Quelles sont les nouvelles obligations introduites par cette circulaire ?"
-      ],
       "relations_documentaires": {
         "remplace": [],
         "modifie": [],
@@ -10781,14 +9813,6 @@
         "numero": "224"
       },
       "vocabulaire_specifique": [],
-      "questions_typiques": [
-        "Quelle est la procédure de licenciement applicable ?",
-        "Y a-t-il des alertes ou points de vigilance pour les notaires ?",
-        "Quelles sont les échéances mentionnées ?",
-        "Quels sont les délais à respecter ?",
-        "Quelles formations sont concernées par ce document ?",
-        "Quelles sont les actualités juridiques importantes de ce numéro ?"
-      ],
       "relations_documentaires": {
         "remplace": [],
         "modifie": [],
@@ -10860,15 +9884,6 @@
           "contexte_utilisation": "Mentionné 1 fois dans le document"
         }
       ],
-      "questions_typiques": [
-        "Quelles sont les tendances du marché immobilier ?",
-        "Quels sont les montants de franchise ?",
-        "Y a-t-il des alertes ou points de vigilance pour les notaires ?",
-        "Quelles sont les échéances mentionnées ?",
-        "Quelles formations sont concernées par ce document ?",
-        "Quelles sont les actualités juridiques importantes de ce numéro ?",
-        "Comment analyser ces données pour mon secteur ?"
-      ],
       "relations_documentaires": {
         "remplace": [],
         "modifie": [],
@@ -10927,14 +9942,6 @@
         "numero": "2819"
       },
       "vocabulaire_specifique": [],
-      "questions_typiques": [
-        "Quels sont les montants de franchise ?",
-        "Y a-t-il des alertes ou points de vigilance pour les notaires ?",
-        "Quelles sont les échéances mentionnées ?",
-        "Quelles formations sont concernées par ce document ?",
-        "Quelles sont les actualités juridiques importantes de ce numéro ?",
-        "Quelles garanties sont couvertes ?"
-      ],
       "relations_documentaires": {
         "remplace": [],
         "modifie": [],
@@ -11010,15 +10017,6 @@
           "definition": "Conseil Supérieur du Notariat. Instance nationale représentant la profession auprès des pouvoirs publics et coordonnant les chambres départementales.",
           "contexte_utilisation": "Mentionné 2 fois dans le document"
         }
-      ],
-      "questions_typiques": [
-        "À quelle date cette circulaire entre-t-elle en vigueur ?",
-        "Quel est l'impact sur la rémunération des salariés ?",
-        "Quels offices sont concernés par ces instructions ?",
-        "Quelles sont les nouvelles grilles de salaires ?",
-        "Quelles sont les modalités de prise de congés ?",
-        "Comment sont calculés les droits à congés ?",
-        "Quelles sont les nouvelles obligations introduites par cette circulaire ?"
       ],
       "relations_documentaires": {
         "remplace": [],
@@ -11130,14 +10128,6 @@
           "contexte_utilisation": "Mentionné 1 fois dans le document"
         }
       ],
-      "questions_typiques": [
-        "Quel est l'impact sur la rémunération des salariés ?",
-        "Quelles sont les nouvelles grilles de salaires ?",
-        "Y a-t-il des alertes ou points de vigilance pour les notaires ?",
-        "Quelles sont les échéances mentionnées ?",
-        "Quelles formations sont concernées par ce document ?",
-        "Quelles sont les actualités juridiques importantes de ce numéro ?"
-      ],
       "relations_documentaires": {
         "remplace": [],
         "modifie": [],
@@ -11221,13 +10211,6 @@
           "contexte_utilisation": "Mentionné 1 fois dans le document"
         }
       ],
-      "questions_typiques": [
-        "À quelle date cette circulaire entre-t-elle en vigueur ?",
-        "Quels offices sont concernés par ces instructions ?",
-        "Quels sont les montants de franchise ?",
-        "Quelles sont les nouvelles obligations introduites par cette circulaire ?",
-        "Quelles garanties sont couvertes ?"
-      ],
       "relations_documentaires": {
         "remplace": [],
         "modifie": [],
@@ -11296,15 +10279,6 @@
           "definition": "Acte reçu par un officier public (notaire) conférant foi publique à son contenu. Il a date certaine et force exécutoire.",
           "contexte_utilisation": "Mentionné 1 fois dans le document"
         }
-      ],
-      "questions_typiques": [
-        "Quelle est la procédure de licenciement applicable ?",
-        "Quels sont les montants mentionnés dans ce document ?",
-        "Y a-t-il des alertes ou points de vigilance pour les notaires ?",
-        "Quelles sont les échéances mentionnées ?",
-        "Quels sont les délais à respecter ?",
-        "Quelles formations sont concernées par ce document ?",
-        "Quelles sont les actualités juridiques importantes de ce numéro ?"
       ],
       "relations_documentaires": {
         "remplace": [],
@@ -11389,12 +10363,6 @@
           "contexte_utilisation": "Mentionné 1 fois dans le document"
         }
       ],
-      "questions_typiques": [
-        "Y a-t-il des alertes ou points de vigilance pour les notaires ?",
-        "Quelles sont les échéances mentionnées ?",
-        "Quelles formations sont concernées par ce document ?",
-        "Quelles sont les actualités juridiques importantes de ce numéro ?"
-      ],
       "relations_documentaires": {
         "remplace": [],
         "modifie": [],
@@ -11462,15 +10430,6 @@
           "definition": "Conseil Supérieur du Notariat. Instance nationale représentant la profession auprès des pouvoirs publics et coordonnant les chambres départementales.",
           "contexte_utilisation": "Mentionné 1 fois dans le document"
         }
-      ],
-      "questions_typiques": [
-        "Quelles sont les obligations de sécurité informatique ?",
-        "Quelles sont les tendances du marché immobilier ?",
-        "Comment se protéger contre les cyberattaques ?",
-        "Y a-t-il des alertes ou points de vigilance pour les notaires ?",
-        "Quelles sont les échéances mentionnées ?",
-        "Quelles formations sont concernées par ce document ?",
-        "Quelles sont les actualités juridiques importantes de ce numéro ?"
       ],
       "relations_documentaires": {
         "remplace": [],
@@ -11557,13 +10516,6 @@
           "definition": "Système de protection sociale complémentaire (décès, invalidité, incapacité) couvrant les risques non pris en charge par la Sécurité Sociale.",
           "contexte_utilisation": "Mentionné 1 fois dans le document"
         }
-      ],
-      "questions_typiques": [
-        "À quelle date cette circulaire entre-t-elle en vigueur ?",
-        "Quels offices sont concernés par ces instructions ?",
-        "Quels sont les montants de franchise ?",
-        "Quelles sont les nouvelles obligations introduites par cette circulaire ?",
-        "Quelles garanties sont couvertes ?"
       ],
       "relations_documentaires": {
         "remplace": [],
@@ -11656,15 +10608,6 @@
           "definition": "Lutte Contre le Blanchiment et le Financement du Terrorisme. Ensemble des obligations légales imposées aux notaires pour prévenir l'utilisation du système financier à des fins de blanchiment de capitaux.",
           "contexte_utilisation": "Mentionné 2 fois dans le document"
         }
-      ],
-      "questions_typiques": [
-        "Quelles sont les obligations de sécurité informatique ?",
-        "Quelles sont les tendances du marché immobilier ?",
-        "Comment se protéger contre les cyberattaques ?",
-        "Y a-t-il des alertes ou points de vigilance pour les notaires ?",
-        "Quelles sont les échéances mentionnées ?",
-        "Quelles formations sont concernées par ce document ?",
-        "Quelles sont les actualités juridiques importantes de ce numéro ?"
       ],
       "relations_documentaires": {
         "remplace": [],
@@ -11772,16 +10715,6 @@
           "contexte_utilisation": "Mentionné 1 fois dans le document"
         }
       ],
-      "questions_typiques": [
-        "À quelle date cette circulaire entre-t-elle en vigueur ?",
-        "Quelles sont les obligations de sécurité informatique ?",
-        "Quels offices sont concernés par ces instructions ?",
-        "Comment financer ces formations ?",
-        "Quels sont les montants mentionnés dans ce document ?",
-        "Comment se protéger contre les cyberattaques ?",
-        "Quelles formations sont concernées par ce document ?",
-        "Quelles sont les nouvelles obligations introduites par cette circulaire ?"
-      ],
       "relations_documentaires": {
         "remplace": [],
         "modifie": [],
@@ -11885,15 +10818,6 @@
           "contexte_utilisation": "Mentionné 1 fois dans le document"
         }
       ],
-      "questions_typiques": [
-        "Quelles sont les tendances du marché immobilier ?",
-        "Quels sont les montants de franchise ?",
-        "Y a-t-il des alertes ou points de vigilance pour les notaires ?",
-        "Quelles sont les échéances mentionnées ?",
-        "Quelles formations sont concernées par ce document ?",
-        "Quelles sont les actualités juridiques importantes de ce numéro ?",
-        "Comment analyser ces données pour mon secteur ?"
-      ],
       "relations_documentaires": {
         "remplace": [],
         "modifie": [],
@@ -11978,14 +10902,6 @@
           "definition": "Document émis par le CSN donnant des instructions ou recommandations aux notaires sur l'application de dispositions légales ou réglementaires.",
           "contexte_utilisation": "Mentionné 1 fois dans le document"
         }
-      ],
-      "questions_typiques": [
-        "Quelles sont les tendances du marché immobilier ?",
-        "Quels articles du code sont concernés ?",
-        "Quelle est la date d'entrée en vigueur ?",
-        "Quelles formations sont concernées par ce document ?",
-        "Quelles modifications réglementaires sont introduites ?",
-        "Comment analyser ces données pour mon secteur ?"
       ],
       "relations_documentaires": {
         "remplace": [],
@@ -12094,16 +11010,6 @@
           "contexte_utilisation": "Mentionné 1 fois dans le document"
         }
       ],
-      "questions_typiques": [
-        "Quel est l'impact sur la rémunération des salariés ?",
-        "À partir de quand cet avenant s'applique-t-il ?",
-        "Quels articles de la convention collective sont modifiés ?",
-        "Comment financer ces formations ?",
-        "Quelles sont les nouvelles grilles de salaires ?",
-        "Quel impact sur les conditions de travail des salariés ?",
-        "Quelles sont les modalités de prise de congés ?",
-        "Comment sont calculés les droits à congés ?"
-      ],
       "relations_documentaires": {
         "remplace": [],
         "modifie": [
@@ -12198,15 +11104,6 @@
           "contexte_utilisation": "Mentionné 1 fois dans le document"
         }
       ],
-      "questions_typiques": [
-        "Quelles sont les obligations de sécurité informatique ?",
-        "Quelles sont les tendances du marché immobilier ?",
-        "Comment se protéger contre les cyberattaques ?",
-        "Y a-t-il des alertes ou points de vigilance pour les notaires ?",
-        "Quelles sont les échéances mentionnées ?",
-        "Quelles formations sont concernées par ce document ?",
-        "Quelles sont les actualités juridiques importantes de ce numéro ?"
-      ],
       "relations_documentaires": {
         "remplace": [],
         "modifie": [],
@@ -12276,14 +11173,6 @@
           "definition": "Original d'un acte authentique conservé par le notaire. Document source qui ne peut quitter l'étude et dont seules des copies (expéditions) sont délivrées.",
           "contexte_utilisation": "Mentionné 2 fois dans le document"
         }
-      ],
-      "questions_typiques": [
-        "Quelles sont les obligations de sécurité informatique ?",
-        "Comment se protéger contre les cyberattaques ?",
-        "Y a-t-il des alertes ou points de vigilance pour les notaires ?",
-        "Quelles sont les échéances mentionnées ?",
-        "Quelles formations sont concernées par ce document ?",
-        "Quelles sont les actualités juridiques importantes de ce numéro ?"
       ],
       "relations_documentaires": {
         "remplace": [],
@@ -12359,12 +11248,6 @@
           "definition": "Conseil Supérieur du Notariat. Instance nationale représentant la profession auprès des pouvoirs publics et coordonnant les chambres départementales.",
           "contexte_utilisation": "Mentionné 2 fois dans le document"
         }
-      ],
-      "questions_typiques": [
-        "Y a-t-il des alertes ou points de vigilance pour les notaires ?",
-        "Quelles sont les échéances mentionnées ?",
-        "Quelles formations sont concernées par ce document ?",
-        "Quelles sont les actualités juridiques importantes de ce numéro ?"
       ],
       "relations_documentaires": {
         "remplace": [],
@@ -12461,14 +11344,6 @@
           "contexte_utilisation": "Mentionné 1 fois dans le document"
         }
       ],
-      "questions_typiques": [
-        "Quelles sont les obligations de sécurité informatique ?",
-        "Comment se protéger contre les cyberattaques ?",
-        "Y a-t-il des alertes ou points de vigilance pour les notaires ?",
-        "Quelles sont les échéances mentionnées ?",
-        "Quelles formations sont concernées par ce document ?",
-        "Quelles sont les actualités juridiques importantes de ce numéro ?"
-      ],
       "relations_documentaires": {
         "remplace": [],
         "modifie": [],
@@ -12538,14 +11413,6 @@
           "definition": "Barème réglementé fixant les émoluments des actes notariés. Défini par décret et applicable uniformément sur le territoire.",
           "contexte_utilisation": "Mentionné 1 fois dans le document"
         }
-      ],
-      "questions_typiques": [
-        "Quelles sont les tendances du marché immobilier ?",
-        "Y a-t-il des alertes ou points de vigilance pour les notaires ?",
-        "Quelles sont les échéances mentionnées ?",
-        "Quelles formations sont concernées par ce document ?",
-        "Quelles sont les actualités juridiques importantes de ce numéro ?",
-        "Comment analyser ces données pour mon secteur ?"
       ],
       "relations_documentaires": {
         "remplace": [],
@@ -12641,14 +11508,6 @@
           "definition": "Ensemble des contreparties financières du travail : salaire de base + primes + avantages. Minima fixés par la CCN selon classification.",
           "contexte_utilisation": "Mentionné 1 fois dans le document"
         }
-      ],
-      "questions_typiques": [
-        "Quelle est la procédure de licenciement applicable ?",
-        "Y a-t-il des alertes ou points de vigilance pour les notaires ?",
-        "Quelles sont les échéances mentionnées ?",
-        "Quels sont les délais à respecter ?",
-        "Quelles formations sont concernées par ce document ?",
-        "Quelles sont les actualités juridiques importantes de ce numéro ?"
       ],
       "relations_documentaires": {
         "remplace": [],
@@ -12771,16 +11630,6 @@
           "contexte_utilisation": "Mentionné 1 fois dans le document"
         }
       ],
-      "questions_typiques": [
-        "Quel est l'impact sur la rémunération des salariés ?",
-        "Comment financer ces formations ?",
-        "Quelles sont les nouvelles grilles de salaires ?",
-        "Quelles sont les modalités de prise de congés ?",
-        "Quelles sont les nouvelles dispositions négociées ?",
-        "Quelle est la durée de validité de cet accord ?",
-        "Comment sont calculés les droits à congés ?",
-        "Qui sont les parties signataires de cet accord ?"
-      ],
       "relations_documentaires": {
         "remplace": [],
         "modifie": [],
@@ -12867,15 +11716,6 @@
           "contexte_utilisation": "Mentionné 1 fois dans le document"
         }
       ],
-      "questions_typiques": [
-        "Quelles sont les recommandations principales de ce guide ?",
-        "Comment appliquer ces bonnes pratiques au quotidien ?",
-        "Comment financer ces formations ?",
-        "Quels sont les montants de franchise ?",
-        "Quels sont les points de vigilance à retenir ?",
-        "Quelles formations sont concernées par ce document ?",
-        "Quelles garanties sont couvertes ?"
-      ],
       "relations_documentaires": {
         "remplace": [],
         "modifie": [],
@@ -12944,12 +11784,6 @@
           "contexte_utilisation": "Mentionné 1 fois dans le document"
         }
       ],
-      "questions_typiques": [
-        "Y a-t-il des alertes ou points de vigilance pour les notaires ?",
-        "Quelles sont les échéances mentionnées ?",
-        "Quelles formations sont concernées par ce document ?",
-        "Quelles sont les actualités juridiques importantes de ce numéro ?"
-      ],
       "relations_documentaires": {
         "remplace": [],
         "modifie": [],
@@ -13016,14 +11850,6 @@
           "definition": "Conseil Supérieur du Notariat. Instance nationale représentant la profession auprès des pouvoirs publics et coordonnant les chambres départementales.",
           "contexte_utilisation": "Mentionné 6 fois dans le document"
         }
-      ],
-      "questions_typiques": [
-        "Quels sont les montants de franchise ?",
-        "Y a-t-il des alertes ou points de vigilance pour les notaires ?",
-        "Quelles sont les échéances mentionnées ?",
-        "Quelles formations sont concernées par ce document ?",
-        "Quelles sont les actualités juridiques importantes de ce numéro ?",
-        "Quelles garanties sont couvertes ?"
       ],
       "relations_documentaires": {
         "remplace": [],
@@ -13099,14 +11925,6 @@
           "definition": "Conseil Supérieur du Notariat. Instance nationale représentant la profession auprès des pouvoirs publics et coordonnant les chambres départementales.",
           "contexte_utilisation": "Mentionné 1 fois dans le document"
         }
-      ],
-      "questions_typiques": [
-        "Quelles sont les tendances du marché immobilier ?",
-        "Y a-t-il des alertes ou points de vigilance pour les notaires ?",
-        "Quelles sont les échéances mentionnées ?",
-        "Quelles formations sont concernées par ce document ?",
-        "Quelles sont les actualités juridiques importantes de ce numéro ?",
-        "Comment analyser ces données pour mon secteur ?"
       ],
       "relations_documentaires": {
         "remplace": [],
@@ -13185,14 +12003,6 @@
           "contexte_utilisation": "Mentionné 2 fois dans le document"
         }
       ],
-      "questions_typiques": [
-        "Quelles sont les tendances du marché immobilier ?",
-        "Y a-t-il des alertes ou points de vigilance pour les notaires ?",
-        "Quelles sont les échéances mentionnées ?",
-        "Quelles formations sont concernées par ce document ?",
-        "Quelles sont les actualités juridiques importantes de ce numéro ?",
-        "Comment analyser ces données pour mon secteur ?"
-      ],
       "relations_documentaires": {
         "remplace": [],
         "modifie": [],
@@ -13260,12 +12070,6 @@
           "definition": "Lutte Contre le Blanchiment et le Financement du Terrorisme. Ensemble des obligations légales imposées aux notaires pour prévenir l'utilisation du système financier à des fins de blanchiment de capitaux.",
           "contexte_utilisation": "Mentionné 4 fois dans le document"
         }
-      ],
-      "questions_typiques": [
-        "Y a-t-il des alertes ou points de vigilance pour les notaires ?",
-        "Quelles sont les échéances mentionnées ?",
-        "Quelles formations sont concernées par ce document ?",
-        "Quelles sont les actualités juridiques importantes de ce numéro ?"
       ],
       "relations_documentaires": {
         "remplace": [],
@@ -13352,12 +12156,6 @@
           "definition": "Obligation légale de formation continue pour les notaires (30h/2 ans) et leurs collaborateurs (développement des compétences).",
           "contexte_utilisation": "Mentionné 1 fois dans le document"
         }
-      ],
-      "questions_typiques": [
-        "Y a-t-il des alertes ou points de vigilance pour les notaires ?",
-        "Quelles sont les échéances mentionnées ?",
-        "Quelles formations sont concernées par ce document ?",
-        "Quelles sont les actualités juridiques importantes de ce numéro ?"
       ],
       "relations_documentaires": {
         "remplace": [],
@@ -13465,15 +12263,6 @@
           "contexte_utilisation": "Mentionné 1 fois dans le document"
         }
       ],
-      "questions_typiques": [
-        "Quelles sont les obligations de sécurité informatique ?",
-        "Quelles sont les tendances du marché immobilier ?",
-        "Comment se protéger contre les cyberattaques ?",
-        "Quels sont les montants de franchise ?",
-        "Y a-t-il des alertes ou points de vigilance pour les notaires ?",
-        "Quelles sont les échéances mentionnées ?",
-        "Quelles sont les actualités juridiques importantes de ce numéro ?"
-      ],
       "relations_documentaires": {
         "remplace": [],
         "modifie": [],
@@ -13579,15 +12368,6 @@
           "contexte_utilisation": "Mentionné 1 fois dans le document"
         }
       ],
-      "questions_typiques": [
-        "Quel est l'impact sur la rémunération des salariés ?",
-        "Quelles sont les tendances du marché immobilier ?",
-        "Quelle est la procédure de licenciement applicable ?",
-        "Quels sont les montants mentionnés dans ce document ?",
-        "Y a-t-il des alertes ou points de vigilance pour les notaires ?",
-        "Quelles sont les échéances mentionnées ?",
-        "Quelles sont les actualités juridiques importantes de ce numéro ?"
-      ],
       "relations_documentaires": {
         "remplace": [],
         "modifie": [],
@@ -13688,14 +12468,6 @@
           "definition": "Barème réglementé fixant les émoluments des actes notariés. Défini par décret et applicable uniformément sur le territoire.",
           "contexte_utilisation": "Mentionné 1 fois dans le document"
         }
-      ],
-      "questions_typiques": [
-        "Quels articles du code sont concernés ?",
-        "Quelle est la date d'entrée en vigueur ?",
-        "Quels sont les montants de franchise ?",
-        "Quelles formations sont concernées par ce document ?",
-        "Quelles modifications réglementaires sont introduites ?",
-        "Quelles garanties sont couvertes ?"
       ],
       "relations_documentaires": {
         "remplace": [],
@@ -13804,16 +12576,6 @@
           "contexte_utilisation": "Mentionné 1 fois dans le document"
         }
       ],
-      "questions_typiques": [
-        "Quel est l'impact sur la rémunération des salariés ?",
-        "À partir de quand cet avenant s'applique-t-il ?",
-        "Quels articles de la convention collective sont modifiés ?",
-        "Quelles sont les nouvelles grilles de salaires ?",
-        "Quel impact sur les conditions de travail des salariés ?",
-        "Quelles sont les modalités de prise de congés ?",
-        "Quels sont les montants de franchise ?",
-        "Comment sont calculés les droits à congés ?"
-      ],
       "relations_documentaires": {
         "remplace": [],
         "modifie": [
@@ -13916,15 +12678,6 @@
           "contexte_utilisation": "Mentionné 1 fois dans le document"
         }
       ],
-      "questions_typiques": [
-        "Quel est l'impact sur la rémunération des salariés ?",
-        "Quelles sont les tendances du marché immobilier ?",
-        "Quelles sont les nouvelles grilles de salaires ?",
-        "Y a-t-il des alertes ou points de vigilance pour les notaires ?",
-        "Quelles sont les échéances mentionnées ?",
-        "Quelles formations sont concernées par ce document ?",
-        "Quelles sont les actualités juridiques importantes de ce numéro ?"
-      ],
       "relations_documentaires": {
         "remplace": [],
         "modifie": [],
@@ -14008,15 +12761,6 @@
           "definition": "Système de protection sociale complémentaire (décès, invalidité, incapacité) couvrant les risques non pris en charge par la Sécurité Sociale.",
           "contexte_utilisation": "Mentionné 1 fois dans le document"
         }
-      ],
-      "questions_typiques": [
-        "Quelles sont les tendances du marché immobilier ?",
-        "Quelles sont les modalités de prise de congés ?",
-        "Y a-t-il des alertes ou points de vigilance pour les notaires ?",
-        "Quels sont les montants de franchise ?",
-        "Quelles sont les échéances mentionnées ?",
-        "Comment sont calculés les droits à congés ?",
-        "Quelles sont les actualités juridiques importantes de ce numéro ?"
       ],
       "relations_documentaires": {
         "remplace": [],
@@ -14118,13 +12862,6 @@
           "contexte_utilisation": "Mentionné 1 fois dans le document"
         }
       ],
-      "questions_typiques": [
-        "À partir de quand cet avenant s'applique-t-il ?",
-        "Quels articles de la convention collective sont modifiés ?",
-        "Comment financer ces formations ?",
-        "Quel impact sur les conditions de travail des salariés ?",
-        "Quelles formations sont concernées par ce document ?"
-      ],
       "relations_documentaires": {
         "remplace": [],
         "modifie": [],
@@ -14223,15 +12960,6 @@
           "contexte_utilisation": "Mentionné 1 fois dans le document"
         }
       ],
-      "questions_typiques": [
-        "Quelles sont les obligations de sécurité informatique ?",
-        "Comment se protéger contre les cyberattaques ?",
-        "Y a-t-il des alertes ou points de vigilance pour les notaires ?",
-        "Quelles sont les échéances mentionnées ?",
-        "Comment signaler un cas de harcèlement ?",
-        "Quelles formations sont concernées par ce document ?",
-        "Quelles sont les actualités juridiques importantes de ce numéro ?"
-      ],
       "relations_documentaires": {
         "remplace": [],
         "modifie": [],
@@ -14310,14 +13038,6 @@
           "definition": "Système de protection sociale complémentaire (décès, invalidité, incapacité) couvrant les risques non pris en charge par la Sécurité Sociale.",
           "contexte_utilisation": "Mentionné 1 fois dans le document"
         }
-      ],
-      "questions_typiques": [
-        "Quels sont les montants de franchise ?",
-        "Y a-t-il des alertes ou points de vigilance pour les notaires ?",
-        "Quelles sont les échéances mentionnées ?",
-        "Quelles formations sont concernées par ce document ?",
-        "Quelles sont les actualités juridiques importantes de ce numéro ?",
-        "Quelles garanties sont couvertes ?"
       ],
       "relations_documentaires": {
         "remplace": [],
@@ -14398,15 +13118,6 @@
           "contexte_utilisation": "Mentionné 1 fois dans le document"
         }
       ],
-      "questions_typiques": [
-        "Quelles sont les obligations de sécurité informatique ?",
-        "Comment se protéger contre les cyberattaques ?",
-        "Quels sont les montants de franchise ?",
-        "Y a-t-il des alertes ou points de vigilance pour les notaires ?",
-        "Quelles sont les échéances mentionnées ?",
-        "Quelles formations sont concernées par ce document ?",
-        "Quelles sont les actualités juridiques importantes de ce numéro ?"
-      ],
       "relations_documentaires": {
         "remplace": [],
         "modifie": [],
@@ -14475,14 +13186,6 @@
           "contexte_utilisation": "Mentionné 2 fois dans le document"
         }
       ],
-      "questions_typiques": [
-        "Quelles sont les obligations de sécurité informatique ?",
-        "Comment se protéger contre les cyberattaques ?",
-        "Y a-t-il des alertes ou points de vigilance pour les notaires ?",
-        "Quelles sont les échéances mentionnées ?",
-        "Quelles formations sont concernées par ce document ?",
-        "Quelles sont les actualités juridiques importantes de ce numéro ?"
-      ],
       "relations_documentaires": {
         "remplace": [],
         "modifie": [],
@@ -14550,14 +13253,6 @@
           "definition": "Conseil Supérieur du Notariat. Instance nationale représentant la profession auprès des pouvoirs publics et coordonnant les chambres départementales.",
           "contexte_utilisation": "Mentionné 4 fois dans le document"
         }
-      ],
-      "questions_typiques": [
-        "Quelles sont les tendances du marché immobilier ?",
-        "Y a-t-il des alertes ou points de vigilance pour les notaires ?",
-        "Quelles sont les échéances mentionnées ?",
-        "Quelles formations sont concernées par ce document ?",
-        "Quelles sont les actualités juridiques importantes de ce numéro ?",
-        "Comment analyser ces données pour mon secteur ?"
       ],
       "relations_documentaires": {
         "remplace": [],
@@ -14648,15 +13343,6 @@
           "contexte_utilisation": "Mentionné 2 fois dans le document"
         }
       ],
-      "questions_typiques": [
-        "Quelles sont les obligations de sécurité informatique ?",
-        "Quelles sont les tendances du marché immobilier ?",
-        "Comment se protéger contre les cyberattaques ?",
-        "Y a-t-il des alertes ou points de vigilance pour les notaires ?",
-        "Quelles sont les échéances mentionnées ?",
-        "Quelles formations sont concernées par ce document ?",
-        "Quelles sont les actualités juridiques importantes de ce numéro ?"
-      ],
       "relations_documentaires": {
         "remplace": [],
         "modifie": [],
@@ -14744,15 +13430,6 @@
           "definition": "Conseil Supérieur du Notariat. Instance nationale représentant la profession auprès des pouvoirs publics et coordonnant les chambres départementales.",
           "contexte_utilisation": "Mentionné 1 fois dans le document"
         }
-      ],
-      "questions_typiques": [
-        "Quelles sont les obligations de sécurité informatique ?",
-        "Quelles sont les tendances du marché immobilier ?",
-        "Comment se protéger contre les cyberattaques ?",
-        "Y a-t-il des alertes ou points de vigilance pour les notaires ?",
-        "Quelles sont les échéances mentionnées ?",
-        "Quelles formations sont concernées par ce document ?",
-        "Quelles sont les actualités juridiques importantes de ce numéro ?"
       ],
       "relations_documentaires": {
         "remplace": [],
@@ -14843,15 +13520,6 @@
           "contexte_utilisation": "Mentionné 1 fois dans le document"
         }
       ],
-      "questions_typiques": [
-        "Quelles sont les obligations de sécurité informatique ?",
-        "Comment se protéger contre les cyberattaques ?",
-        "Quels sont les montants de franchise ?",
-        "Y a-t-il des alertes ou points de vigilance pour les notaires ?",
-        "Quelles sont les échéances mentionnées ?",
-        "Quelles formations sont concernées par ce document ?",
-        "Quelles sont les actualités juridiques importantes de ce numéro ?"
-      ],
       "relations_documentaires": {
         "remplace": [],
         "modifie": [],
@@ -14921,15 +13589,6 @@
           "definition": "Conseil Supérieur du Notariat. Instance nationale représentant la profession auprès des pouvoirs publics et coordonnant les chambres départementales.",
           "contexte_utilisation": "Mentionné 1 fois dans le document"
         }
-      ],
-      "questions_typiques": [
-        "Quelles sont les tendances du marché immobilier ?",
-        "Quelle est la procédure de licenciement applicable ?",
-        "Y a-t-il des alertes ou points de vigilance pour les notaires ?",
-        "Quelles sont les échéances mentionnées ?",
-        "Quels sont les délais à respecter ?",
-        "Quelles formations sont concernées par ce document ?",
-        "Quelles sont les actualités juridiques importantes de ce numéro ?"
       ],
       "relations_documentaires": {
         "remplace": [],
@@ -15016,14 +13675,6 @@
           "definition": "Système de protection sociale complémentaire (décès, invalidité, incapacité) couvrant les risques non pris en charge par la Sécurité Sociale.",
           "contexte_utilisation": "Mentionné 1 fois dans le document"
         }
-      ],
-      "questions_typiques": [
-        "Quels sont les montants de franchise ?",
-        "Y a-t-il des alertes ou points de vigilance pour les notaires ?",
-        "Quelles sont les échéances mentionnées ?",
-        "Quelles formations sont concernées par ce document ?",
-        "Quelles sont les actualités juridiques importantes de ce numéro ?",
-        "Quelles garanties sont couvertes ?"
       ],
       "relations_documentaires": {
         "remplace": [],
@@ -15129,15 +13780,6 @@
           "definition": "Règlement Général sur la Protection des Données. Réglementation européenne encadrant le traitement des données personnelles.",
           "contexte_utilisation": "Mentionné 1 fois dans le document"
         }
-      ],
-      "questions_typiques": [
-        "À quelle date cette circulaire entre-t-elle en vigueur ?",
-        "Quel est l'impact sur la rémunération des salariés ?",
-        "Quels offices sont concernés par ces instructions ?",
-        "Comment financer ces formations ?",
-        "Quelles sont les nouvelles grilles de salaires ?",
-        "Quelles formations sont concernées par ce document ?",
-        "Quelles sont les nouvelles obligations introduites par cette circulaire ?"
       ],
       "relations_documentaires": {
         "remplace": [],
@@ -15252,16 +13894,6 @@
           "contexte_utilisation": "Mentionné 1 fois dans le document"
         }
       ],
-      "questions_typiques": [
-        "Quelles sont les recommandations principales de ce guide ?",
-        "Quel est l'impact sur la rémunération des salariés ?",
-        "Quelle est la procédure de licenciement applicable ?",
-        "Comment appliquer ces bonnes pratiques au quotidien ?",
-        "Quels sont les montants mentionnés dans ce document ?",
-        "Quelles sont les nouvelles grilles de salaires ?",
-        "Quelles sont les modalités de prise de congés ?",
-        "Quels sont les points de vigilance à retenir ?"
-      ],
       "relations_documentaires": {
         "remplace": [],
         "modifie": [],
@@ -15343,12 +13975,6 @@
           "contexte_utilisation": "Mentionné 1 fois dans le document"
         }
       ],
-      "questions_typiques": [
-        "Y a-t-il des alertes ou points de vigilance pour les notaires ?",
-        "Quelles sont les échéances mentionnées ?",
-        "Quelles formations sont concernées par ce document ?",
-        "Quelles sont les actualités juridiques importantes de ce numéro ?"
-      ],
       "relations_documentaires": {
         "remplace": [],
         "modifie": [],
@@ -15424,15 +14050,6 @@
           "definition": "Système de protection sociale complémentaire (décès, invalidité, incapacité) couvrant les risques non pris en charge par la Sécurité Sociale.",
           "contexte_utilisation": "Mentionné 2 fois dans le document"
         }
-      ],
-      "questions_typiques": [
-        "Quelles sont les obligations de sécurité informatique ?",
-        "Comment se protéger contre les cyberattaques ?",
-        "Quels sont les montants de franchise ?",
-        "Y a-t-il des alertes ou points de vigilance pour les notaires ?",
-        "Quelles sont les échéances mentionnées ?",
-        "Quelles formations sont concernées par ce document ?",
-        "Quelles sont les actualités juridiques importantes de ce numéro ?"
       ],
       "relations_documentaires": {
         "remplace": [],
@@ -15521,15 +14138,6 @@
           "contexte_utilisation": "Mentionné 1 fois dans le document"
         }
       ],
-      "questions_typiques": [
-        "Quelles sont les obligations de sécurité informatique ?",
-        "Quelles sont les tendances du marché immobilier ?",
-        "Quelle est la procédure de licenciement applicable ?",
-        "Comment se protéger contre les cyberattaques ?",
-        "Y a-t-il des alertes ou points de vigilance pour les notaires ?",
-        "Quelles sont les échéances mentionnées ?",
-        "Quelles sont les actualités juridiques importantes de ce numéro ?"
-      ],
       "relations_documentaires": {
         "remplace": [],
         "modifie": [],
@@ -15610,15 +14218,6 @@
           "definition": "Système de protection sociale complémentaire (décès, invalidité, incapacité) couvrant les risques non pris en charge par la Sécurité Sociale.",
           "contexte_utilisation": "Mentionné 1 fois dans le document"
         }
-      ],
-      "questions_typiques": [
-        "Quelles sont les obligations de sécurité informatique ?",
-        "Quelles sont les tendances du marché immobilier ?",
-        "Comment se protéger contre les cyberattaques ?",
-        "Quels sont les montants de franchise ?",
-        "Y a-t-il des alertes ou points de vigilance pour les notaires ?",
-        "Quelles sont les échéances mentionnées ?",
-        "Quelles sont les actualités juridiques importantes de ce numéro ?"
       ],
       "relations_documentaires": {
         "remplace": [],
@@ -15720,14 +14319,6 @@
           "contexte_utilisation": "Mentionné 1 fois dans le document"
         }
       ],
-      "questions_typiques": [
-        "Quels sont les montants de franchise ?",
-        "Y a-t-il des alertes ou points de vigilance pour les notaires ?",
-        "Quelles sont les échéances mentionnées ?",
-        "Quelles formations sont concernées par ce document ?",
-        "Quelles sont les actualités juridiques importantes de ce numéro ?",
-        "Quelles garanties sont couvertes ?"
-      ],
       "relations_documentaires": {
         "remplace": [],
         "modifie": [],
@@ -15805,14 +14396,6 @@
           "definition": "Lutte Contre le Blanchiment et le Financement du Terrorisme. Ensemble des obligations légales imposées aux notaires pour prévenir l'utilisation du système financier à des fins de blanchiment de capitaux.",
           "contexte_utilisation": "Mentionné 1 fois dans le document"
         }
-      ],
-      "questions_typiques": [
-        "Quels sont les montants de franchise ?",
-        "Y a-t-il des alertes ou points de vigilance pour les notaires ?",
-        "Quelles sont les échéances mentionnées ?",
-        "Quelles formations sont concernées par ce document ?",
-        "Quelles sont les actualités juridiques importantes de ce numéro ?",
-        "Quelles garanties sont couvertes ?"
       ],
       "relations_documentaires": {
         "remplace": [],
@@ -15900,15 +14483,6 @@
           "contexte_utilisation": "Mentionné 1 fois dans le document"
         }
       ],
-      "questions_typiques": [
-        "Quelles sont les obligations de sécurité informatique ?",
-        "Comment se protéger contre les cyberattaques ?",
-        "Quels sont les montants de franchise ?",
-        "Y a-t-il des alertes ou points de vigilance pour les notaires ?",
-        "Quelles sont les échéances mentionnées ?",
-        "Quelles formations sont concernées par ce document ?",
-        "Quelles sont les actualités juridiques importantes de ce numéro ?"
-      ],
       "relations_documentaires": {
         "remplace": [],
         "modifie": [],
@@ -15966,13 +14540,6 @@
       },
       "reference": null,
       "vocabulaire_specifique": [],
-      "questions_typiques": [
-        "Comment soumettre une question au CRIDON ?",
-        "Quels types de questions le CRIDON peut-il traiter ?",
-        "Quel est le délai de réponse du CRIDON ?",
-        "Les avis du CRIDON ont-ils valeur contraignante ?",
-        "Comment utiliser les consultations CRIDON dans ma pratique ?"
-      ],
       "relations_documentaires": {
         "remplace": [],
         "modifie": [],
@@ -16054,14 +14621,6 @@
           "contexte_utilisation": "Mentionné 1 fois dans le document"
         }
       ],
-      "questions_typiques": [
-        "Quel est l'impact sur la rémunération des salariés ?",
-        "Quelles sont les nouvelles grilles de salaires ?",
-        "Y a-t-il des alertes ou points de vigilance pour les notaires ?",
-        "Quelles sont les échéances mentionnées ?",
-        "Quelles formations sont concernées par ce document ?",
-        "Quelles sont les actualités juridiques importantes de ce numéro ?"
-      ],
       "relations_documentaires": {
         "remplace": [],
         "modifie": [],
@@ -16124,12 +14683,6 @@
         "numero": "228"
       },
       "vocabulaire_specifique": [],
-      "questions_typiques": [
-        "Y a-t-il des alertes ou points de vigilance pour les notaires ?",
-        "Quelles sont les échéances mentionnées ?",
-        "Quelles formations sont concernées par ce document ?",
-        "Quelles sont les actualités juridiques importantes de ce numéro ?"
-      ],
       "relations_documentaires": {
         "remplace": [],
         "modifie": [],
@@ -16241,16 +14794,6 @@
           "contexte_utilisation": "Mentionné 1 fois dans le document"
         }
       ],
-      "questions_typiques": [
-        "Quel est l'impact sur la rémunération des salariés ?",
-        "Quelle est la procédure de licenciement applicable ?",
-        "Quels articles du code sont concernés ?",
-        "Quels sont les montants mentionnés dans ce document ?",
-        "Quelles sont les nouvelles grilles de salaires ?",
-        "Quelle est la date d'entrée en vigueur ?",
-        "Quelles sont les modalités de prise de congés ?",
-        "Quelles modifications réglementaires sont introduites ?"
-      ],
       "relations_documentaires": {
         "remplace": [],
         "modifie": [],
@@ -16340,15 +14883,6 @@
           "definition": "Système de protection sociale complémentaire (décès, invalidité, incapacité) couvrant les risques non pris en charge par la Sécurité Sociale.",
           "contexte_utilisation": "Mentionné 2 fois dans le document"
         }
-      ],
-      "questions_typiques": [
-        "Quelles sont les obligations de sécurité informatique ?",
-        "Comment se protéger contre les cyberattaques ?",
-        "Quels sont les montants de franchise ?",
-        "Y a-t-il des alertes ou points de vigilance pour les notaires ?",
-        "Quelles sont les échéances mentionnées ?",
-        "Quelles formations sont concernées par ce document ?",
-        "Quelles sont les actualités juridiques importantes de ce numéro ?"
       ],
       "relations_documentaires": {
         "remplace": [],
@@ -16460,16 +14994,6 @@
           "definition": "Opérateur de Compétences. Organisme agréé pour financer l'apprentissage et la formation professionnelle. Pour le notariat : OPCO EP (Entreprises de Proximité).",
           "contexte_utilisation": "Mentionné 1 fois dans le document"
         }
-      ],
-      "questions_typiques": [
-        "Quel est l'impact sur la rémunération des salariés ?",
-        "À partir de quand cet avenant s'applique-t-il ?",
-        "Quels articles de la convention collective sont modifiés ?",
-        "Comment financer ces formations ?",
-        "Quelles sont les nouvelles grilles de salaires ?",
-        "Quel impact sur les conditions de travail des salariés ?",
-        "Quelles sont les modalités de prise de congés ?",
-        "Comment sont calculés les droits à congés ?"
       ],
       "relations_documentaires": {
         "remplace": [],
@@ -16583,15 +15107,6 @@
           "contexte_utilisation": "Mentionné 1 fois dans le document"
         }
       ],
-      "questions_typiques": [
-        "Quelles sont les obligations de sécurité informatique ?",
-        "Quelles sont les tendances du marché immobilier ?",
-        "Comment se protéger contre les cyberattaques ?",
-        "Y a-t-il des alertes ou points de vigilance pour les notaires ?",
-        "Quelles sont les échéances mentionnées ?",
-        "Quelles formations sont concernées par ce document ?",
-        "Quelles sont les actualités juridiques importantes de ce numéro ?"
-      ],
       "relations_documentaires": {
         "remplace": [],
         "modifie": [],
@@ -16683,14 +15198,6 @@
           "definition": "Ensemble des contreparties financières du travail : salaire de base + primes + avantages. Minima fixés par la CCN selon classification.",
           "contexte_utilisation": "Mentionné 1 fois dans le document"
         }
-      ],
-      "questions_typiques": [
-        "Quelles sont les tendances du marché immobilier ?",
-        "Y a-t-il des alertes ou points de vigilance pour les notaires ?",
-        "Quelles sont les échéances mentionnées ?",
-        "Quelles formations sont concernées par ce document ?",
-        "Quelles sont les actualités juridiques importantes de ce numéro ?",
-        "Comment analyser ces données pour mon secteur ?"
       ],
       "relations_documentaires": {
         "remplace": [],
@@ -16794,15 +15301,6 @@
           "contexte_utilisation": "Mentionné 1 fois dans le document"
         }
       ],
-      "questions_typiques": [
-        "Quelles sont les obligations de sécurité informatique ?",
-        "Quelles sont les tendances du marché immobilier ?",
-        "Quelle est la procédure de licenciement applicable ?",
-        "Comment se protéger contre les cyberattaques ?",
-        "Y a-t-il des alertes ou points de vigilance pour les notaires ?",
-        "Quelles sont les échéances mentionnées ?",
-        "Quelles sont les actualités juridiques importantes de ce numéro ?"
-      ],
       "relations_documentaires": {
         "remplace": [],
         "modifie": [],
@@ -16892,15 +15390,6 @@
           "definition": "Système de protection sociale complémentaire (décès, invalidité, incapacité) couvrant les risques non pris en charge par la Sécurité Sociale.",
           "contexte_utilisation": "Mentionné 1 fois dans le document"
         }
-      ],
-      "questions_typiques": [
-        "Quelles sont les obligations de sécurité informatique ?",
-        "Comment se protéger contre les cyberattaques ?",
-        "Quels sont les montants de franchise ?",
-        "Y a-t-il des alertes ou points de vigilance pour les notaires ?",
-        "Quelles sont les échéances mentionnées ?",
-        "Quelles formations sont concernées par ce document ?",
-        "Quelles sont les actualités juridiques importantes de ce numéro ?"
       ],
       "relations_documentaires": {
         "remplace": [],
@@ -16996,11 +15485,6 @@
           "contexte_utilisation": "Mentionné 2 fois dans le document"
         }
       ],
-      "questions_typiques": [
-        "Quelles sont les recommandations principales de ce guide ?",
-        "Comment appliquer ces bonnes pratiques au quotidien ?",
-        "Quels sont les points de vigilance à retenir ?"
-      ],
       "relations_documentaires": {
         "remplace": [],
         "modifie": [],
@@ -17082,15 +15566,6 @@
           "definition": "Ensemble des contreparties financières du travail : salaire de base + primes + avantages. Minima fixés par la CCN selon classification.",
           "contexte_utilisation": "Mentionné 2 fois dans le document"
         }
-      ],
-      "questions_typiques": [
-        "Quel est l'impact sur la rémunération des salariés ?",
-        "Quelles sont les tendances du marché immobilier ?",
-        "Quelles sont les nouvelles grilles de salaires ?",
-        "Y a-t-il des alertes ou points de vigilance pour les notaires ?",
-        "Quelles sont les échéances mentionnées ?",
-        "Quelles formations sont concernées par ce document ?",
-        "Quelles sont les actualités juridiques importantes de ce numéro ?"
       ],
       "relations_documentaires": {
         "remplace": [],
@@ -17177,16 +15652,6 @@
           "contexte_utilisation": "Mentionné 1 fois dans le document"
         }
       ],
-      "questions_typiques": [
-        "Quelles sont les recommandations principales de ce guide ?",
-        "Quel est l'impact sur la rémunération des salariés ?",
-        "Comment appliquer ces bonnes pratiques au quotidien ?",
-        "Quelles sont les tendances du marché immobilier ?",
-        "Quelles sont les nouvelles grilles de salaires ?",
-        "Quels sont les montants de franchise ?",
-        "Quels sont les points de vigilance à retenir ?",
-        "Comment analyser ces données pour mon secteur ?"
-      ],
       "relations_documentaires": {
         "remplace": [],
         "modifie": [],
@@ -17267,15 +15732,6 @@
           "contexte_utilisation": "Mentionné 1 fois dans le document"
         }
       ],
-      "questions_typiques": [
-        "Quelles sont les obligations de sécurité informatique ?",
-        "Comment se protéger contre les cyberattaques ?",
-        "Quels sont les montants de franchise ?",
-        "Y a-t-il des alertes ou points de vigilance pour les notaires ?",
-        "Quelles sont les échéances mentionnées ?",
-        "Quelles formations sont concernées par ce document ?",
-        "Quelles sont les actualités juridiques importantes de ce numéro ?"
-      ],
       "relations_documentaires": {
         "remplace": [],
         "modifie": [],
@@ -17354,15 +15810,6 @@
           "definition": "Ensemble des contreparties financières du travail : salaire de base + primes + avantages. Minima fixés par la CCN selon classification.",
           "contexte_utilisation": "Mentionné 1 fois dans le document"
         }
-      ],
-      "questions_typiques": [
-        "Quel est l'impact sur la rémunération des salariés ?",
-        "Quelles sont les tendances du marché immobilier ?",
-        "Quelles sont les nouvelles grilles de salaires ?",
-        "Quels sont les montants de franchise ?",
-        "Y a-t-il des alertes ou points de vigilance pour les notaires ?",
-        "Quelles sont les échéances mentionnées ?",
-        "Quelles sont les actualités juridiques importantes de ce numéro ?"
       ],
       "relations_documentaires": {
         "remplace": [],
@@ -17478,15 +15925,6 @@
           "contexte_utilisation": "Mentionné 1 fois dans le document"
         }
       ],
-      "questions_typiques": [
-        "Quel est l'impact sur la rémunération des salariés ?",
-        "Quelles sont les tendances du marché immobilier ?",
-        "Quelles sont les nouvelles grilles de salaires ?",
-        "Y a-t-il des alertes ou points de vigilance pour les notaires ?",
-        "Quelles sont les échéances mentionnées ?",
-        "Quelles formations sont concernées par ce document ?",
-        "Quelles sont les actualités juridiques importantes de ce numéro ?"
-      ],
       "relations_documentaires": {
         "remplace": [],
         "modifie": [],
@@ -17543,13 +15981,6 @@
       },
       "reference": null,
       "vocabulaire_specifique": [],
-      "questions_typiques": [
-        "Quelles sont les étapes de la carrière d'un notaire ?",
-        "Quelles déclarations fiscales un notaire doit-il effectuer ?",
-        "Comment évoluer dans sa carrière de notaire ?",
-        "Quelles sont les obligations déclaratives annuelles ?",
-        "Quels formulaires utiliser pour les déclarations ?"
-      ],
       "relations_documentaires": {
         "remplace": [],
         "modifie": [],
@@ -17604,11 +16035,6 @@
         "numero": "2020-3"
       },
       "vocabulaire_specifique": [],
-      "questions_typiques": [
-        "Quelles sont les nouvelles obligations introduites par cette circulaire ?",
-        "À quelle date cette circulaire entre-t-elle en vigueur ?",
-        "Quels offices sont concernés par ces instructions ?"
-      ],
       "relations_documentaires": {
         "remplace": [],
         "modifie": [],
@@ -17716,15 +16142,6 @@
           "contexte_utilisation": "Mentionné 1 fois dans le document"
         }
       ],
-      "questions_typiques": [
-        "Quelles sont les obligations de sécurité informatique ?",
-        "Quel est l'impact sur la rémunération des salariés ?",
-        "Quelles sont les nouvelles grilles de salaires ?",
-        "Comment se protéger contre les cyberattaques ?",
-        "Y a-t-il des alertes ou points de vigilance pour les notaires ?",
-        "Quelles sont les échéances mentionnées ?",
-        "Quelles sont les actualités juridiques importantes de ce numéro ?"
-      ],
       "relations_documentaires": {
         "remplace": [],
         "modifie": [],
@@ -17786,15 +16203,6 @@
         "numero": "245"
       },
       "vocabulaire_specifique": [],
-      "questions_typiques": [
-        "Quelles sont les tendances du marché immobilier ?",
-        "Quels sont les montants de franchise ?",
-        "Y a-t-il des alertes ou points de vigilance pour les notaires ?",
-        "Quelles sont les échéances mentionnées ?",
-        "Quelles formations sont concernées par ce document ?",
-        "Quelles sont les actualités juridiques importantes de ce numéro ?",
-        "Comment analyser ces données pour mon secteur ?"
-      ],
       "relations_documentaires": {
         "remplace": [],
         "modifie": [],
@@ -17877,13 +16285,6 @@
           "definition": "Conseil Supérieur du Notariat. Instance nationale représentant la profession auprès des pouvoirs publics et coordonnant les chambres départementales.",
           "contexte_utilisation": "Mentionné 1 fois dans le document"
         }
-      ],
-      "questions_typiques": [
-        "À partir de quand cet avenant s'applique-t-il ?",
-        "Quels articles de la convention collective sont modifiés ?",
-        "Quelle est la procédure de licenciement applicable ?",
-        "Quel impact sur les conditions de travail des salariés ?",
-        "Quels sont les délais à respecter ?"
       ],
       "relations_documentaires": {
         "remplace": [],
@@ -17981,15 +16382,6 @@
           "definition": "Obligation légale de formation continue pour les notaires (30h/2 ans) et leurs collaborateurs (développement des compétences).",
           "contexte_utilisation": "Mentionné 1 fois dans le document"
         }
-      ],
-      "questions_typiques": [
-        "Quelles sont les obligations de sécurité informatique ?",
-        "Quelles sont les tendances du marché immobilier ?",
-        "Quelle est la procédure de licenciement applicable ?",
-        "Comment se protéger contre les cyberattaques ?",
-        "Y a-t-il des alertes ou points de vigilance pour les notaires ?",
-        "Quelles sont les échéances mentionnées ?",
-        "Quelles sont les actualités juridiques importantes de ce numéro ?"
       ],
       "relations_documentaires": {
         "remplace": [],
@@ -18090,15 +16482,6 @@
           "contexte_utilisation": "Mentionné 1 fois dans le document"
         }
       ],
-      "questions_typiques": [
-        "Quelles sont les obligations de sécurité informatique ?",
-        "Quel est l'impact sur la rémunération des salariés ?",
-        "Quelles sont les tendances du marché immobilier ?",
-        "Quelles sont les nouvelles grilles de salaires ?",
-        "Y a-t-il des alertes ou points de vigilance pour les notaires ?",
-        "Quelles sont les échéances mentionnées ?",
-        "Quelles sont les actualités juridiques importantes de ce numéro ?"
-      ],
       "relations_documentaires": {
         "remplace": [],
         "modifie": [],
@@ -18164,14 +16547,6 @@
         "numero": "2899"
       },
       "vocabulaire_specifique": [],
-      "questions_typiques": [
-        "Quelles sont les tendances du marché immobilier ?",
-        "Y a-t-il des alertes ou points de vigilance pour les notaires ?",
-        "Quelles sont les échéances mentionnées ?",
-        "Quelles formations sont concernées par ce document ?",
-        "Quelles sont les actualités juridiques importantes de ce numéro ?",
-        "Comment analyser ces données pour mon secteur ?"
-      ],
       "relations_documentaires": {
         "remplace": [],
         "modifie": [],
@@ -18237,13 +16612,6 @@
           "definition": "Original d'un acte authentique conservé par le notaire. Document source qui ne peut quitter l'étude et dont seules des copies (expéditions) sont délivrées.",
           "contexte_utilisation": "Mentionné 17 fois dans le document"
         }
-      ],
-      "questions_typiques": [
-        "Quelles sont les recommandations principales de ce guide ?",
-        "Quelles sont les tendances du marché immobilier ?",
-        "Comment appliquer ces bonnes pratiques au quotidien ?",
-        "Quels sont les points de vigilance à retenir ?",
-        "Comment analyser ces données pour mon secteur ?"
       ],
       "relations_documentaires": {
         "remplace": [],
@@ -18340,13 +16708,6 @@
           "contexte_utilisation": "Mentionné 1 fois dans le document"
         }
       ],
-      "questions_typiques": [
-        "À partir de quand cet avenant s'applique-t-il ?",
-        "Quels articles de la convention collective sont modifiés ?",
-        "Comment financer ces formations ?",
-        "Quel impact sur les conditions de travail des salariés ?",
-        "Quelles formations sont concernées par ce document ?"
-      ],
       "relations_documentaires": {
         "remplace": [],
         "modifie": [
@@ -18420,15 +16781,6 @@
           "definition": "Barème réglementé fixant les émoluments des actes notariés. Défini par décret et applicable uniformément sur le territoire.",
           "contexte_utilisation": "Mentionné 6 fois dans le document"
         }
-      ],
-      "questions_typiques": [
-        "Quelles sont les recommandations principales de ce guide ?",
-        "Quelles sont les tendances du marché immobilier ?",
-        "Comment appliquer ces bonnes pratiques au quotidien ?",
-        "Comment financer ces formations ?",
-        "Quels sont les points de vigilance à retenir ?",
-        "Quelles formations sont concernées par ce document ?",
-        "Comment analyser ces données pour mon secteur ?"
       ],
       "relations_documentaires": {
         "remplace": [],
@@ -18507,14 +16859,6 @@
           "contexte_utilisation": "Mentionné 1 fois dans le document"
         }
       ],
-      "questions_typiques": [
-        "Quelle est la procédure de licenciement applicable ?",
-        "Y a-t-il des alertes ou points de vigilance pour les notaires ?",
-        "Quelles sont les échéances mentionnées ?",
-        "Quels sont les délais à respecter ?",
-        "Quelles formations sont concernées par ce document ?",
-        "Quelles sont les actualités juridiques importantes de ce numéro ?"
-      ],
       "relations_documentaires": {
         "remplace": [],
         "modifie": [],
@@ -18574,12 +16918,6 @@
         "numero": "2858"
       },
       "vocabulaire_specifique": [],
-      "questions_typiques": [
-        "Y a-t-il des alertes ou points de vigilance pour les notaires ?",
-        "Quelles sont les échéances mentionnées ?",
-        "Quelles formations sont concernées par ce document ?",
-        "Quelles sont les actualités juridiques importantes de ce numéro ?"
-      ],
       "relations_documentaires": {
         "remplace": [],
         "modifie": [],
@@ -18647,12 +16985,6 @@
           "definition": "Lutte Contre le Blanchiment et le Financement du Terrorisme. Ensemble des obligations légales imposées aux notaires pour prévenir l'utilisation du système financier à des fins de blanchiment de capitaux.",
           "contexte_utilisation": "Mentionné 1 fois dans le document"
         }
-      ],
-      "questions_typiques": [
-        "Y a-t-il des alertes ou points de vigilance pour les notaires ?",
-        "Quelles sont les échéances mentionnées ?",
-        "Quelles formations sont concernées par ce document ?",
-        "Quelles sont les actualités juridiques importantes de ce numéro ?"
       ],
       "relations_documentaires": {
         "remplace": [],
@@ -18737,13 +17069,6 @@
           "contexte_utilisation": "Mentionné 1 fois dans le document"
         }
       ],
-      "questions_typiques": [
-        "À quelle date cette circulaire entre-t-elle en vigueur ?",
-        "Quels offices sont concernés par ces instructions ?",
-        "Quels sont les montants de franchise ?",
-        "Quelles sont les nouvelles obligations introduites par cette circulaire ?",
-        "Quelles garanties sont couvertes ?"
-      ],
       "relations_documentaires": {
         "remplace": [],
         "modifie": [],
@@ -18817,12 +17142,6 @@
           "contexte_utilisation": "Mentionné 1 fois dans le document"
         }
       ],
-      "questions_typiques": [
-        "Y a-t-il des alertes ou points de vigilance pour les notaires ?",
-        "Quelles sont les échéances mentionnées ?",
-        "Quelles formations sont concernées par ce document ?",
-        "Quelles sont les actualités juridiques importantes de ce numéro ?"
-      ],
       "relations_documentaires": {
         "remplace": [],
         "modifie": [],
@@ -18887,14 +17206,6 @@
           "definition": "Opérateur de Compétences. Organisme agréé pour financer l'apprentissage et la formation professionnelle. Pour le notariat : OPCO EP (Entreprises de Proximité).",
           "contexte_utilisation": "Mentionné 1 fois dans le document"
         }
-      ],
-      "questions_typiques": [
-        "Quelles sont les obligations de sécurité informatique ?",
-        "Comment se protéger contre les cyberattaques ?",
-        "Y a-t-il des alertes ou points de vigilance pour les notaires ?",
-        "Quelles sont les échéances mentionnées ?",
-        "Quelles formations sont concernées par ce document ?",
-        "Quelles sont les actualités juridiques importantes de ce numéro ?"
       ],
       "relations_documentaires": {
         "remplace": [],
@@ -18964,14 +17275,6 @@
           "definition": "Ensemble des mesures techniques et organisationnelles visant à protéger les systèmes informatiques de l'office contre les menaces numériques.",
           "contexte_utilisation": "Mentionné 3 fois dans le document"
         }
-      ],
-      "questions_typiques": [
-        "Quelles sont les obligations de sécurité informatique ?",
-        "Comment se protéger contre les cyberattaques ?",
-        "Y a-t-il des alertes ou points de vigilance pour les notaires ?",
-        "Quelles sont les échéances mentionnées ?",
-        "Quelles formations sont concernées par ce document ?",
-        "Quelles sont les actualités juridiques importantes de ce numéro ?"
       ],
       "relations_documentaires": {
         "remplace": [],
@@ -19067,13 +17370,6 @@
           "contexte_utilisation": "Mentionné 1 fois dans le document"
         }
       ],
-      "questions_typiques": [
-        "À quelle date cette circulaire entre-t-elle en vigueur ?",
-        "Quels offices sont concernés par ces instructions ?",
-        "Comment financer ces formations ?",
-        "Quelles formations sont concernées par ce document ?",
-        "Quelles sont les nouvelles obligations introduites par cette circulaire ?"
-      ],
       "relations_documentaires": {
         "remplace": [],
         "modifie": [],
@@ -19154,15 +17450,6 @@
           "contexte_utilisation": "Mentionné 1 fois dans le document"
         }
       ],
-      "questions_typiques": [
-        "À quelle date cette circulaire entre-t-elle en vigueur ?",
-        "Quelle est la procédure de licenciement applicable ?",
-        "Quels offices sont concernés par ces instructions ?",
-        "Comment financer ces formations ?",
-        "Quels sont les délais à respecter ?",
-        "Quelles formations sont concernées par ce document ?",
-        "Quelles sont les nouvelles obligations introduites par cette circulaire ?"
-      ],
       "relations_documentaires": {
         "remplace": [],
         "modifie": [],
@@ -19239,12 +17526,6 @@
           "definition": "Lutte Contre le Blanchiment et le Financement du Terrorisme. Ensemble des obligations légales imposées aux notaires pour prévenir l'utilisation du système financier à des fins de blanchiment de capitaux.",
           "contexte_utilisation": "Mentionné 2 fois dans le document"
         }
-      ],
-      "questions_typiques": [
-        "Y a-t-il des alertes ou points de vigilance pour les notaires ?",
-        "Quelles sont les échéances mentionnées ?",
-        "Quelles formations sont concernées par ce document ?",
-        "Quelles sont les actualités juridiques importantes de ce numéro ?"
       ],
       "relations_documentaires": {
         "remplace": [],
@@ -19325,15 +17606,6 @@
           "contexte_utilisation": "Mentionné 1 fois dans le document"
         }
       ],
-      "questions_typiques": [
-        "Quelles sont les obligations de sécurité informatique ?",
-        "Quelles sont les recommandations principales de ce guide ?",
-        "Comment appliquer ces bonnes pratiques au quotidien ?",
-        "Comment financer ces formations ?",
-        "Comment se protéger contre les cyberattaques ?",
-        "Quels sont les points de vigilance à retenir ?",
-        "Quelles formations sont concernées par ce document ?"
-      ],
       "relations_documentaires": {
         "remplace": [],
         "modifie": [],
@@ -19396,15 +17668,6 @@
           "definition": "Système de protection sociale complémentaire (décès, invalidité, incapacité) couvrant les risques non pris en charge par la Sécurité Sociale.",
           "contexte_utilisation": "Mentionné 1 fois dans le document"
         }
-      ],
-      "questions_typiques": [
-        "Quelles sont les tendances du marché immobilier ?",
-        "Quels sont les montants de franchise ?",
-        "Y a-t-il des alertes ou points de vigilance pour les notaires ?",
-        "Quelles sont les échéances mentionnées ?",
-        "Quelles formations sont concernées par ce document ?",
-        "Quelles sont les actualités juridiques importantes de ce numéro ?",
-        "Comment analyser ces données pour mon secteur ?"
       ],
       "relations_documentaires": {
         "remplace": [],
@@ -19503,15 +17766,6 @@
           "contexte_utilisation": "Mentionné 1 fois dans le document"
         }
       ],
-      "questions_typiques": [
-        "Quelles sont les tendances du marché immobilier ?",
-        "Quels sont les montants de franchise ?",
-        "Y a-t-il des alertes ou points de vigilance pour les notaires ?",
-        "Quelles sont les échéances mentionnées ?",
-        "Quelles formations sont concernées par ce document ?",
-        "Quelles sont les actualités juridiques importantes de ce numéro ?",
-        "Comment analyser ces données pour mon secteur ?"
-      ],
       "relations_documentaires": {
         "remplace": [],
         "modifie": [],
@@ -19603,15 +17857,6 @@
           "contexte_utilisation": "Mentionné 1 fois dans le document"
         }
       ],
-      "questions_typiques": [
-        "Quelles sont les obligations de sécurité informatique ?",
-        "Quelles sont les tendances du marché immobilier ?",
-        "Quelle est la procédure de licenciement applicable ?",
-        "Comment se protéger contre les cyberattaques ?",
-        "Y a-t-il des alertes ou points de vigilance pour les notaires ?",
-        "Quelles sont les échéances mentionnées ?",
-        "Quelles sont les actualités juridiques importantes de ce numéro ?"
-      ],
       "relations_documentaires": {
         "remplace": [],
         "modifie": [],
@@ -19691,14 +17936,6 @@
           "definition": "Conseil Supérieur du Notariat. Instance nationale représentant la profession auprès des pouvoirs publics et coordonnant les chambres départementales.",
           "contexte_utilisation": "Mentionné 1 fois dans le document"
         }
-      ],
-      "questions_typiques": [
-        "Quelles sont les tendances du marché immobilier ?",
-        "Y a-t-il des alertes ou points de vigilance pour les notaires ?",
-        "Quelles sont les échéances mentionnées ?",
-        "Quelles formations sont concernées par ce document ?",
-        "Quelles sont les actualités juridiques importantes de ce numéro ?",
-        "Comment analyser ces données pour mon secteur ?"
       ],
       "relations_documentaires": {
         "remplace": [],
@@ -19802,16 +18039,6 @@
           "contexte_utilisation": "Mentionné 1 fois dans le document"
         }
       ],
-      "questions_typiques": [
-        "À quelle date cette circulaire entre-t-elle en vigueur ?",
-        "Quel est l'impact sur la rémunération des salariés ?",
-        "Quels offices sont concernés par ces instructions ?",
-        "Comment financer ces formations ?",
-        "Quels sont les montants mentionnés dans ce document ?",
-        "Quelles sont les nouvelles grilles de salaires ?",
-        "Quelles formations sont concernées par ce document ?",
-        "Quelles sont les nouvelles obligations introduites par cette circulaire ?"
-      ],
       "relations_documentaires": {
         "remplace": [],
         "modifie": [],
@@ -19886,14 +18113,6 @@
           "definition": "Barème réglementé fixant les émoluments des actes notariés. Défini par décret et applicable uniformément sur le territoire.",
           "contexte_utilisation": "Mentionné 1 fois dans le document"
         }
-      ],
-      "questions_typiques": [
-        "Quelles sont les tendances du marché immobilier ?",
-        "Y a-t-il des alertes ou points de vigilance pour les notaires ?",
-        "Quelles sont les échéances mentionnées ?",
-        "Quelles formations sont concernées par ce document ?",
-        "Quelles sont les actualités juridiques importantes de ce numéro ?",
-        "Comment analyser ces données pour mon secteur ?"
       ],
       "relations_documentaires": {
         "remplace": [],
@@ -20010,15 +18229,6 @@
           "contexte_utilisation": "Mentionné 1 fois dans le document"
         }
       ],
-      "questions_typiques": [
-        "Quelles sont les obligations de sécurité informatique ?",
-        "Quelles sont les tendances du marché immobilier ?",
-        "Comment se protéger contre les cyberattaques ?",
-        "Quels sont les montants de franchise ?",
-        "Y a-t-il des alertes ou points de vigilance pour les notaires ?",
-        "Quelles sont les échéances mentionnées ?",
-        "Quelles sont les actualités juridiques importantes de ce numéro ?"
-      ],
       "relations_documentaires": {
         "remplace": [],
         "modifie": [],
@@ -20116,15 +18326,6 @@
           "contexte_utilisation": "Mentionné 1 fois dans le document"
         }
       ],
-      "questions_typiques": [
-        "Quel est l'impact sur la rémunération des salariés ?",
-        "Quelles sont les tendances du marché immobilier ?",
-        "Quelles sont les nouvelles grilles de salaires ?",
-        "Y a-t-il des alertes ou points de vigilance pour les notaires ?",
-        "Quelles sont les échéances mentionnées ?",
-        "Quelles formations sont concernées par ce document ?",
-        "Quelles sont les actualités juridiques importantes de ce numéro ?"
-      ],
       "relations_documentaires": {
         "remplace": [],
         "modifie": [],
@@ -20189,13 +18390,6 @@
           "definition": "Conseil Supérieur du Notariat. Instance nationale représentant la profession auprès des pouvoirs publics et coordonnant les chambres départementales.",
           "contexte_utilisation": "Mentionné 1 fois dans le document"
         }
-      ],
-      "questions_typiques": [
-        "À quelle date cette circulaire entre-t-elle en vigueur ?",
-        "Quels offices sont concernés par ces instructions ?",
-        "Quelles sont les modalités de prise de congés ?",
-        "Comment sont calculés les droits à congés ?",
-        "Quelles sont les nouvelles obligations introduites par cette circulaire ?"
       ],
       "relations_documentaires": {
         "remplace": [],
@@ -20290,12 +18484,6 @@
           "contexte_utilisation": "Mentionné 1 fois dans le document"
         }
       ],
-      "questions_typiques": [
-        "Y a-t-il des alertes ou points de vigilance pour les notaires ?",
-        "Quelles sont les échéances mentionnées ?",
-        "Quelles formations sont concernées par ce document ?",
-        "Quelles sont les actualités juridiques importantes de ce numéro ?"
-      ],
       "relations_documentaires": {
         "remplace": [],
         "modifie": [],
@@ -20366,15 +18554,6 @@
           "definition": "Système de protection sociale complémentaire (décès, invalidité, incapacité) couvrant les risques non pris en charge par la Sécurité Sociale.",
           "contexte_utilisation": "Mentionné 1 fois dans le document"
         }
-      ],
-      "questions_typiques": [
-        "Quelles sont les obligations de sécurité informatique ?",
-        "Comment se protéger contre les cyberattaques ?",
-        "Quels sont les montants de franchise ?",
-        "Y a-t-il des alertes ou points de vigilance pour les notaires ?",
-        "Quelles sont les échéances mentionnées ?",
-        "Quelles formations sont concernées par ce document ?",
-        "Quelles sont les actualités juridiques importantes de ce numéro ?"
       ],
       "relations_documentaires": {
         "remplace": [],
@@ -20463,13 +18642,6 @@
           "contexte_utilisation": "Mentionné 1 fois dans le document"
         }
       ],
-      "questions_typiques": [
-        "À partir de quand cet avenant s'applique-t-il ?",
-        "Quels articles de la convention collective sont modifiés ?",
-        "Quel impact sur les conditions de travail des salariés ?",
-        "Quels sont les montants de franchise ?",
-        "Quelles garanties sont couvertes ?"
-      ],
       "relations_documentaires": {
         "remplace": [],
         "modifie": [],
@@ -20549,15 +18721,6 @@
           "definition": "Système de protection sociale complémentaire (décès, invalidité, incapacité) couvrant les risques non pris en charge par la Sécurité Sociale.",
           "contexte_utilisation": "Mentionné 1 fois dans le document"
         }
-      ],
-      "questions_typiques": [
-        "Quelles sont les obligations de sécurité informatique ?",
-        "Comment se protéger contre les cyberattaques ?",
-        "Quels sont les montants de franchise ?",
-        "Y a-t-il des alertes ou points de vigilance pour les notaires ?",
-        "Quelles sont les échéances mentionnées ?",
-        "Quelles formations sont concernées par ce document ?",
-        "Quelles sont les actualités juridiques importantes de ce numéro ?"
       ],
       "relations_documentaires": {
         "remplace": [],
@@ -20686,16 +18849,6 @@
           "contexte_utilisation": "Mentionné 1 fois dans le document"
         }
       ],
-      "questions_typiques": [
-        "Quel est l'impact sur la rémunération des salariés ?",
-        "Quelle est la procédure de licenciement applicable ?",
-        "Comment financer ces formations ?",
-        "Quelles sont les nouvelles grilles de salaires ?",
-        "Quelles sont les nouvelles dispositions négociées ?",
-        "Quelle est la durée de validité de cet accord ?",
-        "Comment sont calculés les droits à congés ?",
-        "Qui sont les parties signataires de cet accord ?"
-      ],
       "relations_documentaires": {
         "remplace": [],
         "modifie": [],
@@ -20788,14 +18941,6 @@
           "contexte_utilisation": "Mentionné 1 fois dans le document"
         }
       ],
-      "questions_typiques": [
-        "Quelles sont les obligations de sécurité informatique ?",
-        "Comment se protéger contre les cyberattaques ?",
-        "Y a-t-il des alertes ou points de vigilance pour les notaires ?",
-        "Quelles sont les échéances mentionnées ?",
-        "Quelles formations sont concernées par ce document ?",
-        "Quelles sont les actualités juridiques importantes de ce numéro ?"
-      ],
       "relations_documentaires": {
         "remplace": [],
         "modifie": [],
@@ -20864,12 +19009,6 @@
           "contexte_utilisation": "Mentionné 1 fois dans le document"
         }
       ],
-      "questions_typiques": [
-        "Y a-t-il des alertes ou points de vigilance pour les notaires ?",
-        "Quelles sont les échéances mentionnées ?",
-        "Quelles formations sont concernées par ce document ?",
-        "Quelles sont les actualités juridiques importantes de ce numéro ?"
-      ],
       "relations_documentaires": {
         "remplace": [],
         "modifie": [],
@@ -20936,14 +19075,6 @@
           "definition": "Conseil Supérieur du Notariat. Instance nationale représentant la profession auprès des pouvoirs publics et coordonnant les chambres départementales.",
           "contexte_utilisation": "Mentionné 2 fois dans le document"
         }
-      ],
-      "questions_typiques": [
-        "Quels sont les montants de franchise ?",
-        "Y a-t-il des alertes ou points de vigilance pour les notaires ?",
-        "Quelles sont les échéances mentionnées ?",
-        "Quelles formations sont concernées par ce document ?",
-        "Quelles sont les actualités juridiques importantes de ce numéro ?",
-        "Quelles garanties sont couvertes ?"
       ],
       "relations_documentaires": {
         "remplace": [],
@@ -21045,15 +19176,6 @@
           "contexte_utilisation": "Mentionné 1 fois dans le document"
         }
       ],
-      "questions_typiques": [
-        "Quelles sont les obligations de sécurité informatique ?",
-        "Comment se protéger contre les cyberattaques ?",
-        "Quels sont les montants de franchise ?",
-        "Y a-t-il des alertes ou points de vigilance pour les notaires ?",
-        "Quelles sont les échéances mentionnées ?",
-        "Quelles formations sont concernées par ce document ?",
-        "Quelles sont les actualités juridiques importantes de ce numéro ?"
-      ],
       "relations_documentaires": {
         "remplace": [],
         "modifie": [],
@@ -21116,12 +19238,6 @@
         "numero": "2901"
       },
       "vocabulaire_specifique": [],
-      "questions_typiques": [
-        "Y a-t-il des alertes ou points de vigilance pour les notaires ?",
-        "Quelles sont les échéances mentionnées ?",
-        "Quelles formations sont concernées par ce document ?",
-        "Quelles sont les actualités juridiques importantes de ce numéro ?"
-      ],
       "relations_documentaires": {
         "remplace": [],
         "modifie": [],
@@ -21192,15 +19308,6 @@
           "contexte_utilisation": "Mentionné 1 fois dans le document"
         }
       ],
-      "questions_typiques": [
-        "Quelles sont les tendances du marché immobilier ?",
-        "Quels sont les montants de franchise ?",
-        "Y a-t-il des alertes ou points de vigilance pour les notaires ?",
-        "Quelles sont les échéances mentionnées ?",
-        "Quelles formations sont concernées par ce document ?",
-        "Quelles sont les actualités juridiques importantes de ce numéro ?",
-        "Comment analyser ces données pour mon secteur ?"
-      ],
       "relations_documentaires": {
         "remplace": [],
         "modifie": [],
@@ -21259,13 +19366,6 @@
       },
       "reference": null,
       "vocabulaire_specifique": [],
-      "questions_typiques": [
-        "Comment trouver une réponse dans le dataset QR ?",
-        "Quels domaines juridiques sont couverts ?",
-        "Comment contribuer au dataset de questions ?",
-        "Le dataset est-il mis à jour régulièrement ?",
-        "Puis-je utiliser ce dataset pour former mes collaborateurs ?"
-      ],
       "relations_documentaires": {
         "remplace": [],
         "modifie": [],
@@ -21343,13 +19443,6 @@
           "definition": "Système de protection sociale complémentaire (décès, invalidité, incapacité) couvrant les risques non pris en charge par la Sécurité Sociale.",
           "contexte_utilisation": "Mentionné 1 fois dans le document"
         }
-      ],
-      "questions_typiques": [
-        "À quelle date cette circulaire entre-t-elle en vigueur ?",
-        "Quels offices sont concernés par ces instructions ?",
-        "Quels sont les montants de franchise ?",
-        "Quelles sont les nouvelles obligations introduites par cette circulaire ?",
-        "Quelles garanties sont couvertes ?"
       ],
       "relations_documentaires": {
         "remplace": [],
@@ -21434,15 +19527,6 @@
           "definition": "Conseil Supérieur du Notariat. Instance nationale représentant la profession auprès des pouvoirs publics et coordonnant les chambres départementales.",
           "contexte_utilisation": "Mentionné 1 fois dans le document"
         }
-      ],
-      "questions_typiques": [
-        "Quelles sont les obligations de sécurité informatique ?",
-        "Quelles sont les tendances du marché immobilier ?",
-        "Comment se protéger contre les cyberattaques ?",
-        "Y a-t-il des alertes ou points de vigilance pour les notaires ?",
-        "Quelles sont les échéances mentionnées ?",
-        "Quelles formations sont concernées par ce document ?",
-        "Quelles sont les actualités juridiques importantes de ce numéro ?"
       ],
       "relations_documentaires": {
         "remplace": [],
@@ -21564,16 +19648,6 @@
           "contexte_utilisation": "Mentionné 1 fois dans le document"
         }
       ],
-      "questions_typiques": [
-        "Quel est l'impact sur la rémunération des salariés ?",
-        "Comment financer ces formations ?",
-        "Quelles sont les nouvelles grilles de salaires ?",
-        "Quelles sont les modalités de prise de congés ?",
-        "Quelles sont les nouvelles dispositions négociées ?",
-        "Quelle est la durée de validité de cet accord ?",
-        "Comment sont calculés les droits à congés ?",
-        "Qui sont les parties signataires de cet accord ?"
-      ],
       "relations_documentaires": {
         "remplace": [],
         "modifie": [],
@@ -21679,11 +19753,6 @@
           "contexte_utilisation": "Mentionné 1 fois dans le document"
         }
       ],
-      "questions_typiques": [
-        "Quels articles de la convention collective sont modifiés ?",
-        "Quel impact sur les conditions de travail des salariés ?",
-        "À partir de quand cet avenant s'applique-t-il ?"
-      ],
       "relations_documentaires": {
         "remplace": [],
         "modifie": [
@@ -21758,14 +19827,6 @@
           "definition": "Système de protection sociale complémentaire (décès, invalidité, incapacité) couvrant les risques non pris en charge par la Sécurité Sociale.",
           "contexte_utilisation": "Mentionné 1 fois dans le document"
         }
-      ],
-      "questions_typiques": [
-        "Quels sont les montants de franchise ?",
-        "Y a-t-il des alertes ou points de vigilance pour les notaires ?",
-        "Quelles sont les échéances mentionnées ?",
-        "Quelles formations sont concernées par ce document ?",
-        "Quelles sont les actualités juridiques importantes de ce numéro ?",
-        "Quelles garanties sont couvertes ?"
       ],
       "relations_documentaires": {
         "remplace": [],
@@ -21845,12 +19906,6 @@
           "definition": "Obligation légale de formation continue pour les notaires (30h/2 ans) et leurs collaborateurs (développement des compétences).",
           "contexte_utilisation": "Mentionné 1 fois dans le document"
         }
-      ],
-      "questions_typiques": [
-        "Y a-t-il des alertes ou points de vigilance pour les notaires ?",
-        "Quelles sont les échéances mentionnées ?",
-        "Quelles formations sont concernées par ce document ?",
-        "Quelles sont les actualités juridiques importantes de ce numéro ?"
       ],
       "relations_documentaires": {
         "remplace": [],
@@ -21956,15 +20011,6 @@
           "contexte_utilisation": "Mentionné 1 fois dans le document"
         }
       ],
-      "questions_typiques": [
-        "Quel est l'impact sur la rémunération des salariés ?",
-        "À partir de quand cet avenant s'applique-t-il ?",
-        "Quels articles de la convention collective sont modifiés ?",
-        "Quelle est la procédure de licenciement applicable ?",
-        "Quelles sont les nouvelles grilles de salaires ?",
-        "Quel impact sur les conditions de travail des salariés ?",
-        "Quels sont les délais à respecter ?"
-      ],
       "relations_documentaires": {
         "remplace": [],
         "modifie": [],
@@ -22061,14 +20107,6 @@
           "definition": "Acte juridique modifiant les clauses d'un accord ou d'une convention existante. Dans le contexte notarial, modification de la CCN négociée entre partenaires sociaux.",
           "contexte_utilisation": "Mentionné 1 fois dans le document"
         }
-      ],
-      "questions_typiques": [
-        "Quel est l'impact sur la rémunération des salariés ?",
-        "À partir de quand cet avenant s'applique-t-il ?",
-        "Quels articles de la convention collective sont modifiés ?",
-        "Quels sont les montants mentionnés dans ce document ?",
-        "Quelles sont les nouvelles grilles de salaires ?",
-        "Quel impact sur les conditions de travail des salariés ?"
       ],
       "relations_documentaires": {
         "remplace": [],
