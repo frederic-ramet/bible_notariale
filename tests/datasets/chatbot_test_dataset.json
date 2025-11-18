@@ -401,6 +401,209 @@
       "articles_references": [],
       "necessite_multi_documents": false,
       "notes_validation": ""
+    },
+    {
+      "id": "Q021",
+      "categorie": "juridique",
+      "difficulte": "facile",
+      "question": "Qu'est-ce que la CCN du notariat et quel est son identifiant IDCC ?",
+      "documents_sources_attendus": [
+        "convention_collective_20241212_avenant_59_modif_art_29_5_participation_financiere_formation_pro_mis_"
+      ],
+      "elements_cles_reponse": [
+        "Convention Collective Nationale du Notariat",
+        "IDCC 2205",
+        "Régit les relations de travail",
+        "Entre employeurs (notaires) et salariés"
+      ],
+      "reponse_attendue_resumee": "La CCN est la Convention Collective Nationale du Notariat, identifiée sous le code IDCC 2205. C'est le texte qui régit les relations de travail entre les employeurs (notaires) et les salariés de la profession notariale.",
+      "articles_references": [],
+      "necessite_multi_documents": false,
+      "notes_validation": ""
+    },
+    {
+      "id": "Q022",
+      "categorie": "juridique",
+      "difficulte": "moyen",
+      "question": "Quel article de la CCN a été modifié par l'avenant 59 de décembre 2024 ?",
+      "documents_sources_attendus": [
+        "convention_collective_20241212_avenant_59_modif_art_29_5_participation_financiere_formation_pro_mis_"
+      ],
+      "elements_cles_reponse": [
+        "Article 29.5",
+        "Participation financière à la formation professionnelle",
+        "Date de publication : 12 décembre 2024"
+      ],
+      "reponse_attendue_resumee": "L'avenant 59 du 12 décembre 2024 a modifié l'article 29.5 de la CCN concernant la participation financière à la formation professionnelle.",
+      "articles_references": [
+        "Article 29.5 de la CCN"
+      ],
+      "necessite_multi_documents": false,
+      "notes_validation": ""
+    },
+    {
+      "id": "Q023",
+      "categorie": "juridique",
+      "difficulte": "moyen",
+      "question": "Quels articles ont été modifiés par l'avenant 58 de novembre 2024 ?",
+      "documents_sources_attendus": [
+        "convention_collective_20241114_avenant_58_modif_art_15_6_et_29_3_3_mis_en_forme"
+      ],
+      "elements_cles_reponse": [
+        "Article 15.6",
+        "Article 29.3.3",
+        "Date de publication : 14 novembre 2024"
+      ],
+      "reponse_attendue_resumee": "L'avenant 58 du 14 novembre 2024 a modifié les articles 15.6 et 29.3.3 de la CCN du notariat.",
+      "articles_references": [
+        "Article 15.6 de la CCN",
+        "Article 29.3.3 de la CCN"
+      ],
+      "necessite_multi_documents": false,
+      "notes_validation": ""
+    },
+    {
+      "id": "Q024",
+      "categorie": "juridique",
+      "difficulte": "pointu",
+      "question": "Quelles sont les relations documentaires entre les avenants 58 et 59 de la CCN ?",
+      "documents_sources_attendus": [
+        "convention_collective_20241212_avenant_59_modif_art_29_5_participation_financiere_formation_pro_mis_",
+        "convention_collective_20241114_avenant_58_modif_art_15_6_et_29_3_3_mis_en_forme"
+      ],
+      "elements_cles_reponse": [
+        "Avenant 59 modifie l'avenant 58",
+        "Les deux concernent la formation professionnelle (article 29)",
+        "Suite logique de modifications",
+        "Publiés à un mois d'intervalle (novembre et décembre 2024)"
+      ],
+      "reponse_attendue_resumee": "L'avenant 59 (décembre 2024) modifie l'avenant 58 (novembre 2024). Les deux avenants concernent la formation professionnelle via l'article 29 de la CCN, constituant une suite logique de modifications publiées à un mois d'intervalle.",
+      "articles_references": [
+        "Article 29 de la CCN"
+      ],
+      "necessite_multi_documents": true,
+      "notes_validation": ""
+    },
+    {
+      "id": "Q025",
+      "categorie": "juridique",
+      "difficulte": "moyen",
+      "question": "Quelle est l'obligation de formation continue pour les notaires ?",
+      "documents_sources_attendus": [
+        "convention_collective_20241212_avenant_59_modif_art_29_5_participation_financiere_formation_pro_mis_"
+      ],
+      "elements_cles_reponse": [
+        "30 heures de formation par période de 2 ans",
+        "Obligation légale",
+        "Formation continue obligatoire",
+        "Développement des compétences"
+      ],
+      "reponse_attendue_resumee": "Les notaires ont une obligation légale de formation continue de 30 heures sur une période de 2 ans. Cette obligation vise le développement continu de leurs compétences professionnelles.",
+      "articles_references": [],
+      "necessite_multi_documents": false,
+      "notes_validation": ""
+    },
+    {
+      "id": "Q026",
+      "categorie": "deontologie",
+      "difficulte": "pointu",
+      "question": "Quelles sont les conditions dans lesquelles un code de déontologie est édicté pour une profession réglementée selon l'ordonnance mentionnée dans les documents ?",
+      "documents_sources_attendus": [],
+      "elements_cles_reponse": [
+        "Code de déontologie préparé par l'instance nationale",
+        "Édicté par décret en Conseil d'État",
+        "Propre à chaque profession",
+        "Mention dans le document sur le code de déontologie"
+      ],
+      "reponse_attendue_resumee": "Selon les textes réglementaires, un code de déontologie propre à chaque profession est préparé par son instance nationale (pour le notariat, le CSN) et édicté par décret en Conseil d'État. Cette procédure garantit la validité juridique et l'opposabilité du code.",
+      "articles_references": [
+        "Article 2 de l'ordonnance"
+      ],
+      "necessite_multi_documents": false,
+      "notes_validation": ""
+    },
+    {
+      "id": "Q027",
+      "categorie": "deontologie",
+      "difficulte": "pointu",
+      "question": "Comment s'articulent les obligations déontologiques avec le secret professionnel dans les relations avec les généalogistes ?",
+      "documents_sources_attendus": [],
+      "elements_cles_reponse": [
+        "Exigences mutuelles de rigueur",
+        "Secret professionnel s'applique",
+        "Encadrement strict des relations d'affaires",
+        "Professionnalisme requis des deux parties"
+      ],
+      "reponse_attendue_resumee": "Les obligations déontologiques dans les relations avec les généalogistes incluent le respect du secret professionnel par le notaire, des exigences mutuelles de rigueur et de professionnalisme, et un encadrement strict des relations d'affaires pour prévenir tout conflit d'intérêts.",
+      "articles_references": [],
+      "necessite_multi_documents": false,
+      "notes_validation": ""
+    },
+    {
+      "id": "Q028",
+      "categorie": "juridique",
+      "difficulte": "moyen",
+      "question": "Qui sont les partenaires sociaux signataires des avenants à la CCN ?",
+      "documents_sources_attendus": [
+        "convention_collective_20241212_avenant_59_modif_art_29_5_participation_financiere_formation_pro_mis_",
+        "convention_collective_20241114_avenant_58_modif_art_15_6_et_29_3_3_mis_en_forme"
+      ],
+      "elements_cles_reponse": [
+        "Organisations syndicales de salariés",
+        "Organisations patronales (notaires employeurs)",
+        "CFE-CGC",
+        "CFTC",
+        "Fédération générale des clercs et employés de notaire"
+      ],
+      "reponse_attendue_resumee": "Les partenaires sociaux signataires des avenants à la CCN incluent les organisations syndicales de salariés (CFE-CGC, CFTC, Fédération générale des clercs et employés de notaire) et les organisations patronales représentant les notaires employeurs.",
+      "articles_references": [],
+      "necessite_multi_documents": true,
+      "notes_validation": ""
+    },
+    {
+      "id": "Q029",
+      "categorie": "deontologie",
+      "difficulte": "pointu",
+      "question": "Quelle est la différence entre les circulaires du CSN et le Règlement Professionnel du Notariat en termes de valeur normative ?",
+      "documents_sources_attendus": [
+        "rpn_rpn"
+      ],
+      "elements_cles_reponse": [
+        "Circulaires : communications officielles, instructions",
+        "RPN : texte réglementaire approuvé par arrêté",
+        "RPN a force obligatoire",
+        "Circulaires sont des directives professionnelles",
+        "Violation du RPN expose à poursuites disciplinaires"
+      ],
+      "reponse_attendue_resumee": "Le RPN est un texte réglementaire approuvé par arrêté du Garde des Sceaux ayant force obligatoire, dont la violation expose à des poursuites disciplinaires. Les circulaires du CSN sont des communications officielles donnant des instructions aux notaires, mais n'ont pas la même force normative que le RPN.",
+      "articles_references": [],
+      "necessite_multi_documents": false,
+      "notes_validation": ""
+    },
+    {
+      "id": "Q030",
+      "categorie": "deontologie",
+      "difficulte": "pointu",
+      "question": "En quoi la réforme de 2021-2024 a-t-elle modifié l'approche de la déontologie notariale par rapport au système antérieur ?",
+      "documents_sources_attendus": [
+        "fil_infos_fil_info_262",
+        "rpn_rpn"
+      ],
+      "elements_cles_reponse": [
+        "Passage d'un règlement national-règlement intercours à un Code + RPN",
+        "Séparation Code déontologie / Règlement professionnel",
+        "Code édicté par décret en Conseil d'État (plus grande force juridique)",
+        "Réforme conjointe déontologie-discipline",
+        "Élaboration à quatre mains (profession + DACS)"
+      ],
+      "reponse_attendue_resumee": "La réforme 2021-2024 a remplacé l'ancien règlement national-règlement intercours par deux textes distincts : un Code de déontologie édicté par décret en Conseil d'État et un RPN approuvé par arrêté. Cette architecture donne une plus grande force juridique aux règles déontologiques et lie explicitement déontologie et discipline.",
+      "articles_references": [
+        "Loi du 18 novembre 2021",
+        "Ordonnance du 13 avril 2022",
+        "Décret du 28 décembre 2023"
+      ],
+      "necessite_multi_documents": true,
+      "notes_validation": ""
     }
   ]
 }
