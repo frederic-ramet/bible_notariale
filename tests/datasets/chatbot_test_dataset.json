@@ -1,0 +1,15 @@
+{
+  "dataset_version": "1.0",
+  "created_at": "2025-11-18",
+  "last_updated": "2025-11-18",
+  "description": "Dataset de test pour validation du chatbot RAG Bible Notariale",
+  "total_questions": 50,
+  "repartition": {
+    "deontologie_facile": 15,
+    "deontologie_moyen": 12,
+    "deontologie_pointu": 8,
+    "juridique_specifique": 10,
+    "edge_cases": 5
+  },
+  "qa_pairs": []
+}
