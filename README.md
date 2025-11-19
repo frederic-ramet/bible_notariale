@@ -23,6 +23,18 @@
   - [Relations documentaires](#5-relations-documentaires-)
   - [Lexique notarial centralisé](#lexique-notarial-centralisé)
   - [Utilisation pour RAG/GraphRAG](#utilisation-pour-raggraphrag)
+- [📚 Guides et Documentation](#-guides-et-documentation)
+  - [Guides de validation du chatbot](#guides-de-validation-du-chatbot)
+  - [Documentation technique](#documentation-technique)
+  - [Système de validation en 3 phases](#système-de-validation-en-3-phases)
+- [🧪 Dataset de questions de test](#-dataset-de-questions-de-test)
+  - [Fichier principal](#fichier-principal)
+  - [Répartition par catégorie et difficulté](#répartition-par-catégorie-et-difficulté)
+  - [Fichiers Excel de validation](#fichiers-excel-de-validation-dossier-output)
+- [🔍 Visualisation des métadonnées](#-visualisation-des-métadonnées)
+  - [Index global](#index-global)
+  - [Vocabulaire notarial](#vocabulaire-notarial)
+  - [Métadonnées individuelles](#métadonnées-individuelles)
 - [Navigation](#navigation)
 - [Maintenance](#maintenance)
 
@@ -386,6 +398,130 @@ for relation in metadata["relations_documentaires"]["reference"]:
 # Filtrer par catégorie métier
 docs_rh = [d for d in documents if "RH" in d["classification"]["categories_metier"]]
 ```
+
+---
+
+## 📚 Guides et Documentation
+
+Ce projet dispose d'une documentation complète pour faciliter son utilisation et sa validation.
+
+### Guides de validation du chatbot
+
+| Document | Public cible | Description |
+|----------|-------------|-------------|
+| **[VALIDATION_CHATBOT_README.md](docs/VALIDATION_CHATBOT_README.md)** | Tous | Vue d'ensemble du système de validation en 3 phases |
+| **[GUIDE_CHEF_DE_PROJET.md](docs/guides/GUIDE_CHEF_DE_PROJET.md)** | Chef de projet | Guide complet pour préparer et animer les sessions de validation (~30 pages) |
+| **[GUIDE_EXPERT_METIER.md](docs/guides/GUIDE_EXPERT_METIER.md)** | Expert métier (notaire) | Guide pratique pour participer aux 3 sessions de validation (~25 pages) |
+
+### Documentation technique
+
+| Document | Description |
+|----------|-------------|
+| **[LIVRABLES_PHASE1.md](docs/LIVRABLES_PHASE1.md)** | Récapitulatif des 9 fichiers créés : guides, templates Excel, scripts Python |
+| **[COMMANDES_UTILES.md](docs/COMMANDES_UTILES.md)** | Commandes Python et Bash utiles pour la maintenance du projet |
+| **[PLAN_ACTION_INDEX.md](_INSTRUCTIONS/PLAN_ACTION_INDEX.md)** | Plan d'action technique pour l'indexation et la génération des métadonnées |
+
+### Système de validation en 3 phases
+
+Le projet intègre un système complet de validation du chatbot RAG :
+
+**Phase 1 : Validation des métadonnées (2h)**
+- Vérifier que les 245 documents sont bien classés (type, catégories, priorité)
+- Fichier Excel : `output/validation_metadonnees_20docs.xlsx`
+- Objectif : 75% de validation correcte (15/20 documents)
+
+**Phase 2 : Validation du dataset de questions (1h30)**
+- Vérifier que les 20 questions de test sont réalistes et juridiquement exactes
+- Fichier Excel : `output/validation_dataset_20questions.xlsx`
+- Objectif : 80% de validation (16/20 questions) + 100% de réponses exactes
+
+**Phase 3 : Tests du chatbot (1h30)**
+- Tester le chatbot en conditions réelles avec 20 questions
+- Fichier Excel : `output/suivi_tests_chatbot.xlsx` (version enrichie recommandée)
+- Objectif : Score moyen ≥ 6/9 sur les critères Exactitude, Sources, Formulation
+
+**Total** : 5 heures d'expert métier réparties sur 2 semaines
+
+---
+
+## 🧪 Dataset de questions de test
+
+Le projet inclut un **dataset de 50 questions** pour valider le chatbot RAG.
+
+### Fichier principal
+
+**[`tests/datasets/chatbot_test_dataset.json`](tests/datasets/chatbot_test_dataset.json)**
+
+- **Version** : 2.0
+- **Total** : 50 questions
+- **Structure** : Chaque question contient :
+  - ID, catégorie, difficulté
+  - Question formulée
+  - Documents sources attendus
+  - Éléments clés de réponse
+  - Réponse attendue détaillée
+  - Articles de référence
+  - Indicateur multi-documents
+  - Niveau de confiance attendu
+
+### Répartition par catégorie et difficulté
+
+| Catégorie | Facile | Moyen | Pointu | Total |
+|-----------|--------|-------|--------|-------|
+| **Déontologie** | 5 | 4 | 6 | 15 |
+| **Déontologie (moyen)** | - | 12 | - | 12 |
+| **Déontologie (pointu)** | - | - | 8 | 8 |
+| **Juridique spécifique** | - | - | - | 10 |
+| **Edge cases** | - | - | - | 5 |
+
+**Total** : 50 questions couvrant tous les niveaux de difficulté et domaines métier
+
+### Fichiers Excel de validation (dossier `output/`)
+
+Les fichiers Excel sont **prêts à l'emploi** pour les sessions de validation :
+
+| Fichier | Phase | Contenu |
+|---------|-------|---------|
+| **[validation_metadonnees_20docs.xlsx](output/validation_metadonnees_20docs.xlsx)** | Phase 1 | 20 documents pré-sélectionnés avec métadonnées à valider |
+| **[validation_dataset_20questions.xlsx](output/validation_dataset_20questions.xlsx)** | Phase 2 | 20 questions avec répartition méthodologique |
+| **[liste_questions_a_tester.xlsx](output/liste_questions_a_tester.xlsx)** | Phase 3 | Liste simple pour tests (version basique) |
+| **[suivi_tests_chatbot.xlsx](output/suivi_tests_chatbot.xlsx)** | Phase 3 | Suivi enrichi avec notation automatique ⭐ Recommandé |
+
+**[📋 Voir la documentation complète des fichiers Excel](output/README.md)**
+
+---
+
+## 🔍 Visualisation des métadonnées
+
+### Index global
+
+**[`_metadata/index_complet.json`](_metadata/index_complet.json)** - 245 documents
+- Vue d'ensemble complète du corpus documentaire
+- Métadonnées centralisées pour tous les documents
+- Dernière génération : 15/11/2025 à 09:44
+
+### Vocabulaire notarial
+
+**[`_metadata/vocabulaire_notarial.json`](_metadata/vocabulaire_notarial.json)** - 50+ termes
+- Lexique professionnel avec synonymes
+- Définitions contextualisées
+- Domaines : institutions, droit social, conformité, organisation, actes
+
+### Métadonnées individuelles
+
+**[Dossier `_metadata/documents/`](_metadata/documents/)** - 245 fichiers `.metadata.json`
+
+Chaque document possède son fichier de métadonnées contenant :
+- Classification métier (10 catégories)
+- Vocabulaire spécifique extrait du texte
+- Relations documentaires (remplace, modifie, référence)
+- Résumé automatique
+- Mots-clés thématiques
+- Dates mentionnées
+
+**Exemples de fichiers** :
+- [`20250115_note_decret_2024_906_relatif_aux_inspections_des_officiers_publics_et_ministeriels_et_arret.metadata.json`](_metadata/documents/20250115_note_decret_2024_906_relatif_aux_inspections_des_officiers_publics_et_ministeriels_et_arret.metadata.json)
+- [`rpn_rpn.metadata.json`](_metadata/documents/rpn_rpn.metadata.json)
 
 ---
 
