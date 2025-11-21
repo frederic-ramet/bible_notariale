@@ -13,7 +13,7 @@
     "statut": "en_vigueur"
   },
   "classification": {
-    "type_document": "assurance",
+    "type_document": "Assurances",
     "label": "Assurance",
     "domaines_juridiques": [
       "assurance professionnelle",
@@ -26,10 +26,11 @@
     ],
     "annee_reference": 2025,
     "categorie_dossier": "Assurances",
-    "categories_metier": [
+    "sources_document": "assurance",
+    "domaines_metier": [
       "ASSURANCES"
     ],
-    "categorie_metier_principale": "ASSURANCES"
+    "domaine_metier_principal": "ASSURANCES"
   },
   "reference": null,
   "vocabulaire_specifique": [],

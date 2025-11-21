@@ -13,7 +13,7 @@
     "statut": "en_vigueur"
   },
   "classification": {
-    "type_document": "guide_pratique",
+    "type_document": "Directives CSN",
     "label": "Guide pratique",
     "domaines_juridiques": [
       "documentation métier",
@@ -26,10 +26,11 @@
     ],
     "annee_reference": 2025,
     "categorie_dossier": "racine",
-    "categories_metier": [
+    "sources_document": "guide_pratique",
+    "domaines_metier": [
       "DEONTOLOGIE"
     ],
-    "categorie_metier_principale": "DEONTOLOGIE"
+    "domaine_metier_principal": "DEONTOLOGIE"
   },
   "reference": null,
   "vocabulaire_specifique": [],

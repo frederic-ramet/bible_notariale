@@ -1,4 +1,4 @@
-# Décret / Ordonnance
+# Lois et règlements
 
 [← Retour à l'index principal](../../README.md)
 
@@ -6,12 +6,7 @@
 
 ## Description
 
-Les décrets et ordonnances sont des textes réglementaires officiels publiés au Journal
-Officiel. Ils définissent le cadre juridique de l'activité notariale : tarification, inspections,
-obligations professionnelles, etc. Ces textes ont force de loi et leur respect est impératif pour
-l'exercice de la profession.
 
-**Usage** : Consultez ces textes pour connaître le cadre légal et réglementaire de votre activité.
 
 ---
 
@@ -21,7 +16,7 @@ l'exercice de la profession.
 - **Période couverte** : 2022 - 2025
 - **Document le plus récent** : 2025-01-15
 - **Document le plus ancien** : 2022-01-01
-- **Domaines juridiques** : textes réglementaires, législation
+- **Domaines juridiques** : 
 
 ---
 
@@ -67,4 +62,4 @@ assurance professionnelle, congés payés, formation professionnelle, instructio
 
 ---
 
-*Page générée automatiquement le 15/11/2025 à 09:44*
+*Page générée automatiquement le 21/11/2025 à 10:12*

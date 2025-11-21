@@ -1,0 +1,3667 @@
+{
+  "migration_date": "1763719763.2912934",
+  "total_documents": 245,
+  "results": [
+    {
+      "document_id": "20250115_note_decret_2024_906_relatif_aux_inspections_des_officiers_publics_et_ministeriels_et_arret",
+      "old_type": "decret_ordonnance",
+      "new_type": "Lois et règlements",
+      "sources": "decret_ordonnance",
+      "old_domains": [
+        "DEONTOLOGIE",
+        "PROCEDURE"
+      ],
+      "new_domains": [
+        "DEONTOLOGIE"
+      ],
+      "domain_principal": "DEONTOLOGIE",
+      "thematiques_count": 4
+    },
+    {
+      "document_id": "20250709_ext_adsn_vade_mecum_signacte_1",
+      "old_type": "guide_pratique",
+      "new_type": "Directives CSN",
+      "sources": "guide_pratique",
+      "old_domains": [
+        "PROCEDURE",
+        "RH"
+      ],
+      "new_domains": [
+        "RH"
+      ],
+      "domain_principal": "RH",
+      "thematiques_count": 3
+    },
+    {
+      "document_id": "assurances_contrat_cyber_renouvellement_au_01_07_2025",
+      "old_type": "assurance",
+      "new_type": "Assurances",
+      "sources": "assurance",
+      "old_domains": [
+        "ASSURANCES"
+      ],
+      "new_domains": [
+        "ASSURANCES"
+      ],
+      "domain_principal": "ASSURANCES",
+      "thematiques_count": 0
+    },
+    {
+      "document_id": "assurances_flipbook_contrats_de_la_profession",
+      "old_type": "assurance",
+      "new_type": "Assurances",
+      "sources": "assurance",
+      "old_domains": [
+        "ASSURANCES"
+      ],
+      "new_domains": [
+        "ASSURANCES"
+      ],
+      "domain_principal": "ASSURANCES",
+      "thematiques_count": 2
+    },
+    {
+      "document_id": "carrieres_des_notaires_et_modalites_declaratives",
+      "old_type": "guide_pratique",
+      "new_type": "Directives CSN",
+      "sources": "guide_pratique",
+      "old_domains": [
+        "PROCEDURE"
+      ],
+      "new_domains": [
+        "DEONTOLOGIE"
+      ],
+      "domain_principal": "DEONTOLOGIE",
+      "thematiques_count": 0
+    },
+    {
+      "document_id": "consultation_cridon",
+      "old_type": "guide_pratique",
+      "new_type": "Directives CSN",
+      "sources": "guide_pratique",
+      "old_domains": [
+        "DEONTOLOGIE"
+      ],
+      "new_domains": [
+        "DEONTOLOGIE"
+      ],
+      "domain_principal": "DEONTOLOGIE",
+      "thematiques_count": 0
+    },
+    {
+      "document_id": "convention_collective_20221215_avenant_n48_du_15_decembre_2022",
+      "old_type": "avenant_ccn",
+      "new_type": "Convention collectives Notariat",
+      "sources": "avenant_ccn",
+      "old_domains": [
+        "RH"
+      ],
+      "new_domains": [
+        "RH"
+      ],
+      "domain_principal": "RH",
+      "thematiques_count": 4
+    },
+    {
+      "document_id": "convention_collective_20230525_avenant_n50_a_la_ccn_periode_dessai_1",
+      "old_type": "avenant_ccn",
+      "new_type": "Convention collectives Notariat",
+      "sources": "avenant_ccn",
+      "old_domains": [
+        "RH"
+      ],
+      "new_domains": [
+        "RH"
+      ],
+      "domain_principal": "RH",
+      "thematiques_count": 3
+    },
+    {
+      "document_id": "convention_collective_20231214_avenant_n54_a_la_ccn_modification_de_larticle_15_categorie_employes",
+      "old_type": "avenant_ccn",
+      "new_type": "Convention collectives Notariat",
+      "sources": "avenant_ccn",
+      "old_domains": [
+        "RH"
+      ],
+      "new_domains": [
+        "RH"
+      ],
+      "domain_principal": "RH",
+      "thematiques_count": 4
+    },
+    {
+      "document_id": "convention_collective_20240321_avenant_n56_ccn_modification_art_12_2_procedure_licenciement_mis_en_f",
+      "old_type": "avenant_ccn",
+      "new_type": "Convention collectives Notariat",
+      "sources": "avenant_ccn",
+      "old_domains": [
+        "RH"
+      ],
+      "new_domains": [
+        "RH"
+      ],
+      "domain_principal": "RH",
+      "thematiques_count": 5
+    },
+    {
+      "document_id": "convention_collective_20241114_avenant_58_modif_art_15_6_et_29_3_3_mis_en_forme",
+      "old_type": "avenant_ccn",
+      "new_type": "Convention collectives Notariat",
+      "sources": "avenant_ccn",
+      "old_domains": [
+        "RH"
+      ],
+      "new_domains": [
+        "RH"
+      ],
+      "domain_principal": "RH",
+      "thematiques_count": 4
+    },
+    {
+      "document_id": "convention_collective_20241212_avenant_59_modif_art_29_5_participation_financiere_formation_pro_mis_",
+      "old_type": "avenant_ccn",
+      "new_type": "Convention collectives Notariat",
+      "sources": "avenant_ccn",
+      "old_domains": [
+        "RH"
+      ],
+      "new_domains": [
+        "RH"
+      ],
+      "domain_principal": "RH",
+      "thematiques_count": 4
+    },
+    {
+      "document_id": "convention_collective_20250624_pdt_csn_msg_acquisition_conges_payes_arret_maladie_pj",
+      "old_type": "accord_branche",
+      "new_type": "Convention collectives Notariat",
+      "sources": "accord_branche",
+      "old_domains": [
+        "RH"
+      ],
+      "new_domains": [
+        "RH"
+      ],
+      "domain_principal": "RH",
+      "thematiques_count": 5
+    },
+    {
+      "document_id": "convention_collective_avenant_n51",
+      "old_type": "avenant_ccn",
+      "new_type": "Convention collectives Notariat",
+      "sources": "avenant_ccn",
+      "old_domains": [
+        "RH"
+      ],
+      "new_domains": [
+        "RH"
+      ],
+      "domain_principal": "RH",
+      "thematiques_count": 6
+    },
+    {
+      "document_id": "convention_collective_avenant_n52",
+      "old_type": "avenant_ccn",
+      "new_type": "Convention collectives Notariat",
+      "sources": "avenant_ccn",
+      "old_domains": [
+        "RH"
+      ],
+      "new_domains": [
+        "RH"
+      ],
+      "domain_principal": "RH",
+      "thematiques_count": 5
+    },
+    {
+      "document_id": "convention_collective_avenant_n53",
+      "old_type": "avenant_ccn",
+      "new_type": "Convention collectives Notariat",
+      "sources": "avenant_ccn",
+      "old_domains": [
+        "RH"
+      ],
+      "new_domains": [
+        "RH"
+      ],
+      "domain_principal": "RH",
+      "thematiques_count": 4
+    },
+    {
+      "document_id": "convention_collective_avenant_n_47_modification_de_l_article_29_1_2_sur_la_formation",
+      "old_type": "avenant_ccn",
+      "new_type": "Convention collectives Notariat",
+      "sources": "avenant_ccn",
+      "old_domains": [
+        "RH"
+      ],
+      "new_domains": [
+        "RH"
+      ],
+      "domain_principal": "RH",
+      "thematiques_count": 5
+    },
+    {
+      "document_id": "convention_collective_convention_collective_nationale_du_notariat_idcc_2205_actualisee_et_consolidee",
+      "old_type": "accord_branche",
+      "new_type": "Convention collectives Notariat",
+      "sources": "accord_branche",
+      "old_domains": [
+        "RH"
+      ],
+      "new_domains": [
+        "RH"
+      ],
+      "domain_principal": "RH",
+      "thematiques_count": 8
+    },
+    {
+      "document_id": "cp_guide_spe_v_def_2020_07_08",
+      "old_type": "guide_pratique",
+      "new_type": "Directives CSN",
+      "sources": "guide_pratique",
+      "old_domains": [
+        "RH",
+        "ASSURANCES"
+      ],
+      "new_domains": [
+        "RH",
+        "ASSURANCES"
+      ],
+      "domain_principal": "RH",
+      "thematiques_count": 2
+    },
+    {
+      "document_id": "csn2019_20181220_avenant_n_36_opco",
+      "old_type": "avenant_ccn",
+      "new_type": "Convention collectives Notariat",
+      "sources": "avenant_ccn",
+      "old_domains": [
+        "RH"
+      ],
+      "new_domains": [
+        "RH"
+      ],
+      "domain_principal": "RH",
+      "thematiques_count": 4
+    },
+    {
+      "document_id": "csn2019_accord_egalite_professionnelle_entre_les_femmes_et_les_hommes_20190418",
+      "old_type": "accord_branche",
+      "new_type": "Convention collectives Notariat",
+      "sources": "accord_branche",
+      "old_domains": [
+        "RH"
+      ],
+      "new_domains": [
+        "RH"
+      ],
+      "domain_principal": "RH",
+      "thematiques_count": 7
+    },
+    {
+      "document_id": "csn2019_accord_f_h",
+      "old_type": "accord_branche",
+      "new_type": "Convention collectives Notariat",
+      "sources": "accord_branche",
+      "old_domains": [
+        "RH"
+      ],
+      "new_domains": [
+        "RH"
+      ],
+      "domain_principal": "RH",
+      "thematiques_count": 7
+    },
+    {
+      "document_id": "csn2019_accord_formation_et_reconversion_ou_promotion_par_l_alternance_20190711",
+      "old_type": "accord_branche",
+      "new_type": "Convention collectives Notariat",
+      "sources": "accord_branche",
+      "old_domains": [
+        "RH"
+      ],
+      "new_domains": [
+        "RH"
+      ],
+      "domain_principal": "RH",
+      "thematiques_count": 5
+    },
+    {
+      "document_id": "csn2019_acte_electro_ssp",
+      "old_type": "guide_pratique",
+      "new_type": "Directives CSN",
+      "sources": "guide_pratique",
+      "old_domains": [
+        "PROCEDURE",
+        "RH"
+      ],
+      "new_domains": [
+        "RH"
+      ],
+      "domain_principal": "RH",
+      "thematiques_count": 1
+    },
+    {
+      "document_id": "csn2019_analyse_nationale_des_risques_lcb_ft_en_france_septembre_2019",
+      "old_type": "conformite",
+      "new_type": "Directives CSN",
+      "sources": "conformite",
+      "old_domains": [
+        "DEONTOLOGIE"
+      ],
+      "new_domains": [
+        "DEONTOLOGIE"
+      ],
+      "domain_principal": "DEONTOLOGIE",
+      "thematiques_count": 2
+    },
+    {
+      "document_id": "csn2019_avenant_n_38_opco",
+      "old_type": "avenant_ccn",
+      "new_type": "Convention collectives Notariat",
+      "sources": "avenant_ccn",
+      "old_domains": [
+        "RH"
+      ],
+      "new_domains": [
+        "RH"
+      ],
+      "domain_principal": "RH",
+      "thematiques_count": 4
+    },
+    {
+      "document_id": "csn2020_accord_interessement_11072019",
+      "old_type": "accord_branche",
+      "new_type": "Convention collectives Notariat",
+      "sources": "accord_branche",
+      "old_domains": [
+        "RH"
+      ],
+      "new_domains": [
+        "RH"
+      ],
+      "domain_principal": "RH",
+      "thematiques_count": 5
+    },
+    {
+      "document_id": "csn2020_avenant_40_accord_de_salaires_20200917",
+      "old_type": "avenant_ccn",
+      "new_type": "Convention collectives Notariat",
+      "sources": "avenant_ccn",
+      "old_domains": [
+        "RH"
+      ],
+      "new_domains": [
+        "RH"
+      ],
+      "domain_principal": "RH",
+      "thematiques_count": 4
+    },
+    {
+      "document_id": "csn2020_circulaire_05_20_tm",
+      "old_type": "circulaire_csn",
+      "new_type": "Directives CSN",
+      "sources": "circulaire_csn",
+      "old_domains": [
+        "DEONTOLOGIE",
+        "PROCEDURE"
+      ],
+      "new_domains": [
+        "DEONTOLOGIE"
+      ],
+      "domain_principal": "DEONTOLOGIE",
+      "thematiques_count": 3
+    },
+    {
+      "document_id": "csn2020_circulaire_n_2020_1_du_15_avril_2020",
+      "old_type": "circulaire_csn",
+      "new_type": "Directives CSN",
+      "sources": "circulaire_csn",
+      "old_domains": [
+        "DEONTOLOGIE",
+        "PROCEDURE"
+      ],
+      "new_domains": [
+        "DEONTOLOGIE"
+      ],
+      "domain_principal": "DEONTOLOGIE",
+      "thematiques_count": 2
+    },
+    {
+      "document_id": "csn2020_circulaire_n_2020_2_du_7_mai_2020",
+      "old_type": "circulaire_csn",
+      "new_type": "Directives CSN",
+      "sources": "circulaire_csn",
+      "old_domains": [
+        "DEONTOLOGIE",
+        "PROCEDURE"
+      ],
+      "new_domains": [
+        "DEONTOLOGIE"
+      ],
+      "domain_principal": "DEONTOLOGIE",
+      "thematiques_count": 5
+    },
+    {
+      "document_id": "csn2020_circulaire_n_2020_3_du_22_septembre_2020",
+      "old_type": "circulaire_csn",
+      "new_type": "Directives CSN",
+      "sources": "circulaire_csn",
+      "old_domains": [
+        "DEONTOLOGIE",
+        "PROCEDURE"
+      ],
+      "new_domains": [
+        "DEONTOLOGIE"
+      ],
+      "domain_principal": "DEONTOLOGIE",
+      "thematiques_count": 0
+    },
+    {
+      "document_id": "csn2021_202106_avenant_42_notaire_salarie",
+      "old_type": "avenant_ccn",
+      "new_type": "Convention collectives Notariat",
+      "sources": "avenant_ccn",
+      "old_domains": [
+        "RH"
+      ],
+      "new_domains": [
+        "RH"
+      ],
+      "domain_principal": "RH",
+      "thematiques_count": 4
+    },
+    {
+      "document_id": "csn2021_accord_de_branche_du_15_mai_2020_relatif_au_delai_de_carrence_entre_deux_contrats_a_duree_de",
+      "old_type": "accord_branche",
+      "new_type": "Convention collectives Notariat",
+      "sources": "accord_branche",
+      "old_domains": [
+        "RH"
+      ],
+      "new_domains": [
+        "RH"
+      ],
+      "domain_principal": "RH",
+      "thematiques_count": 2
+    },
+    {
+      "document_id": "csn2021_avenant_accord_de_salaires_20210218",
+      "old_type": "avenant_ccn",
+      "new_type": "Convention collectives Notariat",
+      "sources": "avenant_ccn",
+      "old_domains": [
+        "RH"
+      ],
+      "new_domains": [
+        "RH"
+      ],
+      "domain_principal": "RH",
+      "thematiques_count": 4
+    },
+    {
+      "document_id": "csn2021_circulaire_02_21_av_be",
+      "old_type": "circulaire_csn",
+      "new_type": "Directives CSN",
+      "sources": "circulaire_csn",
+      "old_domains": [
+        "DEONTOLOGIE",
+        "PROCEDURE"
+      ],
+      "new_domains": [
+        "DEONTOLOGIE"
+      ],
+      "domain_principal": "DEONTOLOGIE",
+      "thematiques_count": 3
+    },
+    {
+      "document_id": "csn2021_circulaire_2021_1_du_19_fevrier_2021",
+      "old_type": "circulaire_csn",
+      "new_type": "Directives CSN",
+      "sources": "circulaire_csn",
+      "old_domains": [
+        "DEONTOLOGIE",
+        "PROCEDURE"
+      ],
+      "new_domains": [
+        "DEONTOLOGIE"
+      ],
+      "domain_principal": "DEONTOLOGIE",
+      "thematiques_count": 5
+    },
+    {
+      "document_id": "csn2021_processus_ciclade_septembre_2021",
+      "old_type": "guide_pratique",
+      "new_type": "Directives CSN",
+      "sources": "guide_pratique",
+      "old_domains": [
+        "RH"
+      ],
+      "new_domains": [
+        "RH"
+      ],
+      "domain_principal": "RH",
+      "thematiques_count": 1
+    },
+    {
+      "document_id": "csn2022_2022_01_circulaire_csn_les_annexes_des_actes_notaries_au_regard_des_contraintes_rgpd_et_cnil",
+      "old_type": "circulaire_csn",
+      "new_type": "Directives CSN",
+      "sources": "circulaire_csn",
+      "old_domains": [
+        "DEONTOLOGIE",
+        "PROCEDURE"
+      ],
+      "new_domains": [
+        "DEONTOLOGIE"
+      ],
+      "domain_principal": "DEONTOLOGIE",
+      "thematiques_count": 5
+    },
+    {
+      "document_id": "csn2022_2022_02_circulaire_csn_les_frais_de_recherche_et_de_copie_d_acte_et_de_leurs_annexes",
+      "old_type": "circulaire_csn",
+      "new_type": "Directives CSN",
+      "sources": "circulaire_csn",
+      "old_domains": [
+        "DEONTOLOGIE",
+        "PROCEDURE"
+      ],
+      "new_domains": [
+        "DEONTOLOGIE"
+      ],
+      "domain_principal": "DEONTOLOGIE",
+      "thematiques_count": 4
+    },
+    {
+      "document_id": "csn2022_appel_a_vigilance_de_la_direction_generale_du_tresor",
+      "old_type": "conformite",
+      "new_type": "Directives CSN",
+      "sources": "conformite",
+      "old_domains": [
+        "DEONTOLOGIE"
+      ],
+      "new_domains": [
+        "DEONTOLOGIE"
+      ],
+      "domain_principal": "DEONTOLOGIE",
+      "thematiques_count": 2
+    },
+    {
+      "document_id": "csn2022_calculs_financiers_brochure_explicative_de_l_outil",
+      "old_type": "guide_pratique",
+      "new_type": "Directives CSN",
+      "sources": "guide_pratique",
+      "old_domains": [
+        "RH",
+        "ASSURANCES"
+      ],
+      "new_domains": [
+        "RH",
+        "ASSURANCES"
+      ],
+      "domain_principal": "RH",
+      "thematiques_count": 2
+    },
+    {
+      "document_id": "csn2022_circulaire_02_22_av_be",
+      "old_type": "circulaire_csn",
+      "new_type": "Directives CSN",
+      "sources": "circulaire_csn",
+      "old_domains": [
+        "DEONTOLOGIE",
+        "PROCEDURE"
+      ],
+      "new_domains": [
+        "DEONTOLOGIE"
+      ],
+      "domain_principal": "DEONTOLOGIE",
+      "thematiques_count": 0
+    },
+    {
+      "document_id": "csn2022_circulaire_05_22_tm",
+      "old_type": "circulaire_csn",
+      "new_type": "Directives CSN",
+      "sources": "circulaire_csn",
+      "old_domains": [
+        "DEONTOLOGIE",
+        "PROCEDURE"
+      ],
+      "new_domains": [
+        "DEONTOLOGIE"
+      ],
+      "domain_principal": "DEONTOLOGIE",
+      "thematiques_count": 3
+    },
+    {
+      "document_id": "csn2023_20221215_accord_de_branche_harcelement_au_travail",
+      "old_type": "accord_branche",
+      "new_type": "Convention collectives Notariat",
+      "sources": "accord_branche",
+      "old_domains": [
+        "RH"
+      ],
+      "new_domains": [
+        "RH"
+      ],
+      "domain_principal": "RH",
+      "thematiques_count": 3
+    },
+    {
+      "document_id": "csn2023_20221215_avenant_n_48_du_15_decembre_2022",
+      "old_type": "avenant_ccn",
+      "new_type": "Convention collectives Notariat",
+      "sources": "avenant_ccn",
+      "old_domains": [
+        "RH"
+      ],
+      "new_domains": [
+        "RH"
+      ],
+      "domain_principal": "RH",
+      "thematiques_count": 4
+    },
+    {
+      "document_id": "csn2023_avenant_n_49_du_16_fevrier_2023",
+      "old_type": "avenant_ccn",
+      "new_type": "Convention collectives Notariat",
+      "sources": "avenant_ccn",
+      "old_domains": [
+        "RH"
+      ],
+      "new_domains": [
+        "RH"
+      ],
+      "domain_principal": "RH",
+      "thematiques_count": 4
+    },
+    {
+      "document_id": "csn2023_avenant_n_6_complementaire_frais_de_sante_du_16_fevrier_2023",
+      "old_type": "avenant_ccn",
+      "new_type": "Convention collectives Notariat",
+      "sources": "avenant_ccn",
+      "old_domains": [
+        "RH"
+      ],
+      "new_domains": [
+        "RH"
+      ],
+      "domain_principal": "RH",
+      "thematiques_count": 3
+    },
+    {
+      "document_id": "csn2023_circulaire_n_2020_3_du_22_septembre_2020",
+      "old_type": "circulaire_csn",
+      "new_type": "Directives CSN",
+      "sources": "circulaire_csn",
+      "old_domains": [
+        "DEONTOLOGIE",
+        "PROCEDURE"
+      ],
+      "new_domains": [
+        "DEONTOLOGIE"
+      ],
+      "domain_principal": "DEONTOLOGIE",
+      "thematiques_count": 0
+    },
+    {
+      "document_id": "csn2023_cyber_attaque_fiche_reflexes_csn_03_02_2023",
+      "old_type": "guide_pratique",
+      "new_type": "Directives CSN",
+      "sources": "guide_pratique",
+      "old_domains": [
+        "ASSURANCES"
+      ],
+      "new_domains": [
+        "ASSURANCES"
+      ],
+      "domain_principal": "ASSURANCES",
+      "thematiques_count": 1
+    },
+    {
+      "document_id": "csn2023_dos_acs_tm_2023",
+      "old_type": "guide_pratique",
+      "new_type": "Directives CSN",
+      "sources": "guide_pratique",
+      "old_domains": [
+        "RH"
+      ],
+      "new_domains": [
+        "RH"
+      ],
+      "domain_principal": "RH",
+      "thematiques_count": 1
+    },
+    {
+      "document_id": "csn2023_dos_av_2023",
+      "old_type": "guide_pratique",
+      "new_type": "Directives CSN",
+      "sources": "guide_pratique",
+      "old_domains": [
+        "RH"
+      ],
+      "new_domains": [
+        "RH"
+      ],
+      "domain_principal": "RH",
+      "thematiques_count": 2
+    },
+    {
+      "document_id": "csn2023_dos_be_2023",
+      "old_type": "guide_pratique",
+      "new_type": "Directives CSN",
+      "sources": "guide_pratique",
+      "old_domains": [
+        "RH"
+      ],
+      "new_domains": [
+        "RH"
+      ],
+      "domain_principal": "RH",
+      "thematiques_count": 2
+    },
+    {
+      "document_id": "csn2023_ordonnance_plr_8_02_23",
+      "old_type": "decret_ordonnance",
+      "new_type": "Lois et règlements",
+      "sources": "decret_ordonnance",
+      "old_domains": [
+        "DEONTOLOGIE",
+        "PROCEDURE"
+      ],
+      "new_domains": [
+        "DEONTOLOGIE"
+      ],
+      "domain_principal": "DEONTOLOGIE",
+      "thematiques_count": 4
+    },
+    {
+      "document_id": "csn2023_tableau_recapitulatif_annexe_circulaire_n_2023_2",
+      "old_type": "guide_pratique",
+      "new_type": "Directives CSN",
+      "sources": "guide_pratique",
+      "old_domains": [
+        "DEONTOLOGIE",
+        "RH",
+        "PROCEDURE"
+      ],
+      "new_domains": [
+        "DEONTOLOGIE",
+        "RH"
+      ],
+      "domain_principal": "DEONTOLOGIE",
+      "thematiques_count": 3
+    },
+    {
+      "document_id": "csn2024_20231214_accord_de_branche_financement_de_la_formation",
+      "old_type": "accord_branche",
+      "new_type": "Convention collectives Notariat",
+      "sources": "accord_branche",
+      "old_domains": [
+        "RH"
+      ],
+      "new_domains": [
+        "RH"
+      ],
+      "domain_principal": "RH",
+      "thematiques_count": 5
+    },
+    {
+      "document_id": "csn2024_20240118_csn_anc_modalites_pratiques_declarations_remunerations_notaires_associes",
+      "old_type": "guide_pratique",
+      "new_type": "Directives CSN",
+      "sources": "guide_pratique",
+      "old_domains": [
+        "RH",
+        "PROCEDURE"
+      ],
+      "new_domains": [
+        "RH"
+      ],
+      "domain_principal": "RH",
+      "thematiques_count": 2
+    },
+    {
+      "document_id": "csn2024_20240131_csn_anc_modalites_pratiques_declarations_remunerations_notaires_associes",
+      "old_type": "guide_pratique",
+      "new_type": "Directives CSN",
+      "sources": "guide_pratique",
+      "old_domains": [
+        "RH",
+        "PROCEDURE"
+      ],
+      "new_domains": [
+        "RH"
+      ],
+      "domain_principal": "RH",
+      "thematiques_count": 2
+    },
+    {
+      "document_id": "csn2024_20240222_avenant_n_55_accord_de_salaires",
+      "old_type": "avenant_ccn",
+      "new_type": "Convention collectives Notariat",
+      "sources": "avenant_ccn",
+      "old_domains": [
+        "RH"
+      ],
+      "new_domains": [
+        "RH"
+      ],
+      "domain_principal": "RH",
+      "thematiques_count": 4
+    },
+    {
+      "document_id": "csn2024_20240321_avenant_n_56_ccn_modification_art_12_2_procedure_licenciement",
+      "old_type": "avenant_ccn",
+      "new_type": "Convention collectives Notariat",
+      "sources": "avenant_ccn",
+      "old_domains": [
+        "RH"
+      ],
+      "new_domains": [
+        "RH"
+      ],
+      "domain_principal": "RH",
+      "thematiques_count": 5
+    },
+    {
+      "document_id": "csn2024_circulaire_01_24_information",
+      "old_type": "circulaire_csn",
+      "new_type": "Directives CSN",
+      "sources": "circulaire_csn",
+      "old_domains": [
+        "DEONTOLOGIE",
+        "PROCEDURE"
+      ],
+      "new_domains": [
+        "DEONTOLOGIE"
+      ],
+      "domain_principal": "DEONTOLOGIE",
+      "thematiques_count": 3
+    },
+    {
+      "document_id": "csn2024_circulaire_02_24_av",
+      "old_type": "circulaire_csn",
+      "new_type": "Directives CSN",
+      "sources": "circulaire_csn",
+      "old_domains": [
+        "DEONTOLOGIE",
+        "PROCEDURE"
+      ],
+      "new_domains": [
+        "DEONTOLOGIE"
+      ],
+      "domain_principal": "DEONTOLOGIE",
+      "thematiques_count": 3
+    },
+    {
+      "document_id": "csn2024_circulaire_03_24_connexion",
+      "old_type": "circulaire_csn",
+      "new_type": "Directives CSN",
+      "sources": "circulaire_csn",
+      "old_domains": [
+        "DEONTOLOGIE",
+        "PROCEDURE"
+      ],
+      "new_domains": [
+        "DEONTOLOGIE"
+      ],
+      "domain_principal": "DEONTOLOGIE",
+      "thematiques_count": 3
+    },
+    {
+      "document_id": "csn2024_circulaire_04_24_analyse_av",
+      "old_type": "circulaire_csn",
+      "new_type": "Directives CSN",
+      "sources": "circulaire_csn",
+      "old_domains": [
+        "DEONTOLOGIE",
+        "PROCEDURE"
+      ],
+      "new_domains": [
+        "DEONTOLOGIE"
+      ],
+      "domain_principal": "DEONTOLOGIE",
+      "thematiques_count": 3
+    },
+    {
+      "document_id": "csn2024_circulaire_08_24_1_be",
+      "old_type": "circulaire_csn",
+      "new_type": "Directives CSN",
+      "sources": "circulaire_csn",
+      "old_domains": [
+        "DEONTOLOGIE",
+        "PROCEDURE"
+      ],
+      "new_domains": [
+        "DEONTOLOGIE"
+      ],
+      "domain_principal": "DEONTOLOGIE",
+      "thematiques_count": 3
+    },
+    {
+      "document_id": "csn2024_circulaire_08_24_be",
+      "old_type": "circulaire_csn",
+      "new_type": "Directives CSN",
+      "sources": "circulaire_csn",
+      "old_domains": [
+        "DEONTOLOGIE",
+        "PROCEDURE"
+      ],
+      "new_domains": [
+        "DEONTOLOGIE"
+      ],
+      "domain_principal": "DEONTOLOGIE",
+      "thematiques_count": 3
+    },
+    {
+      "document_id": "csn2025_20250123_partage_de_la_valeur_au_sein_des_offices_de_11_a_49_salaries",
+      "old_type": "guide_pratique",
+      "new_type": "Directives CSN",
+      "sources": "guide_pratique",
+      "old_domains": [
+        "RH",
+        "IMMOBILIER"
+      ],
+      "new_domains": [
+        "RH"
+      ],
+      "domain_principal": "RH",
+      "thematiques_count": 5
+    },
+    {
+      "document_id": "csn2025_20250220_avenant_n_60_accord_de_salaire",
+      "old_type": "avenant_ccn",
+      "new_type": "Convention collectives Notariat",
+      "sources": "avenant_ccn",
+      "old_domains": [
+        "RH"
+      ],
+      "new_domains": [
+        "RH"
+      ],
+      "domain_principal": "RH",
+      "thematiques_count": 4
+    },
+    {
+      "document_id": "csn2025_20250522_avenant_61",
+      "old_type": "avenant_ccn",
+      "new_type": "Convention collectives Notariat",
+      "sources": "avenant_ccn",
+      "old_domains": [
+        "RH"
+      ],
+      "new_domains": [
+        "RH"
+      ],
+      "domain_principal": "RH",
+      "thematiques_count": 5
+    },
+    {
+      "document_id": "csn2025_brochure_2025_oeuvres_sociales_du_notariat_comite_mixte",
+      "old_type": "guide_pratique",
+      "new_type": "Directives CSN",
+      "sources": "guide_pratique",
+      "old_domains": [
+        "RH"
+      ],
+      "new_domains": [
+        "RH"
+      ],
+      "domain_principal": "RH",
+      "thematiques_count": 2
+    },
+    {
+      "document_id": "csn2025_brochure_csn_cm_2025",
+      "old_type": "guide_pratique",
+      "new_type": "Directives CSN",
+      "sources": "guide_pratique",
+      "old_domains": [
+        "RH"
+      ],
+      "new_domains": [
+        "RH"
+      ],
+      "domain_principal": "RH",
+      "thematiques_count": 2
+    },
+    {
+      "document_id": "csn2025_circulaire_01_25",
+      "old_type": "circulaire_csn",
+      "new_type": "Directives CSN",
+      "sources": "circulaire_csn",
+      "old_domains": [
+        "DEONTOLOGIE",
+        "PROCEDURE"
+      ],
+      "new_domains": [
+        "DEONTOLOGIE"
+      ],
+      "domain_principal": "DEONTOLOGIE",
+      "thematiques_count": 0
+    },
+    {
+      "document_id": "csn2025_circulaire_02_25",
+      "old_type": "circulaire_csn",
+      "new_type": "Directives CSN",
+      "sources": "circulaire_csn",
+      "old_domains": [
+        "DEONTOLOGIE",
+        "PROCEDURE"
+      ],
+      "new_domains": [
+        "DEONTOLOGIE"
+      ],
+      "domain_principal": "DEONTOLOGIE",
+      "thematiques_count": 0
+    },
+    {
+      "document_id": "csn2025_circulaire_n_2025_1",
+      "old_type": "circulaire_csn",
+      "new_type": "Directives CSN",
+      "sources": "circulaire_csn",
+      "old_domains": [
+        "DEONTOLOGIE",
+        "PROCEDURE"
+      ],
+      "new_domains": [
+        "DEONTOLOGIE"
+      ],
+      "domain_principal": "DEONTOLOGIE",
+      "thematiques_count": 5
+    },
+    {
+      "document_id": "csn2025_manuel_d_utilisation_salarie",
+      "old_type": "guide_pratique",
+      "new_type": "Directives CSN",
+      "sources": "guide_pratique",
+      "old_domains": [
+        "RH"
+      ],
+      "new_domains": [
+        "RH"
+      ],
+      "domain_principal": "RH",
+      "thematiques_count": 1
+    },
+    {
+      "document_id": "csn_guide_informatique_offices_notariaux_v10_septembre_2021",
+      "old_type": "guide_pratique",
+      "new_type": "Directives CSN",
+      "sources": "guide_pratique",
+      "old_domains": [
+        "RH"
+      ],
+      "new_domains": [
+        "RH"
+      ],
+      "domain_principal": "RH",
+      "thematiques_count": 3
+    },
+    {
+      "document_id": "d_56_220_version_consolidee_20230101",
+      "old_type": "decret_ordonnance",
+      "new_type": "Lois et règlements",
+      "sources": "decret_ordonnance",
+      "old_domains": [
+        "DEONTOLOGIE",
+        "PROCEDURE"
+      ],
+      "new_domains": [
+        "DEONTOLOGIE"
+      ],
+      "domain_principal": "DEONTOLOGIE",
+      "thematiques_count": 2
+    },
+    {
+      "document_id": "d_67_868_v_conso_20240301",
+      "old_type": "decret_ordonnance",
+      "new_type": "Lois et règlements",
+      "sources": "decret_ordonnance",
+      "old_domains": [
+        "DEONTOLOGIE",
+        "PROCEDURE"
+      ],
+      "new_domains": [
+        "DEONTOLOGIE"
+      ],
+      "domain_principal": "DEONTOLOGIE",
+      "thematiques_count": 3
+    },
+    {
+      "document_id": "d_71_942_v_conso_20240301",
+      "old_type": "decret_ordonnance",
+      "new_type": "Lois et règlements",
+      "sources": "decret_ordonnance",
+      "old_domains": [
+        "DEONTOLOGIE",
+        "PROCEDURE"
+      ],
+      "new_domains": [
+        "DEONTOLOGIE"
+      ],
+      "domain_principal": "DEONTOLOGIE",
+      "thematiques_count": 3
+    },
+    {
+      "document_id": "fiche_doctrine_smo_vd",
+      "old_type": "guide_pratique",
+      "new_type": "Directives CSN",
+      "sources": "guide_pratique",
+      "old_domains": [
+        "RH"
+      ],
+      "new_domains": [
+        "RH"
+      ],
+      "domain_principal": "RH",
+      "thematiques_count": 2
+    },
+    {
+      "document_id": "fiches_bonnes_pratiques_cle_real_2023_07_17_fiche_bonnes_pratiques_cles_real_vdef",
+      "old_type": "guide_pratique",
+      "new_type": "Directives CSN",
+      "sources": "guide_pratique",
+      "old_domains": [
+        "RH"
+      ],
+      "new_domains": [
+        "RH"
+      ],
+      "domain_principal": "RH",
+      "thematiques_count": 1
+    },
+    {
+      "document_id": "fil_infos_fil_info_224",
+      "old_type": "fil_info",
+      "new_type": "Actualités",
+      "sources": "fil_info",
+      "old_domains": [
+        "RH"
+      ],
+      "new_domains": [
+        "RH"
+      ],
+      "domain_principal": "RH",
+      "thematiques_count": 0
+    },
+    {
+      "document_id": "fil_infos_fil_info_225",
+      "old_type": "fil_info",
+      "new_type": "Actualités",
+      "sources": "fil_info",
+      "old_domains": [
+        "RH",
+        "PROCEDURE"
+      ],
+      "new_domains": [
+        "RH"
+      ],
+      "domain_principal": "RH",
+      "thematiques_count": 1
+    },
+    {
+      "document_id": "fil_infos_fil_info_226",
+      "old_type": "fil_info",
+      "new_type": "Actualités",
+      "sources": "fil_info",
+      "old_domains": [
+        "RH",
+        "PROCEDURE"
+      ],
+      "new_domains": [
+        "RH"
+      ],
+      "domain_principal": "RH",
+      "thematiques_count": 4
+    },
+    {
+      "document_id": "fil_infos_fil_info_227",
+      "old_type": "fil_info",
+      "new_type": "Actualités",
+      "sources": "fil_info",
+      "old_domains": [
+        "RH"
+      ],
+      "new_domains": [
+        "RH"
+      ],
+      "domain_principal": "RH",
+      "thematiques_count": 4
+    },
+    {
+      "document_id": "fil_infos_fil_info_228",
+      "old_type": "fil_info",
+      "new_type": "Actualités",
+      "sources": "fil_info",
+      "old_domains": [
+        "RH"
+      ],
+      "new_domains": [
+        "RH"
+      ],
+      "domain_principal": "RH",
+      "thematiques_count": 0
+    },
+    {
+      "document_id": "fil_infos_fil_info_229",
+      "old_type": "fil_info",
+      "new_type": "Actualités",
+      "sources": "fil_info",
+      "old_domains": [
+        "RH"
+      ],
+      "new_domains": [
+        "RH"
+      ],
+      "domain_principal": "RH",
+      "thematiques_count": 1
+    },
+    {
+      "document_id": "fil_infos_fil_info_230",
+      "old_type": "fil_info",
+      "new_type": "Actualités",
+      "sources": "fil_info",
+      "old_domains": [
+        "RH"
+      ],
+      "new_domains": [
+        "RH"
+      ],
+      "domain_principal": "RH",
+      "thematiques_count": 3
+    },
+    {
+      "document_id": "fil_infos_fil_info_231",
+      "old_type": "fil_info",
+      "new_type": "Actualités",
+      "sources": "fil_info",
+      "old_domains": [
+        "ASSURANCES",
+        "RH"
+      ],
+      "new_domains": [
+        "ASSURANCES",
+        "RH"
+      ],
+      "domain_principal": "RH",
+      "thematiques_count": 1
+    },
+    {
+      "document_id": "fil_infos_fil_info_232",
+      "old_type": "fil_info",
+      "new_type": "Actualités",
+      "sources": "fil_info",
+      "old_domains": [
+        "IMMOBILIER",
+        "RH",
+        "ASSURANCES"
+      ],
+      "new_domains": [
+        "RH",
+        "ASSURANCES"
+      ],
+      "domain_principal": "RH",
+      "thematiques_count": 2
+    },
+    {
+      "document_id": "fil_infos_fil_info_233",
+      "old_type": "fil_info",
+      "new_type": "Actualités",
+      "sources": "fil_info",
+      "old_domains": [
+        "IMMOBILIER",
+        "RH",
+        "ASSURANCES"
+      ],
+      "new_domains": [
+        "RH",
+        "ASSURANCES"
+      ],
+      "domain_principal": "RH",
+      "thematiques_count": 4
+    },
+    {
+      "document_id": "fil_infos_fil_info_234",
+      "old_type": "fil_info",
+      "new_type": "Actualités",
+      "sources": "fil_info",
+      "old_domains": [
+        "RH"
+      ],
+      "new_domains": [
+        "RH"
+      ],
+      "domain_principal": "RH",
+      "thematiques_count": 1
+    },
+    {
+      "document_id": "fil_infos_fil_info_235",
+      "old_type": "fil_info",
+      "new_type": "Actualités",
+      "sources": "fil_info",
+      "old_domains": [
+        "IMMOBILIER",
+        "RH"
+      ],
+      "new_domains": [
+        "RH"
+      ],
+      "domain_principal": "RH",
+      "thematiques_count": 1
+    },
+    {
+      "document_id": "fil_infos_fil_info_236",
+      "old_type": "fil_info",
+      "new_type": "Actualités",
+      "sources": "fil_info",
+      "old_domains": [
+        "RH",
+        "ASSURANCES"
+      ],
+      "new_domains": [
+        "RH",
+        "ASSURANCES"
+      ],
+      "domain_principal": "RH",
+      "thematiques_count": 1
+    },
+    {
+      "document_id": "fil_infos_fil_info_237",
+      "old_type": "fil_info",
+      "new_type": "Actualités",
+      "sources": "fil_info",
+      "old_domains": [
+        "DEONTOLOGIE",
+        "RH"
+      ],
+      "new_domains": [
+        "DEONTOLOGIE",
+        "RH"
+      ],
+      "domain_principal": "DEONTOLOGIE",
+      "thematiques_count": 1
+    },
+    {
+      "document_id": "fil_infos_fil_info_238",
+      "old_type": "fil_info",
+      "new_type": "Actualités",
+      "sources": "fil_info",
+      "old_domains": [
+        "RH"
+      ],
+      "new_domains": [
+        "RH"
+      ],
+      "domain_principal": "RH",
+      "thematiques_count": 5
+    },
+    {
+      "document_id": "fil_infos_fil_info_239",
+      "old_type": "fil_info",
+      "new_type": "Actualités",
+      "sources": "fil_info",
+      "old_domains": [
+        "DEONTOLOGIE",
+        "RH",
+        "ASSURANCES"
+      ],
+      "new_domains": [
+        "DEONTOLOGIE",
+        "RH",
+        "ASSURANCES"
+      ],
+      "domain_principal": "DEONTOLOGIE",
+      "thematiques_count": 4
+    },
+    {
+      "document_id": "fil_infos_fil_info_240",
+      "old_type": "fil_info",
+      "new_type": "Actualités",
+      "sources": "fil_info",
+      "old_domains": [
+        "RH"
+      ],
+      "new_domains": [
+        "RH"
+      ],
+      "domain_principal": "RH",
+      "thematiques_count": 1
+    },
+    {
+      "document_id": "fil_infos_fil_info_241",
+      "old_type": "fil_info",
+      "new_type": "Actualités",
+      "sources": "fil_info",
+      "old_domains": [
+        "RH",
+        "PROCEDURE"
+      ],
+      "new_domains": [
+        "RH"
+      ],
+      "domain_principal": "RH",
+      "thematiques_count": 1
+    },
+    {
+      "document_id": "fil_infos_fil_info_242",
+      "old_type": "fil_info",
+      "new_type": "Actualités",
+      "sources": "fil_info",
+      "old_domains": [
+        "RH",
+        "PROCEDURE"
+      ],
+      "new_domains": [
+        "RH"
+      ],
+      "domain_principal": "RH",
+      "thematiques_count": 4
+    },
+    {
+      "document_id": "fil_infos_fil_info_243",
+      "old_type": "fil_info",
+      "new_type": "Actualités",
+      "sources": "fil_info",
+      "old_domains": [
+        "RH",
+        "ASSURANCES"
+      ],
+      "new_domains": [
+        "RH",
+        "ASSURANCES"
+      ],
+      "domain_principal": "RH",
+      "thematiques_count": 4
+    },
+    {
+      "document_id": "fil_infos_fil_info_244",
+      "old_type": "fil_info",
+      "new_type": "Actualités",
+      "sources": "fil_info",
+      "old_domains": [
+        "RH"
+      ],
+      "new_domains": [
+        "RH"
+      ],
+      "domain_principal": "RH",
+      "thematiques_count": 2
+    },
+    {
+      "document_id": "fil_infos_fil_info_245",
+      "old_type": "fil_info",
+      "new_type": "Actualités",
+      "sources": "fil_info",
+      "old_domains": [
+        "RH"
+      ],
+      "new_domains": [
+        "RH"
+      ],
+      "domain_principal": "RH",
+      "thematiques_count": 0
+    },
+    {
+      "document_id": "fil_infos_fil_info_246",
+      "old_type": "fil_info",
+      "new_type": "Actualités",
+      "sources": "fil_info",
+      "old_domains": [
+        "DEONTOLOGIE",
+        "RH"
+      ],
+      "new_domains": [
+        "DEONTOLOGIE",
+        "RH"
+      ],
+      "domain_principal": "DEONTOLOGIE",
+      "thematiques_count": 1
+    },
+    {
+      "document_id": "fil_infos_fil_info_247",
+      "old_type": "fil_info",
+      "new_type": "Actualités",
+      "sources": "fil_info",
+      "old_domains": [
+        "IMMOBILIER",
+        "RH"
+      ],
+      "new_domains": [
+        "RH"
+      ],
+      "domain_principal": "RH",
+      "thematiques_count": 3
+    },
+    {
+      "document_id": "fil_infos_fil_info_248",
+      "old_type": "fil_info",
+      "new_type": "Actualités",
+      "sources": "fil_info",
+      "old_domains": [
+        "IMMOBILIER",
+        "RH"
+      ],
+      "new_domains": [
+        "RH"
+      ],
+      "domain_principal": "RH",
+      "thematiques_count": 2
+    },
+    {
+      "document_id": "fil_infos_fil_info_249",
+      "old_type": "fil_info",
+      "new_type": "Actualités",
+      "sources": "fil_info",
+      "old_domains": [
+        "RH",
+        "ASSURANCES"
+      ],
+      "new_domains": [
+        "RH",
+        "ASSURANCES"
+      ],
+      "domain_principal": "RH",
+      "thematiques_count": 3
+    },
+    {
+      "document_id": "fil_infos_fil_info_254",
+      "old_type": "fil_info",
+      "new_type": "Actualités",
+      "sources": "fil_info",
+      "old_domains": [
+        "RH"
+      ],
+      "new_domains": [
+        "RH"
+      ],
+      "domain_principal": "RH",
+      "thematiques_count": 2
+    },
+    {
+      "document_id": "fil_infos_fil_info_255",
+      "old_type": "fil_info",
+      "new_type": "Actualités",
+      "sources": "fil_info",
+      "old_domains": [
+        "ASSURANCES",
+        "RH"
+      ],
+      "new_domains": [
+        "ASSURANCES",
+        "RH"
+      ],
+      "domain_principal": "RH",
+      "thematiques_count": 2
+    },
+    {
+      "document_id": "fil_infos_fil_info_256",
+      "old_type": "fil_info",
+      "new_type": "Actualités",
+      "sources": "fil_info",
+      "old_domains": [
+        "RH"
+      ],
+      "new_domains": [
+        "RH"
+      ],
+      "domain_principal": "RH",
+      "thematiques_count": 3
+    },
+    {
+      "document_id": "fil_infos_fil_info_257",
+      "old_type": "fil_info",
+      "new_type": "Actualités",
+      "sources": "fil_info",
+      "old_domains": [
+        "RH"
+      ],
+      "new_domains": [
+        "RH"
+      ],
+      "domain_principal": "RH",
+      "thematiques_count": 1
+    },
+    {
+      "document_id": "fil_infos_fil_info_258",
+      "old_type": "fil_info",
+      "new_type": "Actualités",
+      "sources": "fil_info",
+      "old_domains": [
+        "RH"
+      ],
+      "new_domains": [
+        "RH"
+      ],
+      "domain_principal": "RH",
+      "thematiques_count": 2
+    },
+    {
+      "document_id": "fil_infos_fil_info_259",
+      "old_type": "fil_info",
+      "new_type": "Actualités",
+      "sources": "fil_info",
+      "old_domains": [
+        "PROCEDURE",
+        "RH"
+      ],
+      "new_domains": [
+        "RH"
+      ],
+      "domain_principal": "RH",
+      "thematiques_count": 5
+    },
+    {
+      "document_id": "fil_infos_fil_info_260",
+      "old_type": "fil_info",
+      "new_type": "Actualités",
+      "sources": "fil_info",
+      "old_domains": [
+        "DEONTOLOGIE",
+        "RH",
+        "PROCEDURE"
+      ],
+      "new_domains": [
+        "DEONTOLOGIE",
+        "RH"
+      ],
+      "domain_principal": "DEONTOLOGIE",
+      "thematiques_count": 3
+    },
+    {
+      "document_id": "fil_infos_fil_info_261",
+      "old_type": "fil_info",
+      "new_type": "Actualités",
+      "sources": "fil_info",
+      "old_domains": [
+        "IMMOBILIER",
+        "RH"
+      ],
+      "new_domains": [
+        "RH"
+      ],
+      "domain_principal": "RH",
+      "thematiques_count": 2
+    },
+    {
+      "document_id": "fil_infos_fil_info_262",
+      "old_type": "fil_info",
+      "new_type": "Actualités",
+      "sources": "fil_info",
+      "old_domains": [
+        "DEONTOLOGIE",
+        "RH",
+        "ASSURANCES"
+      ],
+      "new_domains": [
+        "DEONTOLOGIE",
+        "RH",
+        "ASSURANCES"
+      ],
+      "domain_principal": "DEONTOLOGIE",
+      "thematiques_count": 4
+    },
+    {
+      "document_id": "fil_infos_fil_info_263",
+      "old_type": "fil_info",
+      "new_type": "Actualités",
+      "sources": "fil_info",
+      "old_domains": [
+        "RH",
+        "ASSURANCES"
+      ],
+      "new_domains": [
+        "RH",
+        "ASSURANCES"
+      ],
+      "domain_principal": "RH",
+      "thematiques_count": 1
+    },
+    {
+      "document_id": "fil_infos_fil_info_264",
+      "old_type": "fil_info",
+      "new_type": "Actualités",
+      "sources": "fil_info",
+      "old_domains": [
+        "RH",
+        "ASSURANCES"
+      ],
+      "new_domains": [
+        "RH",
+        "ASSURANCES"
+      ],
+      "domain_principal": "RH",
+      "thematiques_count": 1
+    },
+    {
+      "document_id": "fil_infos_fil_info_265",
+      "old_type": "fil_info",
+      "new_type": "Actualités",
+      "sources": "fil_info",
+      "old_domains": [
+        "RH",
+        "ASSURANCES",
+        "PROCEDURE"
+      ],
+      "new_domains": [
+        "RH",
+        "ASSURANCES"
+      ],
+      "domain_principal": "RH",
+      "thematiques_count": 3
+    },
+    {
+      "document_id": "fil_infos_fil_info_266",
+      "old_type": "fil_info",
+      "new_type": "Actualités",
+      "sources": "fil_info",
+      "old_domains": [
+        "RH"
+      ],
+      "new_domains": [
+        "RH"
+      ],
+      "domain_principal": "RH",
+      "thematiques_count": 2
+    },
+    {
+      "document_id": "fil_infos_fil_info_267",
+      "old_type": "fil_info",
+      "new_type": "Actualités",
+      "sources": "fil_info",
+      "old_domains": [
+        "ASSURANCES",
+        "RH"
+      ],
+      "new_domains": [
+        "ASSURANCES",
+        "RH"
+      ],
+      "domain_principal": "RH",
+      "thematiques_count": 2
+    },
+    {
+      "document_id": "fil_infos_fil_info_268",
+      "old_type": "fil_info",
+      "new_type": "Actualités",
+      "sources": "fil_info",
+      "old_domains": [
+        "RH"
+      ],
+      "new_domains": [
+        "RH"
+      ],
+      "domain_principal": "RH",
+      "thematiques_count": 1
+    },
+    {
+      "document_id": "fil_infos_fil_info_269",
+      "old_type": "fil_info",
+      "new_type": "Actualités",
+      "sources": "fil_info",
+      "old_domains": [
+        "RH",
+        "ASSURANCES"
+      ],
+      "new_domains": [
+        "RH",
+        "ASSURANCES"
+      ],
+      "domain_principal": "RH",
+      "thematiques_count": 2
+    },
+    {
+      "document_id": "fil_infos_fil_info_270",
+      "old_type": "fil_info",
+      "new_type": "Actualités",
+      "sources": "fil_info",
+      "old_domains": [
+        "DEONTOLOGIE",
+        "RH",
+        "ASSURANCES"
+      ],
+      "new_domains": [
+        "DEONTOLOGIE",
+        "RH",
+        "ASSURANCES"
+      ],
+      "domain_principal": "DEONTOLOGIE",
+      "thematiques_count": 2
+    },
+    {
+      "document_id": "fil_infos_fil_info_271",
+      "old_type": "fil_info",
+      "new_type": "Actualités",
+      "sources": "fil_info",
+      "old_domains": [
+        "RH",
+        "DEONTOLOGIE"
+      ],
+      "new_domains": [
+        "RH",
+        "DEONTOLOGIE"
+      ],
+      "domain_principal": "DEONTOLOGIE",
+      "thematiques_count": 1
+    },
+    {
+      "document_id": "fil_infos_fil_info_272",
+      "old_type": "fil_info",
+      "new_type": "Actualités",
+      "sources": "fil_info",
+      "old_domains": [
+        "RH",
+        "PROCEDURE"
+      ],
+      "new_domains": [
+        "RH"
+      ],
+      "domain_principal": "RH",
+      "thematiques_count": 2
+    },
+    {
+      "document_id": "fil_infos_fil_info_273",
+      "old_type": "fil_info",
+      "new_type": "Actualités",
+      "sources": "fil_info",
+      "old_domains": [
+        "IMMOBILIER",
+        "RH"
+      ],
+      "new_domains": [
+        "RH"
+      ],
+      "domain_principal": "RH",
+      "thematiques_count": 0
+    },
+    {
+      "document_id": "fil_infos_fil_info_274",
+      "old_type": "fil_info",
+      "new_type": "Actualités",
+      "sources": "fil_info",
+      "old_domains": [
+        "RH"
+      ],
+      "new_domains": [
+        "RH"
+      ],
+      "domain_principal": "RH",
+      "thematiques_count": 3
+    },
+    {
+      "document_id": "fil_infos_fil_info_275",
+      "old_type": "fil_info",
+      "new_type": "Actualités",
+      "sources": "fil_info",
+      "old_domains": [
+        "RH"
+      ],
+      "new_domains": [
+        "RH"
+      ],
+      "domain_principal": "RH",
+      "thematiques_count": 3
+    },
+    {
+      "document_id": "fil_infos_fil_info_276",
+      "old_type": "fil_info",
+      "new_type": "Actualités",
+      "sources": "fil_info",
+      "old_domains": [
+        "RH"
+      ],
+      "new_domains": [
+        "RH"
+      ],
+      "domain_principal": "RH",
+      "thematiques_count": 4
+    },
+    {
+      "document_id": "fil_infos_fil_info_277",
+      "old_type": "fil_info",
+      "new_type": "Actualités",
+      "sources": "fil_info",
+      "old_domains": [
+        "RH"
+      ],
+      "new_domains": [
+        "RH"
+      ],
+      "domain_principal": "RH",
+      "thematiques_count": 4
+    },
+    {
+      "document_id": "fil_infos_fil_info_278",
+      "old_type": "fil_info",
+      "new_type": "Actualités",
+      "sources": "fil_info",
+      "old_domains": [
+        "RH",
+        "PROCEDURE"
+      ],
+      "new_domains": [
+        "RH"
+      ],
+      "domain_principal": "RH",
+      "thematiques_count": 2
+    },
+    {
+      "document_id": "fil_infos_fil_info_279",
+      "old_type": "fil_info",
+      "new_type": "Actualités",
+      "sources": "fil_info",
+      "old_domains": [
+        "DEONTOLOGIE",
+        "RH"
+      ],
+      "new_domains": [
+        "DEONTOLOGIE",
+        "RH"
+      ],
+      "domain_principal": "DEONTOLOGIE",
+      "thematiques_count": 1
+    },
+    {
+      "document_id": "fil_infos_fil_info_280",
+      "old_type": "fil_info",
+      "new_type": "Actualités",
+      "sources": "fil_info",
+      "old_domains": [
+        "RH"
+      ],
+      "new_domains": [
+        "RH"
+      ],
+      "domain_principal": "RH",
+      "thematiques_count": 2
+    },
+    {
+      "document_id": "fil_infos_fil_info_281",
+      "old_type": "fil_info",
+      "new_type": "Actualités",
+      "sources": "fil_info",
+      "old_domains": [
+        "RH",
+        "ASSURANCES"
+      ],
+      "new_domains": [
+        "RH",
+        "ASSURANCES"
+      ],
+      "domain_principal": "RH",
+      "thematiques_count": 5
+    },
+    {
+      "document_id": "fil_infos_fil_info_2812",
+      "old_type": "fil_info",
+      "new_type": "Actualités",
+      "sources": "fil_info",
+      "old_domains": [
+        "RH"
+      ],
+      "new_domains": [
+        "RH"
+      ],
+      "domain_principal": "RH",
+      "thematiques_count": 1
+    },
+    {
+      "document_id": "fil_infos_fil_info_2813",
+      "old_type": "fil_info",
+      "new_type": "Actualités",
+      "sources": "fil_info",
+      "old_domains": [
+        "IMMOBILIER",
+        "RH"
+      ],
+      "new_domains": [
+        "RH"
+      ],
+      "domain_principal": "RH",
+      "thematiques_count": 0
+    },
+    {
+      "document_id": "fil_infos_fil_info_2814",
+      "old_type": "fil_info",
+      "new_type": "Actualités",
+      "sources": "fil_info",
+      "old_domains": [
+        "DEONTOLOGIE",
+        "RH"
+      ],
+      "new_domains": [
+        "DEONTOLOGIE",
+        "RH"
+      ],
+      "domain_principal": "DEONTOLOGIE",
+      "thematiques_count": 0
+    },
+    {
+      "document_id": "fil_infos_fil_info_2815",
+      "old_type": "fil_info",
+      "new_type": "Actualités",
+      "sources": "fil_info",
+      "old_domains": [
+        "RH"
+      ],
+      "new_domains": [
+        "RH"
+      ],
+      "domain_principal": "RH",
+      "thematiques_count": 1
+    },
+    {
+      "document_id": "fil_infos_fil_info_2816",
+      "old_type": "fil_info",
+      "new_type": "Actualités",
+      "sources": "fil_info",
+      "old_domains": [
+        "RH"
+      ],
+      "new_domains": [
+        "RH"
+      ],
+      "domain_principal": "RH",
+      "thematiques_count": 1
+    },
+    {
+      "document_id": "fil_infos_fil_info_2817",
+      "old_type": "fil_info",
+      "new_type": "Actualités",
+      "sources": "fil_info",
+      "old_domains": [
+        "RH"
+      ],
+      "new_domains": [
+        "RH"
+      ],
+      "domain_principal": "RH",
+      "thematiques_count": 4
+    },
+    {
+      "document_id": "fil_infos_fil_info_2818",
+      "old_type": "fil_info",
+      "new_type": "Actualités",
+      "sources": "fil_info",
+      "old_domains": [
+        "RH",
+        "ASSURANCES"
+      ],
+      "new_domains": [
+        "RH",
+        "ASSURANCES"
+      ],
+      "domain_principal": "RH",
+      "thematiques_count": 3
+    },
+    {
+      "document_id": "fil_infos_fil_info_2819",
+      "old_type": "fil_info",
+      "new_type": "Actualités",
+      "sources": "fil_info",
+      "old_domains": [
+        "RH"
+      ],
+      "new_domains": [
+        "RH"
+      ],
+      "domain_principal": "RH",
+      "thematiques_count": 0
+    },
+    {
+      "document_id": "fil_infos_fil_info_282",
+      "old_type": "fil_info",
+      "new_type": "Actualités",
+      "sources": "fil_info",
+      "old_domains": [
+        "IMMOBILIER",
+        "RH"
+      ],
+      "new_domains": [
+        "RH"
+      ],
+      "domain_principal": "RH",
+      "thematiques_count": 0
+    },
+    {
+      "document_id": "fil_infos_fil_info_2820",
+      "old_type": "fil_info",
+      "new_type": "Actualités",
+      "sources": "fil_info",
+      "old_domains": [
+        "RH"
+      ],
+      "new_domains": [
+        "RH"
+      ],
+      "domain_principal": "RH",
+      "thematiques_count": 0
+    },
+    {
+      "document_id": "fil_infos_fil_info_2821",
+      "old_type": "fil_info",
+      "new_type": "Actualités",
+      "sources": "fil_info",
+      "old_domains": [
+        "RH"
+      ],
+      "new_domains": [
+        "RH"
+      ],
+      "domain_principal": "RH",
+      "thematiques_count": 2
+    },
+    {
+      "document_id": "fil_infos_fil_info_2822",
+      "old_type": "fil_info",
+      "new_type": "Actualités",
+      "sources": "fil_info",
+      "old_domains": [
+        "RH",
+        "ASSURANCES"
+      ],
+      "new_domains": [
+        "RH",
+        "ASSURANCES"
+      ],
+      "domain_principal": "RH",
+      "thematiques_count": 2
+    },
+    {
+      "document_id": "fil_infos_fil_info_2823",
+      "old_type": "fil_info",
+      "new_type": "Actualités",
+      "sources": "fil_info",
+      "old_domains": [
+        "RH"
+      ],
+      "new_domains": [
+        "RH"
+      ],
+      "domain_principal": "RH",
+      "thematiques_count": 1
+    },
+    {
+      "document_id": "fil_infos_fil_info_2824",
+      "old_type": "fil_info",
+      "new_type": "Actualités",
+      "sources": "fil_info",
+      "old_domains": [
+        "RH"
+      ],
+      "new_domains": [
+        "RH"
+      ],
+      "domain_principal": "RH",
+      "thematiques_count": 2
+    },
+    {
+      "document_id": "fil_infos_fil_info_2825",
+      "old_type": "fil_info",
+      "new_type": "Actualités",
+      "sources": "fil_info",
+      "old_domains": [
+        "RH",
+        "ASSURANCES"
+      ],
+      "new_domains": [
+        "RH",
+        "ASSURANCES"
+      ],
+      "domain_principal": "RH",
+      "thematiques_count": 2
+    },
+    {
+      "document_id": "fil_infos_fil_info_2826",
+      "old_type": "fil_info",
+      "new_type": "Actualités",
+      "sources": "fil_info",
+      "old_domains": [
+        "IMMOBILIER",
+        "RH",
+        "PROCEDURE"
+      ],
+      "new_domains": [
+        "RH"
+      ],
+      "domain_principal": "RH",
+      "thematiques_count": 2
+    },
+    {
+      "document_id": "fil_infos_fil_info_2827",
+      "old_type": "fil_info",
+      "new_type": "Actualités",
+      "sources": "fil_info",
+      "old_domains": [
+        "RH"
+      ],
+      "new_domains": [
+        "RH"
+      ],
+      "domain_principal": "RH",
+      "thematiques_count": 2
+    },
+    {
+      "document_id": "fil_infos_fil_info_2828",
+      "old_type": "fil_info",
+      "new_type": "Actualités",
+      "sources": "fil_info",
+      "old_domains": [
+        "RH",
+        "ASSURANCES"
+      ],
+      "new_domains": [
+        "RH",
+        "ASSURANCES"
+      ],
+      "domain_principal": "RH",
+      "thematiques_count": 5
+    },
+    {
+      "document_id": "fil_infos_fil_info_2829",
+      "old_type": "fil_info",
+      "new_type": "Actualités",
+      "sources": "fil_info",
+      "old_domains": [
+        "RH",
+        "ASSURANCES"
+      ],
+      "new_domains": [
+        "RH",
+        "ASSURANCES"
+      ],
+      "domain_principal": "RH",
+      "thematiques_count": 3
+    },
+    {
+      "document_id": "fil_infos_fil_info_2830",
+      "old_type": "fil_info",
+      "new_type": "Actualités",
+      "sources": "fil_info",
+      "old_domains": [
+        "ASSURANCES",
+        "RH"
+      ],
+      "new_domains": [
+        "ASSURANCES",
+        "RH"
+      ],
+      "domain_principal": "RH",
+      "thematiques_count": 2
+    },
+    {
+      "document_id": "fil_infos_fil_info_2831",
+      "old_type": "fil_info",
+      "new_type": "Actualités",
+      "sources": "fil_info",
+      "old_domains": [
+        "RH"
+      ],
+      "new_domains": [
+        "RH"
+      ],
+      "domain_principal": "RH",
+      "thematiques_count": 3
+    },
+    {
+      "document_id": "fil_infos_fil_info_2832",
+      "old_type": "fil_info",
+      "new_type": "Actualités",
+      "sources": "fil_info",
+      "old_domains": [
+        "RH"
+      ],
+      "new_domains": [
+        "RH"
+      ],
+      "domain_principal": "RH",
+      "thematiques_count": 2
+    },
+    {
+      "document_id": "fil_infos_fil_info_2833",
+      "old_type": "fil_info",
+      "new_type": "Actualités",
+      "sources": "fil_info",
+      "old_domains": [
+        "RH"
+      ],
+      "new_domains": [
+        "RH"
+      ],
+      "domain_principal": "RH",
+      "thematiques_count": 4
+    },
+    {
+      "document_id": "fil_infos_fil_info_2834",
+      "old_type": "fil_info",
+      "new_type": "Actualités",
+      "sources": "fil_info",
+      "old_domains": [
+        "RH"
+      ],
+      "new_domains": [
+        "RH"
+      ],
+      "domain_principal": "RH",
+      "thematiques_count": 1
+    },
+    {
+      "document_id": "fil_infos_fil_info_2835",
+      "old_type": "fil_info",
+      "new_type": "Actualités",
+      "sources": "fil_info",
+      "old_domains": [
+        "RH",
+        "ASSURANCES"
+      ],
+      "new_domains": [
+        "RH",
+        "ASSURANCES"
+      ],
+      "domain_principal": "RH",
+      "thematiques_count": 3
+    },
+    {
+      "document_id": "fil_infos_fil_info_2836",
+      "old_type": "fil_info",
+      "new_type": "Actualités",
+      "sources": "fil_info",
+      "old_domains": [
+        "RH"
+      ],
+      "new_domains": [
+        "RH"
+      ],
+      "domain_principal": "RH",
+      "thematiques_count": 0
+    },
+    {
+      "document_id": "fil_infos_fil_info_2837",
+      "old_type": "fil_info",
+      "new_type": "Actualités",
+      "sources": "fil_info",
+      "old_domains": [
+        "IMMOBILIER",
+        "RH"
+      ],
+      "new_domains": [
+        "RH"
+      ],
+      "domain_principal": "RH",
+      "thematiques_count": 3
+    },
+    {
+      "document_id": "fil_infos_fil_info_2838",
+      "old_type": "fil_info",
+      "new_type": "Actualités",
+      "sources": "fil_info",
+      "old_domains": [
+        "RH"
+      ],
+      "new_domains": [
+        "RH"
+      ],
+      "domain_principal": "RH",
+      "thematiques_count": 2
+    },
+    {
+      "document_id": "fil_infos_fil_info_2839",
+      "old_type": "fil_info",
+      "new_type": "Actualités",
+      "sources": "fil_info",
+      "old_domains": [
+        "DEONTOLOGIE",
+        "RH",
+        "ASSURANCES"
+      ],
+      "new_domains": [
+        "DEONTOLOGIE",
+        "RH",
+        "ASSURANCES"
+      ],
+      "domain_principal": "DEONTOLOGIE",
+      "thematiques_count": 3
+    },
+    {
+      "document_id": "fil_infos_fil_info_2840",
+      "old_type": "fil_info",
+      "new_type": "Actualités",
+      "sources": "fil_info",
+      "old_domains": [
+        "RH"
+      ],
+      "new_domains": [
+        "RH"
+      ],
+      "domain_principal": "RH",
+      "thematiques_count": 1
+    },
+    {
+      "document_id": "fil_infos_fil_info_2841",
+      "old_type": "fil_info",
+      "new_type": "Actualités",
+      "sources": "fil_info",
+      "old_domains": [
+        "RH"
+      ],
+      "new_domains": [
+        "RH"
+      ],
+      "domain_principal": "RH",
+      "thematiques_count": 1
+    },
+    {
+      "document_id": "fil_infos_fil_info_2842",
+      "old_type": "fil_info",
+      "new_type": "Actualités",
+      "sources": "fil_info",
+      "old_domains": [
+        "ASSURANCES",
+        "RH"
+      ],
+      "new_domains": [
+        "ASSURANCES",
+        "RH"
+      ],
+      "domain_principal": "RH",
+      "thematiques_count": 3
+    },
+    {
+      "document_id": "fil_infos_fil_info_2843",
+      "old_type": "fil_info",
+      "new_type": "Actualités",
+      "sources": "fil_info",
+      "old_domains": [
+        "RH"
+      ],
+      "new_domains": [
+        "RH"
+      ],
+      "domain_principal": "RH",
+      "thematiques_count": 3
+    },
+    {
+      "document_id": "fil_infos_fil_info_2844",
+      "old_type": "fil_info",
+      "new_type": "Actualités",
+      "sources": "fil_info",
+      "old_domains": [
+        "RH",
+        "ASSURANCES",
+        "FISCAL_SUCCESSION"
+      ],
+      "new_domains": [
+        "RH",
+        "ASSURANCES"
+      ],
+      "domain_principal": "RH",
+      "thematiques_count": 5
+    },
+    {
+      "document_id": "fil_infos_fil_info_2845",
+      "old_type": "fil_info",
+      "new_type": "Actualités",
+      "sources": "fil_info",
+      "old_domains": [
+        "RH",
+        "PROCEDURE"
+      ],
+      "new_domains": [
+        "RH"
+      ],
+      "domain_principal": "RH",
+      "thematiques_count": 6
+    },
+    {
+      "document_id": "fil_infos_fil_info_2846",
+      "old_type": "fil_info",
+      "new_type": "Actualités",
+      "sources": "fil_info",
+      "old_domains": [
+        "RH"
+      ],
+      "new_domains": [
+        "RH"
+      ],
+      "domain_principal": "RH",
+      "thematiques_count": 2
+    },
+    {
+      "document_id": "fil_infos_fil_info_2847",
+      "old_type": "fil_info",
+      "new_type": "Actualités",
+      "sources": "fil_info",
+      "old_domains": [
+        "DEONTOLOGIE",
+        "RH"
+      ],
+      "new_domains": [
+        "DEONTOLOGIE",
+        "RH"
+      ],
+      "domain_principal": "DEONTOLOGIE",
+      "thematiques_count": 6
+    },
+    {
+      "document_id": "fil_infos_fil_info_2848",
+      "old_type": "fil_info",
+      "new_type": "Actualités",
+      "sources": "fil_info",
+      "old_domains": [
+        "RH"
+      ],
+      "new_domains": [
+        "RH"
+      ],
+      "domain_principal": "RH",
+      "thematiques_count": 4
+    },
+    {
+      "document_id": "fil_infos_fil_info_2849",
+      "old_type": "fil_info",
+      "new_type": "Actualités",
+      "sources": "fil_info",
+      "old_domains": [
+        "DEONTOLOGIE",
+        "RH"
+      ],
+      "new_domains": [
+        "DEONTOLOGIE",
+        "RH"
+      ],
+      "domain_principal": "DEONTOLOGIE",
+      "thematiques_count": 1
+    },
+    {
+      "document_id": "fil_infos_fil_info_2850",
+      "old_type": "fil_info",
+      "new_type": "Actualités",
+      "sources": "fil_info",
+      "old_domains": [
+        "RH"
+      ],
+      "new_domains": [
+        "RH"
+      ],
+      "domain_principal": "RH",
+      "thematiques_count": 1
+    },
+    {
+      "document_id": "fil_infos_fil_info_2851",
+      "old_type": "fil_info",
+      "new_type": "Actualités",
+      "sources": "fil_info",
+      "old_domains": [
+        "RH"
+      ],
+      "new_domains": [
+        "RH"
+      ],
+      "domain_principal": "RH",
+      "thematiques_count": 1
+    },
+    {
+      "document_id": "fil_infos_fil_info_2852",
+      "old_type": "fil_info",
+      "new_type": "Actualités",
+      "sources": "fil_info",
+      "old_domains": [
+        "IMMOBILIER",
+        "RH",
+        "ASSURANCES"
+      ],
+      "new_domains": [
+        "RH",
+        "ASSURANCES"
+      ],
+      "domain_principal": "RH",
+      "thematiques_count": 3
+    },
+    {
+      "document_id": "fil_infos_fil_info_2853",
+      "old_type": "fil_info",
+      "new_type": "Actualités",
+      "sources": "fil_info",
+      "old_domains": [
+        "RH"
+      ],
+      "new_domains": [
+        "RH"
+      ],
+      "domain_principal": "RH",
+      "thematiques_count": 1
+    },
+    {
+      "document_id": "fil_infos_fil_info_2854",
+      "old_type": "fil_info",
+      "new_type": "Actualités",
+      "sources": "fil_info",
+      "old_domains": [
+        "RH"
+      ],
+      "new_domains": [
+        "RH"
+      ],
+      "domain_principal": "RH",
+      "thematiques_count": 1
+    },
+    {
+      "document_id": "fil_infos_fil_info_2855",
+      "old_type": "fil_info",
+      "new_type": "Actualités",
+      "sources": "fil_info",
+      "old_domains": [
+        "RH"
+      ],
+      "new_domains": [
+        "RH"
+      ],
+      "domain_principal": "RH",
+      "thematiques_count": 0
+    },
+    {
+      "document_id": "fil_infos_fil_info_2856",
+      "old_type": "fil_info",
+      "new_type": "Actualités",
+      "sources": "fil_info",
+      "old_domains": [
+        "PROCEDURE",
+        "RH",
+        "FISCAL_SUCCESSION"
+      ],
+      "new_domains": [
+        "RH"
+      ],
+      "domain_principal": "RH",
+      "thematiques_count": 3
+    },
+    {
+      "document_id": "fil_infos_fil_info_2857",
+      "old_type": "fil_info",
+      "new_type": "Actualités",
+      "sources": "fil_info",
+      "old_domains": [
+        "RH"
+      ],
+      "new_domains": [
+        "RH"
+      ],
+      "domain_principal": "RH",
+      "thematiques_count": 3
+    },
+    {
+      "document_id": "fil_infos_fil_info_2858",
+      "old_type": "fil_info",
+      "new_type": "Actualités",
+      "sources": "fil_info",
+      "old_domains": [
+        "DEONTOLOGIE",
+        "RH"
+      ],
+      "new_domains": [
+        "DEONTOLOGIE",
+        "RH"
+      ],
+      "domain_principal": "DEONTOLOGIE",
+      "thematiques_count": 0
+    },
+    {
+      "document_id": "fil_infos_fil_info_2859",
+      "old_type": "fil_info",
+      "new_type": "Actualités",
+      "sources": "fil_info",
+      "old_domains": [
+        "DEONTOLOGIE",
+        "RH"
+      ],
+      "new_domains": [
+        "DEONTOLOGIE",
+        "RH"
+      ],
+      "domain_principal": "DEONTOLOGIE",
+      "thematiques_count": 1
+    },
+    {
+      "document_id": "fil_infos_fil_info_2860",
+      "old_type": "fil_info",
+      "new_type": "Actualités",
+      "sources": "fil_info",
+      "old_domains": [
+        "RH"
+      ],
+      "new_domains": [
+        "RH"
+      ],
+      "domain_principal": "RH",
+      "thematiques_count": 0
+    },
+    {
+      "document_id": "fil_infos_fil_info_2861",
+      "old_type": "fil_info",
+      "new_type": "Actualités",
+      "sources": "fil_info",
+      "old_domains": [
+        "RH",
+        "ASSURANCES"
+      ],
+      "new_domains": [
+        "RH",
+        "ASSURANCES"
+      ],
+      "domain_principal": "RH",
+      "thematiques_count": 1
+    },
+    {
+      "document_id": "fil_infos_fil_info_2862",
+      "old_type": "fil_info",
+      "new_type": "Actualités",
+      "sources": "fil_info",
+      "old_domains": [
+        "RH"
+      ],
+      "new_domains": [
+        "RH"
+      ],
+      "domain_principal": "RH",
+      "thematiques_count": 0
+    },
+    {
+      "document_id": "fil_infos_fil_info_2863",
+      "old_type": "fil_info",
+      "new_type": "Actualités",
+      "sources": "fil_info",
+      "old_domains": [
+        "RH"
+      ],
+      "new_domains": [
+        "RH"
+      ],
+      "domain_principal": "RH",
+      "thematiques_count": 0
+    },
+    {
+      "document_id": "fil_infos_fil_info_2864",
+      "old_type": "fil_info",
+      "new_type": "Actualités",
+      "sources": "fil_info",
+      "old_domains": [
+        "RH"
+      ],
+      "new_domains": [
+        "RH"
+      ],
+      "domain_principal": "RH",
+      "thematiques_count": 0
+    },
+    {
+      "document_id": "fil_infos_fil_info_2865",
+      "old_type": "fil_info",
+      "new_type": "Actualités",
+      "sources": "fil_info",
+      "old_domains": [
+        "RH"
+      ],
+      "new_domains": [
+        "RH"
+      ],
+      "domain_principal": "RH",
+      "thematiques_count": 1
+    },
+    {
+      "document_id": "fil_infos_fil_info_2866",
+      "old_type": "fil_info",
+      "new_type": "Actualités",
+      "sources": "fil_info",
+      "old_domains": [
+        "IMMOBILIER",
+        "RH",
+        "ASSURANCES"
+      ],
+      "new_domains": [
+        "RH",
+        "ASSURANCES"
+      ],
+      "domain_principal": "RH",
+      "thematiques_count": 1
+    },
+    {
+      "document_id": "fil_infos_fil_info_2867",
+      "old_type": "fil_info",
+      "new_type": "Actualités",
+      "sources": "fil_info",
+      "old_domains": [
+        "IMMOBILIER",
+        "RH",
+        "ASSURANCES"
+      ],
+      "new_domains": [
+        "RH",
+        "ASSURANCES"
+      ],
+      "domain_principal": "RH",
+      "thematiques_count": 1
+    },
+    {
+      "document_id": "fil_infos_fil_info_2868",
+      "old_type": "fil_info",
+      "new_type": "Actualités",
+      "sources": "fil_info",
+      "old_domains": [
+        "RH"
+      ],
+      "new_domains": [
+        "RH"
+      ],
+      "domain_principal": "RH",
+      "thematiques_count": 3
+    },
+    {
+      "document_id": "fil_infos_fil_info_2869",
+      "old_type": "fil_info",
+      "new_type": "Actualités",
+      "sources": "fil_info",
+      "old_domains": [
+        "ASSURANCES",
+        "RH"
+      ],
+      "new_domains": [
+        "ASSURANCES",
+        "RH"
+      ],
+      "domain_principal": "RH",
+      "thematiques_count": 5
+    },
+    {
+      "document_id": "fil_infos_fil_info_2870",
+      "old_type": "fil_info",
+      "new_type": "Actualités",
+      "sources": "fil_info",
+      "old_domains": [
+        "RH",
+        "FISCAL_SUCCESSION"
+      ],
+      "new_domains": [
+        "RH"
+      ],
+      "domain_principal": "RH",
+      "thematiques_count": 3
+    },
+    {
+      "document_id": "fil_infos_fil_info_2871",
+      "old_type": "fil_info",
+      "new_type": "Actualités",
+      "sources": "fil_info",
+      "old_domains": [
+        "IMMOBILIER",
+        "RH",
+        "ASSURANCES"
+      ],
+      "new_domains": [
+        "RH",
+        "ASSURANCES"
+      ],
+      "domain_principal": "RH",
+      "thematiques_count": 6
+    },
+    {
+      "document_id": "fil_infos_fil_info_2872",
+      "old_type": "fil_info",
+      "new_type": "Actualités",
+      "sources": "fil_info",
+      "old_domains": [
+        "RH",
+        "ASSURANCES"
+      ],
+      "new_domains": [
+        "RH",
+        "ASSURANCES"
+      ],
+      "domain_principal": "RH",
+      "thematiques_count": 3
+    },
+    {
+      "document_id": "fil_infos_fil_info_2873",
+      "old_type": "fil_info",
+      "new_type": "Actualités",
+      "sources": "fil_info",
+      "old_domains": [
+        "RH",
+        "PROCEDURE"
+      ],
+      "new_domains": [
+        "RH"
+      ],
+      "domain_principal": "RH",
+      "thematiques_count": 5
+    },
+    {
+      "document_id": "fil_infos_fil_info_2874",
+      "old_type": "fil_info",
+      "new_type": "Actualités",
+      "sources": "fil_info",
+      "old_domains": [
+        "RH"
+      ],
+      "new_domains": [
+        "RH"
+      ],
+      "domain_principal": "RH",
+      "thematiques_count": 4
+    },
+    {
+      "document_id": "fil_infos_fil_info_2875",
+      "old_type": "fil_info",
+      "new_type": "Actualités",
+      "sources": "fil_info",
+      "old_domains": [
+        "RH"
+      ],
+      "new_domains": [
+        "RH"
+      ],
+      "domain_principal": "RH",
+      "thematiques_count": 1
+    },
+    {
+      "document_id": "fil_infos_fil_info_2876",
+      "old_type": "fil_info",
+      "new_type": "Actualités",
+      "sources": "fil_info",
+      "old_domains": [
+        "RH"
+      ],
+      "new_domains": [
+        "RH"
+      ],
+      "domain_principal": "RH",
+      "thematiques_count": 2
+    },
+    {
+      "document_id": "fil_infos_fil_info_2877",
+      "old_type": "fil_info",
+      "new_type": "Actualités",
+      "sources": "fil_info",
+      "old_domains": [
+        "RH",
+        "ASSURANCES"
+      ],
+      "new_domains": [
+        "RH",
+        "ASSURANCES"
+      ],
+      "domain_principal": "RH",
+      "thematiques_count": 4
+    },
+    {
+      "document_id": "fil_infos_fil_info_2878",
+      "old_type": "fil_info",
+      "new_type": "Actualités",
+      "sources": "fil_info",
+      "old_domains": [
+        "RH",
+        "ASSURANCES"
+      ],
+      "new_domains": [
+        "RH",
+        "ASSURANCES"
+      ],
+      "domain_principal": "RH",
+      "thematiques_count": 3
+    },
+    {
+      "document_id": "fil_infos_fil_info_2879",
+      "old_type": "fil_info",
+      "new_type": "Actualités",
+      "sources": "fil_info",
+      "old_domains": [
+        "IMMOBILIER",
+        "RH"
+      ],
+      "new_domains": [
+        "RH"
+      ],
+      "domain_principal": "RH",
+      "thematiques_count": 2
+    },
+    {
+      "document_id": "fil_infos_fil_info_2880",
+      "old_type": "fil_info",
+      "new_type": "Actualités",
+      "sources": "fil_info",
+      "old_domains": [
+        "DEONTOLOGIE",
+        "RH"
+      ],
+      "new_domains": [
+        "DEONTOLOGIE",
+        "RH"
+      ],
+      "domain_principal": "DEONTOLOGIE",
+      "thematiques_count": 1
+    },
+    {
+      "document_id": "fil_infos_fil_info_2881",
+      "old_type": "fil_info",
+      "new_type": "Actualités",
+      "sources": "fil_info",
+      "old_domains": [
+        "RH"
+      ],
+      "new_domains": [
+        "RH"
+      ],
+      "domain_principal": "RH",
+      "thematiques_count": 2
+    },
+    {
+      "document_id": "fil_infos_fil_info_2882",
+      "old_type": "fil_info",
+      "new_type": "Actualités",
+      "sources": "fil_info",
+      "old_domains": [
+        "RH"
+      ],
+      "new_domains": [
+        "RH"
+      ],
+      "domain_principal": "RH",
+      "thematiques_count": 1
+    },
+    {
+      "document_id": "fil_infos_fil_info_2883",
+      "old_type": "fil_info",
+      "new_type": "Actualités",
+      "sources": "fil_info",
+      "old_domains": [
+        "RH",
+        "DEONTOLOGIE"
+      ],
+      "new_domains": [
+        "RH",
+        "DEONTOLOGIE"
+      ],
+      "domain_principal": "DEONTOLOGIE",
+      "thematiques_count": 4
+    },
+    {
+      "document_id": "fil_infos_fil_info_2884",
+      "old_type": "fil_info",
+      "new_type": "Actualités",
+      "sources": "fil_info",
+      "old_domains": [
+        "RH"
+      ],
+      "new_domains": [
+        "RH"
+      ],
+      "domain_principal": "RH",
+      "thematiques_count": 4
+    },
+    {
+      "document_id": "fil_infos_fil_info_2885",
+      "old_type": "fil_info",
+      "new_type": "Actualités",
+      "sources": "fil_info",
+      "old_domains": [
+        "RH"
+      ],
+      "new_domains": [
+        "RH"
+      ],
+      "domain_principal": "RH",
+      "thematiques_count": 4
+    },
+    {
+      "document_id": "fil_infos_fil_info_2886",
+      "old_type": "fil_info",
+      "new_type": "Actualités",
+      "sources": "fil_info",
+      "old_domains": [
+        "IMMOBILIER",
+        "RH"
+      ],
+      "new_domains": [
+        "RH"
+      ],
+      "domain_principal": "RH",
+      "thematiques_count": 1
+    },
+    {
+      "document_id": "fil_infos_fil_info_2887",
+      "old_type": "fil_info",
+      "new_type": "Actualités",
+      "sources": "fil_info",
+      "old_domains": [
+        "RH"
+      ],
+      "new_domains": [
+        "RH"
+      ],
+      "domain_principal": "RH",
+      "thematiques_count": 3
+    },
+    {
+      "document_id": "fil_infos_fil_info_2888",
+      "old_type": "fil_info",
+      "new_type": "Actualités",
+      "sources": "fil_info",
+      "old_domains": [
+        "RH"
+      ],
+      "new_domains": [
+        "RH"
+      ],
+      "domain_principal": "RH",
+      "thematiques_count": 6
+    },
+    {
+      "document_id": "fil_infos_fil_info_2889",
+      "old_type": "fil_info",
+      "new_type": "Actualités",
+      "sources": "fil_info",
+      "old_domains": [
+        "DEONTOLOGIE",
+        "RH",
+        "PROCEDURE"
+      ],
+      "new_domains": [
+        "DEONTOLOGIE",
+        "RH"
+      ],
+      "domain_principal": "DEONTOLOGIE",
+      "thematiques_count": 2
+    },
+    {
+      "document_id": "fil_infos_fil_info_2890",
+      "old_type": "fil_info",
+      "new_type": "Actualités",
+      "sources": "fil_info",
+      "old_domains": [
+        "RH"
+      ],
+      "new_domains": [
+        "RH"
+      ],
+      "domain_principal": "RH",
+      "thematiques_count": 2
+    },
+    {
+      "document_id": "fil_infos_fil_info_2891",
+      "old_type": "fil_info",
+      "new_type": "Actualités",
+      "sources": "fil_info",
+      "old_domains": [
+        "DEONTOLOGIE",
+        "RH"
+      ],
+      "new_domains": [
+        "DEONTOLOGIE",
+        "RH"
+      ],
+      "domain_principal": "DEONTOLOGIE",
+      "thematiques_count": 2
+    },
+    {
+      "document_id": "fil_infos_fil_info_2892",
+      "old_type": "fil_info",
+      "new_type": "Actualités",
+      "sources": "fil_info",
+      "old_domains": [
+        "RH"
+      ],
+      "new_domains": [
+        "RH"
+      ],
+      "domain_principal": "RH",
+      "thematiques_count": 1
+    },
+    {
+      "document_id": "fil_infos_fil_info_2893",
+      "old_type": "fil_info",
+      "new_type": "Actualités",
+      "sources": "fil_info",
+      "old_domains": [
+        "RH",
+        "ASSURANCES"
+      ],
+      "new_domains": [
+        "RH",
+        "ASSURANCES"
+      ],
+      "domain_principal": "RH",
+      "thematiques_count": 2
+    },
+    {
+      "document_id": "fil_infos_fil_info_2894",
+      "old_type": "fil_info",
+      "new_type": "Actualités",
+      "sources": "fil_info",
+      "old_domains": [
+        "RH"
+      ],
+      "new_domains": [
+        "RH"
+      ],
+      "domain_principal": "RH",
+      "thematiques_count": 6
+    },
+    {
+      "document_id": "fil_infos_fil_info_2895",
+      "old_type": "fil_info",
+      "new_type": "Actualités",
+      "sources": "fil_info",
+      "old_domains": [
+        "RH",
+        "DEONTOLOGIE",
+        "PROCEDURE"
+      ],
+      "new_domains": [
+        "RH",
+        "DEONTOLOGIE"
+      ],
+      "domain_principal": "DEONTOLOGIE",
+      "thematiques_count": 4
+    },
+    {
+      "document_id": "fil_infos_fil_info_2896",
+      "old_type": "fil_info",
+      "new_type": "Actualités",
+      "sources": "fil_info",
+      "old_domains": [
+        "RH"
+      ],
+      "new_domains": [
+        "RH"
+      ],
+      "domain_principal": "RH",
+      "thematiques_count": 2
+    },
+    {
+      "document_id": "fil_infos_fil_info_2897",
+      "old_type": "fil_info",
+      "new_type": "Actualités",
+      "sources": "fil_info",
+      "old_domains": [
+        "RH"
+      ],
+      "new_domains": [
+        "RH"
+      ],
+      "domain_principal": "RH",
+      "thematiques_count": 1
+    },
+    {
+      "document_id": "fil_infos_fil_info_2898",
+      "old_type": "fil_info",
+      "new_type": "Actualités",
+      "sources": "fil_info",
+      "old_domains": [
+        "IMMOBILIER",
+        "RH",
+        "ASSURANCES"
+      ],
+      "new_domains": [
+        "RH",
+        "ASSURANCES"
+      ],
+      "domain_principal": "RH",
+      "thematiques_count": 4
+    },
+    {
+      "document_id": "fil_infos_fil_info_2899",
+      "old_type": "fil_info",
+      "new_type": "Actualités",
+      "sources": "fil_info",
+      "old_domains": [
+        "PROCEDURE",
+        "RH"
+      ],
+      "new_domains": [
+        "RH"
+      ],
+      "domain_principal": "RH",
+      "thematiques_count": 0
+    },
+    {
+      "document_id": "fil_infos_fil_info_2900",
+      "old_type": "fil_info",
+      "new_type": "Actualités",
+      "sources": "fil_info",
+      "old_domains": [
+        "ASSURANCES",
+        "RH"
+      ],
+      "new_domains": [
+        "ASSURANCES",
+        "RH"
+      ],
+      "domain_principal": "RH",
+      "thematiques_count": 1
+    },
+    {
+      "document_id": "fil_infos_fil_info_2901",
+      "old_type": "fil_info",
+      "new_type": "Actualités",
+      "sources": "fil_info",
+      "old_domains": [
+        "IMMOBILIER",
+        "RH",
+        "FISCAL_SUCCESSION"
+      ],
+      "new_domains": [
+        "RH"
+      ],
+      "domain_principal": "RH",
+      "thematiques_count": 0
+    },
+    {
+      "document_id": "fil_infos_fil_info_2902",
+      "old_type": "fil_info",
+      "new_type": "Actualités",
+      "sources": "fil_info",
+      "old_domains": [
+        "DEONTOLOGIE",
+        "RH"
+      ],
+      "new_domains": [
+        "DEONTOLOGIE",
+        "RH"
+      ],
+      "domain_principal": "DEONTOLOGIE",
+      "thematiques_count": 1
+    },
+    {
+      "document_id": "fil_infos_fil_info_2903",
+      "old_type": "fil_info",
+      "new_type": "Actualités",
+      "sources": "fil_info",
+      "old_domains": [
+        "RH"
+      ],
+      "new_domains": [
+        "RH"
+      ],
+      "domain_principal": "RH",
+      "thematiques_count": 2
+    },
+    {
+      "document_id": "fil_infos_fil_info_2904",
+      "old_type": "fil_info",
+      "new_type": "Actualités",
+      "sources": "fil_info",
+      "old_domains": [
+        "RH"
+      ],
+      "new_domains": [
+        "RH"
+      ],
+      "domain_principal": "RH",
+      "thematiques_count": 1
+    },
+    {
+      "document_id": "fil_infos_fil_info_2905",
+      "old_type": "fil_info",
+      "new_type": "Actualités",
+      "sources": "fil_info",
+      "old_domains": [
+        "RH"
+      ],
+      "new_domains": [
+        "RH"
+      ],
+      "domain_principal": "RH",
+      "thematiques_count": 2
+    },
+    {
+      "document_id": "fil_infos_fil_info_2906",
+      "old_type": "fil_info",
+      "new_type": "Actualités",
+      "sources": "fil_info",
+      "old_domains": [
+        "PROCEDURE",
+        "RH"
+      ],
+      "new_domains": [
+        "RH"
+      ],
+      "domain_principal": "RH",
+      "thematiques_count": 5
+    },
+    {
+      "document_id": "fil_infos_fil_info_2907",
+      "old_type": "fil_info",
+      "new_type": "Actualités",
+      "sources": "fil_info",
+      "old_domains": [
+        "RH"
+      ],
+      "new_domains": [
+        "RH"
+      ],
+      "domain_principal": "RH",
+      "thematiques_count": 2
+    },
+    {
+      "document_id": "fil_infos_fil_info_2908",
+      "old_type": "fil_info",
+      "new_type": "Actualités",
+      "sources": "fil_info",
+      "old_domains": [
+        "RH"
+      ],
+      "new_domains": [
+        "RH"
+      ],
+      "domain_principal": "RH",
+      "thematiques_count": 2
+    },
+    {
+      "document_id": "fil_infos_fil_info_2909",
+      "old_type": "fil_info",
+      "new_type": "Actualités",
+      "sources": "fil_info",
+      "old_domains": [
+        "RH",
+        "PROCEDURE"
+      ],
+      "new_domains": [
+        "RH"
+      ],
+      "domain_principal": "RH",
+      "thematiques_count": 2
+    },
+    {
+      "document_id": "guide_de_la_negociation_immobiliere_notariale",
+      "old_type": "guide_pratique",
+      "new_type": "Directives CSN",
+      "sources": "guide_pratique",
+      "old_domains": [
+        "RH"
+      ],
+      "new_domains": [
+        "RH"
+      ],
+      "domain_principal": "RH",
+      "thematiques_count": 1
+    },
+    {
+      "document_id": "jo_ordo_2022_04_13",
+      "old_type": "decret_ordonnance",
+      "new_type": "Lois et règlements",
+      "sources": "decret_ordonnance",
+      "old_domains": [
+        "DEONTOLOGIE",
+        "PROCEDURE"
+      ],
+      "new_domains": [
+        "DEONTOLOGIE"
+      ],
+      "domain_principal": "DEONTOLOGIE",
+      "thematiques_count": 6
+    },
+    {
+      "document_id": "joe_20220414_0088_0041",
+      "old_type": "guide_pratique",
+      "new_type": "Directives CSN",
+      "sources": "guide_pratique",
+      "old_domains": [
+        "DEONTOLOGIE",
+        "RH",
+        "PROCEDURE"
+      ],
+      "new_domains": [
+        "DEONTOLOGIE",
+        "RH"
+      ],
+      "domain_principal": "DEONTOLOGIE",
+      "thematiques_count": 6
+    },
+    {
+      "document_id": "note_de_me_bonte_ventes_immo",
+      "old_type": "guide_pratique",
+      "new_type": "Directives CSN",
+      "sources": "guide_pratique",
+      "old_domains": [
+        "DEONTOLOGIE"
+      ],
+      "new_domains": [
+        "DEONTOLOGIE"
+      ],
+      "domain_principal": "DEONTOLOGIE",
+      "thematiques_count": 3
+    },
+    {
+      "document_id": "observatoire_immobilier_cid14_2025m1",
+      "old_type": "immobilier",
+      "new_type": "Actualités",
+      "sources": "immobilier",
+      "old_domains": [
+        "IMMOBILIER"
+      ],
+      "new_domains": [
+        "DEONTOLOGIE"
+      ],
+      "domain_principal": "DEONTOLOGIE",
+      "thematiques_count": 0
+    },
+    {
+      "document_id": "observatoire_immobilier_cid50_2025m1",
+      "old_type": "immobilier",
+      "new_type": "Actualités",
+      "sources": "immobilier",
+      "old_domains": [
+        "IMMOBILIER"
+      ],
+      "new_domains": [
+        "DEONTOLOGIE"
+      ],
+      "domain_principal": "DEONTOLOGIE",
+      "thematiques_count": 0
+    },
+    {
+      "document_id": "observatoire_immobilier_cid61_2025m1",
+      "old_type": "immobilier",
+      "new_type": "Actualités",
+      "sources": "immobilier",
+      "old_domains": [
+        "IMMOBILIER"
+      ],
+      "new_domains": [
+        "DEONTOLOGIE"
+      ],
+      "domain_principal": "DEONTOLOGIE",
+      "thematiques_count": 0
+    },
+    {
+      "document_id": "qr_notaires_dataset",
+      "old_type": "guide_pratique",
+      "new_type": "Directives CSN",
+      "sources": "guide_pratique",
+      "old_domains": [
+        "DEONTOLOGIE",
+        "IMMOBILIER",
+        "RH"
+      ],
+      "new_domains": [
+        "DEONTOLOGIE",
+        "RH"
+      ],
+      "domain_principal": "DEONTOLOGIE",
+      "thematiques_count": 0
+    },
+    {
+      "document_id": "reglement_de_la_cour",
+      "old_type": "guide_pratique",
+      "new_type": "Directives CSN",
+      "sources": "guide_pratique",
+      "old_domains": [
+        "DEONTOLOGIE"
+      ],
+      "new_domains": [
+        "DEONTOLOGIE"
+      ],
+      "domain_principal": "DEONTOLOGIE",
+      "thematiques_count": 1
+    },
+    {
+      "document_id": "rpn_pj_rpn_commentaire",
+      "old_type": "guide_pratique",
+      "new_type": "Directives CSN",
+      "sources": "guide_pratique",
+      "old_domains": [
+        "DEONTOLOGIE"
+      ],
+      "new_domains": [
+        "DEONTOLOGIE"
+      ],
+      "domain_principal": "DEONTOLOGIE",
+      "thematiques_count": 4
+    },
+    {
+      "document_id": "rpn_rpn",
+      "old_type": "guide_pratique",
+      "new_type": "Directives CSN",
+      "sources": "guide_pratique",
+      "old_domains": [
+        "DEONTOLOGIE",
+        "RH",
+        "ASSURANCES"
+      ],
+      "new_domains": [
+        "DEONTOLOGIE",
+        "RH",
+        "ASSURANCES"
+      ],
+      "domain_principal": "DEONTOLOGIE",
+      "thematiques_count": 7
+    }
+  ],
+  "statistics": {
+    "by_new_type": {
+      "Lois et règlements": 6,
+      "Directives CSN": 50,
+      "Assurances": 2,
+      "Convention collectives Notariat": 31,
+      "Actualités": 156
+    },
+    "by_source": {
+      "decret_ordonnance": 6,
+      "guide_pratique": 28,
+      "assurance": 2,
+      "avenant_ccn": 22,
+      "accord_branche": 9,
+      "conformite": 2,
+      "circulaire_csn": 20,
+      "fil_info": 153,
+      "immobilier": 3
+    },
+    "by_domain": {
+      "DEONTOLOGIE": 60,
+      "RH": 182,
+      "ASSURANCES": 3
+    },
+    "removed_domains_count": 76
+  }
+}

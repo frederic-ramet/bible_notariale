@@ -13,7 +13,7 @@
     "statut": "en_vigueur"
   },
   "classification": {
-    "type_document": "accord_branche",
+    "type_document": "Convention collectives Notariat",
     "label": "Accord de branche",
     "domaines_juridiques": [
       "négociation collective",
@@ -26,10 +26,18 @@
     ],
     "annee_reference": 2020,
     "categorie_dossier": "CSN2020",
-    "categories_metier": [
+    "sources_document": "accord_branche",
+    "domaines_metier": [
       "RH"
     ],
-    "categorie_metier_principale": "RH"
+    "domaine_metier_principal": "RH",
+    "thematiques": [
+      "intéressement",
+      "avenant",
+      "convention collective",
+      "conseil supérieur du notariat",
+      "rémunération"
+    ]
   },
   "reference": null,
   "vocabulaire_specifique": [

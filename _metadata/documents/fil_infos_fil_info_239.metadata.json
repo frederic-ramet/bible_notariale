@@ -13,7 +13,7 @@
     "statut": "en_vigueur"
   },
   "classification": {
-    "type_document": "fil_info",
+    "type_document": "Actualités",
     "label": "Fil-Info",
     "domaines_juridiques": [
       "actualité juridique",
@@ -26,12 +26,19 @@
     ],
     "annee_reference": 2025,
     "categorie_dossier": "fil-infos",
-    "categories_metier": [
+    "sources_document": "fil_info",
+    "domaines_metier": [
       "DEONTOLOGIE",
       "RH",
       "ASSURANCES"
     ],
-    "categorie_metier_principale": "DEONTOLOGIE"
+    "domaine_metier_principal": "DEONTOLOGIE",
+    "thematiques": [
+      "lcb-ft",
+      "prévoyance",
+      "circulaire",
+      "conseil supérieur du notariat"
+    ]
   },
   "reference": {
     "type": "fil_info",

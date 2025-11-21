@@ -13,7 +13,7 @@
     "statut": "en_vigueur"
   },
   "classification": {
-    "type_document": "avenant_ccn",
+    "type_document": "Convention collectives Notariat",
     "label": "Avenant CCN",
     "domaines_juridiques": [
       "convention collective",
@@ -26,10 +26,17 @@
     ],
     "annee_reference": 2023,
     "categorie_dossier": "CSN2023",
-    "categories_metier": [
+    "sources_document": "avenant_ccn",
+    "domaines_metier": [
       "RH"
     ],
-    "categorie_metier_principale": "RH"
+    "domaine_metier_principal": "RH",
+    "thematiques": [
+      "rémunération",
+      "avenant",
+      "convention collective",
+      "conseil supérieur du notariat"
+    ]
   },
   "reference": {
     "type": "avenant",

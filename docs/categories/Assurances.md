@@ -1,4 +1,4 @@
-# Assurance
+# Assurances
 
 [← Retour à l'index principal](../../README.md)
 
@@ -6,12 +6,7 @@
 
 ## Description
 
-Les documents d'assurance regroupent les contrats de responsabilité civile professionnelle,
-les garanties cyber-risques et les protections spécifiques aux offices notariaux. Ils détaillent les
-couvertures, franchises, procédures de déclaration et obligations de l'assuré. La protection assurantielle
-est essentielle pour la continuité de l'activité notariale.
 
-**Usage** : Référez-vous à ces contrats pour connaître vos garanties et les procédures en cas de sinistre.
 
 ---
 
@@ -21,7 +16,7 @@ est essentielle pour la continuité de l'activité notariale.
 - **Période couverte** : 2025 - 2025
 - **Document le plus récent** : 2025-07-01
 - **Document le plus ancien** : 2025-01-01
-- **Domaines juridiques** : assurance professionnelle, prévoyance
+- **Domaines juridiques** : 
 
 ---
 
@@ -53,4 +48,4 @@ assurance professionnelle, cyber-risques, cybersécurité, formation professionn
 
 ---
 
-*Page générée automatiquement le 15/11/2025 à 09:44*
+*Page générée automatiquement le 21/11/2025 à 10:12*

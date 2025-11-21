@@ -13,7 +13,7 @@
     "statut": "en_vigueur"
   },
   "classification": {
-    "type_document": "fil_info",
+    "type_document": "Actualités",
     "label": "Fil-Info",
     "domaines_juridiques": [
       "actualité juridique",
@@ -26,12 +26,20 @@
     ],
     "annee_reference": 2025,
     "categorie_dossier": "fil-infos",
-    "categories_metier": [
-      "IMMOBILIER",
+    "sources_document": "fil_info",
+    "domaines_metier": [
       "RH",
       "ASSURANCES"
     ],
-    "categorie_metier_principale": "IMMOBILIER"
+    "domaine_metier_principal": "RH",
+    "thematiques": [
+      "avenant",
+      "cybersécurité",
+      "convention collective",
+      "conseil supérieur du notariat",
+      "prévoyance",
+      "rgpd"
+    ]
   },
   "reference": {
     "type": "fil_info",

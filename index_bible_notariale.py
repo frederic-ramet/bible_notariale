@@ -30,6 +30,19 @@ REFERENCE_PATTERNS = {
     'fil_info': r'fil-info-(\d+)',
 }
 
+# Mapping sources_document → type_document (catégorie business)
+SOURCE_TO_TYPE_MAPPING = {
+    'circulaire_csn': 'Directives CSN',
+    'guide_pratique': 'Directives CSN',
+    'avenant_ccn': 'Convention collectives Notariat',
+    'accord_branche': 'Convention collectives Notariat',
+    'fil_info': 'Actualités',
+    'decret_ordonnance': 'Lois et règlements',
+    'assurance': 'Assurances',
+    'conformite': None,  # Déterminé selon émetteur
+    'formation': None,  # Déterminé selon contexte
+}
+
 # Classification par type de document
 DOCUMENT_TYPES = {
     'circulaire_csn': {
@@ -102,16 +115,6 @@ les garanties cyber-risques et les protections spécifiques aux offices notariau
 couvertures, franchises, procédures de déclaration et obligations de l'assuré. La protection assurantielle
 est essentielle pour la continuité de l'activité notariale.""",
         'usage': "Référez-vous à ces contrats pour connaître vos garanties et les procédures en cas de sinistre."
-    },
-    'immobilier': {
-        'patterns': [r'[Ii]mmobili[eè]re?', r'observatoire', r'CID\d+'],
-        'label': 'Immobilier',
-        'domaines': ['transactions immobilières', 'observatoire'],
-        'description': """La documentation immobilière comprend les guides de négociation, les données de
-l'observatoire immobilier notarial et les analyses de marché. Ces informations permettent aux notaires
-d'accompagner leurs clients avec des données fiables sur les prix, tendances et spécificités du marché
-immobilier local.""",
-        'usage': "Exploitez ces données pour conseiller vos clients et analyser le marché immobilier de votre secteur."
     },
     'formation': {
         'patterns': [r'[Ff]ormation', r'OPCO', r'alternance'],

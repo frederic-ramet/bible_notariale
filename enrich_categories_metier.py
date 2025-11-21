@@ -20,15 +20,15 @@ INDEX_FILE = METADATA_DIR / "index_complet.json"
 
 # Mapping des types de documents vers catégories métier
 TYPE_TO_CATEGORIES = {
-    'circulaire_csn': ['DEONTOLOGIE', 'PROCEDURE'],
+    'circulaire_csn': ['DEONTOLOGIE'],
     'avenant_ccn': ['RH'],
     'accord_branche': ['RH'],
     'fil_info': ['DEONTOLOGIE'],  # Par défaut, sera affiné par analyse
     'guide_pratique': ['DEONTOLOGIE'],  # Par défaut, sera affiné par analyse
-    'decret_ordonnance': ['DEONTOLOGIE', 'PROCEDURE'],
+    'decret_ordonnance': ['DEONTOLOGIE'],
     'assurance': ['ASSURANCES'],
-    'immobilier': ['IMMOBILIER'],
     'conformite': ['DEONTOLOGIE'],
+    'formation': ['DEONTOLOGIE'],  # Par défaut, sera affiné par analyse
 }
 
 # Mots-clés pour l'affinage des catégories
@@ -37,47 +37,29 @@ KEYWORDS_TO_CATEGORY = {
         'déontologie', 'éthique', 'discipline', 'secret professionnel',
         'rpn', 'code de déontologie', 'obligations professionnelles',
         'serment', 'missions du notaire', 'responsabilité professionnelle',
-        'lcb-ft', 'tracfin', 'blanchiment', 'conformité', 'médiation'
-    ],
-    'IMMOBILIER': [
-        'immobilier', 'vente', 'acquisition', 'cadastre', 'foncier',
-        'safer', 'acte de vente', 'compromis', 'permis de construire',
-        'urbanisme', 'copropriété', 'bail', 'mutation', 'tpf',
-        'publicité foncière', 'hypothèque', 'prix de vente'
+        'lcb-ft', 'tracfin', 'blanchiment', 'conformité', 'médiation',
+        'inspection', 'contrôle', 'normes professionnelles', 'règlement intérieur'
     ],
     'RH': [
         'ccn', 'salaire', 'formation', 'opco', 'clerc', 'emploi',
         'rémunération', 'avenant', 'convention collective', 'idcc',
         'embauche', 'licenciement', 'contrat de travail', 'grille salariale',
-        'prévoyance', 'retraite', 'congés', 'classification professionnelle'
+        'prévoyance', 'retraite', 'congés', 'classification professionnelle',
+        'contrats', 'temps de travail', 'personnel'
     ],
     'ASSURANCES': [
         'assurance', 'rcp', 'cyber', 'prévoyance', 'garantie',
         'responsabilité civile', 'sinistre', 'franchise', 'couverture',
-        'police d\'assurance', 'risque professionnel', 'indemnisation'
-    ],
-    'PROCEDURE': [
-        'procédure', 'formalités', 'légalisation', 'apostille',
-        'greffe', 'enregistrement', 'délai', 'notification',
-        'minute', 'expédition', 'acte authentique', 'signature',
-        'modalités', 'étapes', 'démarches'
-    ],
-    'FISCAL_SUCCESSION': [
-        'succession', 'donation', 'fiscal', 'droits de mutation',
-        'dmtg', 'isf', 'ifi', 'testament', 'héritage', 'legs',
-        'droits de succession', 'abattement', 'déclaration fiscale',
-        'généalogie', 'héritier', 'notaire successoral', 'inventaire'
+        'police d\'assurance', 'risque professionnel', 'indemnisation',
+        'cyber-risques', 'rc professionnelle', 'protection'
     ]
 }
 
 # Priorités pour déterminer la catégorie principale
 CATEGORY_PRIORITY = {
     'DEONTOLOGIE': 1,
-    'IMMOBILIER': 2,
-    'RH': 3,
-    'FISCAL_SUCCESSION': 4,
-    'PROCEDURE': 5,
-    'ASSURANCES': 6,
+    'RH': 2,
+    'ASSURANCES': 3,
 }
 
 
@@ -125,8 +107,8 @@ def enrich_metadata_file(filepath):
     with open(filepath, 'r', encoding='utf-8') as f:
         metadata = json.load(f)
 
-    # Type de document
-    type_doc = metadata.get('classification', {}).get('type_document', '')
+    # Type de document (sources_document dans la nouvelle structure)
+    type_doc = metadata.get('classification', {}).get('sources_document', '')
 
     # Catégories de base selon le type
     base_categories = TYPE_TO_CATEGORIES.get(type_doc, ['DEONTOLOGIE'])
@@ -159,8 +141,8 @@ def enrich_metadata_file(filepath):
     if 'classification' not in metadata:
         metadata['classification'] = {}
 
-    metadata['classification']['categories_metier'] = categories_metier
-    metadata['classification']['categorie_metier_principale'] = categorie_principale
+    metadata['classification']['domaines_metier'] = categories_metier
+    metadata['classification']['domaine_metier_principal'] = categorie_principale
 
     # Sauvegarder
     with open(filepath, 'w', encoding='utf-8') as f:
@@ -168,9 +150,9 @@ def enrich_metadata_file(filepath):
 
     return {
         'document_id': metadata.get('document_id', ''),
-        'type_document': type_doc,
-        'categories_metier': categories_metier,
-        'categorie_principale': categorie_principale
+        'sources_document': type_doc,
+        'domaines_metier': categories_metier,
+        'domaine_principal': categorie_principale
     }
 
 
@@ -186,46 +168,46 @@ def generate_report(enrichment_results):
     total_docs = len(enrichment_results)
     print(f"📊 Total de documents enrichis : {total_docs}\n")
 
-    # Répartition par catégorie principale
-    print("📈 RÉPARTITION PAR CATÉGORIE PRINCIPALE")
+    # Répartition par domaine principal
+    print("📈 RÉPARTITION PAR DOMAINE PRINCIPAL")
     print("-" * 80)
-    cat_principale_count = Counter(r['categorie_principale'] for r in enrichment_results)
-    for cat, count in sorted(cat_principale_count.items(), key=lambda x: x[1], reverse=True):
+    dom_principale_count = Counter(r['domaine_principal'] for r in enrichment_results)
+    for dom, count in sorted(dom_principale_count.items(), key=lambda x: x[1], reverse=True):
         pct = (count / total_docs) * 100
-        print(f"  {cat:25s} : {count:3d} documents ({pct:5.1f}%)")
+        print(f"  {dom:25s} : {count:3d} documents ({pct:5.1f}%)")
 
-    # Répartition multi-catégories
-    print(f"\n📊 RÉPARTITION MULTI-CATÉGORIES")
+    # Répartition multi-domaines
+    print(f"\n📊 RÉPARTITION MULTI-DOMAINES")
     print("-" * 80)
-    all_categories = []
+    all_domains = []
     for r in enrichment_results:
-        all_categories.extend(r['categories_metier'])
-    cat_all_count = Counter(all_categories)
-    for cat, count in sorted(cat_all_count.items(), key=lambda x: x[1], reverse=True):
+        all_domains.extend(r['domaines_metier'])
+    dom_all_count = Counter(all_domains)
+    for dom, count in sorted(dom_all_count.items(), key=lambda x: x[1], reverse=True):
         pct = (count / total_docs) * 100
-        print(f"  {cat:25s} : {count:3d} occurrences ({pct:5.1f}%)")
+        print(f"  {dom:25s} : {count:3d} occurrences ({pct:5.1f}%)")
 
-    # Répartition par type de document
-    print(f"\n📋 RÉPARTITION PAR TYPE DE DOCUMENT")
+    # Répartition par source de document
+    print(f"\n📋 RÉPARTITION PAR SOURCE DE DOCUMENT")
     print("-" * 80)
-    type_doc_count = Counter(r['type_document'] for r in enrichment_results)
-    for type_doc, count in sorted(type_doc_count.items(), key=lambda x: x[1], reverse=True):
-        print(f"  {type_doc:25s} : {count:3d} documents")
+    source_doc_count = Counter(r['sources_document'] for r in enrichment_results)
+    for source_doc, count in sorted(source_doc_count.items(), key=lambda x: x[1], reverse=True):
+        print(f"  {source_doc:25s} : {count:3d} documents")
 
-    # Documents avec plusieurs catégories
-    multi_cat_docs = [r for r in enrichment_results if len(r['categories_metier']) > 1]
-    print(f"\n🔀 Documents multi-catégories : {len(multi_cat_docs)}")
+    # Documents avec plusieurs domaines
+    multi_dom_docs = [r for r in enrichment_results if len(r['domaines_metier']) > 1]
+    print(f"\n🔀 Documents multi-domaines : {len(multi_dom_docs)}")
 
-    # Exemples par catégorie principale
-    print(f"\n📚 EXEMPLES PAR CATÉGORIE PRINCIPALE")
+    # Exemples par domaine principal
+    print(f"\n📚 EXEMPLES PAR DOMAINE PRINCIPAL")
     print("-" * 80)
-    for cat in sorted(CATEGORY_PRIORITY.keys(), key=lambda x: CATEGORY_PRIORITY[x]):
-        examples = [r for r in enrichment_results if r['categorie_principale'] == cat]
+    for dom in sorted(CATEGORY_PRIORITY.keys(), key=lambda x: CATEGORY_PRIORITY[x]):
+        examples = [r for r in enrichment_results if r['domaine_principal'] == dom]
         if examples:
-            print(f"\n  {cat} ({len(examples)} documents):")
+            print(f"\n  {dom} ({len(examples)} documents):")
             for ex in examples[:3]:  # 3 premiers exemples
-                cats_str = ', '.join(ex['categories_metier'])
-                print(f"    - {ex['document_id'][:60]:60s} [{cats_str}]")
+                doms_str = ', '.join(ex['domaines_metier'])
+                print(f"    - {ex['document_id'][:60]:60s} [{doms_str}]")
 
     print("\n" + "="*80)
     print(f"✅ Enrichissement terminé avec succès")
@@ -271,8 +253,8 @@ def main():
             if matching_result:
                 if 'classification' not in doc:
                     doc['classification'] = {}
-                doc['classification']['categories_metier'] = matching_result['categories_metier']
-                doc['classification']['categorie_metier_principale'] = matching_result['categorie_principale']
+                doc['classification']['domaines_metier'] = matching_result['domaines_metier']
+                doc['classification']['domaine_metier_principal'] = matching_result['domaine_principal']
 
         # Sauvegarder l'index mis à jour
         with open(INDEX_FILE, 'w', encoding='utf-8') as f:
@@ -281,16 +263,26 @@ def main():
         print(f"✅ Index complet mis à jour : {INDEX_FILE}")
 
     # Sauvegarder le rapport en JSON
-    report_file = METADATA_DIR / "categories_metier_report.json"
+    report_file = METADATA_DIR / "domaines_metier_report.json"
     with open(report_file, 'w', encoding='utf-8') as f:
         json.dump({
             'generated_at': datetime.now().isoformat(),
             'total_documents': len(enrichment_results),
-            'results': enrichment_results,
+            'documents': [
+                {
+                    'document_id': r['document_id'],
+                    'classification': {
+                        'sources_document': r['sources_document'],
+                        'domaines_metier': r['domaines_metier'],
+                        'domaine_principal': r['domaine_principal']
+                    }
+                }
+                for r in enrichment_results
+            ],
             'statistics': {
-                'by_main_category': dict(Counter(r['categorie_principale'] for r in enrichment_results)),
-                'by_type': dict(Counter(r['type_document'] for r in enrichment_results)),
-                'multi_category_count': len([r for r in enrichment_results if len(r['categories_metier']) > 1])
+                'by_main_domain': dict(Counter(r['domaine_principal'] for r in enrichment_results)),
+                'by_source': dict(Counter(r['sources_document'] for r in enrichment_results)),
+                'multi_domain_count': len([r for r in enrichment_results if len(r['domaines_metier']) > 1])
             }
         }, f, ensure_ascii=False, indent=2)
 

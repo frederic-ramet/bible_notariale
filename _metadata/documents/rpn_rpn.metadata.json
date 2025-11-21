@@ -13,7 +13,7 @@
     "statut": "en_vigueur"
   },
   "classification": {
-    "type_document": "guide_pratique",
+    "type_document": "Directives CSN",
     "label": "Guide pratique",
     "domaines_juridiques": [
       "documentation métier",
@@ -26,12 +26,22 @@
     ],
     "annee_reference": 2025,
     "categorie_dossier": "rpn",
-    "categories_metier": [
+    "sources_document": "guide_pratique",
+    "domaines_metier": [
       "DEONTOLOGIE",
       "RH",
       "ASSURANCES"
     ],
-    "categorie_metier_principale": "DEONTOLOGIE"
+    "domaine_metier_principal": "DEONTOLOGIE",
+    "thematiques": [
+      "conseil supérieur du notariat",
+      "acte authentique",
+      "minute",
+      "avenant",
+      "rémunération",
+      "prévoyance",
+      "tarification"
+    ]
   },
   "reference": null,
   "vocabulaire_specifique": [

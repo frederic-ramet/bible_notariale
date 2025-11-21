@@ -13,7 +13,7 @@
     "statut": "en_vigueur"
   },
   "classification": {
-    "type_document": "accord_branche",
+    "type_document": "Convention collectives Notariat",
     "label": "Accord de branche",
     "domaines_juridiques": [
       "négociation collective",
@@ -26,10 +26,20 @@
     ],
     "annee_reference": 2019,
     "categorie_dossier": "CSN2019",
-    "categories_metier": [
+    "sources_document": "accord_branche",
+    "domaines_metier": [
       "RH"
     ],
-    "categorie_metier_principale": "RH"
+    "domaine_metier_principal": "RH",
+    "thematiques": [
+      "convention collective",
+      "égalité professionnelle",
+      "rémunération",
+      "harcèlement",
+      "conseil supérieur du notariat",
+      "formation professionnelle",
+      "congés payés"
+    ]
   },
   "reference": null,
   "vocabulaire_specifique": [

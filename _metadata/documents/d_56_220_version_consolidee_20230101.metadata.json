@@ -13,7 +13,7 @@
     "statut": "en_vigueur"
   },
   "classification": {
-    "type_document": "decret_ordonnance",
+    "type_document": "Lois et règlements",
     "label": "Décret / Ordonnance",
     "domaines_juridiques": [
       "textes réglementaires",
@@ -26,11 +26,15 @@
     ],
     "annee_reference": 2023,
     "categorie_dossier": "racine",
-    "categories_metier": [
-      "DEONTOLOGIE",
-      "PROCEDURE"
+    "sources_document": "decret_ordonnance",
+    "domaines_metier": [
+      "DEONTOLOGIE"
     ],
-    "categorie_metier_principale": "DEONTOLOGIE"
+    "domaine_metier_principal": "DEONTOLOGIE",
+    "thematiques": [
+      "prévoyance",
+      "conseil supérieur du notariat"
+    ]
   },
   "reference": null,
   "vocabulaire_specifique": [

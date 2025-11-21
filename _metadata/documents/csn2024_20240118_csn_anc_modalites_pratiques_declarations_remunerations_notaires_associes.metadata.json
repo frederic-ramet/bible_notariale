@@ -13,7 +13,7 @@
     "statut": "en_vigueur"
   },
   "classification": {
-    "type_document": "guide_pratique",
+    "type_document": "Directives CSN",
     "label": "Guide pratique",
     "domaines_juridiques": [
       "rémunération notaires",
@@ -27,11 +27,15 @@
     ],
     "annee_reference": 2024,
     "categorie_dossier": "CSN2024",
-    "categories_metier": [
-      "RH",
-      "PROCEDURE"
+    "sources_document": "guide_pratique",
+    "domaines_metier": [
+      "RH"
     ],
-    "categorie_metier_principale": "RH"
+    "domaine_metier_principal": "RH",
+    "thematiques": [
+      "rémunération",
+      "conseil supérieur du notariat"
+    ]
   },
   "reference": null,
   "vocabulaire_specifique": [
