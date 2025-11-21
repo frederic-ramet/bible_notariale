@@ -48,24 +48,45 @@ def validate_document(metadata):
     elif len(questions) > 10:
         warnings.append(f"Trop de questions ({len(questions)})")
 
-    # 5. Vérifier la classification
+    # 5. Vérifier la classification - type_document (catégorie business)
     doc_type = metadata['classification'].get('type_document', '')
     valid_types = [
-        'circulaire_csn', 'avenant_ccn', 'accord_branche', 'fil_info',
-        'guide_pratique', 'decret_ordonnance', 'assurance', 'immobilier',
-        'formation', 'conformite'
+        'Directives CSN', 'Convention collectives Notariat', 'Actualités',
+        'Lois et règlements', 'Assurances'
     ]
     if doc_type not in valid_types:
         issues.append(f"Type de document invalide: {doc_type}")
 
-    # 6. Vérifier la cohérence type/contenu
+    # Vérifier sources_document
+    source_doc = metadata['classification'].get('sources_document', '')
+    valid_sources = [
+        'circulaire_csn', 'avenant_ccn', 'accord_branche', 'fil_info',
+        'guide_pratique', 'decret_ordonnance', 'assurance', 'immobilier',
+        'formation', 'conformite'
+    ]
+    if source_doc not in valid_sources:
+        issues.append(f"Source de document invalide: {source_doc}")
+
+    # Vérifier domaines_metier
+    domaines = metadata['classification'].get('domaines_metier', [])
+    valid_domains = ['RH', 'DEONTOLOGIE', 'ASSURANCES']
+    for domaine in domaines:
+        if domaine not in valid_domains:
+            issues.append(f"Domaine métier invalide: {domaine}")
+
+    # Vérifier domaine_metier_principal
+    domaine_principal = metadata['classification'].get('domaine_metier_principal', '')
+    if domaine_principal and domaine_principal not in valid_domains:
+        issues.append(f"Domaine métier principal invalide: {domaine_principal}")
+
+    # 6. Vérifier la cohérence source/contenu
     titre = metadata['metadata'].get('titre', '').lower()
-    if doc_type == 'avenant_ccn' and 'avenant' not in titre:
-        warnings.append("Type avenant mais 'avenant' absent du titre")
-    if doc_type == 'circulaire_csn' and 'circulaire' not in titre:
-        warnings.append("Type circulaire mais 'circulaire' absent du titre")
-    if doc_type == 'fil_info' and 'fil-info' not in metadata['nom_fichier'].lower():
-        warnings.append("Type fil_info mais pattern absent du nom de fichier")
+    if source_doc == 'avenant_ccn' and 'avenant' not in titre:
+        warnings.append("Source avenant mais 'avenant' absent du titre")
+    if source_doc == 'circulaire_csn' and 'circulaire' not in titre:
+        warnings.append("Source circulaire mais 'circulaire' absent du titre")
+    if source_doc == 'fil_info' and 'fil-info' not in metadata['nom_fichier'].lower():
+        warnings.append("Source fil_info mais pattern absent du nom de fichier")
 
     # 7. Vérifier les mots-clés
     mots_cles = metadata.get('mots_cles', [])

@@ -13,7 +13,7 @@
     "statut": "en_vigueur"
   },
   "classification": {
-    "type_document": "circulaire_csn",
+    "type_document": "Directives CSN",
     "label": "Circulaire CSN",
     "domaines_juridiques": [
       "réglementation notariale",
@@ -26,11 +26,11 @@
     ],
     "annee_reference": 2020,
     "categorie_dossier": "CSN2020",
-    "categories_metier": [
-      "DEONTOLOGIE",
-      "PROCEDURE"
+    "sources_document": "circulaire_csn",
+    "domaines_metier": [
+      "DEONTOLOGIE"
     ],
-    "categorie_metier_principale": "DEONTOLOGIE"
+    "domaine_metier_principal": "DEONTOLOGIE"
   },
   "reference": {
     "type": "circulaire",

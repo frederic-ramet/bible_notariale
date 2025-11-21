@@ -1,0 +1,2519 @@
+{
+  "generated_at": "2025-11-21T10:10:26.540566",
+  "total_documents": 242,
+  "documents": [
+    {
+      "document_id": "20250115_note_decret_2024_906_relatif_aux_inspections_des_officiers_publics_et_ministeriels_et_arret",
+      "classification": {
+        "sources_document": "decret_ordonnance",
+        "domaines_metier": [
+          "DEONTOLOGIE"
+        ],
+        "domaine_principal": "DEONTOLOGIE"
+      }
+    },
+    {
+      "document_id": "20250709_ext_adsn_vade_mecum_signacte_1",
+      "classification": {
+        "sources_document": "guide_pratique",
+        "domaines_metier": [
+          "RH"
+        ],
+        "domaine_principal": "RH"
+      }
+    },
+    {
+      "document_id": "assurances_contrat_cyber_renouvellement_au_01_07_2025",
+      "classification": {
+        "sources_document": "assurance",
+        "domaines_metier": [
+          "ASSURANCES"
+        ],
+        "domaine_principal": "ASSURANCES"
+      }
+    },
+    {
+      "document_id": "assurances_flipbook_contrats_de_la_profession",
+      "classification": {
+        "sources_document": "assurance",
+        "domaines_metier": [
+          "ASSURANCES"
+        ],
+        "domaine_principal": "ASSURANCES"
+      }
+    },
+    {
+      "document_id": "carrieres_des_notaires_et_modalites_declaratives",
+      "classification": {
+        "sources_document": "guide_pratique",
+        "domaines_metier": [
+          "DEONTOLOGIE"
+        ],
+        "domaine_principal": "DEONTOLOGIE"
+      }
+    },
+    {
+      "document_id": "consultation_cridon",
+      "classification": {
+        "sources_document": "guide_pratique",
+        "domaines_metier": [
+          "DEONTOLOGIE"
+        ],
+        "domaine_principal": "DEONTOLOGIE"
+      }
+    },
+    {
+      "document_id": "convention_collective_20221215_avenant_n48_du_15_decembre_2022",
+      "classification": {
+        "sources_document": "avenant_ccn",
+        "domaines_metier": [
+          "RH"
+        ],
+        "domaine_principal": "RH"
+      }
+    },
+    {
+      "document_id": "convention_collective_20230525_avenant_n50_a_la_ccn_periode_dessai_1",
+      "classification": {
+        "sources_document": "avenant_ccn",
+        "domaines_metier": [
+          "RH"
+        ],
+        "domaine_principal": "RH"
+      }
+    },
+    {
+      "document_id": "convention_collective_20231214_avenant_n54_a_la_ccn_modification_de_larticle_15_categorie_employes",
+      "classification": {
+        "sources_document": "avenant_ccn",
+        "domaines_metier": [
+          "RH"
+        ],
+        "domaine_principal": "RH"
+      }
+    },
+    {
+      "document_id": "convention_collective_20240321_avenant_n56_ccn_modification_art_12_2_procedure_licenciement_mis_en_f",
+      "classification": {
+        "sources_document": "avenant_ccn",
+        "domaines_metier": [
+          "RH"
+        ],
+        "domaine_principal": "RH"
+      }
+    },
+    {
+      "document_id": "convention_collective_20241114_avenant_58_modif_art_15_6_et_29_3_3_mis_en_forme",
+      "classification": {
+        "sources_document": "avenant_ccn",
+        "domaines_metier": [
+          "RH"
+        ],
+        "domaine_principal": "RH"
+      }
+    },
+    {
+      "document_id": "convention_collective_20241212_avenant_59_modif_art_29_5_participation_financiere_formation_pro_mis_",
+      "classification": {
+        "sources_document": "avenant_ccn",
+        "domaines_metier": [
+          "RH"
+        ],
+        "domaine_principal": "RH"
+      }
+    },
+    {
+      "document_id": "convention_collective_20250624_pdt_csn_msg_acquisition_conges_payes_arret_maladie_pj",
+      "classification": {
+        "sources_document": "accord_branche",
+        "domaines_metier": [
+          "RH"
+        ],
+        "domaine_principal": "RH"
+      }
+    },
+    {
+      "document_id": "convention_collective_avenant_n51",
+      "classification": {
+        "sources_document": "avenant_ccn",
+        "domaines_metier": [
+          "RH"
+        ],
+        "domaine_principal": "RH"
+      }
+    },
+    {
+      "document_id": "convention_collective_avenant_n52",
+      "classification": {
+        "sources_document": "avenant_ccn",
+        "domaines_metier": [
+          "RH"
+        ],
+        "domaine_principal": "RH"
+      }
+    },
+    {
+      "document_id": "convention_collective_avenant_n53",
+      "classification": {
+        "sources_document": "avenant_ccn",
+        "domaines_metier": [
+          "RH"
+        ],
+        "domaine_principal": "RH"
+      }
+    },
+    {
+      "document_id": "convention_collective_avenant_n_47_modification_de_l_article_29_1_2_sur_la_formation",
+      "classification": {
+        "sources_document": "avenant_ccn",
+        "domaines_metier": [
+          "RH"
+        ],
+        "domaine_principal": "RH"
+      }
+    },
+    {
+      "document_id": "convention_collective_convention_collective_nationale_du_notariat_idcc_2205_actualisee_et_consolidee",
+      "classification": {
+        "sources_document": "accord_branche",
+        "domaines_metier": [
+          "RH"
+        ],
+        "domaine_principal": "RH"
+      }
+    },
+    {
+      "document_id": "cp_guide_spe_v_def_2020_07_08",
+      "classification": {
+        "sources_document": "guide_pratique",
+        "domaines_metier": [
+          "RH",
+          "ASSURANCES"
+        ],
+        "domaine_principal": "RH"
+      }
+    },
+    {
+      "document_id": "csn2019_20181220_avenant_n_36_opco",
+      "classification": {
+        "sources_document": "avenant_ccn",
+        "domaines_metier": [
+          "RH"
+        ],
+        "domaine_principal": "RH"
+      }
+    },
+    {
+      "document_id": "csn2019_accord_egalite_professionnelle_entre_les_femmes_et_les_hommes_20190418",
+      "classification": {
+        "sources_document": "accord_branche",
+        "domaines_metier": [
+          "RH"
+        ],
+        "domaine_principal": "RH"
+      }
+    },
+    {
+      "document_id": "csn2019_accord_f_h",
+      "classification": {
+        "sources_document": "accord_branche",
+        "domaines_metier": [
+          "RH"
+        ],
+        "domaine_principal": "RH"
+      }
+    },
+    {
+      "document_id": "csn2019_accord_formation_et_reconversion_ou_promotion_par_l_alternance_20190711",
+      "classification": {
+        "sources_document": "accord_branche",
+        "domaines_metier": [
+          "RH"
+        ],
+        "domaine_principal": "RH"
+      }
+    },
+    {
+      "document_id": "csn2019_acte_electro_ssp",
+      "classification": {
+        "sources_document": "guide_pratique",
+        "domaines_metier": [
+          "RH"
+        ],
+        "domaine_principal": "RH"
+      }
+    },
+    {
+      "document_id": "csn2019_analyse_nationale_des_risques_lcb_ft_en_france_septembre_2019",
+      "classification": {
+        "sources_document": "conformite",
+        "domaines_metier": [
+          "DEONTOLOGIE"
+        ],
+        "domaine_principal": "DEONTOLOGIE"
+      }
+    },
+    {
+      "document_id": "csn2019_avenant_n_38_opco",
+      "classification": {
+        "sources_document": "avenant_ccn",
+        "domaines_metier": [
+          "RH"
+        ],
+        "domaine_principal": "RH"
+      }
+    },
+    {
+      "document_id": "csn2020_accord_interessement_11072019",
+      "classification": {
+        "sources_document": "accord_branche",
+        "domaines_metier": [
+          "RH"
+        ],
+        "domaine_principal": "RH"
+      }
+    },
+    {
+      "document_id": "csn2020_avenant_40_accord_de_salaires_20200917",
+      "classification": {
+        "sources_document": "avenant_ccn",
+        "domaines_metier": [
+          "RH"
+        ],
+        "domaine_principal": "RH"
+      }
+    },
+    {
+      "document_id": "csn2020_circulaire_05_20_tm",
+      "classification": {
+        "sources_document": "circulaire_csn",
+        "domaines_metier": [
+          "DEONTOLOGIE"
+        ],
+        "domaine_principal": "DEONTOLOGIE"
+      }
+    },
+    {
+      "document_id": "csn2020_circulaire_n_2020_1_du_15_avril_2020",
+      "classification": {
+        "sources_document": "circulaire_csn",
+        "domaines_metier": [
+          "DEONTOLOGIE"
+        ],
+        "domaine_principal": "DEONTOLOGIE"
+      }
+    },
+    {
+      "document_id": "csn2020_circulaire_n_2020_2_du_7_mai_2020",
+      "classification": {
+        "sources_document": "circulaire_csn",
+        "domaines_metier": [
+          "DEONTOLOGIE"
+        ],
+        "domaine_principal": "DEONTOLOGIE"
+      }
+    },
+    {
+      "document_id": "csn2020_circulaire_n_2020_3_du_22_septembre_2020",
+      "classification": {
+        "sources_document": "circulaire_csn",
+        "domaines_metier": [
+          "DEONTOLOGIE"
+        ],
+        "domaine_principal": "DEONTOLOGIE"
+      }
+    },
+    {
+      "document_id": "csn2021_202106_avenant_42_notaire_salarie",
+      "classification": {
+        "sources_document": "avenant_ccn",
+        "domaines_metier": [
+          "RH"
+        ],
+        "domaine_principal": "RH"
+      }
+    },
+    {
+      "document_id": "csn2021_accord_de_branche_du_15_mai_2020_relatif_au_delai_de_carrence_entre_deux_contrats_a_duree_de",
+      "classification": {
+        "sources_document": "accord_branche",
+        "domaines_metier": [
+          "RH"
+        ],
+        "domaine_principal": "RH"
+      }
+    },
+    {
+      "document_id": "csn2021_avenant_accord_de_salaires_20210218",
+      "classification": {
+        "sources_document": "avenant_ccn",
+        "domaines_metier": [
+          "RH"
+        ],
+        "domaine_principal": "RH"
+      }
+    },
+    {
+      "document_id": "csn2021_circulaire_02_21_av_be",
+      "classification": {
+        "sources_document": "circulaire_csn",
+        "domaines_metier": [
+          "DEONTOLOGIE"
+        ],
+        "domaine_principal": "DEONTOLOGIE"
+      }
+    },
+    {
+      "document_id": "csn2021_circulaire_2021_1_du_19_fevrier_2021",
+      "classification": {
+        "sources_document": "circulaire_csn",
+        "domaines_metier": [
+          "DEONTOLOGIE"
+        ],
+        "domaine_principal": "DEONTOLOGIE"
+      }
+    },
+    {
+      "document_id": "csn2021_processus_ciclade_septembre_2021",
+      "classification": {
+        "sources_document": "guide_pratique",
+        "domaines_metier": [
+          "RH"
+        ],
+        "domaine_principal": "RH"
+      }
+    },
+    {
+      "document_id": "csn2022_2022_01_circulaire_csn_les_annexes_des_actes_notaries_au_regard_des_contraintes_rgpd_et_cnil",
+      "classification": {
+        "sources_document": "circulaire_csn",
+        "domaines_metier": [
+          "DEONTOLOGIE"
+        ],
+        "domaine_principal": "DEONTOLOGIE"
+      }
+    },
+    {
+      "document_id": "csn2022_2022_02_circulaire_csn_les_frais_de_recherche_et_de_copie_d_acte_et_de_leurs_annexes",
+      "classification": {
+        "sources_document": "circulaire_csn",
+        "domaines_metier": [
+          "DEONTOLOGIE"
+        ],
+        "domaine_principal": "DEONTOLOGIE"
+      }
+    },
+    {
+      "document_id": "csn2022_appel_a_vigilance_de_la_direction_generale_du_tresor",
+      "classification": {
+        "sources_document": "conformite",
+        "domaines_metier": [
+          "DEONTOLOGIE"
+        ],
+        "domaine_principal": "DEONTOLOGIE"
+      }
+    },
+    {
+      "document_id": "csn2022_calculs_financiers_brochure_explicative_de_l_outil",
+      "classification": {
+        "sources_document": "guide_pratique",
+        "domaines_metier": [
+          "RH",
+          "ASSURANCES"
+        ],
+        "domaine_principal": "RH"
+      }
+    },
+    {
+      "document_id": "csn2022_circulaire_02_22_av_be",
+      "classification": {
+        "sources_document": "circulaire_csn",
+        "domaines_metier": [
+          "DEONTOLOGIE"
+        ],
+        "domaine_principal": "DEONTOLOGIE"
+      }
+    },
+    {
+      "document_id": "csn2022_circulaire_05_22_tm",
+      "classification": {
+        "sources_document": "circulaire_csn",
+        "domaines_metier": [
+          "DEONTOLOGIE"
+        ],
+        "domaine_principal": "DEONTOLOGIE"
+      }
+    },
+    {
+      "document_id": "csn2023_20221215_accord_de_branche_harcelement_au_travail",
+      "classification": {
+        "sources_document": "accord_branche",
+        "domaines_metier": [
+          "RH"
+        ],
+        "domaine_principal": "RH"
+      }
+    },
+    {
+      "document_id": "csn2023_20221215_avenant_n_48_du_15_decembre_2022",
+      "classification": {
+        "sources_document": "avenant_ccn",
+        "domaines_metier": [
+          "RH"
+        ],
+        "domaine_principal": "RH"
+      }
+    },
+    {
+      "document_id": "csn2023_avenant_n_49_du_16_fevrier_2023",
+      "classification": {
+        "sources_document": "avenant_ccn",
+        "domaines_metier": [
+          "RH"
+        ],
+        "domaine_principal": "RH"
+      }
+    },
+    {
+      "document_id": "csn2023_avenant_n_6_complementaire_frais_de_sante_du_16_fevrier_2023",
+      "classification": {
+        "sources_document": "avenant_ccn",
+        "domaines_metier": [
+          "RH"
+        ],
+        "domaine_principal": "RH"
+      }
+    },
+    {
+      "document_id": "csn2023_circulaire_n_2020_3_du_22_septembre_2020",
+      "classification": {
+        "sources_document": "circulaire_csn",
+        "domaines_metier": [
+          "DEONTOLOGIE"
+        ],
+        "domaine_principal": "DEONTOLOGIE"
+      }
+    },
+    {
+      "document_id": "csn2023_cyber_attaque_fiche_reflexes_csn_03_02_2023",
+      "classification": {
+        "sources_document": "guide_pratique",
+        "domaines_metier": [
+          "ASSURANCES"
+        ],
+        "domaine_principal": "ASSURANCES"
+      }
+    },
+    {
+      "document_id": "csn2023_dos_acs_tm_2023",
+      "classification": {
+        "sources_document": "guide_pratique",
+        "domaines_metier": [
+          "RH"
+        ],
+        "domaine_principal": "RH"
+      }
+    },
+    {
+      "document_id": "csn2023_dos_av_2023",
+      "classification": {
+        "sources_document": "guide_pratique",
+        "domaines_metier": [
+          "RH"
+        ],
+        "domaine_principal": "RH"
+      }
+    },
+    {
+      "document_id": "csn2023_dos_be_2023",
+      "classification": {
+        "sources_document": "guide_pratique",
+        "domaines_metier": [
+          "RH"
+        ],
+        "domaine_principal": "RH"
+      }
+    },
+    {
+      "document_id": "csn2023_ordonnance_plr_8_02_23",
+      "classification": {
+        "sources_document": "decret_ordonnance",
+        "domaines_metier": [
+          "DEONTOLOGIE"
+        ],
+        "domaine_principal": "DEONTOLOGIE"
+      }
+    },
+    {
+      "document_id": "csn2023_tableau_recapitulatif_annexe_circulaire_n_2023_2",
+      "classification": {
+        "sources_document": "guide_pratique",
+        "domaines_metier": [
+          "DEONTOLOGIE",
+          "RH"
+        ],
+        "domaine_principal": "DEONTOLOGIE"
+      }
+    },
+    {
+      "document_id": "csn2024_20231214_accord_de_branche_financement_de_la_formation",
+      "classification": {
+        "sources_document": "accord_branche",
+        "domaines_metier": [
+          "RH"
+        ],
+        "domaine_principal": "RH"
+      }
+    },
+    {
+      "document_id": "csn2024_20240118_csn_anc_modalites_pratiques_declarations_remunerations_notaires_associes",
+      "classification": {
+        "sources_document": "guide_pratique",
+        "domaines_metier": [
+          "RH"
+        ],
+        "domaine_principal": "RH"
+      }
+    },
+    {
+      "document_id": "csn2024_20240131_csn_anc_modalites_pratiques_declarations_remunerations_notaires_associes",
+      "classification": {
+        "sources_document": "guide_pratique",
+        "domaines_metier": [
+          "RH"
+        ],
+        "domaine_principal": "RH"
+      }
+    },
+    {
+      "document_id": "csn2024_20240222_avenant_n_55_accord_de_salaires",
+      "classification": {
+        "sources_document": "avenant_ccn",
+        "domaines_metier": [
+          "RH"
+        ],
+        "domaine_principal": "RH"
+      }
+    },
+    {
+      "document_id": "csn2024_20240321_avenant_n_56_ccn_modification_art_12_2_procedure_licenciement",
+      "classification": {
+        "sources_document": "avenant_ccn",
+        "domaines_metier": [
+          "RH"
+        ],
+        "domaine_principal": "RH"
+      }
+    },
+    {
+      "document_id": "csn2024_circulaire_01_24_information",
+      "classification": {
+        "sources_document": "circulaire_csn",
+        "domaines_metier": [
+          "DEONTOLOGIE"
+        ],
+        "domaine_principal": "DEONTOLOGIE"
+      }
+    },
+    {
+      "document_id": "csn2024_circulaire_02_24_av",
+      "classification": {
+        "sources_document": "circulaire_csn",
+        "domaines_metier": [
+          "DEONTOLOGIE"
+        ],
+        "domaine_principal": "DEONTOLOGIE"
+      }
+    },
+    {
+      "document_id": "csn2024_circulaire_03_24_connexion",
+      "classification": {
+        "sources_document": "circulaire_csn",
+        "domaines_metier": [
+          "DEONTOLOGIE"
+        ],
+        "domaine_principal": "DEONTOLOGIE"
+      }
+    },
+    {
+      "document_id": "csn2024_circulaire_04_24_analyse_av",
+      "classification": {
+        "sources_document": "circulaire_csn",
+        "domaines_metier": [
+          "DEONTOLOGIE"
+        ],
+        "domaine_principal": "DEONTOLOGIE"
+      }
+    },
+    {
+      "document_id": "csn2024_circulaire_08_24_1_be",
+      "classification": {
+        "sources_document": "circulaire_csn",
+        "domaines_metier": [
+          "DEONTOLOGIE"
+        ],
+        "domaine_principal": "DEONTOLOGIE"
+      }
+    },
+    {
+      "document_id": "csn2024_circulaire_08_24_be",
+      "classification": {
+        "sources_document": "circulaire_csn",
+        "domaines_metier": [
+          "DEONTOLOGIE"
+        ],
+        "domaine_principal": "DEONTOLOGIE"
+      }
+    },
+    {
+      "document_id": "csn2025_20250123_partage_de_la_valeur_au_sein_des_offices_de_11_a_49_salaries",
+      "classification": {
+        "sources_document": "guide_pratique",
+        "domaines_metier": [
+          "RH"
+        ],
+        "domaine_principal": "RH"
+      }
+    },
+    {
+      "document_id": "csn2025_20250220_avenant_n_60_accord_de_salaire",
+      "classification": {
+        "sources_document": "avenant_ccn",
+        "domaines_metier": [
+          "RH"
+        ],
+        "domaine_principal": "RH"
+      }
+    },
+    {
+      "document_id": "csn2025_20250522_avenant_61",
+      "classification": {
+        "sources_document": "avenant_ccn",
+        "domaines_metier": [
+          "RH"
+        ],
+        "domaine_principal": "RH"
+      }
+    },
+    {
+      "document_id": "csn2025_brochure_2025_oeuvres_sociales_du_notariat_comite_mixte",
+      "classification": {
+        "sources_document": "guide_pratique",
+        "domaines_metier": [
+          "RH"
+        ],
+        "domaine_principal": "RH"
+      }
+    },
+    {
+      "document_id": "csn2025_brochure_csn_cm_2025",
+      "classification": {
+        "sources_document": "guide_pratique",
+        "domaines_metier": [
+          "RH"
+        ],
+        "domaine_principal": "RH"
+      }
+    },
+    {
+      "document_id": "csn2025_circulaire_01_25",
+      "classification": {
+        "sources_document": "circulaire_csn",
+        "domaines_metier": [
+          "DEONTOLOGIE"
+        ],
+        "domaine_principal": "DEONTOLOGIE"
+      }
+    },
+    {
+      "document_id": "csn2025_circulaire_02_25",
+      "classification": {
+        "sources_document": "circulaire_csn",
+        "domaines_metier": [
+          "DEONTOLOGIE"
+        ],
+        "domaine_principal": "DEONTOLOGIE"
+      }
+    },
+    {
+      "document_id": "csn2025_circulaire_n_2025_1",
+      "classification": {
+        "sources_document": "circulaire_csn",
+        "domaines_metier": [
+          "DEONTOLOGIE"
+        ],
+        "domaine_principal": "DEONTOLOGIE"
+      }
+    },
+    {
+      "document_id": "csn2025_manuel_d_utilisation_salarie",
+      "classification": {
+        "sources_document": "guide_pratique",
+        "domaines_metier": [
+          "RH"
+        ],
+        "domaine_principal": "RH"
+      }
+    },
+    {
+      "document_id": "csn_guide_informatique_offices_notariaux_v10_septembre_2021",
+      "classification": {
+        "sources_document": "guide_pratique",
+        "domaines_metier": [
+          "RH"
+        ],
+        "domaine_principal": "RH"
+      }
+    },
+    {
+      "document_id": "d_56_220_version_consolidee_20230101",
+      "classification": {
+        "sources_document": "decret_ordonnance",
+        "domaines_metier": [
+          "DEONTOLOGIE"
+        ],
+        "domaine_principal": "DEONTOLOGIE"
+      }
+    },
+    {
+      "document_id": "d_67_868_v_conso_20240301",
+      "classification": {
+        "sources_document": "decret_ordonnance",
+        "domaines_metier": [
+          "DEONTOLOGIE"
+        ],
+        "domaine_principal": "DEONTOLOGIE"
+      }
+    },
+    {
+      "document_id": "d_71_942_v_conso_20240301",
+      "classification": {
+        "sources_document": "decret_ordonnance",
+        "domaines_metier": [
+          "DEONTOLOGIE"
+        ],
+        "domaine_principal": "DEONTOLOGIE"
+      }
+    },
+    {
+      "document_id": "fiche_doctrine_smo_vd",
+      "classification": {
+        "sources_document": "guide_pratique",
+        "domaines_metier": [
+          "RH",
+          "ASSURANCES"
+        ],
+        "domaine_principal": "RH"
+      }
+    },
+    {
+      "document_id": "fiches_bonnes_pratiques_cle_real_2023_07_17_fiche_bonnes_pratiques_cles_real_vdef",
+      "classification": {
+        "sources_document": "guide_pratique",
+        "domaines_metier": [
+          "RH"
+        ],
+        "domaine_principal": "RH"
+      }
+    },
+    {
+      "document_id": "fil_infos_fil_info_224",
+      "classification": {
+        "sources_document": "fil_info",
+        "domaines_metier": [
+          "RH"
+        ],
+        "domaine_principal": "RH"
+      }
+    },
+    {
+      "document_id": "fil_infos_fil_info_225",
+      "classification": {
+        "sources_document": "fil_info",
+        "domaines_metier": [
+          "RH"
+        ],
+        "domaine_principal": "RH"
+      }
+    },
+    {
+      "document_id": "fil_infos_fil_info_226",
+      "classification": {
+        "sources_document": "fil_info",
+        "domaines_metier": [
+          "RH"
+        ],
+        "domaine_principal": "RH"
+      }
+    },
+    {
+      "document_id": "fil_infos_fil_info_227",
+      "classification": {
+        "sources_document": "fil_info",
+        "domaines_metier": [
+          "RH",
+          "ASSURANCES"
+        ],
+        "domaine_principal": "RH"
+      }
+    },
+    {
+      "document_id": "fil_infos_fil_info_228",
+      "classification": {
+        "sources_document": "fil_info",
+        "domaines_metier": [
+          "RH"
+        ],
+        "domaine_principal": "RH"
+      }
+    },
+    {
+      "document_id": "fil_infos_fil_info_229",
+      "classification": {
+        "sources_document": "fil_info",
+        "domaines_metier": [
+          "RH"
+        ],
+        "domaine_principal": "RH"
+      }
+    },
+    {
+      "document_id": "fil_infos_fil_info_230",
+      "classification": {
+        "sources_document": "fil_info",
+        "domaines_metier": [
+          "RH"
+        ],
+        "domaine_principal": "RH"
+      }
+    },
+    {
+      "document_id": "fil_infos_fil_info_231",
+      "classification": {
+        "sources_document": "fil_info",
+        "domaines_metier": [
+          "ASSURANCES",
+          "RH"
+        ],
+        "domaine_principal": "RH"
+      }
+    },
+    {
+      "document_id": "fil_infos_fil_info_232",
+      "classification": {
+        "sources_document": "fil_info",
+        "domaines_metier": [
+          "RH",
+          "ASSURANCES"
+        ],
+        "domaine_principal": "RH"
+      }
+    },
+    {
+      "document_id": "fil_infos_fil_info_233",
+      "classification": {
+        "sources_document": "fil_info",
+        "domaines_metier": [
+          "RH",
+          "ASSURANCES"
+        ],
+        "domaine_principal": "RH"
+      }
+    },
+    {
+      "document_id": "fil_infos_fil_info_234",
+      "classification": {
+        "sources_document": "fil_info",
+        "domaines_metier": [
+          "RH"
+        ],
+        "domaine_principal": "RH"
+      }
+    },
+    {
+      "document_id": "fil_infos_fil_info_235",
+      "classification": {
+        "sources_document": "fil_info",
+        "domaines_metier": [
+          "RH"
+        ],
+        "domaine_principal": "RH"
+      }
+    },
+    {
+      "document_id": "fil_infos_fil_info_236",
+      "classification": {
+        "sources_document": "fil_info",
+        "domaines_metier": [
+          "RH",
+          "ASSURANCES"
+        ],
+        "domaine_principal": "RH"
+      }
+    },
+    {
+      "document_id": "fil_infos_fil_info_237",
+      "classification": {
+        "sources_document": "fil_info",
+        "domaines_metier": [
+          "DEONTOLOGIE",
+          "RH"
+        ],
+        "domaine_principal": "DEONTOLOGIE"
+      }
+    },
+    {
+      "document_id": "fil_infos_fil_info_238",
+      "classification": {
+        "sources_document": "fil_info",
+        "domaines_metier": [
+          "RH"
+        ],
+        "domaine_principal": "RH"
+      }
+    },
+    {
+      "document_id": "fil_infos_fil_info_239",
+      "classification": {
+        "sources_document": "fil_info",
+        "domaines_metier": [
+          "DEONTOLOGIE",
+          "RH",
+          "ASSURANCES"
+        ],
+        "domaine_principal": "DEONTOLOGIE"
+      }
+    },
+    {
+      "document_id": "fil_infos_fil_info_240",
+      "classification": {
+        "sources_document": "fil_info",
+        "domaines_metier": [
+          "RH"
+        ],
+        "domaine_principal": "RH"
+      }
+    },
+    {
+      "document_id": "fil_infos_fil_info_241",
+      "classification": {
+        "sources_document": "fil_info",
+        "domaines_metier": [
+          "RH"
+        ],
+        "domaine_principal": "RH"
+      }
+    },
+    {
+      "document_id": "fil_infos_fil_info_242",
+      "classification": {
+        "sources_document": "fil_info",
+        "domaines_metier": [
+          "RH",
+          "ASSURANCES"
+        ],
+        "domaine_principal": "RH"
+      }
+    },
+    {
+      "document_id": "fil_infos_fil_info_243",
+      "classification": {
+        "sources_document": "fil_info",
+        "domaines_metier": [
+          "RH",
+          "ASSURANCES"
+        ],
+        "domaine_principal": "RH"
+      }
+    },
+    {
+      "document_id": "fil_infos_fil_info_244",
+      "classification": {
+        "sources_document": "fil_info",
+        "domaines_metier": [
+          "RH"
+        ],
+        "domaine_principal": "RH"
+      }
+    },
+    {
+      "document_id": "fil_infos_fil_info_245",
+      "classification": {
+        "sources_document": "fil_info",
+        "domaines_metier": [
+          "RH"
+        ],
+        "domaine_principal": "RH"
+      }
+    },
+    {
+      "document_id": "fil_infos_fil_info_246",
+      "classification": {
+        "sources_document": "fil_info",
+        "domaines_metier": [
+          "DEONTOLOGIE",
+          "RH"
+        ],
+        "domaine_principal": "DEONTOLOGIE"
+      }
+    },
+    {
+      "document_id": "fil_infos_fil_info_247",
+      "classification": {
+        "sources_document": "fil_info",
+        "domaines_metier": [
+          "RH"
+        ],
+        "domaine_principal": "RH"
+      }
+    },
+    {
+      "document_id": "fil_infos_fil_info_248",
+      "classification": {
+        "sources_document": "fil_info",
+        "domaines_metier": [
+          "RH"
+        ],
+        "domaine_principal": "RH"
+      }
+    },
+    {
+      "document_id": "fil_infos_fil_info_249",
+      "classification": {
+        "sources_document": "fil_info",
+        "domaines_metier": [
+          "DEONTOLOGIE",
+          "RH",
+          "ASSURANCES"
+        ],
+        "domaine_principal": "DEONTOLOGIE"
+      }
+    },
+    {
+      "document_id": "fil_infos_fil_info_254",
+      "classification": {
+        "sources_document": "fil_info",
+        "domaines_metier": [
+          "RH"
+        ],
+        "domaine_principal": "RH"
+      }
+    },
+    {
+      "document_id": "fil_infos_fil_info_255",
+      "classification": {
+        "sources_document": "fil_info",
+        "domaines_metier": [
+          "ASSURANCES",
+          "RH"
+        ],
+        "domaine_principal": "RH"
+      }
+    },
+    {
+      "document_id": "fil_infos_fil_info_256",
+      "classification": {
+        "sources_document": "fil_info",
+        "domaines_metier": [
+          "RH"
+        ],
+        "domaine_principal": "RH"
+      }
+    },
+    {
+      "document_id": "fil_infos_fil_info_257",
+      "classification": {
+        "sources_document": "fil_info",
+        "domaines_metier": [
+          "RH"
+        ],
+        "domaine_principal": "RH"
+      }
+    },
+    {
+      "document_id": "fil_infos_fil_info_258",
+      "classification": {
+        "sources_document": "fil_info",
+        "domaines_metier": [
+          "RH"
+        ],
+        "domaine_principal": "RH"
+      }
+    },
+    {
+      "document_id": "fil_infos_fil_info_259",
+      "classification": {
+        "sources_document": "fil_info",
+        "domaines_metier": [
+          "RH"
+        ],
+        "domaine_principal": "RH"
+      }
+    },
+    {
+      "document_id": "fil_infos_fil_info_260",
+      "classification": {
+        "sources_document": "fil_info",
+        "domaines_metier": [
+          "DEONTOLOGIE",
+          "RH"
+        ],
+        "domaine_principal": "DEONTOLOGIE"
+      }
+    },
+    {
+      "document_id": "fil_infos_fil_info_261",
+      "classification": {
+        "sources_document": "fil_info",
+        "domaines_metier": [
+          "RH"
+        ],
+        "domaine_principal": "RH"
+      }
+    },
+    {
+      "document_id": "fil_infos_fil_info_262",
+      "classification": {
+        "sources_document": "fil_info",
+        "domaines_metier": [
+          "DEONTOLOGIE",
+          "RH",
+          "ASSURANCES"
+        ],
+        "domaine_principal": "DEONTOLOGIE"
+      }
+    },
+    {
+      "document_id": "fil_infos_fil_info_263",
+      "classification": {
+        "sources_document": "fil_info",
+        "domaines_metier": [
+          "RH",
+          "ASSURANCES"
+        ],
+        "domaine_principal": "RH"
+      }
+    },
+    {
+      "document_id": "fil_infos_fil_info_264",
+      "classification": {
+        "sources_document": "fil_info",
+        "domaines_metier": [
+          "RH",
+          "ASSURANCES"
+        ],
+        "domaine_principal": "RH"
+      }
+    },
+    {
+      "document_id": "fil_infos_fil_info_265",
+      "classification": {
+        "sources_document": "fil_info",
+        "domaines_metier": [
+          "RH",
+          "ASSURANCES"
+        ],
+        "domaine_principal": "RH"
+      }
+    },
+    {
+      "document_id": "fil_infos_fil_info_266",
+      "classification": {
+        "sources_document": "fil_info",
+        "domaines_metier": [
+          "RH"
+        ],
+        "domaine_principal": "RH"
+      }
+    },
+    {
+      "document_id": "fil_infos_fil_info_267",
+      "classification": {
+        "sources_document": "fil_info",
+        "domaines_metier": [
+          "ASSURANCES",
+          "RH"
+        ],
+        "domaine_principal": "RH"
+      }
+    },
+    {
+      "document_id": "fil_infos_fil_info_268",
+      "classification": {
+        "sources_document": "fil_info",
+        "domaines_metier": [
+          "RH"
+        ],
+        "domaine_principal": "RH"
+      }
+    },
+    {
+      "document_id": "fil_infos_fil_info_269",
+      "classification": {
+        "sources_document": "fil_info",
+        "domaines_metier": [
+          "RH",
+          "ASSURANCES"
+        ],
+        "domaine_principal": "RH"
+      }
+    },
+    {
+      "document_id": "fil_infos_fil_info_270",
+      "classification": {
+        "sources_document": "fil_info",
+        "domaines_metier": [
+          "DEONTOLOGIE",
+          "RH",
+          "ASSURANCES"
+        ],
+        "domaine_principal": "DEONTOLOGIE"
+      }
+    },
+    {
+      "document_id": "fil_infos_fil_info_271",
+      "classification": {
+        "sources_document": "fil_info",
+        "domaines_metier": [
+          "RH",
+          "DEONTOLOGIE"
+        ],
+        "domaine_principal": "DEONTOLOGIE"
+      }
+    },
+    {
+      "document_id": "fil_infos_fil_info_272",
+      "classification": {
+        "sources_document": "fil_info",
+        "domaines_metier": [
+          "RH"
+        ],
+        "domaine_principal": "RH"
+      }
+    },
+    {
+      "document_id": "fil_infos_fil_info_273",
+      "classification": {
+        "sources_document": "fil_info",
+        "domaines_metier": [
+          "RH"
+        ],
+        "domaine_principal": "RH"
+      }
+    },
+    {
+      "document_id": "fil_infos_fil_info_274",
+      "classification": {
+        "sources_document": "fil_info",
+        "domaines_metier": [
+          "RH"
+        ],
+        "domaine_principal": "RH"
+      }
+    },
+    {
+      "document_id": "fil_infos_fil_info_275",
+      "classification": {
+        "sources_document": "fil_info",
+        "domaines_metier": [
+          "RH"
+        ],
+        "domaine_principal": "RH"
+      }
+    },
+    {
+      "document_id": "fil_infos_fil_info_276",
+      "classification": {
+        "sources_document": "fil_info",
+        "domaines_metier": [
+          "RH"
+        ],
+        "domaine_principal": "RH"
+      }
+    },
+    {
+      "document_id": "fil_infos_fil_info_277",
+      "classification": {
+        "sources_document": "fil_info",
+        "domaines_metier": [
+          "RH"
+        ],
+        "domaine_principal": "RH"
+      }
+    },
+    {
+      "document_id": "fil_infos_fil_info_278",
+      "classification": {
+        "sources_document": "fil_info",
+        "domaines_metier": [
+          "RH"
+        ],
+        "domaine_principal": "RH"
+      }
+    },
+    {
+      "document_id": "fil_infos_fil_info_279",
+      "classification": {
+        "sources_document": "fil_info",
+        "domaines_metier": [
+          "DEONTOLOGIE",
+          "RH"
+        ],
+        "domaine_principal": "DEONTOLOGIE"
+      }
+    },
+    {
+      "document_id": "fil_infos_fil_info_280",
+      "classification": {
+        "sources_document": "fil_info",
+        "domaines_metier": [
+          "RH"
+        ],
+        "domaine_principal": "RH"
+      }
+    },
+    {
+      "document_id": "fil_infos_fil_info_281",
+      "classification": {
+        "sources_document": "fil_info",
+        "domaines_metier": [
+          "ASSURANCES",
+          "RH"
+        ],
+        "domaine_principal": "RH"
+      }
+    },
+    {
+      "document_id": "fil_infos_fil_info_2812",
+      "classification": {
+        "sources_document": "fil_info",
+        "domaines_metier": [
+          "RH",
+          "ASSURANCES"
+        ],
+        "domaine_principal": "RH"
+      }
+    },
+    {
+      "document_id": "fil_infos_fil_info_2813",
+      "classification": {
+        "sources_document": "fil_info",
+        "domaines_metier": [
+          "RH"
+        ],
+        "domaine_principal": "RH"
+      }
+    },
+    {
+      "document_id": "fil_infos_fil_info_2814",
+      "classification": {
+        "sources_document": "fil_info",
+        "domaines_metier": [
+          "DEONTOLOGIE",
+          "RH"
+        ],
+        "domaine_principal": "DEONTOLOGIE"
+      }
+    },
+    {
+      "document_id": "fil_infos_fil_info_2815",
+      "classification": {
+        "sources_document": "fil_info",
+        "domaines_metier": [
+          "RH"
+        ],
+        "domaine_principal": "RH"
+      }
+    },
+    {
+      "document_id": "fil_infos_fil_info_2816",
+      "classification": {
+        "sources_document": "fil_info",
+        "domaines_metier": [
+          "RH"
+        ],
+        "domaine_principal": "RH"
+      }
+    },
+    {
+      "document_id": "fil_infos_fil_info_2817",
+      "classification": {
+        "sources_document": "fil_info",
+        "domaines_metier": [
+          "RH"
+        ],
+        "domaine_principal": "RH"
+      }
+    },
+    {
+      "document_id": "fil_infos_fil_info_2818",
+      "classification": {
+        "sources_document": "fil_info",
+        "domaines_metier": [
+          "ASSURANCES",
+          "RH"
+        ],
+        "domaine_principal": "RH"
+      }
+    },
+    {
+      "document_id": "fil_infos_fil_info_2819",
+      "classification": {
+        "sources_document": "fil_info",
+        "domaines_metier": [
+          "RH"
+        ],
+        "domaine_principal": "RH"
+      }
+    },
+    {
+      "document_id": "fil_infos_fil_info_282",
+      "classification": {
+        "sources_document": "fil_info",
+        "domaines_metier": [
+          "RH"
+        ],
+        "domaine_principal": "RH"
+      }
+    },
+    {
+      "document_id": "fil_infos_fil_info_2820",
+      "classification": {
+        "sources_document": "fil_info",
+        "domaines_metier": [
+          "RH"
+        ],
+        "domaine_principal": "RH"
+      }
+    },
+    {
+      "document_id": "fil_infos_fil_info_2821",
+      "classification": {
+        "sources_document": "fil_info",
+        "domaines_metier": [
+          "RH"
+        ],
+        "domaine_principal": "RH"
+      }
+    },
+    {
+      "document_id": "fil_infos_fil_info_2822",
+      "classification": {
+        "sources_document": "fil_info",
+        "domaines_metier": [
+          "RH",
+          "ASSURANCES"
+        ],
+        "domaine_principal": "RH"
+      }
+    },
+    {
+      "document_id": "fil_infos_fil_info_2823",
+      "classification": {
+        "sources_document": "fil_info",
+        "domaines_metier": [
+          "RH"
+        ],
+        "domaine_principal": "RH"
+      }
+    },
+    {
+      "document_id": "fil_infos_fil_info_2824",
+      "classification": {
+        "sources_document": "fil_info",
+        "domaines_metier": [
+          "RH"
+        ],
+        "domaine_principal": "RH"
+      }
+    },
+    {
+      "document_id": "fil_infos_fil_info_2825",
+      "classification": {
+        "sources_document": "fil_info",
+        "domaines_metier": [
+          "RH",
+          "ASSURANCES"
+        ],
+        "domaine_principal": "RH"
+      }
+    },
+    {
+      "document_id": "fil_infos_fil_info_2826",
+      "classification": {
+        "sources_document": "fil_info",
+        "domaines_metier": [
+          "RH"
+        ],
+        "domaine_principal": "RH"
+      }
+    },
+    {
+      "document_id": "fil_infos_fil_info_2827",
+      "classification": {
+        "sources_document": "fil_info",
+        "domaines_metier": [
+          "RH"
+        ],
+        "domaine_principal": "RH"
+      }
+    },
+    {
+      "document_id": "fil_infos_fil_info_2828",
+      "classification": {
+        "sources_document": "fil_info",
+        "domaines_metier": [
+          "RH",
+          "ASSURANCES"
+        ],
+        "domaine_principal": "RH"
+      }
+    },
+    {
+      "document_id": "fil_infos_fil_info_2829",
+      "classification": {
+        "sources_document": "fil_info",
+        "domaines_metier": [
+          "RH",
+          "ASSURANCES"
+        ],
+        "domaine_principal": "RH"
+      }
+    },
+    {
+      "document_id": "fil_infos_fil_info_2830",
+      "classification": {
+        "sources_document": "fil_info",
+        "domaines_metier": [
+          "ASSURANCES",
+          "RH"
+        ],
+        "domaine_principal": "RH"
+      }
+    },
+    {
+      "document_id": "fil_infos_fil_info_2831",
+      "classification": {
+        "sources_document": "fil_info",
+        "domaines_metier": [
+          "RH"
+        ],
+        "domaine_principal": "RH"
+      }
+    },
+    {
+      "document_id": "fil_infos_fil_info_2832",
+      "classification": {
+        "sources_document": "fil_info",
+        "domaines_metier": [
+          "RH"
+        ],
+        "domaine_principal": "RH"
+      }
+    },
+    {
+      "document_id": "fil_infos_fil_info_2833",
+      "classification": {
+        "sources_document": "fil_info",
+        "domaines_metier": [
+          "RH"
+        ],
+        "domaine_principal": "RH"
+      }
+    },
+    {
+      "document_id": "fil_infos_fil_info_2834",
+      "classification": {
+        "sources_document": "fil_info",
+        "domaines_metier": [
+          "RH"
+        ],
+        "domaine_principal": "RH"
+      }
+    },
+    {
+      "document_id": "fil_infos_fil_info_2835",
+      "classification": {
+        "sources_document": "fil_info",
+        "domaines_metier": [
+          "RH",
+          "ASSURANCES"
+        ],
+        "domaine_principal": "RH"
+      }
+    },
+    {
+      "document_id": "fil_infos_fil_info_2836",
+      "classification": {
+        "sources_document": "fil_info",
+        "domaines_metier": [
+          "RH"
+        ],
+        "domaine_principal": "RH"
+      }
+    },
+    {
+      "document_id": "fil_infos_fil_info_2837",
+      "classification": {
+        "sources_document": "fil_info",
+        "domaines_metier": [
+          "RH"
+        ],
+        "domaine_principal": "RH"
+      }
+    },
+    {
+      "document_id": "fil_infos_fil_info_2838",
+      "classification": {
+        "sources_document": "fil_info",
+        "domaines_metier": [
+          "RH"
+        ],
+        "domaine_principal": "RH"
+      }
+    },
+    {
+      "document_id": "fil_infos_fil_info_2839",
+      "classification": {
+        "sources_document": "fil_info",
+        "domaines_metier": [
+          "DEONTOLOGIE",
+          "RH",
+          "ASSURANCES"
+        ],
+        "domaine_principal": "DEONTOLOGIE"
+      }
+    },
+    {
+      "document_id": "fil_infos_fil_info_2840",
+      "classification": {
+        "sources_document": "fil_info",
+        "domaines_metier": [
+          "RH"
+        ],
+        "domaine_principal": "RH"
+      }
+    },
+    {
+      "document_id": "fil_infos_fil_info_2841",
+      "classification": {
+        "sources_document": "fil_info",
+        "domaines_metier": [
+          "RH"
+        ],
+        "domaine_principal": "RH"
+      }
+    },
+    {
+      "document_id": "fil_infos_fil_info_2842",
+      "classification": {
+        "sources_document": "fil_info",
+        "domaines_metier": [
+          "ASSURANCES",
+          "RH"
+        ],
+        "domaine_principal": "RH"
+      }
+    },
+    {
+      "document_id": "fil_infos_fil_info_2843",
+      "classification": {
+        "sources_document": "fil_info",
+        "domaines_metier": [
+          "RH"
+        ],
+        "domaine_principal": "RH"
+      }
+    },
+    {
+      "document_id": "fil_infos_fil_info_2844",
+      "classification": {
+        "sources_document": "fil_info",
+        "domaines_metier": [
+          "RH",
+          "ASSURANCES"
+        ],
+        "domaine_principal": "RH"
+      }
+    },
+    {
+      "document_id": "fil_infos_fil_info_2845",
+      "classification": {
+        "sources_document": "fil_info",
+        "domaines_metier": [
+          "RH"
+        ],
+        "domaine_principal": "RH"
+      }
+    },
+    {
+      "document_id": "fil_infos_fil_info_2846",
+      "classification": {
+        "sources_document": "fil_info",
+        "domaines_metier": [
+          "RH"
+        ],
+        "domaine_principal": "RH"
+      }
+    },
+    {
+      "document_id": "fil_infos_fil_info_2847",
+      "classification": {
+        "sources_document": "fil_info",
+        "domaines_metier": [
+          "DEONTOLOGIE",
+          "RH"
+        ],
+        "domaine_principal": "DEONTOLOGIE"
+      }
+    },
+    {
+      "document_id": "fil_infos_fil_info_2848",
+      "classification": {
+        "sources_document": "fil_info",
+        "domaines_metier": [
+          "RH"
+        ],
+        "domaine_principal": "RH"
+      }
+    },
+    {
+      "document_id": "fil_infos_fil_info_2849",
+      "classification": {
+        "sources_document": "fil_info",
+        "domaines_metier": [
+          "DEONTOLOGIE",
+          "RH"
+        ],
+        "domaine_principal": "DEONTOLOGIE"
+      }
+    },
+    {
+      "document_id": "fil_infos_fil_info_2850",
+      "classification": {
+        "sources_document": "fil_info",
+        "domaines_metier": [
+          "RH"
+        ],
+        "domaine_principal": "RH"
+      }
+    },
+    {
+      "document_id": "fil_infos_fil_info_2851",
+      "classification": {
+        "sources_document": "fil_info",
+        "domaines_metier": [
+          "RH"
+        ],
+        "domaine_principal": "RH"
+      }
+    },
+    {
+      "document_id": "fil_infos_fil_info_2852",
+      "classification": {
+        "sources_document": "fil_info",
+        "domaines_metier": [
+          "RH",
+          "ASSURANCES"
+        ],
+        "domaine_principal": "RH"
+      }
+    },
+    {
+      "document_id": "fil_infos_fil_info_2853",
+      "classification": {
+        "sources_document": "fil_info",
+        "domaines_metier": [
+          "RH"
+        ],
+        "domaine_principal": "RH"
+      }
+    },
+    {
+      "document_id": "fil_infos_fil_info_2854",
+      "classification": {
+        "sources_document": "fil_info",
+        "domaines_metier": [
+          "RH"
+        ],
+        "domaine_principal": "RH"
+      }
+    },
+    {
+      "document_id": "fil_infos_fil_info_2855",
+      "classification": {
+        "sources_document": "fil_info",
+        "domaines_metier": [
+          "RH"
+        ],
+        "domaine_principal": "RH"
+      }
+    },
+    {
+      "document_id": "fil_infos_fil_info_2856",
+      "classification": {
+        "sources_document": "fil_info",
+        "domaines_metier": [
+          "RH"
+        ],
+        "domaine_principal": "RH"
+      }
+    },
+    {
+      "document_id": "fil_infos_fil_info_2857",
+      "classification": {
+        "sources_document": "fil_info",
+        "domaines_metier": [
+          "RH",
+          "ASSURANCES"
+        ],
+        "domaine_principal": "RH"
+      }
+    },
+    {
+      "document_id": "fil_infos_fil_info_2858",
+      "classification": {
+        "sources_document": "fil_info",
+        "domaines_metier": [
+          "DEONTOLOGIE",
+          "RH"
+        ],
+        "domaine_principal": "DEONTOLOGIE"
+      }
+    },
+    {
+      "document_id": "fil_infos_fil_info_2859",
+      "classification": {
+        "sources_document": "fil_info",
+        "domaines_metier": [
+          "DEONTOLOGIE",
+          "RH"
+        ],
+        "domaine_principal": "DEONTOLOGIE"
+      }
+    },
+    {
+      "document_id": "fil_infos_fil_info_2860",
+      "classification": {
+        "sources_document": "fil_info",
+        "domaines_metier": [
+          "RH"
+        ],
+        "domaine_principal": "RH"
+      }
+    },
+    {
+      "document_id": "fil_infos_fil_info_2861",
+      "classification": {
+        "sources_document": "fil_info",
+        "domaines_metier": [
+          "RH",
+          "ASSURANCES"
+        ],
+        "domaine_principal": "RH"
+      }
+    },
+    {
+      "document_id": "fil_infos_fil_info_2862",
+      "classification": {
+        "sources_document": "fil_info",
+        "domaines_metier": [
+          "RH"
+        ],
+        "domaine_principal": "RH"
+      }
+    },
+    {
+      "document_id": "fil_infos_fil_info_2863",
+      "classification": {
+        "sources_document": "fil_info",
+        "domaines_metier": [
+          "RH"
+        ],
+        "domaine_principal": "RH"
+      }
+    },
+    {
+      "document_id": "fil_infos_fil_info_2864",
+      "classification": {
+        "sources_document": "fil_info",
+        "domaines_metier": [
+          "RH"
+        ],
+        "domaine_principal": "RH"
+      }
+    },
+    {
+      "document_id": "fil_infos_fil_info_2865",
+      "classification": {
+        "sources_document": "fil_info",
+        "domaines_metier": [
+          "RH"
+        ],
+        "domaine_principal": "RH"
+      }
+    },
+    {
+      "document_id": "fil_infos_fil_info_2866",
+      "classification": {
+        "sources_document": "fil_info",
+        "domaines_metier": [
+          "RH",
+          "ASSURANCES"
+        ],
+        "domaine_principal": "RH"
+      }
+    },
+    {
+      "document_id": "fil_infos_fil_info_2867",
+      "classification": {
+        "sources_document": "fil_info",
+        "domaines_metier": [
+          "RH",
+          "ASSURANCES"
+        ],
+        "domaine_principal": "RH"
+      }
+    },
+    {
+      "document_id": "fil_infos_fil_info_2868",
+      "classification": {
+        "sources_document": "fil_info",
+        "domaines_metier": [
+          "RH"
+        ],
+        "domaine_principal": "RH"
+      }
+    },
+    {
+      "document_id": "fil_infos_fil_info_2869",
+      "classification": {
+        "sources_document": "fil_info",
+        "domaines_metier": [
+          "ASSURANCES",
+          "RH"
+        ],
+        "domaine_principal": "RH"
+      }
+    },
+    {
+      "document_id": "fil_infos_fil_info_2870",
+      "classification": {
+        "sources_document": "fil_info",
+        "domaines_metier": [
+          "RH"
+        ],
+        "domaine_principal": "RH"
+      }
+    },
+    {
+      "document_id": "fil_infos_fil_info_2871",
+      "classification": {
+        "sources_document": "fil_info",
+        "domaines_metier": [
+          "RH",
+          "ASSURANCES"
+        ],
+        "domaine_principal": "RH"
+      }
+    },
+    {
+      "document_id": "fil_infos_fil_info_2872",
+      "classification": {
+        "sources_document": "fil_info",
+        "domaines_metier": [
+          "RH",
+          "ASSURANCES"
+        ],
+        "domaine_principal": "RH"
+      }
+    },
+    {
+      "document_id": "fil_infos_fil_info_2873",
+      "classification": {
+        "sources_document": "fil_info",
+        "domaines_metier": [
+          "RH"
+        ],
+        "domaine_principal": "RH"
+      }
+    },
+    {
+      "document_id": "fil_infos_fil_info_2874",
+      "classification": {
+        "sources_document": "fil_info",
+        "domaines_metier": [
+          "RH"
+        ],
+        "domaine_principal": "RH"
+      }
+    },
+    {
+      "document_id": "fil_infos_fil_info_2875",
+      "classification": {
+        "sources_document": "fil_info",
+        "domaines_metier": [
+          "RH"
+        ],
+        "domaine_principal": "RH"
+      }
+    },
+    {
+      "document_id": "fil_infos_fil_info_2876",
+      "classification": {
+        "sources_document": "fil_info",
+        "domaines_metier": [
+          "RH"
+        ],
+        "domaine_principal": "RH"
+      }
+    },
+    {
+      "document_id": "fil_infos_fil_info_2877",
+      "classification": {
+        "sources_document": "fil_info",
+        "domaines_metier": [
+          "RH",
+          "ASSURANCES"
+        ],
+        "domaine_principal": "RH"
+      }
+    },
+    {
+      "document_id": "fil_infos_fil_info_2878",
+      "classification": {
+        "sources_document": "fil_info",
+        "domaines_metier": [
+          "RH",
+          "ASSURANCES"
+        ],
+        "domaine_principal": "RH"
+      }
+    },
+    {
+      "document_id": "fil_infos_fil_info_2879",
+      "classification": {
+        "sources_document": "fil_info",
+        "domaines_metier": [
+          "RH"
+        ],
+        "domaine_principal": "RH"
+      }
+    },
+    {
+      "document_id": "fil_infos_fil_info_2880",
+      "classification": {
+        "sources_document": "fil_info",
+        "domaines_metier": [
+          "DEONTOLOGIE",
+          "RH"
+        ],
+        "domaine_principal": "DEONTOLOGIE"
+      }
+    },
+    {
+      "document_id": "fil_infos_fil_info_2881",
+      "classification": {
+        "sources_document": "fil_info",
+        "domaines_metier": [
+          "RH"
+        ],
+        "domaine_principal": "RH"
+      }
+    },
+    {
+      "document_id": "fil_infos_fil_info_2882",
+      "classification": {
+        "sources_document": "fil_info",
+        "domaines_metier": [
+          "RH"
+        ],
+        "domaine_principal": "RH"
+      }
+    },
+    {
+      "document_id": "fil_infos_fil_info_2883",
+      "classification": {
+        "sources_document": "fil_info",
+        "domaines_metier": [
+          "RH",
+          "DEONTOLOGIE"
+        ],
+        "domaine_principal": "DEONTOLOGIE"
+      }
+    },
+    {
+      "document_id": "fil_infos_fil_info_2884",
+      "classification": {
+        "sources_document": "fil_info",
+        "domaines_metier": [
+          "RH"
+        ],
+        "domaine_principal": "RH"
+      }
+    },
+    {
+      "document_id": "fil_infos_fil_info_2885",
+      "classification": {
+        "sources_document": "fil_info",
+        "domaines_metier": [
+          "RH"
+        ],
+        "domaine_principal": "RH"
+      }
+    },
+    {
+      "document_id": "fil_infos_fil_info_2886",
+      "classification": {
+        "sources_document": "fil_info",
+        "domaines_metier": [
+          "RH"
+        ],
+        "domaine_principal": "RH"
+      }
+    },
+    {
+      "document_id": "fil_infos_fil_info_2887",
+      "classification": {
+        "sources_document": "fil_info",
+        "domaines_metier": [
+          "DEONTOLOGIE",
+          "RH"
+        ],
+        "domaine_principal": "DEONTOLOGIE"
+      }
+    },
+    {
+      "document_id": "fil_infos_fil_info_2888",
+      "classification": {
+        "sources_document": "fil_info",
+        "domaines_metier": [
+          "RH"
+        ],
+        "domaine_principal": "RH"
+      }
+    },
+    {
+      "document_id": "fil_infos_fil_info_2889",
+      "classification": {
+        "sources_document": "fil_info",
+        "domaines_metier": [
+          "DEONTOLOGIE",
+          "RH"
+        ],
+        "domaine_principal": "DEONTOLOGIE"
+      }
+    },
+    {
+      "document_id": "fil_infos_fil_info_2890",
+      "classification": {
+        "sources_document": "fil_info",
+        "domaines_metier": [
+          "RH"
+        ],
+        "domaine_principal": "RH"
+      }
+    },
+    {
+      "document_id": "fil_infos_fil_info_2891",
+      "classification": {
+        "sources_document": "fil_info",
+        "domaines_metier": [
+          "DEONTOLOGIE",
+          "RH"
+        ],
+        "domaine_principal": "DEONTOLOGIE"
+      }
+    },
+    {
+      "document_id": "fil_infos_fil_info_2892",
+      "classification": {
+        "sources_document": "fil_info",
+        "domaines_metier": [
+          "RH"
+        ],
+        "domaine_principal": "RH"
+      }
+    },
+    {
+      "document_id": "fil_infos_fil_info_2893",
+      "classification": {
+        "sources_document": "fil_info",
+        "domaines_metier": [
+          "DEONTOLOGIE",
+          "RH",
+          "ASSURANCES"
+        ],
+        "domaine_principal": "DEONTOLOGIE"
+      }
+    },
+    {
+      "document_id": "fil_infos_fil_info_2894",
+      "classification": {
+        "sources_document": "fil_info",
+        "domaines_metier": [
+          "RH"
+        ],
+        "domaine_principal": "RH"
+      }
+    },
+    {
+      "document_id": "fil_infos_fil_info_2895",
+      "classification": {
+        "sources_document": "fil_info",
+        "domaines_metier": [
+          "DEONTOLOGIE",
+          "RH"
+        ],
+        "domaine_principal": "DEONTOLOGIE"
+      }
+    },
+    {
+      "document_id": "fil_infos_fil_info_2896",
+      "classification": {
+        "sources_document": "fil_info",
+        "domaines_metier": [
+          "RH"
+        ],
+        "domaine_principal": "RH"
+      }
+    },
+    {
+      "document_id": "fil_infos_fil_info_2897",
+      "classification": {
+        "sources_document": "fil_info",
+        "domaines_metier": [
+          "RH",
+          "ASSURANCES"
+        ],
+        "domaine_principal": "RH"
+      }
+    },
+    {
+      "document_id": "fil_infos_fil_info_2898",
+      "classification": {
+        "sources_document": "fil_info",
+        "domaines_metier": [
+          "RH",
+          "ASSURANCES"
+        ],
+        "domaine_principal": "RH"
+      }
+    },
+    {
+      "document_id": "fil_infos_fil_info_2899",
+      "classification": {
+        "sources_document": "fil_info",
+        "domaines_metier": [
+          "RH"
+        ],
+        "domaine_principal": "RH"
+      }
+    },
+    {
+      "document_id": "fil_infos_fil_info_2900",
+      "classification": {
+        "sources_document": "fil_info",
+        "domaines_metier": [
+          "ASSURANCES",
+          "RH"
+        ],
+        "domaine_principal": "RH"
+      }
+    },
+    {
+      "document_id": "fil_infos_fil_info_2901",
+      "classification": {
+        "sources_document": "fil_info",
+        "domaines_metier": [
+          "RH"
+        ],
+        "domaine_principal": "RH"
+      }
+    },
+    {
+      "document_id": "fil_infos_fil_info_2902",
+      "classification": {
+        "sources_document": "fil_info",
+        "domaines_metier": [
+          "DEONTOLOGIE",
+          "RH"
+        ],
+        "domaine_principal": "DEONTOLOGIE"
+      }
+    },
+    {
+      "document_id": "fil_infos_fil_info_2903",
+      "classification": {
+        "sources_document": "fil_info",
+        "domaines_metier": [
+          "RH"
+        ],
+        "domaine_principal": "RH"
+      }
+    },
+    {
+      "document_id": "fil_infos_fil_info_2904",
+      "classification": {
+        "sources_document": "fil_info",
+        "domaines_metier": [
+          "RH"
+        ],
+        "domaine_principal": "RH"
+      }
+    },
+    {
+      "document_id": "fil_infos_fil_info_2905",
+      "classification": {
+        "sources_document": "fil_info",
+        "domaines_metier": [
+          "RH"
+        ],
+        "domaine_principal": "RH"
+      }
+    },
+    {
+      "document_id": "fil_infos_fil_info_2906",
+      "classification": {
+        "sources_document": "fil_info",
+        "domaines_metier": [
+          "RH"
+        ],
+        "domaine_principal": "RH"
+      }
+    },
+    {
+      "document_id": "fil_infos_fil_info_2907",
+      "classification": {
+        "sources_document": "fil_info",
+        "domaines_metier": [
+          "RH"
+        ],
+        "domaine_principal": "RH"
+      }
+    },
+    {
+      "document_id": "fil_infos_fil_info_2908",
+      "classification": {
+        "sources_document": "fil_info",
+        "domaines_metier": [
+          "RH"
+        ],
+        "domaine_principal": "RH"
+      }
+    },
+    {
+      "document_id": "fil_infos_fil_info_2909",
+      "classification": {
+        "sources_document": "fil_info",
+        "domaines_metier": [
+          "DEONTOLOGIE",
+          "RH"
+        ],
+        "domaine_principal": "DEONTOLOGIE"
+      }
+    },
+    {
+      "document_id": "guide_de_la_negociation_immobiliere_notariale",
+      "classification": {
+        "sources_document": "guide_pratique",
+        "domaines_metier": [
+          "RH"
+        ],
+        "domaine_principal": "RH"
+      }
+    },
+    {
+      "document_id": "jo_ordo_2022_04_13",
+      "classification": {
+        "sources_document": "decret_ordonnance",
+        "domaines_metier": [
+          "DEONTOLOGIE"
+        ],
+        "domaine_principal": "DEONTOLOGIE"
+      }
+    },
+    {
+      "document_id": "joe_20220414_0088_0041",
+      "classification": {
+        "sources_document": "guide_pratique",
+        "domaines_metier": [
+          "DEONTOLOGIE",
+          "RH"
+        ],
+        "domaine_principal": "DEONTOLOGIE"
+      }
+    },
+    {
+      "document_id": "note_de_me_bonte_ventes_immo",
+      "classification": {
+        "sources_document": "guide_pratique",
+        "domaines_metier": [
+          "DEONTOLOGIE"
+        ],
+        "domaine_principal": "DEONTOLOGIE"
+      }
+    },
+    {
+      "document_id": "qr_notaires_dataset",
+      "classification": {
+        "sources_document": "guide_pratique",
+        "domaines_metier": [
+          "DEONTOLOGIE",
+          "RH"
+        ],
+        "domaine_principal": "DEONTOLOGIE"
+      }
+    },
+    {
+      "document_id": "reglement_de_la_cour",
+      "classification": {
+        "sources_document": "guide_pratique",
+        "domaines_metier": [
+          "DEONTOLOGIE"
+        ],
+        "domaine_principal": "DEONTOLOGIE"
+      }
+    },
+    {
+      "document_id": "rpn_pj_rpn_commentaire",
+      "classification": {
+        "sources_document": "guide_pratique",
+        "domaines_metier": [
+          "DEONTOLOGIE"
+        ],
+        "domaine_principal": "DEONTOLOGIE"
+      }
+    },
+    {
+      "document_id": "rpn_rpn",
+      "classification": {
+        "sources_document": "guide_pratique",
+        "domaines_metier": [
+          "DEONTOLOGIE",
+          "RH",
+          "ASSURANCES"
+        ],
+        "domaine_principal": "DEONTOLOGIE"
+      }
+    }
+  ],
+  "statistics": {
+    "by_main_domain": {
+      "DEONTOLOGIE": 61,
+      "RH": 178,
+      "ASSURANCES": 3
+    },
+    "by_source": {
+      "decret_ordonnance": 6,
+      "guide_pratique": 28,
+      "assurance": 2,
+      "avenant_ccn": 22,
+      "accord_branche": 9,
+      "conformite": 2,
+      "circulaire_csn": 20,
+      "fil_info": 153
+    },
+    "multi_domain_count": 68
+  }
+}

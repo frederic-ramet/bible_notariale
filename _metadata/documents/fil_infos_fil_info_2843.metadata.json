@@ -13,7 +13,7 @@
     "statut": "en_vigueur"
   },
   "classification": {
-    "type_document": "fil_info",
+    "type_document": "Actualités",
     "label": "Fil-Info",
     "domaines_juridiques": [
       "actualité juridique",
@@ -26,10 +26,16 @@
     ],
     "annee_reference": 2025,
     "categorie_dossier": "fil-infos",
-    "categories_metier": [
+    "sources_document": "fil_info",
+    "domaines_metier": [
       "RH"
     ],
-    "categorie_metier_principale": "RH"
+    "domaine_metier_principal": "RH",
+    "thematiques": [
+      "circulaire",
+      "cybersécurité",
+      "rémunération"
+    ]
   },
   "reference": {
     "type": "fil_info",

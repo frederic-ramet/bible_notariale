@@ -13,7 +13,7 @@
     "statut": "en_vigueur"
   },
   "classification": {
-    "type_document": "guide_pratique",
+    "type_document": "Directives CSN",
     "label": "Guide pratique",
     "domaines_juridiques": [
       "acte électronique",
@@ -26,11 +26,14 @@
     ],
     "annee_reference": 2019,
     "categorie_dossier": "CSN2019",
-    "categories_metier": [
-      "PROCEDURE",
+    "sources_document": "guide_pratique",
+    "domaines_metier": [
       "RH"
     ],
-    "categorie_metier_principale": "RH"
+    "domaine_metier_principal": "RH",
+    "thematiques": [
+      "acte authentique"
+    ]
   },
   "reference": null,
   "vocabulaire_specifique": [

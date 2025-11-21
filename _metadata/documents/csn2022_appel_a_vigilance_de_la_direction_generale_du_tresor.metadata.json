@@ -13,7 +13,7 @@
     "statut": "en_vigueur"
   },
   "classification": {
-    "type_document": "conformite",
+    "type_document": "Directives CSN",
     "label": "Conformité",
     "domaines_juridiques": [
       "conformité",
@@ -26,10 +26,15 @@
     ],
     "annee_reference": 2022,
     "categorie_dossier": "CSN2022",
-    "categories_metier": [
+    "sources_document": "conformite",
+    "domaines_metier": [
       "DEONTOLOGIE"
     ],
-    "categorie_metier_principale": "DEONTOLOGIE"
+    "domaine_metier_principal": "DEONTOLOGIE",
+    "thematiques": [
+      "lcb-ft",
+      "rémunération"
+    ]
   },
   "reference": null,
   "vocabulaire_specifique": [

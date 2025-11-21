@@ -13,7 +13,7 @@
     "statut": "en_vigueur"
   },
   "classification": {
-    "type_document": "guide_pratique",
+    "type_document": "Directives CSN",
     "label": "Guide pratique",
     "domaines_juridiques": [
       "œuvres sociales",
@@ -26,10 +26,15 @@
     ],
     "annee_reference": 2025,
     "categorie_dossier": "CSN2025",
-    "categories_metier": [
+    "sources_document": "guide_pratique",
+    "domaines_metier": [
       "RH"
     ],
-    "categorie_metier_principale": "RH"
+    "domaine_metier_principal": "RH",
+    "thematiques": [
+      "conseil supérieur du notariat",
+      "rémunération"
+    ]
   },
   "reference": null,
   "vocabulaire_specifique": [

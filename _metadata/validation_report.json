@@ -1,65 +1,390 @@
 {
-  "total": 245,
+  "total": 242,
   "with_issues": 0,
-  "with_warnings": 1,
+  "with_warnings": 242,
   "issues": {},
   "warnings": {
+    "Peu de questions (0)": 242,
     "Année de référence suspecte: 2018": 1
   },
   "type_stats": {
-    "guide_pratique": {
-      "count": 28,
-      "issues": 0,
-      "warnings": 0
-    },
-    "fil_info": {
-      "count": 153,
-      "issues": 0,
-      "warnings": 0
-    },
-    "avenant_ccn": {
-      "count": 22,
-      "issues": 0,
-      "warnings": 1
-    },
-    "circulaire_csn": {
-      "count": 20,
-      "issues": 0,
-      "warnings": 0
-    },
-    "immobilier": {
-      "count": 3,
-      "issues": 0,
-      "warnings": 0
-    },
-    "accord_branche": {
-      "count": 9,
-      "issues": 0,
-      "warnings": 0
-    },
-    "decret_ordonnance": {
+    "Lois et règlements": {
       "count": 6,
       "issues": 0,
-      "warnings": 0
+      "warnings": 6
     },
-    "assurance": {
+    "Directives CSN": {
+      "count": 50,
+      "issues": 0,
+      "warnings": 50
+    },
+    "Assurances": {
       "count": 2,
       "issues": 0,
-      "warnings": 0
+      "warnings": 2
     },
-    "conformite": {
-      "count": 2,
+    "Convention collectives Notariat": {
+      "count": 31,
       "issues": 0,
-      "warnings": 0
+      "warnings": 31
+    },
+    "Actualités": {
+      "count": 153,
+      "issues": 0,
+      "warnings": 153
     }
   },
   "documents_with_issues": [],
   "documents_with_warnings": [
     {
+      "file": "20250115_note_decret_2024_906_relatif_aux_inspections_des_officiers_publics_et_ministeriels_et_arret.metadata.json",
+      "title": "Note Décret 2024 906 relatif aux inspections des o",
+      "warnings": [
+        "Peu de questions (0)"
+      ]
+    },
+    {
+      "file": "20250709_ext_adsn_vade_mecum_signacte_1.metadata.json",
+      "title": "ext adsn vade mecum signacte 1",
+      "warnings": [
+        "Peu de questions (0)"
+      ]
+    },
+    {
+      "file": "assurances_contrat_cyber_renouvellement_au_01_07_2025.metadata.json",
+      "title": "CONTRAT CYBER RENOUVELLEMENT AU 01.07.2025",
+      "warnings": [
+        "Peu de questions (0)"
+      ]
+    },
+    {
+      "file": "assurances_flipbook_contrats_de_la_profession.metadata.json",
+      "title": "FLIPBOOK Contrats de la Profession",
+      "warnings": [
+        "Peu de questions (0)"
+      ]
+    },
+    {
+      "file": "carrieres_des_notaires_et_modalites_declaratives.metadata.json",
+      "title": "Carrières des notaires et modalités déclaratives",
+      "warnings": [
+        "Peu de questions (0)"
+      ]
+    },
+    {
+      "file": "consultation_cridon.metadata.json",
+      "title": "CONSULTATION CRIDON",
+      "warnings": [
+        "Peu de questions (0)"
+      ]
+    },
+    {
+      "file": "convention_collective_20221215_avenant_n48_du_15_decembre_2022.metadata.json",
+      "title": "avenant n48 du 15 decembre 2022",
+      "warnings": [
+        "Peu de questions (0)"
+      ]
+    },
+    {
+      "file": "convention_collective_20230525_avenant_n50_a_la_ccn_periode_dessai_1.metadata.json",
+      "title": "avenant n50 a la ccn periode dessai 1",
+      "warnings": [
+        "Peu de questions (0)"
+      ]
+    },
+    {
+      "file": "convention_collective_20231214_avenant_n54_a_la_ccn_modification_de_larticle_15_categorie_employes.metadata.json",
+      "title": "avenant n54 a la ccn modification de larticle 15 c",
+      "warnings": [
+        "Peu de questions (0)"
+      ]
+    },
+    {
+      "file": "convention_collective_20240321_avenant_n56_ccn_modification_art_12_2_procedure_licenciement_mis_en_f.metadata.json",
+      "title": "avenant n56 ccn modification art 12.2 procedure li",
+      "warnings": [
+        "Peu de questions (0)"
+      ]
+    },
+    {
+      "file": "convention_collective_20241114_avenant_58_modif_art_15_6_et_29_3_3_mis_en_forme.metadata.json",
+      "title": "avenant 58 modif art 15.6 et 29.3.3 mis en forme",
+      "warnings": [
+        "Peu de questions (0)"
+      ]
+    },
+    {
+      "file": "convention_collective_20241212_avenant_59_modif_art_29_5_participation_financiere_formation_pro_mis_.metadata.json",
+      "title": "avenant 59 modif art 29.5 participation financiere",
+      "warnings": [
+        "Peu de questions (0)"
+      ]
+    },
+    {
+      "file": "convention_collective_20250624_pdt_csn_msg_acquisition_conges_payes_arret_maladie_pj.metadata.json",
+      "title": "pdt csn msg acquisition conges payes arret maladie",
+      "warnings": [
+        "Peu de questions (0)"
+      ]
+    },
+    {
+      "file": "convention_collective_avenant_n51.metadata.json",
+      "title": "avenant n51",
+      "warnings": [
+        "Peu de questions (0)"
+      ]
+    },
+    {
+      "file": "convention_collective_avenant_n52.metadata.json",
+      "title": "avenant n52",
+      "warnings": [
+        "Peu de questions (0)"
+      ]
+    },
+    {
+      "file": "convention_collective_avenant_n53.metadata.json",
+      "title": "avenant n53",
+      "warnings": [
+        "Peu de questions (0)"
+      ]
+    },
+    {
       "file": "convention_collective_avenant_n_47_modification_de_l_article_29_1_2_sur_la_formation.metadata.json",
       "title": "Avenant n°47 Modification de l’article 29.1.2 sur ",
       "warnings": [
+        "Peu de questions (0)",
         "Année de référence suspecte: 2018"
+      ]
+    },
+    {
+      "file": "convention_collective_convention_collective_nationale_du_notariat_idcc_2205_actualisee_et_consolidee.metadata.json",
+      "title": "Convention collective nationale du notariat (IDCC ",
+      "warnings": [
+        "Peu de questions (0)"
+      ]
+    },
+    {
+      "file": "cp_guide_spe_v_def_2020_07_08.metadata.json",
+      "title": "cp guide spe v def 2020 07 08",
+      "warnings": [
+        "Peu de questions (0)"
+      ]
+    },
+    {
+      "file": "csn2019_20181220_avenant_n_36_opco.metadata.json",
+      "title": "Avenant n°36 OPCO",
+      "warnings": [
+        "Peu de questions (0)"
+      ]
+    },
+    {
+      "file": "csn2019_accord_egalite_professionnelle_entre_les_femmes_et_les_hommes_20190418.metadata.json",
+      "title": "Accord égalité professionnelle entre les femmes et",
+      "warnings": [
+        "Peu de questions (0)"
+      ]
+    },
+    {
+      "file": "csn2019_accord_f_h.metadata.json",
+      "title": "Accord F H",
+      "warnings": [
+        "Peu de questions (0)"
+      ]
+    },
+    {
+      "file": "csn2019_accord_formation_et_reconversion_ou_promotion_par_l_alternance_20190711.metadata.json",
+      "title": "Accord formation et reconversion ou promotion par ",
+      "warnings": [
+        "Peu de questions (0)"
+      ]
+    },
+    {
+      "file": "csn2019_acte_electro_ssp.metadata.json",
+      "title": "ACTE ELECTRO SSP",
+      "warnings": [
+        "Peu de questions (0)"
+      ]
+    },
+    {
+      "file": "csn2019_analyse_nationale_des_risques_lcb_ft_en_france_septembre_2019.metadata.json",
+      "title": "Analyse nationale des risques LCB FT en France sep",
+      "warnings": [
+        "Peu de questions (0)"
+      ]
+    },
+    {
+      "file": "csn2019_avenant_n_38_opco.metadata.json",
+      "title": "Avenant n°38 OPCO",
+      "warnings": [
+        "Peu de questions (0)"
+      ]
+    },
+    {
+      "file": "csn2020_accord_interessement_11072019.metadata.json",
+      "title": "Accord intéressement 11072019",
+      "warnings": [
+        "Peu de questions (0)"
+      ]
+    },
+    {
+      "file": "csn2020_avenant_40_accord_de_salaires_20200917.metadata.json",
+      "title": "Avenant 40 accord de salaires 20200917",
+      "warnings": [
+        "Peu de questions (0)"
+      ]
+    },
+    {
+      "file": "csn2020_circulaire_05_20_tm.metadata.json",
+      "title": "CIRCULAIRE 05 20 (TM)",
+      "warnings": [
+        "Peu de questions (0)"
+      ]
+    },
+    {
+      "file": "csn2020_circulaire_n_2020_1_du_15_avril_2020.metadata.json",
+      "title": "Circulaire N 2020 1 du 15 avril 2020",
+      "warnings": [
+        "Peu de questions (0)"
+      ]
+    },
+    {
+      "file": "csn2020_circulaire_n_2020_2_du_7_mai_2020.metadata.json",
+      "title": "Circulaire N° 2020 2 du 7 mai 2020",
+      "warnings": [
+        "Peu de questions (0)"
+      ]
+    },
+    {
+      "file": "csn2020_circulaire_n_2020_3_du_22_septembre_2020.metadata.json",
+      "title": "Circulaire N° 2020 3 du 22 septembre 2020",
+      "warnings": [
+        "Peu de questions (0)"
+      ]
+    },
+    {
+      "file": "csn2021_202106_avenant_42_notaire_salarie.metadata.json",
+      "title": "202106 Avenant 42 Notaire salarie",
+      "warnings": [
+        "Peu de questions (0)"
+      ]
+    },
+    {
+      "file": "csn2021_accord_de_branche_du_15_mai_2020_relatif_au_delai_de_carrence_entre_deux_contrats_a_duree_de.metadata.json",
+      "title": "Accord de branche du 15 mai 2020 Relatif au délai ",
+      "warnings": [
+        "Peu de questions (0)"
+      ]
+    },
+    {
+      "file": "csn2021_avenant_accord_de_salaires_20210218.metadata.json",
+      "title": "Avenant accord de salaires 20210218",
+      "warnings": [
+        "Peu de questions (0)"
+      ]
+    },
+    {
+      "file": "csn2021_circulaire_02_21_av_be.metadata.json",
+      "title": "CIRCULAIRE 02 21 (AV BE)",
+      "warnings": [
+        "Peu de questions (0)"
+      ]
+    },
+    {
+      "file": "csn2021_circulaire_2021_1_du_19_fevrier_2021.metadata.json",
+      "title": "Circulaire 2021 1 du 19 février 2021",
+      "warnings": [
+        "Peu de questions (0)"
+      ]
+    },
+    {
+      "file": "csn2021_processus_ciclade_septembre_2021.metadata.json",
+      "title": "Processus CICLADE Septembre 2021",
+      "warnings": [
+        "Peu de questions (0)"
+      ]
+    },
+    {
+      "file": "csn2022_2022_01_circulaire_csn_les_annexes_des_actes_notaries_au_regard_des_contraintes_rgpd_et_cnil.metadata.json",
+      "title": "2022 01 Circulaire CSN les annexes des actes notar",
+      "warnings": [
+        "Peu de questions (0)"
+      ]
+    },
+    {
+      "file": "csn2022_2022_02_circulaire_csn_les_frais_de_recherche_et_de_copie_d_acte_et_de_leurs_annexes.metadata.json",
+      "title": "2022 02 Circulaire CSN les frais de recherche et d",
+      "warnings": [
+        "Peu de questions (0)"
+      ]
+    },
+    {
+      "file": "csn2022_appel_a_vigilance_de_la_direction_generale_du_tresor.metadata.json",
+      "title": "Appel à vigilance de la Direction générale du Trés",
+      "warnings": [
+        "Peu de questions (0)"
+      ]
+    },
+    {
+      "file": "csn2022_calculs_financiers_brochure_explicative_de_l_outil.metadata.json",
+      "title": "Calculs financiers brochure explicative de l outil",
+      "warnings": [
+        "Peu de questions (0)"
+      ]
+    },
+    {
+      "file": "csn2022_circulaire_02_22_av_be.metadata.json",
+      "title": "CIRCULAIRE 02 22 (AV BE)",
+      "warnings": [
+        "Peu de questions (0)"
+      ]
+    },
+    {
+      "file": "csn2022_circulaire_05_22_tm.metadata.json",
+      "title": "CIRCULAIRE 05 22 (TM)",
+      "warnings": [
+        "Peu de questions (0)"
+      ]
+    },
+    {
+      "file": "csn2023_20221215_accord_de_branche_harcelement_au_travail.metadata.json",
+      "title": "Accord de branche Harcèlement au travail",
+      "warnings": [
+        "Peu de questions (0)"
+      ]
+    },
+    {
+      "file": "csn2023_20221215_avenant_n_48_du_15_decembre_2022.metadata.json",
+      "title": "Avenant n°48 du 15 décembre 2022",
+      "warnings": [
+        "Peu de questions (0)"
+      ]
+    },
+    {
+      "file": "csn2023_avenant_n_49_du_16_fevrier_2023.metadata.json",
+      "title": "Avenant n° 49 du 16 février 2023",
+      "warnings": [
+        "Peu de questions (0)"
+      ]
+    },
+    {
+      "file": "csn2023_avenant_n_6_complementaire_frais_de_sante_du_16_fevrier_2023.metadata.json",
+      "title": "Avenant n°6 complémentaire frais de santé du 16 fé",
+      "warnings": [
+        "Peu de questions (0)"
+      ]
+    },
+    {
+      "file": "csn2023_circulaire_n_2020_3_du_22_septembre_2020.metadata.json",
+      "title": "Circulaire N° 2020 3 du 22 septembre 2020",
+      "warnings": [
+        "Peu de questions (0)"
+      ]
+    },
+    {
+      "file": "csn2023_cyber_attaque_fiche_reflexes_csn_03_02_2023.metadata.json",
+      "title": "Cyber attaque Fiche réflexes CSN 03 02 2023",
+      "warnings": [
+        "Peu de questions (0)"
       ]
     }
   ]

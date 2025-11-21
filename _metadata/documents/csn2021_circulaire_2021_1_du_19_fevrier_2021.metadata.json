@@ -13,7 +13,7 @@
     "statut": "en_vigueur"
   },
   "classification": {
-    "type_document": "circulaire_csn",
+    "type_document": "Directives CSN",
     "label": "Circulaire CSN",
     "domaines_juridiques": [
       "réglementation notariale",
@@ -26,11 +26,18 @@
     ],
     "annee_reference": 2021,
     "categorie_dossier": "CSN2021",
-    "categories_metier": [
-      "DEONTOLOGIE",
-      "PROCEDURE"
+    "sources_document": "circulaire_csn",
+    "domaines_metier": [
+      "DEONTOLOGIE"
     ],
-    "categorie_metier_principale": "DEONTOLOGIE"
+    "domaine_metier_principal": "DEONTOLOGIE",
+    "thematiques": [
+      "avenant",
+      "rémunération",
+      "convention collective",
+      "conseil supérieur du notariat",
+      "circulaire"
+    ]
   },
   "reference": {
     "type": "circulaire",
