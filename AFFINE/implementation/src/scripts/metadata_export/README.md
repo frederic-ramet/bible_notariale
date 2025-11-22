@@ -22,7 +22,7 @@ Permettre aux **experts métier** de :
 **Utilisation** :
 ```bash
 python3 export_to_neo4j.py \
-  --source ../../../../_metadata/index_complet.json \
+  --source ../../builds/index_complet.json \
   --neo4j-uri bolt://localhost:7687 \
   --neo4j-password your_password
 ```
@@ -50,7 +50,7 @@ python3 export_to_neo4j.py \
 **Utilisation** :
 ```bash
 python3 export_ontology.py \
-  --source ../../../../_metadata/ontology.json \
+  --source ../../builds/ontology.json \
   --neo4j-uri bolt://localhost:7687 \
   --neo4j-password your_password
 ```
@@ -72,7 +72,7 @@ python3 export_ontology.py \
 **Utilisation** :
 ```bash
 python3 export_vocabulary.py \
-  --source ../../../../_metadata/index_complet.json \
+  --source ../../builds/index_complet.json \
   --neo4j-uri bolt://localhost:7687 \
   --neo4j-password your_password
 ```
@@ -95,7 +95,7 @@ python3 export_vocabulary.py \
 ```bash
 python3 update_from_experts.py \
   --csv vocabulaire_experts.csv \
-  --index ../../../../_metadata/index_complet.json
+  --index ../../builds/index_complet.json
 ```
 
 **Effet** : Met à jour `index_complet.json` avec les enrichissements experts
@@ -109,12 +109,12 @@ python3 update_from_experts.py \
 ```bash
 # 1. Valider les métadonnées (voir ../validation/)
 cd ../validation
-python3 validate_metadata.py --source ../../../../_metadata/index_complet.json
+python3 validate_metadata.py --source ../../builds/index_complet.json
 
 # 2. Si validation OK, exporter vers Neo4j
 cd ../metadata_export
 python3 export_to_neo4j.py \
-  --source ../../../../_metadata/index_complet.json \
+  --source ../../builds/index_complet.json \
   --neo4j-password your_password
 ```
 
@@ -125,7 +125,7 @@ python3 export_to_neo4j.py \
 ```bash
 # 1. Exporter vocabulaire actuel en CSV
 python3 export_vocabulary.py \
-  --source ../../../../_metadata/index_complet.json \
+  --source ../../builds/index_complet.json \
   --output vocabulaire_export.csv
 
 # 2. Envoyer vocabulaire_export.csv aux experts métier
@@ -136,16 +136,16 @@ python3 export_vocabulary.py \
 # 4. Mettre à jour index_complet.json
 python3 update_from_experts.py \
   --csv vocabulaire_experts.csv \
-  --index ../../../../_metadata/index_complet.json
+  --index ../../builds/index_complet.json
 
 # 5. Valider
 cd ../validation
-python3 validate_metadata.py --source ../../../../_metadata/index_complet.json
+python3 validate_metadata.py --source ../../builds/index_complet.json
 
 # 6. Exporter vers Neo4j
 cd ../metadata_export
 python3 export_to_neo4j.py \
-  --source ../../../../_metadata/index_complet.json \
+  --source ../../builds/index_complet.json \
   --neo4j-password your_password
 ```
 
@@ -161,14 +161,17 @@ python3 enrich_categories_metier.py
 # 2. Régénérer l'index
 python3 index_bible_notariale.py
 
-# 3. Valider
-cd AFFINE/implementation/src/validation
-python3 validate_metadata.py --source ../../../../_metadata/index_complet.json
+# 3. Copier le nouveau build
+cp ../_metadata/index_complet.json ../AFFINE/implementation/src/builds/
 
-# 4. Exporter vers Neo4j
+# 4. Valider
+cd ../AFFINE/implementation/src/scripts/validation
+python3 validate_metadata.py --source ../../builds/index_complet.json
+
+# 5. Exporter vers Neo4j
 cd ../metadata_export
 python3 export_to_neo4j.py \
-  --source ../../../../_metadata/index_complet.json \
+  --source ../../builds/index_complet.json \
   --neo4j-password your_password
 ```
 
@@ -201,7 +204,7 @@ python3 export_to_neo4j.py \
 
 **Solution** : Vérifier le chemin relatif depuis le dossier courant
 ```bash
-ls ../../../../_metadata/index_complet.json
+ls ../../builds/index_complet.json
 ```
 
 ---
@@ -232,6 +235,6 @@ neo4j-admin set-initial-password new_password
 ## 📞 Support
 
 Pour toute question :
-1. Consulter la documentation des améliorations : `../FEATURES_A_IMPLEMENTER/`
+1. Consulter la documentation des améliorations : `../../FEATURES_A_IMPLEMENTER/`
 2. Vérifier les logs d'export
 3. Contacter l'équipe dev

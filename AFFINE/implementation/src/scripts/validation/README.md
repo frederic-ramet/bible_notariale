@@ -22,7 +22,7 @@ Ce dossier contient les scripts pour **valider la qualité** des métadonnées a
 
 **Utilisation** :
 ```bash
-python3 validate_metadata.py --source ../../../../_metadata/index_complet.json
+python3 validate_metadata.py --source ../../builds/index_complet.json
 ```
 
 **Options** :
@@ -71,14 +71,14 @@ python3 validate_metadata.py --source ../../../../_metadata/index_complet.json
 
 ```bash
 # 1. TOUJOURS valider avant export
-cd AFFINE/implementation/src/validation
-python3 validate_metadata.py --source ../../../../_metadata/index_complet.json
+cd AFFINE/implementation/src/scripts/validation
+python3 validate_metadata.py --source ../../builds/index_complet.json
 
 # 2. Si validation OK (code retour 0), procéder à l'export
 if [ $? -eq 0 ]; then
   cd ../metadata_export
   python3 export_to_neo4j.py \
-    --source ../../../../_metadata/index_complet.json \
+    --source ../../builds/index_complet.json \
     --neo4j-password your_password
 fi
 ```
@@ -95,14 +95,17 @@ python3 enrich_categories_metier.py
 # 2. Régénérer l'index
 python3 index_bible_notariale.py
 
-# 3. VALIDER IMMÉDIATEMENT
-cd ../AFFINE/implementation/src/validation
-python3 validate_metadata.py --source ../../../../_metadata/index_complet.json
+# 3. Copier le nouveau build
+cp ../_metadata/index_complet.json ../AFFINE/implementation/src/builds/
 
-# 4. Corriger les erreurs si nécessaire
+# 4. VALIDER IMMÉDIATEMENT
+cd ../AFFINE/implementation/src/scripts/validation
+python3 validate_metadata.py --source ../../builds/index_complet.json
+
+# 5. Corriger les erreurs si nécessaire
 # (Relire le rapport, modifier les métadonnées, régénérer l'index, revalider)
 
-# 5. Export seulement si validation OK
+# 6. Export seulement si validation OK
 ```
 
 ---
@@ -188,7 +191,7 @@ En mode strict : Erreur (validation échoue)
 
 **Solution** : Vérifier le chemin relatif
 ```bash
-ls ../../../../_metadata/index_complet.json
+ls ../../builds/index_complet.json
 ```
 
 ---
@@ -210,5 +213,5 @@ python3 index_bible_notariale.py
 
 Pour toute question sur la validation :
 1. Consulter le rapport d'erreurs généré
-2. Vérifier la structure attendue dans `../FEATURES_A_IMPLEMENTER/05_enrichissement_metadata.md`
+2. Vérifier la structure attendue dans `../../FEATURES_A_IMPLEMENTER/05_enrichissement_metadata.md`
 3. Contacter l'équipe dev
