@@ -1,6 +1,16 @@
-# 🔬 Amélioration #12 : DENSIFYER
+# 🔬 Query Densifyer (Densification des questions)
 
-[← Retour à l'index](./00_INDEX.md)
+[← Retour à l'index](../00_INDEX.md)
+
+---
+
+## ⚠️ STATUT : À REVOIR
+
+**Cette feature nécessite une validation avant implémentation.**
+
+**Raison** : Cette approche densifie les QUESTIONS utilisateur, alors que la proposition de Julien (expert Graph RAG) densifie le GRAPHE de connaissances. Les deux approches sont complémentaires mais différentes.
+
+**Recommandation** : Implémenter d'abord le Graph Densifyer de Julien (voir `FEATURES_A_IMPLEMENTER/12_densifyer_graph.md`), puis réévaluer si ce Query Densifyer apporte une valeur ajoutée significative.
 
 ---
 
@@ -8,12 +18,13 @@
 
 | Attribut | Valeur |
 |----------|--------|
-| **Priorité** | 🟡 LONG TERME |
-| **Impact** | ⭐⭐⭐⭐ (Densité sémantique) |
+| **Priorité** | ⚠️ À REVOIR |
+| **Impact** | ⭐⭐⭐ (Densité sémantique questions) |
 | **Effort** | 2 jours |
-| **Statut** | 📋 À faire |
+| **Statut** | ⚠️ À VALIDER AVANT IMPLÉMENTATION |
 | **Dépendances** | #5 - Enrichissement métadonnées (vocabulaire) |
 | **Repo** | `application` |
+| **Note** | Version alternative à la proposition de Julien |
 
 ---
 
