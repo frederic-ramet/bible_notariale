@@ -126,15 +126,19 @@ def add_columns_with_dropdowns(wb, ref_data):
     # Position d'insertion : après la colonne "Categorie" (col 3)
     insert_after_col = 3
 
-    # Insérer 5 nouvelles colonnes
-    ws.insert_cols(insert_after_col + 1, 5)
+    # Insérer 9 nouvelles colonnes (3 pour thématiques, 3 pour mots-clés, 3 pour le reste)
+    ws.insert_cols(insert_after_col + 1, 9)
 
     # Ajouter les en-têtes
     ws.cell(1, insert_after_col + 1).value = 'Type_Document'
     ws.cell(1, insert_after_col + 2).value = 'Domaine_Metier'
     ws.cell(1, insert_after_col + 3).value = 'Source_Document'
-    ws.cell(1, insert_after_col + 4).value = 'Thematiques'
-    ws.cell(1, insert_after_col + 5).value = 'Mots_Cles'
+    ws.cell(1, insert_after_col + 4).value = 'Thematique_1'
+    ws.cell(1, insert_after_col + 5).value = 'Thematique_2'
+    ws.cell(1, insert_after_col + 6).value = 'Thematique_3'
+    ws.cell(1, insert_after_col + 7).value = 'Mot_Cle_1'
+    ws.cell(1, insert_after_col + 8).value = 'Mot_Cle_2'
+    ws.cell(1, insert_after_col + 9).value = 'Mot_Cle_3'
 
     # Nombre de lignes de données (exclure l'en-tête)
     max_row = ws.max_row
@@ -176,29 +180,31 @@ def add_columns_with_dropdowns(wb, ref_data):
     for row in range(2, max_row + 1):
         dv_source.add(ws.cell(row, insert_after_col + 3))
 
-    # 4. Thématiques (liste longue, permet saisie personnalisée)
+    # 4. Thématiques (3 colonnes pour sélections multiples)
     dv_theme = DataValidation(
         type="list",
         formula1=f"=Ref_Thematiques!$A$2:$A${len(ref_data['thematiques']) + 1}",
         allow_blank=True
     )
-    dv_theme.prompt = "Choisissez une ou plusieurs thématiques (séparées par des virgules)"
-    dv_theme.promptTitle = "Thématiques"
+    dv_theme.prompt = "Choisissez une thématique"
+    dv_theme.promptTitle = "Thématique"
     ws.add_data_validation(dv_theme)
     for row in range(2, max_row + 1):
-        dv_theme.add(ws.cell(row, insert_after_col + 4))
+        for col_offset in range(4, 7):  # Colonnes 4, 5, 6
+            dv_theme.add(ws.cell(row, insert_after_col + col_offset))
 
-    # 5. Mots-clés (liste longue, permet saisie personnalisée)
+    # 5. Mots-clés (3 colonnes pour sélections multiples)
     dv_mots = DataValidation(
         type="list",
         formula1=f"=Ref_MotsCles!$A$2:$A${len(ref_data['mots_cles']) + 1}",
         allow_blank=True
     )
-    dv_mots.prompt = "Choisissez un ou plusieurs mots-clés (séparés par des virgules)"
-    dv_mots.promptTitle = "Mots-clés"
+    dv_mots.prompt = "Choisissez un mot-clé"
+    dv_mots.promptTitle = "Mot-clé"
     ws.add_data_validation(dv_mots)
     for row in range(2, max_row + 1):
-        dv_mots.add(ws.cell(row, insert_after_col + 5))
+        for col_offset in range(7, 10):  # Colonnes 7, 8, 9
+            dv_mots.add(ws.cell(row, insert_after_col + col_offset))
 
     print("✅ Colonnes et listes déroulantes ajoutées")
 
@@ -244,8 +250,8 @@ def main():
     print("  1. Type_Document (liste déroulante)")
     print("  2. Domaine_Metier (liste déroulante)")
     print("  3. Source_Document (liste déroulante)")
-    print("  4. Thematiques (liste déroulante)")
-    print("  5. Mots_Cles (liste déroulante)")
+    print("  4-6. Thematique_1, Thematique_2, Thematique_3 (listes déroulantes)")
+    print("  7-9. Mot_Cle_1, Mot_Cle_2, Mot_Cle_3 (listes déroulantes)")
     print("\n📚 Onglets de référence créés :")
     print("  - Ref_TypesDocument")
     print("  - Ref_DomainesMetier")
